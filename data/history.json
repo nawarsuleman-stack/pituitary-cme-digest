@@ -1,8 +1,11 @@
 {
   "used_pmids": [
+    "41730814",
+    "41852294",
+    "42088331",
     "42258068",
     "42533758",
-    "41852294"
+    "42640040"
   ],
   "sessions": [
     {
@@ -43,6 +46,49 @@
           "quiz_answer": "Pre-eclampsia, refractory hypertension, and hypertension in young patients.",
           "journal": "",
           "year": ""
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-08-05",
+      "items": [
+        {
+          "pmid": "41730814",
+          "doi": "10.1016/S2213-8587(25)00362-6",
+          "title": "Efficacy and safety of relacorilant for the treatment of patients with Cushing's syndrome (GRACE): a multicentre, phase 3, double-blind, placebo-controlled, randomised-withdrawal study.",
+          "category": "practice-changing",
+          "summary": "The GRACE trial randomized adults with endogenous hypercortisolism (Cushing's syndrome with hypertension and/or hyperglycemia) who had responded to open-label relacorilant to continue the drug or switch to placebo for 12 weeks. Significantly more placebo-assigned patients lost hypertension control compared to those maintained on relacorilant (proportion difference 34%; OR 0.17, p=0.022). Notably, no cases of adrenal insufficiency, endometrial hypertrophy-associated vaginal bleeding, hypokalemia, or QT prolongation were observed, distinguishing relacorilant's safety profile from mifepristone.",
+          "caveat": "Small randomized-withdrawal cohort (n=62 randomized); the open-label phase excluded non-responders, enriching for drug-sensitive patients and potentially overstating real-world efficacy. Study was industry-funded by Corcept Therapeutics, and primary endpoint was limited to hypertension response rather than broader remission criteria.",
+          "quiz_question": "A 38-year-old woman with Cushing's syndrome (ectopic ACTH excluded, not a surgical candidate) achieves good blood pressure control on relacorilant during an open-label phase. Based on the GRACE trial, what is the most likely consequence of switching her to placebo at that point, and what safety concern does NOT appear to be associated with relacorilant compared to mifepristone?",
+          "quiz_answer": "Per GRACE, she has a significantly higher risk of losing hypertension control on placebo (proportion difference 34%, p=0.022). Unlike mifepristone, relacorilant was not associated with adrenal insufficiency, endometrial hypertrophy-related vaginal bleeding, hypokalemia, or QT prolongation in this trial.",
+          "journal": "The lancet. Diabetes & endocrinology",
+          "year": "2026"
+        },
+        {
+          "pmid": "42088331",
+          "doi": "10.1161/SVIN.125.002309",
+          "title": "Consensus Guidelines on Inferior Petrosal Sinus Sampling: A Guideline From the Society of Vascular and Interventional Neurology Guidelines and Practice Standards Committee.",
+          "category": "practice-changing",
+          "summary": "This multidisciplinary consensus guideline standardizes the full BIPSS workflow for distinguishing Cushing's disease from ectopic ACTH secretion when biochemistry confirms ACTH-dependence but MRI is equivocal or shows a lesion under 6 mm. Key specifications include bilateral IPS catheterization with heparinization, CRH or desmopressin stimulation, a defined sampling protocol (2 pre-stimulation draws plus collections at 3, 5, 10, and 15 minutes post-stimulation), prechilled EDTA tubes with rapid ACTH processing, and prolactin measurement as an internal control. Interpretation cutoffs are IPS:peripheral ACTH ratio \u22652 pre-stimulation and \u22653 post-stimulation, with explicit guidance on recognizing false negatives.",
+          "caveat": "Recommendations are graded by evidence level using a modified Delphi process; for many technical specifics the underlying RCT evidence is limited or absent, and much guidance is expert consensus. Institutional volume thresholds for competency are proposed but not yet validated against outcomes data.",
+          "quiz_question": "You are evaluating a patient with biochemically confirmed ACTH-dependent Cushing's syndrome whose pituitary MRI shows a 4 mm equivocal lesion. You proceed to BIPSS. What stimulation agent is acceptable per the new SVIN guideline, what is the post-stimulation IPS:peripheral ACTH ratio cutoff for confirming pituitary origin, and why should prolactin be measured simultaneously?",
+          "quiz_answer": "Either CRH or desmopressin is acceptable for stimulation. A post-stimulation IPS:peripheral ACTH ratio \u22653 confirms pituitary origin. Simultaneous prolactin measurement serves as an internal control to confirm that the IPS catheter is actually sampling venous effluent from the pituitary (adequate venous drainage), helping to identify potential false negatives due to inadequate catheter positioning.",
+          "journal": "Stroke (Hoboken, N.J.)",
+          "year": "2026"
+        },
+        {
+          "pmid": "42640040",
+          "doi": "10.1210/clinem/dgag346",
+          "title": "Plasma ACTH Precursors measured by Pro-opiomelanocortin (POMC) ELISA as a Predictor of Silent Corticotroph Adenomas.",
+          "category": "notable",
+          "summary": "In a prospective observational cohort of 264 clinically non-functioning pituitary adenomas (CNFPAs), plasma POMC measured by a 2-site ELISA (detecting POMC and pro-ACTH but not mature ACTH) was markedly higher in silent corticotroph adenomas (SCAs) than in non-SCA tumors (median 73 vs. 14 fmol/mL, p<0.001). Elevated POMC (\u226539 fmol/mL) identified SCA with 85.7% sensitivity and 97.9% specificity among CNFPAs. All known SCAs with visible residual tumor had elevated POMC, suggesting potential utility for post-surgical monitoring.",
+          "caveat": "Surgically confirmed SCA subgroup was small (n=7 in the primary analysis), limiting the precision of sensitivity/specificity estimates. The POMC ELISA used is not commercially available in most centers. External validation in independent cohorts is required before clinical adoption.",
+          "quiz_question": "A 55-year-old man has a 2 cm clinically non-functioning pituitary adenoma. Preoperative plasma POMC level returns at 95 fmol/mL (normal <39 fmol/mL). Based on this study, what does this finding suggest about the likely tumor subtype, and what pathophysiological mechanism underlies the elevated POMC?",
+          "quiz_answer": "An elevated plasma POMC strongly suggests the tumor is a silent corticotroph adenoma (SCA). The underlying mechanism is defective post-translational processing of POMC \u2014 the tumor produces POMC and pro-ACTH but fails to cleave them into biologically active ACTH, explaining why these patients lack overt hypercortisolism despite harboring a corticotroph-lineage tumor.",
+          "journal": "The Journal of clinical endocrinology and metabolism",
+          "year": "2026"
         }
       ],
       "refresher_needed": false,
