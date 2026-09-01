@@ -59,8 +59,12 @@ body{
 .history-toggle:hover{color:var(--ink);}
 #historyPanel{display:none;}
 #historyPanel.shown{display:block;}
-.hist-item{font-family:'IBM Plex Sans', sans-serif;font-size:.82rem;color:var(--muted);padding:.55rem 0;border-bottom:1px solid var(--line);display:flex;justify-content:space-between;gap:1rem;}
+.hist-item{font-family:'IBM Plex Sans', sans-serif;font-size:.82rem;color:var(--muted);padding:.55rem 0;border-bottom:1px solid var(--line);display:flex;justify-content:space-between;gap:1rem;text-decoration:none;}
+.hist-item:hover{color:var(--ink);}
+.hist-item:hover .hist-title{text-decoration:underline;}
 .hist-item .hist-title{color:var(--ink);flex:1;}
+.back-link{font-family:'IBM Plex Sans', sans-serif;font-size:.8rem;color:var(--muted);text-decoration:none;display:inline-block;margin-bottom:1.2rem;}
+.back-link:hover{color:var(--ink);text-decoration:underline;}
 .hist-item .hist-date{font-family:'IBM Plex Mono', monospace;font-size:.72rem;flex-shrink:0;}
 .empty-hist{font-family:'IBM Plex Sans', sans-serif;font-size:.82rem;color:var(--muted);font-style:italic;}
 footer{font-family:'IBM Plex Sans', sans-serif;font-size:.72rem;color:var(--muted);margin-top:2.5rem;padding-top:1rem;border-top:1px solid var(--line);}
