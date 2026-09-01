@@ -54,6 +54,7 @@ body{
 .btn:hover{opacity:.88;}
 .reveal{margin-top:.9rem;padding:.9rem 1rem;background:var(--paper);border-radius:2px;font-size:.9rem;display:none;}
 .reveal.shown{display:block;}
+.disclaimer{font-family:'IBM Plex Sans', sans-serif;font-size:.72rem;color:var(--muted);font-style:italic;text-align:center;margin:1.8rem 0 0;padding-top:1rem;border-top:1px solid var(--line);}
 .history-toggle{font-family:'IBM Plex Sans', sans-serif;font-size:.82rem;color:var(--muted);background:none;border:none;border-bottom:1px solid var(--line);padding:0 0 .2rem 0;cursor:pointer;margin:2rem 0 1rem;display:block;}
 .history-toggle:hover{color:var(--ink);}
 #historyPanel{display:none;}
