@@ -125,10 +125,10 @@ def main():
     history["used_pmids"] = sorted(used_pmids)
     history.setdefault("sessions", []).append({
         "date": result["date"],
-        "items": [
-            {"pmid": i["pmid"], "title": i["title"], "category": i["category"]}
-            for i in verified_items
-        ],
+        # Store full item content (not just title/category) so any past
+        # day's full digest -- summary, caveat, quiz -- can be rebuilt and
+        # reviewed later, not just listed by title.
+        "items": verified_items,
         "refresher_needed": result.get("refresher_needed", False),
         "refresher_topic": result.get("refresher_topic", ""),
     })
