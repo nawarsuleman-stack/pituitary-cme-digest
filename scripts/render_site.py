@@ -1,7 +1,10 @@
 """
-Renders docs/index.html from data/latest_digest.json and data/history.json.
+Renders docs/index.html (today's digest) and docs/archive/<date>.html (one
+full page per past day) from data/latest_digest.json and data/history.json.
+
 This is a static rebuild -- all history lives in the committed JSON files,
-not in browser storage, so the page is correct for any visitor/device.
+not in browser storage, so it's correct for any visitor/device, and every
+past day's full write-up (not just a title) stays reviewable.
 """
 import html
 import json
@@ -9,17 +12,16 @@ import os
 
 HERE = os.path.dirname(__file__)
 
-
-def load(path):
-    with open(os.path.join(HERE, "..", "data", path)) as f:
-        return json.load(f)
-
-
 CATEGORY_LABEL = {
     "practice-changing": "Practice-changing",
     "notable": "Notable",
     "preliminary": "Preliminary",
 }
+
+
+def load(path):
+    with open(os.path.join(HERE, "..", "data", path)) as f:
+        return json.load(f)
 
 
 def render_item(item):
@@ -65,36 +67,61 @@ def render_refresher(topic):
         <span class="badge refresher">Spaced repetition</span>
       </div>
       <p>No new candidate this run cleared the practice-changing or notable
-      bar honestly, so today is a fundamentals refresher instead of
+      bar honestly, so this day was a fundamentals refresher instead of
       manufactured novelty.</p>
     </div>
     """
 
 
-def render_history_panel(sessions, current_date):
+def session_items_html(session):
+    if session.get("items"):
+        return "\n".join(render_item(i) for i in session["items"])
+    if session.get("refresher_needed"):
+        return render_refresher(session.get("refresher_topic", "core concept"))
+    return '<div class="empty-hist">Nothing recorded for this day.</div>'
+
+
+def render_history_panel(sessions, current_date, asset_prefix="archive/"):
     past = [s for s in reversed(sessions) if s["date"] != current_date]
     if not past:
         return '<div class="empty-hist">No past sessions yet.</div>'
     rows = []
     for s in past:
         if s.get("refresher_needed") and not s.get("items"):
-            rows.append(
-                f'<div class="hist-item"><span class="hist-title">Refresher: '
-                f'{html.escape(s.get("refresher_topic",""))}</span>'
-                f'<span class="hist-date">{html.escape(s["date"])}</span></div>'
-            )
-        for it in s.get("items", []):
-            rows.append(
-                f'<div class="hist-item"><span class="hist-title">{html.escape(it["title"])}</span>'
-                f'<span class="hist-date">{html.escape(s["date"])}</span></div>'
-            )
+            label = f'Refresher: {html.escape(s.get("refresher_topic",""))}'
+        else:
+            n = len(s.get("items", []))
+            label = f'{n} paper{"s" if n != 1 else ""} reviewed'
+        rows.append(
+            f'<a class="hist-item" href="{asset_prefix}{html.escape(s["date"])}.html">'
+            f'<span class="hist-title">{label}</span>'
+            f'<span class="hist-date">{html.escape(s["date"])}</span></a>'
+        )
     return "\n".join(rows)
+
+
+def build_page(date_label, items_html, session_count, total_papers, history_html,
+                css_href="assets/style.css", back_link=""):
+    return TEMPLATE.format(
+        date=html.escape(date_label),
+        session_count=session_count,
+        total_papers=total_papers,
+        items_html=items_html,
+        history_html=history_html,
+        css_href=css_href,
+        back_link=back_link,
+    )
 
 
 def main():
     digest = load("latest_digest.json")
     history = load("history.json")
 
+    sessions = history.get("sessions", [])
+    total_papers = len(history.get("used_pmids", []))
+    session_count = len(sessions)
+
+    # --- Today's page (docs/index.html) ---
     if digest.get("items"):
         items_html = "\n".join(render_item(i) for i in digest["items"])
     elif digest.get("refresher_needed"):
@@ -102,24 +129,44 @@ def main():
     else:
         items_html = '<div class="empty-hist">Nothing to show.</div>'
 
-    total_papers = len(history.get("used_pmids", []))
-    session_count = len(history.get("sessions", []))
-    history_html = render_history_panel(history.get("sessions", []), digest["date"])
+    history_html = render_history_panel(sessions, digest["date"], asset_prefix="archive/")
 
-    page = TEMPLATE.format(
-        date=html.escape(digest["date"]),
+    page = build_page(
+        date_label=digest["date"],
+        items_html=items_html,
         session_count=session_count,
         total_papers=total_papers,
-        items_html=items_html,
         history_html=history_html,
+        css_href="assets/style.css",
+        back_link="",
     )
 
     docs_dir = os.path.join(HERE, "..", "docs")
-    os.makedirs(docs_dir, exist_ok=True)
+    archive_dir = os.path.join(docs_dir, "archive")
+    os.makedirs(archive_dir, exist_ok=True)
+
     with open(os.path.join(docs_dir, "index.html"), "w") as f:
         f.write(page)
 
-    print("Rendered docs/index.html")
+    # --- One full archive page per past day, so history is actually reviewable ---
+    for s in sessions:
+        s_items_html = session_items_html(s)
+        # Archive pages link back to "today" and list all OTHER days in their
+        # own history panel too, so you can hop between any two days directly.
+        s_history_html = render_history_panel(sessions, s["date"], asset_prefix="")
+        archive_page = build_page(
+            date_label=s["date"],
+            items_html=s_items_html,
+            session_count=session_count,
+            total_papers=total_papers,
+            history_html=s_history_html,
+            css_href="../assets/style.css",
+            back_link='<a class="back-link" href="../index.html">&larr; Back to today</a>',
+        )
+        with open(os.path.join(archive_dir, f'{s["date"]}.html'), "w") as f:
+            f.write(archive_page)
+
+    print(f"Rendered docs/index.html and {len(sessions)} archive page(s).")
 
 
 TEMPLATE = """<!DOCTYPE html>
@@ -127,13 +174,14 @@ TEMPLATE = """<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Pituitary &amp; Adrenal CME</title>
+<title>Pituitary &amp; Adrenal CME &mdash; {date}</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;1,8..60,400&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="{css_href}">
 </head>
 <body>
 <div class="wrap">
+  {back_link}
   <div class="masthead">
     <div>
       <h1>Pituitary &amp; Adrenal CME</h1>
@@ -151,7 +199,7 @@ TEMPLATE = """<!DOCTYPE html>
   <div class="disclaimer">
     AI-curated from PubMed abstracts on an automated daily schedule; verify primary sources before altering practice.
   </div>
-  <button class="history-toggle" onclick="document.getElementById('historyPanel').classList.toggle('shown'); this.textContent = this.textContent.includes('View') ? 'Hide past sessions ↑' : 'View past sessions ↓';">View past sessions &darr;</button>
+  <button class="history-toggle" onclick="document.getElementById('historyPanel').classList.toggle('shown'); this.textContent = this.textContent.includes('View') ? 'Hide past sessions ↑' : 'View past sessions ↓';">View other sessions &darr;</button>
   <div id="historyPanel">
     {history_html}
   </div>
