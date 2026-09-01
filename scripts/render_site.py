@@ -148,6 +148,9 @@ TEMPLATE = """<!DOCTYPE html>
   <div id="digest">
     {items_html}
   </div>
+  <div class="disclaimer">
+    AI-curated from PubMed abstracts on an automated daily schedule; verify primary sources before altering practice.
+  </div>
   <button class="history-toggle" onclick="document.getElementById('historyPanel').classList.toggle('shown'); this.textContent = this.textContent.includes('View') ? 'Hide past sessions ↑' : 'View past sessions ↓';">View past sessions &darr;</button>
   <div id="historyPanel">
     {history_html}
