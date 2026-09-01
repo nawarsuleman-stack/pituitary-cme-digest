@@ -1,0 +1,43 @@
+{
+  "date": "2026-08-06",
+  "items": [
+    {
+      "pmid": "41730814",
+      "doi": "10.1016/S2213-8587(25)00362-6",
+      "title": "Efficacy and safety of relacorilant for the treatment of patients with Cushing's syndrome (GRACE): a multicentre, phase 3, double-blind, placebo-controlled, randomised-withdrawal study.",
+      "category": "practice-changing",
+      "summary": "This phase 3 randomised-withdrawal trial (n=62 in the withdrawal phase) found that patients with endogenous hypercortisolism who responded to relacorilant\u2014a selective glucocorticoid receptor modulator\u2014and then continued on the drug were significantly less likely to lose hypertension control compared with those switched to placebo (proportion difference 34%; OR 0.17, p=0.022). The open-label escalation phase used doses up to 400 mg daily. Notably, relacorilant avoided the class-effect pitfalls of mifepristone: there were no cases of adrenal insufficiency, vaginal bleeding from endometrial hypertrophy, drug-induced hypokalaemia, or QT prolongation during the randomised-withdrawal period. These data support relacorilant as a meaningful addition to the pharmacological toolkit for Cushing's syndrome, particularly for patients where surgery is not curative or feasible.",
+      "caveat": "The randomised-withdrawal phase was small (n=62) and enrolled only patients who had already responded during the open-label phase, introducing selection bias and limiting generalisability; the study was industry-funded by Corcept Therapeutics. Long-term cardiovascular and mortality outcomes were not assessed.",
+      "quiz_question": "A 44-year-old woman with biochemically confirmed Cushing's syndrome (pituitary MRI equivocal, persistent hypercortisolism after transsphenoidal surgery) has difficult-to-control hypertension. She is started on relacorilant. Based on the GRACE trial, which adverse effects that are commonly seen with mifepristone are NOT expected with relacorilant?",
+      "quiz_answer": "Relacorilant demonstrated no cases of adrenal insufficiency (due to its selectivity for the glucocorticoid receptor without progesterone receptor antagonism), no vaginal bleeding associated with endometrial hypertrophy, no drug-induced hypokalaemia, and no QT prolongation during the trial\u2014contrasting favourably with the known side-effect profile of mifepristone.",
+      "journal": "The lancet. Diabetes & endocrinology",
+      "year": "2026"
+    },
+    {
+      "pmid": "42640040",
+      "doi": "10.1210/clinem/dgag346",
+      "title": "Plasma ACTH Precursors measured by Pro-opiomelanocortin (POMC) ELISA as a Predictor of Silent Corticotroph Adenomas.",
+      "category": "notable",
+      "summary": "In this prospective observational study of 264 clinically non-functioning pituitary adenomas (CNFPAs), plasma POMC measured by a 2-site ELISA (detecting POMC and pro-ACTH but not mature ACTH) was elevated (\u226539 fmol/mL) in 85.7% of silent corticotroph adenomas (SCAs) but in only 2.1% of non-SCA tumours, yielding a sensitivity of 85.7% and specificity of 97.9% for predicting SCA subtype. POMC was also elevated in all known SCAs with visible residual tumour post-surgery, suggesting a potential role in post-operative surveillance for recurrence. If validated, this could allow preoperative identification of SCAs\u2014currently only diagnosable histologically\u2014enabling better counselling about recurrence risk and post-operative monitoring intensity.",
+      "caveat": "This is a single-centre preliminary study; the surgically-confirmed SCA subgroup was small (n=7 in the primary analysis), and the POMC ELISA is not yet commercially standardised or widely available. Authors appropriately flag these as preliminary findings requiring external validation.",
+      "quiz_question": "A 58-year-old man is found to have a 15 mm non-functioning pituitary macroadenoma. Pre-operatively, his ACTH is low-normal and there is no clinical or biochemical Cushing's syndrome. Plasma POMC returns at 95 fmol/mL (reference <39 fmol/mL). What does this result suggest, and how might it influence post-operative management?",
+      "quiz_answer": "An elevated plasma POMC in the setting of a CNFPA suggests the tumour may be a silent corticotroph adenoma (SCA). Per this study's findings, elevated POMC had 85.7% sensitivity and 97.9% specificity for SCA. Post-operatively, this would warrant closer surveillance for tumour recurrence (SCAs have higher recurrence rates than other NFPA subtypes) and pathological confirmation with ACTH and T-PIT immunohistochemistry on the resected specimen.",
+      "journal": "The Journal of clinical endocrinology and metabolism",
+      "year": "2026"
+    },
+    {
+      "pmid": "42582611",
+      "doi": "10.1210/jendso/bvag161",
+      "title": "Frequent antecedent nodules and diagnostic gaps in adrenocortical carcinoma.",
+      "category": "notable",
+      "summary": "This single-centre retrospective analysis of 108 consecutive ACC patients found that 31.7% harboured antecedent adrenal nodules that had been indolent for a median of 4.68 years before ACC presentation\u2014challenging the prevailing assumption that ACC arises rapidly without a detectable precursor. Patients with antecedent nodules had a significantly higher adjusted risk of death (HR 2.9; 95% CI 1.39\u20136.0). Additionally, adrenal biopsy prior to surgery was associated with increased risk of progression (HR 2.53) and death (HR 2.22), reinforcing current guideline cautions against biopsy when ACC is a differential. Only 46.4% of patients were referred to endocrinology preoperatively, highlighting a systemic gap in workup quality.",
+      "caveat": "Retrospective single-centre design spanning 25 years introduces significant heterogeneity in imaging technology and management practices. Antecedent nodule identification relied on historical records, potentially underestimating true prevalence. The finding that biopsy associates with worse survival may reflect confounding by indication (biopsied patients may have had more advanced or ambiguous disease at presentation) rather than a direct causal harm.",
+      "quiz_question": "A 62-year-old woman with a known 2.8 cm lipid-rich adrenal adenoma on serial imaging is noted to have rapid growth to 5.5 cm with heterogeneous enhancement on follow-up CT at 5 years, raising concern for ACC. A colleague suggests percutaneous CT-guided biopsy to confirm malignancy before referring to surgery. Based on current evidence, how should you counsel against this approach?",
+      "quiz_answer": "This study found that adrenal biopsy was associated with a significantly increased risk of progression (adjusted HR 2.53) and death (adjusted HR 2.22) in ACC patients. Biopsy risks tumour seeding and may compromise the preoperative window for curative resection. Current guidelines recommend against biopsy when primary ACC is suspected; surgical referral to a centre with adrenal expertise is the appropriate next step, and endocrinology involvement for hormonal workup should occur preoperatively.",
+      "journal": "Journal of the Endocrine Society",
+      "year": "2026"
+    }
+  ],
+  "refresher_needed": false,
+  "refresher_topic": ""
+}

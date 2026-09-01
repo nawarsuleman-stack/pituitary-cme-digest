@@ -1,16 +1,53 @@
 {
   "used_pmids": [
+    "41730814",
+    "41852294",
     "42258068",
     "42533758",
-    "41852294"
+    "42582611",
+    "42640040"
   ],
   "sessions": [
     {
       "date": "2026-09-01",
       "items": [
-        {"pmid": "42258068", "title": "Impact of postoperative hydrocortisone replacement dose on health-related quality of life and metabolic parameters in patients with cured Cushing's syndrome", "category": "practice-changing"},
-        {"pmid": "42533758", "title": "Is Hypercortisolism Treatable? Which Patients Should Be Treated and How-A Practical Guide for Clinicians.", "category": "notable"},
-        {"pmid": "41852294", "title": "Hypertension action bundle including training of healthcare professionals to improve the detection of primary aldosteronism", "category": "preliminary"}
+        {
+          "pmid": "42258068",
+          "title": "Impact of postoperative hydrocortisone replacement dose on health-related quality of life and metabolic parameters in patients with cured Cushing's syndrome",
+          "category": "practice-changing"
+        },
+        {
+          "pmid": "42533758",
+          "title": "Is Hypercortisolism Treatable? Which Patients Should Be Treated and How-A Practical Guide for Clinicians.",
+          "category": "notable"
+        },
+        {
+          "pmid": "41852294",
+          "title": "Hypertension action bundle including training of healthcare professionals to improve the detection of primary aldosteronism",
+          "category": "preliminary"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-08-06",
+      "items": [
+        {
+          "pmid": "41730814",
+          "title": "Efficacy and safety of relacorilant for the treatment of patients with Cushing's syndrome (GRACE): a multicentre, phase 3, double-blind, placebo-controlled, randomised-withdrawal study.",
+          "category": "practice-changing"
+        },
+        {
+          "pmid": "42640040",
+          "title": "Plasma ACTH Precursors measured by Pro-opiomelanocortin (POMC) ELISA as a Predictor of Silent Corticotroph Adenomas.",
+          "category": "notable"
+        },
+        {
+          "pmid": "42582611",
+          "title": "Frequent antecedent nodules and diagnostic gaps in adrenocortical carcinoma.",
+          "category": "notable"
+        }
       ],
       "refresher_needed": false,
       "refresher_topic": ""
