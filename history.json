@@ -1,0 +1,19 @@
+{
+  "used_pmids": [
+    "42258068",
+    "42533758",
+    "41852294"
+  ],
+  "sessions": [
+    {
+      "date": "2026-09-01",
+      "items": [
+        {"pmid": "42258068", "title": "Impact of postoperative hydrocortisone replacement dose on health-related quality of life and metabolic parameters in patients with cured Cushing's syndrome", "category": "practice-changing"},
+        {"pmid": "42533758", "title": "Is Hypercortisolism Treatable? Which Patients Should Be Treated and How-A Practical Guide for Clinicians.", "category": "notable"},
+        {"pmid": "41852294", "title": "Hypertension action bundle including training of healthcare professionals to improve the detection of primary aldosteronism", "category": "preliminary"}
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    }
+  ]
+}
