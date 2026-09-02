@@ -5,7 +5,10 @@
     "42088331",
     "42258068",
     "42533758",
-    "42640040"
+    "42582611",
+    "42600179",
+    "42640040",
+    "42641759"
   ],
   "sessions": [
     {
@@ -88,6 +91,49 @@
           "quiz_question": "A 55-year-old man has a 2 cm clinically non-functioning pituitary adenoma. Preoperative plasma POMC level returns at 95 fmol/mL (normal <39 fmol/mL). Based on this study, what does this finding suggest about the likely tumor subtype, and what pathophysiological mechanism underlies the elevated POMC?",
           "quiz_answer": "An elevated plasma POMC strongly suggests the tumor is a silent corticotroph adenoma (SCA). The underlying mechanism is defective post-translational processing of POMC \u2014 the tumor produces POMC and pro-ACTH but fails to cleave them into biologically active ACTH, explaining why these patients lack overt hypercortisolism despite harboring a corticotroph-lineage tumor.",
           "journal": "The Journal of clinical endocrinology and metabolism",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-08-05",
+      "items": [
+        {
+          "pmid": "42641759",
+          "doi": "10.1016/j.eprac.2026.08.016",
+          "title": "Mild autonomous ACTH secretion: a narrative review of 52 cases from the literature.",
+          "category": "notable",
+          "summary": "This systematic literature review characterizes mild autonomous ACTH secretion (MAAS) \u2014 pituitary-derived hypercortisolism without overt Cushing's stigmata \u2014 across 52 published cases spanning 1994\u20132026. The condition affects a wide age range with female predominance (~60%), is found in roughly 5% of pituitary adenoma patients, and carries a high burden of metabolic comorbidity: hypertension in 56% and type 2 diabetes in 57%. A 1-mg DST cortisol >1.8 \u00b5g/dL with non-suppressed ACTH supports the diagnosis, while 24-hour urinary free cortisol and low-dose DST have limited sensitivity; surgical intervention often improves glycemic control and blood pressure, but lesions can be radiologically occult.",
+          "caveat": "Retrospective case compilation (n=52 over 32 years) with substantial heterogeneity in diagnostic criteria, era, and reporting; the concept remains underdiagnosed and prospective data are lacking. Selection bias toward published/unusual cases is likely.",
+          "quiz_question": "A 58-year-old woman with resistant hypertension and poorly controlled type 2 diabetes is referred for evaluation. She has no Cushingoid features. Her 1-mg overnight DST cortisol is 2.4 \u00b5g/dL and her ACTH is 18 pg/mL (not suppressed). Her 24-hour urinary free cortisol is normal. What diagnosis should be considered, and what is the significance of the non-suppressed ACTH in this context?",
+          "quiz_answer": "This biochemical pattern \u2014 post-DST cortisol >1.8 \u00b5g/dL with a non-suppressed ACTH \u2014 is consistent with mild autonomous ACTH secretion (MAAS), a pituitary-driven form of subclinical hypercortisolism. The non-suppressed ACTH distinguishes this from primary adrenal (ACTH-independent) mild autonomous cortisol secretion. Per this review, 24-hour UFC has limited sensitivity and a normal result does not exclude MAAS. Metabolic comorbidities such as her resistant hypertension and diabetes may reflect chronic cortisol excess, and surgical treatment has been associated with improvement in these parameters.",
+          "journal": "Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists",
+          "year": "2026"
+        },
+        {
+          "pmid": "42600179",
+          "doi": "10.3171/2026.3.JNS252724",
+          "title": "Endoscopic endonasal approach for adrenocorticotropic hormone-producing pituitary neuroendocrine tumor causing Cushing's disease: multicenter retrospective study on 162 patients with early postoperative cortisol assessment.",
+          "category": "notable",
+          "summary": "This multicenter retrospective study of 162 patients with Cushing's disease undergoing endoscopic endonasal surgery found that morning cortisol <5 \u00b5g/dL in the first 3 postoperative days was a strong predictor of long-term remission (OR 0.25 for recurrence, p=0.003). A stricter threshold of <2 \u00b5g/dL on postoperative day 1 was associated with an even lower recurrence risk and a 91.8% recurrence-free survival at mean 29.8-month follow-up, though the difference between the two cutoffs was not statistically significant. These data support early postoperative hypocortisolemia as a robust remission biomarker and help refine the commonly used cortisol thresholds.",
+          "caveat": "Retrospective multicenter design with heterogeneous institutional protocols and a relatively short mean follow-up (~30 months). The lack of statistical significance in direct comparison between <2 and <5 \u00b5g/dL thresholds limits firm conclusions about which cutoff is superior.",
+          "quiz_question": "Following transsphenoidal resection for confirmed Cushing's disease, a patient's morning cortisol on postoperative day 2 is 3.8 \u00b5g/dL. How should this be interpreted, and what does this level predict for long-term remission based on this multicenter study?",
+          "quiz_answer": "A cortisol of 3.8 \u00b5g/dL falls below the <5 \u00b5g/dL threshold, which in this study was independently associated with a significantly lower odds of recurrence (OR 0.25, p=0.003). While this patient does not achieve the stricter <2 \u00b5g/dL threshold (associated with 91.8% recurrence-free survival), the <5 \u00b5g/dL level within the first 3 postoperative days still constitutes a favorable prognostic sign for long-term remission and supports continued monitoring rather than early escalation of therapy.",
+          "journal": "Journal of neurosurgery",
+          "year": "2026"
+        },
+        {
+          "pmid": "42582611",
+          "doi": "10.1210/jendso/bvag161",
+          "title": "Frequent antecedent nodules and diagnostic gaps in adrenocortical carcinoma.",
+          "category": "practice-changing",
+          "summary": "In a retrospective single-center series of 108 ACC patients with median follow-up of 86.7 months, 31.7% were found to have had antecedent adrenal nodules that appeared indolent for a median of 4.68 years before ACC diagnosis \u2014 directly challenging the prevailing dogma that ACC arises de novo without a measurable precursor lesion. Patients with antecedent nodules had a significantly higher risk of death (adjusted HR 2.9, 95% CI 1.39\u20136.0). Additionally, 31.4% underwent adrenal biopsy preoperatively, which was associated with increased risk of disease progression (adjusted HR 2.53) and death (adjusted HR 2.22), while mitotane therapy and locoregional treatments were associated with improved survival.",
+          "caveat": "Single-center tertiary referral series (n=108) spanning 25 years, subject to referral bias and evolving imaging/diagnostic practices. Antecedent nodule identification relied on retrospective chart review, and causality between prior nodule and subsequent ACC cannot be established with certainty.",
+          "quiz_question": "A 54-year-old patient has a 2.5 cm adrenal nodule on CT that has been stable in size for 3 years with an attenuation of 18 HU; hormonal workup was not performed at initial discovery. How does this study's findings alter your surveillance and workup approach?",
+          "quiz_answer": "This study found that 31.7% of ACC patients had antecedent nodules indolent for a median of nearly 5 years, directly challenging the assumption that ACC lacks a detectable precursor phase. This suggests a subgroup of ACCs evolve from pre-existing lesions, extending the window for surgical cure if identified early. For this patient, complete hormonal evaluation (cortisol autonomy, pheochromocytoma, aldosterone) is essential and was inadequate in 53.6% of cases in this series. The study also found adrenal biopsy was associated with worse outcomes, reinforcing that biopsy should be avoided when ACC is a reasonable concern. Continued surveillance with attention to growth and imaging characteristics \u2014 rather than biopsy or dismissal \u2014 is appropriate.",
+          "journal": "Journal of the Endocrine Society",
           "year": "2026"
         }
       ],
