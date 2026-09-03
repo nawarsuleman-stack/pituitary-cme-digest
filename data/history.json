@@ -7,8 +7,11 @@
     "42533758",
     "42582611",
     "42600179",
+    "42626933",
     "42640040",
-    "42641759"
+    "42641759",
+    "42684648",
+    "42684867"
   ],
   "sessions": [
     {
@@ -134,6 +137,49 @@
           "quiz_question": "A 54-year-old patient has a 2.5 cm adrenal nodule on CT that has been stable in size for 3 years with an attenuation of 18 HU; hormonal workup was not performed at initial discovery. How does this study's findings alter your surveillance and workup approach?",
           "quiz_answer": "This study found that 31.7% of ACC patients had antecedent nodules indolent for a median of nearly 5 years, directly challenging the assumption that ACC lacks a detectable precursor phase. This suggests a subgroup of ACCs evolve from pre-existing lesions, extending the window for surgical cure if identified early. For this patient, complete hormonal evaluation (cortisol autonomy, pheochromocytoma, aldosterone) is essential and was inadequate in 53.6% of cases in this series. The study also found adrenal biopsy was associated with worse outcomes, reinforcing that biopsy should be avoided when ACC is a reasonable concern. Continued surveillance with attention to growth and imaging characteristics \u2014 rather than biopsy or dismissal \u2014 is appropriate.",
           "journal": "Journal of the Endocrine Society",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-28",
+      "items": [
+        {
+          "pmid": "42626933",
+          "doi": "10.1530/ERC-26-0258",
+          "title": "Molecular clusters and precision medicine in pheochromocytomas and paragangliomas.",
+          "category": "practice-changing",
+          "summary": "This comprehensive review synthesizes two decades of PPGL genomics, establishing three main molecular clusters (pseudohypoxic, kinase-signaling, and Wnt-signaling) with direct therapeutic implications. Notably, FDA-approved targeted agents now exist for key driver alterations: belzutifan for HIF-2\u03b1 (EPAS1/VHL pathway) and selpercatinib/pralsetinib for RET. The review also covers genomic determinants of metastatic risk\u2014SDHB, ATRX, TERT, and MAML3 fusions\u2014and highlights emerging theranostic, liquid biopsy, and immunotherapy approaches reshaping management of metastatic disease.",
+          "caveat": "This is a narrative review synthesizing existing data rather than presenting new primary evidence; recommendations regarding FDA-approved agents reflect current labeling but prospective trial data specifically in PPGL for some agents remain limited.",
+          "quiz_question": "A 38-year-old woman with a metastatic paraganglioma is found to carry a germline VHL pathogenic variant. Her tumor demonstrates HIF-2\u03b1 pathway activation. Which FDA-approved targeted agent, highlighted in recent PPGL molecular cluster frameworks, would be most appropriate to consider for this patient?",
+          "quiz_answer": "Belzutifan, a selective HIF-2\u03b1 inhibitor, is FDA-approved and mechanistically targeted to the pseudohypoxic cluster driven by VHL/EPAS1 alterations. It represents a precision medicine option for metastatic PPGLs with this molecular profile.",
+          "journal": "Endocrine-related cancer",
+          "year": "2026"
+        },
+        {
+          "pmid": "42684648",
+          "doi": "10.1007/s40618-026-03035-7",
+          "title": "Adrenal incidentalomas: 1\u00a0mg dexamethasone test result in the context of cardiometabolic risk.",
+          "category": "notable",
+          "summary": "In this retrospective cross-sectional study of 807 adrenal incidentaloma patients, post-DST cortisol concentrations (using the standard 1 mg overnight DST) were significantly higher in patients with hypertension, coronary heart disease, heart failure, diabetes, COPD, and CKD. However, after multivariable adjustment, post-DST cortisol was not independently associated with the composite cardiometabolic endpoint; age and obesity remained the dominant predictors. An exploratory analysis suggested that cortisol levels >1.37 \u00b5g/dL\u2014below the conventional 1.8 \u00b5g/dL cutoff\u2014may be associated with higher cardiometabolic burden, raising questions about whether the current diagnostic threshold is optimal.",
+          "caveat": "Retrospective, cross-sectional design precludes causal inference; the 1.37 \u00b5g/dL exploratory threshold was derived from this dataset and not pre-specified, requiring prospective validation before any clinical application. Confounding by age and obesity cannot be fully excluded.",
+          "quiz_question": "A 68-year-old woman with an adrenal incidentaloma has a post-1 mg DST cortisol of 1.5 \u00b5g/dL\u2014below the standard 1.8 \u00b5g/dL cutoff for MACS\u2014but has difficult-to-control hypertension and type 2 diabetes. Based on emerging data on sub-threshold cortisol secretion and cardiometabolic risk, how should you counsel her?",
+          "quiz_answer": "Current guidelines classify her as 'non-functioning' based on the 1.8 \u00b5g/dL cutoff. However, emerging data suggest that cortisol values between approximately 1.37 and 1.8 \u00b5g/dL may still be associated with adverse cardiometabolic profiles. At this stage, evidence is insufficient to change the diagnostic threshold; clinicians should optimize cardiovascular risk factors and consider repeat evaluation, but should not yet reclassify or intervene surgically based on sub-threshold DST cortisol alone pending prospective validation.",
+          "journal": "Journal of endocrinological investigation",
+          "year": "2026"
+        },
+        {
+          "pmid": "42684867",
+          "doi": "10.1530/EO-26-0064",
+          "title": "Corticotroph Tumour Progression 37 Years After Bilateral Adrenalectomy with Temozolomide-Naive Response to Pembrolizumab.",
+          "category": "notable",
+          "summary": "This case describes corticotroph tumor progression (Nelson's syndrome equivalent) presenting 37 years after bilateral adrenalectomy for Cushing's disease\u2014one of the latest documented presentations in the literature\u2014underscoring the need for lifelong post-adrenalectomy surveillance. Tumor profiling revealed an aggressive molecular phenotype (ATRX loss, MEN1 inactivation, CDK4 amplification, Ki-67 10%) with absent PD-L1 expression. Pembrolizumab, given concurrently for metastatic melanoma, produced a rapid and sustained biochemical and radiological response, making this only the fifth reported case of immune checkpoint inhibitor (ICI) response in corticotrophinoma post-adrenalectomy and the first without prior temozolomide-induced hypermutation.",
+          "caveat": "Single case report; ICI response cannot be attributed solely to pembrolizumab versus possible melanoma-related immune effects, and PD-L1 negativity raises mechanistic uncertainty. Generalizing to other corticotroph tumors requires prospective data.",
+          "quiz_question": "A 60-year-old patient with a history of bilateral adrenalectomy for Cushing's disease 35 years ago presents with rising ACTH levels and an enlarging pituitary mass. Tumor profiling shows ATRX loss and Ki-67 of 12%. He has no prior temozolomide exposure. What emerging therapeutic approach, supported by recent case evidence, may be worth considering after standard options are exhausted?",
+          "quiz_answer": "Immune checkpoint inhibitor therapy (e.g., pembrolizumab) has now been reported to produce biochemical and radiological responses in aggressive corticotroph tumors post-adrenalectomy, including in PD-L1-negative tumors without prior temozolomide exposure. While evidence remains at the case-report level, molecular profiling and multidisciplinary tumor board review are warranted to guide access to ICI therapy in this aggressive subtype.",
+          "journal": "Endocrine oncology (Bristol, England)",
           "year": "2026"
         }
       ],

@@ -1,40 +1,40 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-07-28",
   "items": [
     {
-      "pmid": "42641759",
-      "doi": "10.1016/j.eprac.2026.08.016",
-      "title": "Mild autonomous ACTH secretion: a narrative review of 52 cases from the literature.",
-      "category": "notable",
-      "summary": "This systematic literature review characterizes mild autonomous ACTH secretion (MAAS) \u2014 pituitary-derived hypercortisolism without overt Cushing's stigmata \u2014 across 52 published cases spanning 1994\u20132026. The condition affects a wide age range with female predominance (~60%), is found in roughly 5% of pituitary adenoma patients, and carries a high burden of metabolic comorbidity: hypertension in 56% and type 2 diabetes in 57%. A 1-mg DST cortisol >1.8 \u00b5g/dL with non-suppressed ACTH supports the diagnosis, while 24-hour urinary free cortisol and low-dose DST have limited sensitivity; surgical intervention often improves glycemic control and blood pressure, but lesions can be radiologically occult.",
-      "caveat": "Retrospective case compilation (n=52 over 32 years) with substantial heterogeneity in diagnostic criteria, era, and reporting; the concept remains underdiagnosed and prospective data are lacking. Selection bias toward published/unusual cases is likely.",
-      "quiz_question": "A 58-year-old woman with resistant hypertension and poorly controlled type 2 diabetes is referred for evaluation. She has no Cushingoid features. Her 1-mg overnight DST cortisol is 2.4 \u00b5g/dL and her ACTH is 18 pg/mL (not suppressed). Her 24-hour urinary free cortisol is normal. What diagnosis should be considered, and what is the significance of the non-suppressed ACTH in this context?",
-      "quiz_answer": "This biochemical pattern \u2014 post-DST cortisol >1.8 \u00b5g/dL with a non-suppressed ACTH \u2014 is consistent with mild autonomous ACTH secretion (MAAS), a pituitary-driven form of subclinical hypercortisolism. The non-suppressed ACTH distinguishes this from primary adrenal (ACTH-independent) mild autonomous cortisol secretion. Per this review, 24-hour UFC has limited sensitivity and a normal result does not exclude MAAS. Metabolic comorbidities such as her resistant hypertension and diabetes may reflect chronic cortisol excess, and surgical treatment has been associated with improvement in these parameters.",
-      "journal": "Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists",
-      "year": "2026"
-    },
-    {
-      "pmid": "42600179",
-      "doi": "10.3171/2026.3.JNS252724",
-      "title": "Endoscopic endonasal approach for adrenocorticotropic hormone-producing pituitary neuroendocrine tumor causing Cushing's disease: multicenter retrospective study on 162 patients with early postoperative cortisol assessment.",
-      "category": "notable",
-      "summary": "This multicenter retrospective study of 162 patients with Cushing's disease undergoing endoscopic endonasal surgery found that morning cortisol <5 \u00b5g/dL in the first 3 postoperative days was a strong predictor of long-term remission (OR 0.25 for recurrence, p=0.003). A stricter threshold of <2 \u00b5g/dL on postoperative day 1 was associated with an even lower recurrence risk and a 91.8% recurrence-free survival at mean 29.8-month follow-up, though the difference between the two cutoffs was not statistically significant. These data support early postoperative hypocortisolemia as a robust remission biomarker and help refine the commonly used cortisol thresholds.",
-      "caveat": "Retrospective multicenter design with heterogeneous institutional protocols and a relatively short mean follow-up (~30 months). The lack of statistical significance in direct comparison between <2 and <5 \u00b5g/dL thresholds limits firm conclusions about which cutoff is superior.",
-      "quiz_question": "Following transsphenoidal resection for confirmed Cushing's disease, a patient's morning cortisol on postoperative day 2 is 3.8 \u00b5g/dL. How should this be interpreted, and what does this level predict for long-term remission based on this multicenter study?",
-      "quiz_answer": "A cortisol of 3.8 \u00b5g/dL falls below the <5 \u00b5g/dL threshold, which in this study was independently associated with a significantly lower odds of recurrence (OR 0.25, p=0.003). While this patient does not achieve the stricter <2 \u00b5g/dL threshold (associated with 91.8% recurrence-free survival), the <5 \u00b5g/dL level within the first 3 postoperative days still constitutes a favorable prognostic sign for long-term remission and supports continued monitoring rather than early escalation of therapy.",
-      "journal": "Journal of neurosurgery",
-      "year": "2026"
-    },
-    {
-      "pmid": "42582611",
-      "doi": "10.1210/jendso/bvag161",
-      "title": "Frequent antecedent nodules and diagnostic gaps in adrenocortical carcinoma.",
+      "pmid": "42626933",
+      "doi": "10.1530/ERC-26-0258",
+      "title": "Molecular clusters and precision medicine in pheochromocytomas and paragangliomas.",
       "category": "practice-changing",
-      "summary": "In a retrospective single-center series of 108 ACC patients with median follow-up of 86.7 months, 31.7% were found to have had antecedent adrenal nodules that appeared indolent for a median of 4.68 years before ACC diagnosis \u2014 directly challenging the prevailing dogma that ACC arises de novo without a measurable precursor lesion. Patients with antecedent nodules had a significantly higher risk of death (adjusted HR 2.9, 95% CI 1.39\u20136.0). Additionally, 31.4% underwent adrenal biopsy preoperatively, which was associated with increased risk of disease progression (adjusted HR 2.53) and death (adjusted HR 2.22), while mitotane therapy and locoregional treatments were associated with improved survival.",
-      "caveat": "Single-center tertiary referral series (n=108) spanning 25 years, subject to referral bias and evolving imaging/diagnostic practices. Antecedent nodule identification relied on retrospective chart review, and causality between prior nodule and subsequent ACC cannot be established with certainty.",
-      "quiz_question": "A 54-year-old patient has a 2.5 cm adrenal nodule on CT that has been stable in size for 3 years with an attenuation of 18 HU; hormonal workup was not performed at initial discovery. How does this study's findings alter your surveillance and workup approach?",
-      "quiz_answer": "This study found that 31.7% of ACC patients had antecedent nodules indolent for a median of nearly 5 years, directly challenging the assumption that ACC lacks a detectable precursor phase. This suggests a subgroup of ACCs evolve from pre-existing lesions, extending the window for surgical cure if identified early. For this patient, complete hormonal evaluation (cortisol autonomy, pheochromocytoma, aldosterone) is essential and was inadequate in 53.6% of cases in this series. The study also found adrenal biopsy was associated with worse outcomes, reinforcing that biopsy should be avoided when ACC is a reasonable concern. Continued surveillance with attention to growth and imaging characteristics \u2014 rather than biopsy or dismissal \u2014 is appropriate.",
-      "journal": "Journal of the Endocrine Society",
+      "summary": "This comprehensive review synthesizes two decades of PPGL genomics, establishing three main molecular clusters (pseudohypoxic, kinase-signaling, and Wnt-signaling) with direct therapeutic implications. Notably, FDA-approved targeted agents now exist for key driver alterations: belzutifan for HIF-2\u03b1 (EPAS1/VHL pathway) and selpercatinib/pralsetinib for RET. The review also covers genomic determinants of metastatic risk\u2014SDHB, ATRX, TERT, and MAML3 fusions\u2014and highlights emerging theranostic, liquid biopsy, and immunotherapy approaches reshaping management of metastatic disease.",
+      "caveat": "This is a narrative review synthesizing existing data rather than presenting new primary evidence; recommendations regarding FDA-approved agents reflect current labeling but prospective trial data specifically in PPGL for some agents remain limited.",
+      "quiz_question": "A 38-year-old woman with a metastatic paraganglioma is found to carry a germline VHL pathogenic variant. Her tumor demonstrates HIF-2\u03b1 pathway activation. Which FDA-approved targeted agent, highlighted in recent PPGL molecular cluster frameworks, would be most appropriate to consider for this patient?",
+      "quiz_answer": "Belzutifan, a selective HIF-2\u03b1 inhibitor, is FDA-approved and mechanistically targeted to the pseudohypoxic cluster driven by VHL/EPAS1 alterations. It represents a precision medicine option for metastatic PPGLs with this molecular profile.",
+      "journal": "Endocrine-related cancer",
+      "year": "2026"
+    },
+    {
+      "pmid": "42684648",
+      "doi": "10.1007/s40618-026-03035-7",
+      "title": "Adrenal incidentalomas: 1\u00a0mg dexamethasone test result in the context of cardiometabolic risk.",
+      "category": "notable",
+      "summary": "In this retrospective cross-sectional study of 807 adrenal incidentaloma patients, post-DST cortisol concentrations (using the standard 1 mg overnight DST) were significantly higher in patients with hypertension, coronary heart disease, heart failure, diabetes, COPD, and CKD. However, after multivariable adjustment, post-DST cortisol was not independently associated with the composite cardiometabolic endpoint; age and obesity remained the dominant predictors. An exploratory analysis suggested that cortisol levels >1.37 \u00b5g/dL\u2014below the conventional 1.8 \u00b5g/dL cutoff\u2014may be associated with higher cardiometabolic burden, raising questions about whether the current diagnostic threshold is optimal.",
+      "caveat": "Retrospective, cross-sectional design precludes causal inference; the 1.37 \u00b5g/dL exploratory threshold was derived from this dataset and not pre-specified, requiring prospective validation before any clinical application. Confounding by age and obesity cannot be fully excluded.",
+      "quiz_question": "A 68-year-old woman with an adrenal incidentaloma has a post-1 mg DST cortisol of 1.5 \u00b5g/dL\u2014below the standard 1.8 \u00b5g/dL cutoff for MACS\u2014but has difficult-to-control hypertension and type 2 diabetes. Based on emerging data on sub-threshold cortisol secretion and cardiometabolic risk, how should you counsel her?",
+      "quiz_answer": "Current guidelines classify her as 'non-functioning' based on the 1.8 \u00b5g/dL cutoff. However, emerging data suggest that cortisol values between approximately 1.37 and 1.8 \u00b5g/dL may still be associated with adverse cardiometabolic profiles. At this stage, evidence is insufficient to change the diagnostic threshold; clinicians should optimize cardiovascular risk factors and consider repeat evaluation, but should not yet reclassify or intervene surgically based on sub-threshold DST cortisol alone pending prospective validation.",
+      "journal": "Journal of endocrinological investigation",
+      "year": "2026"
+    },
+    {
+      "pmid": "42684867",
+      "doi": "10.1530/EO-26-0064",
+      "title": "Corticotroph Tumour Progression 37 Years After Bilateral Adrenalectomy with Temozolomide-Naive Response to Pembrolizumab.",
+      "category": "notable",
+      "summary": "This case describes corticotroph tumor progression (Nelson's syndrome equivalent) presenting 37 years after bilateral adrenalectomy for Cushing's disease\u2014one of the latest documented presentations in the literature\u2014underscoring the need for lifelong post-adrenalectomy surveillance. Tumor profiling revealed an aggressive molecular phenotype (ATRX loss, MEN1 inactivation, CDK4 amplification, Ki-67 10%) with absent PD-L1 expression. Pembrolizumab, given concurrently for metastatic melanoma, produced a rapid and sustained biochemical and radiological response, making this only the fifth reported case of immune checkpoint inhibitor (ICI) response in corticotrophinoma post-adrenalectomy and the first without prior temozolomide-induced hypermutation.",
+      "caveat": "Single case report; ICI response cannot be attributed solely to pembrolizumab versus possible melanoma-related immune effects, and PD-L1 negativity raises mechanistic uncertainty. Generalizing to other corticotroph tumors requires prospective data.",
+      "quiz_question": "A 60-year-old patient with a history of bilateral adrenalectomy for Cushing's disease 35 years ago presents with rising ACTH levels and an enlarging pituitary mass. Tumor profiling shows ATRX loss and Ki-67 of 12%. He has no prior temozolomide exposure. What emerging therapeutic approach, supported by recent case evidence, may be worth considering after standard options are exhausted?",
+      "quiz_answer": "Immune checkpoint inhibitor therapy (e.g., pembrolizumab) has now been reported to produce biochemical and radiological responses in aggressive corticotroph tumors post-adrenalectomy, including in PD-L1-negative tumors without prior temozolomide exposure. While evidence remains at the case-report level, molecular profiling and multidisciplinary tumor board review are warranted to guide access to ICI therapy in this aggressive subtype.",
+      "journal": "Endocrine oncology (Bristol, England)",
       "year": "2026"
     }
   ],
