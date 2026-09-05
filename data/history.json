@@ -9,7 +9,10 @@
     "42570036",
     "42582611",
     "42600179",
+    "42622961",
+    "42622973",
     "42626933",
+    "42632982",
     "42640040",
     "42641759",
     "42684648",
@@ -226,6 +229,49 @@
           "quiz_question": "A 34-year-old woman undergoes TSS for Cushing's disease. Pathology shows a null-cell adenoma with no ACTH or T-PIT immunoreactivity. Her postoperative UFC remains elevated. What should be the next step in her evaluation?",
           "quiz_answer": "Persistent hypercortisolism after resection of a non-corticotroph adenoma should raise strong suspicion for a double pituitary adenoma with an unresected corticotroph component. Multidisciplinary re-review of imaging is essential; if MRI is equivocal, 68Ga-pentixafor PET/CT may help localize a second lesion. Repeat expert TSS targeting the ACTH-secreting adenoma is the definitive treatment.",
           "journal": "Endocrine",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-08-04",
+      "items": [
+        {
+          "pmid": "42622961",
+          "doi": "10.1007/s11102-026-01753-y",
+          "title": "Clinical presentation, investigation findings, and outcomes of hypophysitis in sarcoidosis: a systematic review.",
+          "category": "notable",
+          "summary": "This systematic review of 274 patients with sarcoidosis-related hypophysitis found that AVP (arginine vasopressin) deficiency was the most common manifestation (54%), followed by gonadal dysfunction and visual loss. Despite corticosteroid treatment being the mainstay, recurrence occurred in 43% and chronic hormone replacement was required in 36%, with desmopressin dependence persisting in 31%. MRI most commonly showed pituitary stalk thickening and sellar/suprasellar masses, while serum and CSF biomarkers had limited sensitivity, underscoring the need for systemic investigation and extracranial biopsy for diagnosis.",
+          "caveat": "The cohort spans over 70 years of publications with significant temporal heterogeneity in diagnostic criteria and treatment approaches; retrospective case-report aggregation introduces ascertainment bias, and diagnostic certainty was only 'definite' in 26% of cases.",
+          "quiz_question": "A 38-year-old man with known pulmonary sarcoidosis presents with polyuria, polydipsia, and new-onset fatigue. MRI shows pituitary stalk thickening without a discrete mass. CSF protein is elevated. What is the most common anterior pituitary abnormality you should screen for in this setting, and what is the expected recurrence rate of hypophysitis despite corticosteroid treatment?",
+          "quiz_answer": "Central hypogonadism is the most common anterior pituitary abnormality (74%), followed by central hypothyroidism (64%) and hyperprolactinemia (58%). Despite corticosteroid treatment, recurrence occurs in approximately 43% of patients, and long-term hormone replacement is required in about 36%, highlighting the need for sustained multidisciplinary follow-up.",
+          "journal": "Pituitary",
+          "year": "2026"
+        },
+        {
+          "pmid": "42622973",
+          "doi": "10.1007/s11102-026-01752-z",
+          "title": "Natural history of conservatively managed nonfunctioning pituitary macroadenomas in the elderly: A study from the Swedish Pituitary Registry.",
+          "category": "notable",
+          "summary": "In this large registry study of 673 patients \u226565 years with nonfunctioning pituitary macroadenomas managed conservatively, adenoma size, hormone deficiencies, and visual impairments remained stable over up to 5 years of follow-up in all age subgroups. Only 6.7% required surgery during follow-up, and baseline visual field defects\u2014not tumor size\u2014were the sole predictor of eventual surgical intervention. These data support a watchful-waiting approach in elderly patients without visual compromise.",
+          "caveat": "Registry-based retrospective design with incomplete follow-up data at 5 years; selection bias is likely since patients chosen for conservative management may inherently have more indolent tumors; survival effects in the oldest age groups could mask tumor progression.",
+          "quiz_question": "A 78-year-old man is found to have a 22-mm nonfunctioning pituitary macroadenoma on incidental MRI. He has no visual symptoms and mild secondary hypogonadism. His neurosurgeon asks whether tumor size alone should prompt surgery. Based on the Swedish Pituitary Registry data, what factor best predicts need for eventual surgery in elderly patients managed conservatively?",
+          "quiz_answer": "Baseline visual field defects\u2014not tumor size\u2014were the only significant predictor of later surgical intervention in this cohort. Tumor size, hormone deficiencies, and visual acuity did not independently predict surgery, supporting conservative management with regular surveillance in elderly patients without visual compromise.",
+          "journal": "Pituitary",
+          "year": "2026"
+        },
+        {
+          "pmid": "42632982",
+          "doi": "10.1177/20420188261480541",
+          "title": "Unrecognized primary aldosteronism may confound outcomes in adrenal Cushing's syndrome.",
+          "category": "notable",
+          "summary": "This letter highlights a clinically important gap: in a Colombian registry of 130 patients with adrenal Cushing's syndrome, none of the 22 patients were screened for primary aldosteronism (PA) prior to adrenalectomy, despite current guideline recommendations. Because hypertension and hypokalemia are shared features of both conditions, postoperative complications and persistent hypertension may be misattributed to cortisol excess alone when co-secretion of aldosterone goes undetected. The authors call for routine PA screening in adrenal Cushing's patients with hypertension.",
+          "caveat": "This is a brief letter/correspondence based on a single-center registry with a small subgroup (n=22); it demonstrates a care gap but does not provide outcome data on whether missed PA actually changed postoperative results in these patients.",
+          "quiz_question": "A 52-year-old woman with a 3.5-cm right adrenal adenoma undergoes evaluation for adrenal Cushing's syndrome. Post-1-mg dexamethasone suppression test cortisol is 6.2 \u00b5g/dL; she also has resistant hypertension and hypokalemia requiring supplementation. Her endocrinologist plans adrenalectomy. What additional screening step do current guidelines recommend before surgery, and why is it particularly important in this clinical context?",
+          "quiz_answer": "Current guidelines recommend screening for primary aldosteronism (aldosterone-to-renin ratio) in adrenal Cushing's syndrome patients with hypertension. Co-secretion of aldosterone may occur from the same adenoma, and failure to diagnose PA preoperatively can lead to persistent hypokalemia and hypertension postoperatively that is incorrectly attributed to incomplete resolution of hypercortisolism rather than to ongoing aldosterone excess.",
+          "journal": "Therapeutic advances in endocrinology and metabolism",
           "year": "2026"
         }
       ],
