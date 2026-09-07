@@ -8,15 +8,18 @@
     "42533758",
     "42570036",
     "42582611",
+    "42594181",
     "42600179",
     "42622961",
     "42622973",
     "42625656",
     "42626933",
+    "42629471",
     "42632982",
     "42640040",
     "42641759",
     "42677311",
+    "42682059",
     "42684648",
     "42684867",
     "42693345",
@@ -318,6 +321,49 @@
           "quiz_question": "You receive a pathology report on a surgically resected non-functioning PitNET showing co-expression of SF-1 and T-PIT (dual TF positivity) with Ki-67 of 5%. Based on this study's tiered molecular risk model, how should this inform your post-operative management compared to a single-TF, Ki-67 <3% tumor?",
           "quiz_answer": "This tumor would fall into a high-risk tier (multiple TF positivity combined with elevated Ki-67 \u22653%), associated with adjusted hazard ratios for recurrence of approximately 6.5\u201317-fold compared to the lowest-risk group. This should prompt earlier and more frequent post-operative MRI surveillance compared to a single-TF, low Ki-67 tumor, and may support discussion of adjuvant radiosurgery \u2014 though the specific surveillance protocol should await external validation of this model.",
           "journal": "Frontiers in endocrinology",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-28",
+      "items": [
+        {
+          "pmid": "42629471",
+          "doi": "10.1007/s12022-026-09931-1",
+          "title": "Tumor Necrosis is Associated with an Increased Metastatic and Cardiovascular Risk in Paragangliomas: A Single-Center Series and Meta-Analysis Comparing Necrosis and Cystic Degeneration in Paragangliomas.",
+          "category": "notable",
+          "summary": "In a retrospective series of 103 PGL patients plus a meta-analysis of 235 additional cases, necrotic alterations (present in ~4% of PGLs) were independently associated with a dramatically higher metastasis rate (75% vs. 10% in the single-center cohort; 16% vs. 4.5% in the meta-analysis) and significantly more cardiovascular complications. Cystic alterations, by contrast\u2014seen in over 60% of PGLs\u2014did not meaningfully alter clinical presentation or outcomes. Necrotic PGLs also tended to be much larger (median 53.6 vs. 6.6 cm\u00b3) and more symptomatic. The practical implication is that the histopathologic distinction between cystic and necrotic change on imaging or pathology reports should actively inform risk stratification, preoperative workup intensity, and post-resection surveillance intervals.",
+          "caveat": "Necrotic PGLs represented only 3.9% of the single-center series (n\u22484), so the 75% metastasis rate derives from a very small numerator; the meta-analysis pool (235 patients) is also modest and likely heterogeneous across centers and era. Retrospective design limits causal inference.",
+          "quiz_question": "A 48-year-old patient with a 6 cm adrenal paraganglioma undergoes pathologic evaluation after adrenalectomy. The pathologist notes areas of tumor necrosis. How should this finding alter your post-surgical management compared to a PGL with only cystic degeneration?",
+          "quiz_answer": "Necrotic change\u2014unlike cystic degeneration\u2014is associated with substantially higher rates of metastasis (~16\u201375% vs. ~4\u201310%) and cardiovascular complications. This finding should prompt more intensive and prolonged surveillance (e.g., shorter imaging intervals, functional imaging consideration) and a lower threshold for evaluating for metastatic disease, whereas cystic-only changes do not appear to confer additional risk beyond the baseline PGL.",
+          "journal": "Endocrine pathology",
+          "year": "2026"
+        },
+        {
+          "pmid": "42682059",
+          "doi": "10.32604/cju.2026.069461",
+          "title": "Specialist consultation improves underdiagnosis of surgical adrenal incidentaloma: a TriNetX database investigation.",
+          "category": "notable",
+          "summary": "In a large real-world TriNetX database analysis of 132,217 patients with adrenal incidentalomas, only 0.7% received any specialist consultation, yet specialist referral nearly doubled the rate of hormonal testing (49.5% vs. 28.0%) and significantly increased surgical rates (6.3% vs. 3.6%). Crucially, once hormonal testing occurred, surgery rates were identical regardless of specialist involvement (~13%), suggesting the bottleneck is getting patients to evaluation\u2014not decision-making at the specialist level. Extrapolating the ~13% surgery rate to all undertested patients implies roughly 14,000 patients in this database likely met surgical criteria but never received the workup to identify it.",
+          "caveat": "TriNetX is a claims/EHR network subject to coding inaccuracies and selection bias; 'specialist consultation' was broadly defined and may include urologists or surgeons who may not perform full endocrine evaluation. Causality cannot be established\u2014sicker or higher-complexity patients may have been preferentially referred.",
+          "quiz_question": "A primary care physician discovers a 3.2 cm adrenal mass on CT obtained for an unrelated indication in a 61-year-old hypertensive woman. She is not referred to endocrinology. Based on the TriNetX data, what is the most likely gap in her care, and what proportion of such patients may be missing a surgical indication?",
+          "quiz_answer": "Without specialist referral, only ~28% of incidentaloma patients receive any hormonal testing vs. ~50% with referral. Since ~13% of those who are hormonally tested ultimately require surgery, and the vast majority of incidentaloma patients never get tested, approximately 13% of all incidentaloma patients may have a missed surgical indication\u2014translating to thousands of patients nationally who are undertreated.",
+          "journal": "The Canadian journal of urology",
+          "year": "2026"
+        },
+        {
+          "pmid": "42594181",
+          "doi": "10.1093/ejendo/lvag151",
+          "title": "Prevalence of sick leave before and after pituitary adenoma surgery.",
+          "category": "notable",
+          "summary": "This Swedish registry study of 66 working-age patients who underwent transsphenoidal surgery (TSS) for pituitary adenoma found that sickness compensation rates were approximately double those of matched population controls in the year before surgery, continued to rise up to the time of surgery, and declined thereafter but remained elevated at 1 year post-op\u2014never returning to pre-diagnosis levels. Among patients who failed to return to work by 1 year, greater fatigue burden and adrenal insufficiency were significantly more common, and Cushing's disease (though a small subgroup) predicted more days to return to work. These findings highlight that work disability is a persistent, real-world outcome that extends well beyond the perioperative period and deserves routine attention in long-term pituitary care.",
+          "caveat": "Small cohort (n=66) from a single Swedish center limits generalizability; the Cushing's disease subgroup was too small for definitive inference. Observational design precludes establishing causality between specific complications (e.g., adrenal insufficiency) and work disability.",
+          "quiz_question": "A 38-year-old accountant undergoes successful TSS for a non-functioning pituitary macroadenoma and develops post-operative adrenal insufficiency requiring hydrocortisone replacement. She reports persistent fatigue at her 6-month follow-up and has not returned to work. How does this Swedish registry study inform your counseling and management?",
+          "quiz_answer": "The study found that patients who had not returned to work by 1 year post-TSS reported significantly more fatigue and were more likely to have adrenal insufficiency than those who did return. This supports proactive screening for undertreated adrenal insufficiency, optimization of hydrocortisone dosing, and formal fatigue assessment in patients struggling to resume work\u2014with realistic counseling that sickness compensation often remains elevated beyond the surgical period.",
+          "journal": "European journal of endocrinology",
           "year": "2026"
         }
       ],
