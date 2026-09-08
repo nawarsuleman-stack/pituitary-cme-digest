@@ -1,6 +1,7 @@
 {
   "used_pmids": [
     "41730814",
+    "41760839",
     "41852294",
     "42088331",
     "42258068",
@@ -22,6 +23,8 @@
     "42682059",
     "42684648",
     "42684867",
+    "42688135",
+    "42688893",
     "42693345",
     "42701317"
   ],
@@ -364,6 +367,49 @@
           "quiz_question": "A 38-year-old accountant undergoes successful TSS for a non-functioning pituitary macroadenoma and develops post-operative adrenal insufficiency requiring hydrocortisone replacement. She reports persistent fatigue at her 6-month follow-up and has not returned to work. How does this Swedish registry study inform your counseling and management?",
           "quiz_answer": "The study found that patients who had not returned to work by 1 year post-TSS reported significantly more fatigue and were more likely to have adrenal insufficiency than those who did return. This supports proactive screening for undertreated adrenal insufficiency, optimization of hydrocortisone dosing, and formal fatigue assessment in patients struggling to resume work\u2014with realistic counseling that sickness compensation often remains elevated beyond the surgical period.",
           "journal": "European journal of endocrinology",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-24",
+      "items": [
+        {
+          "pmid": "41760839",
+          "doi": "10.1007/s11154-026-10020-1",
+          "title": "Use of osilodrostat in a block-and-replace and titration strategy for cushing's syndrome: a position paper by French experts.",
+          "category": "notable",
+          "summary": "A group of French experts published a consensus position statement on the block-and-replace (B&R) strategy using osilodrostat for Cushing's syndrome, arguing it is a viable alternative to standard gradual titration in selected patients\u2014particularly when rapid disease control is needed in severe cases or when frequent monitoring is logistically challenging. The authors acknowledge that B&R avoids the delays and cortisol fluctuations inherent to titration, but emphasize this is expert opinion rather than guideline-level evidence. They call for randomized controlled trials directly comparing the two strategies across diverse populations before broader adoption.",
+          "caveat": "This is an expert-driven position paper, not evidence-based from RCT data; there is no head-to-head trial comparing B&R vs. titration with osilodrostat, and the patient selection criteria for B&R remain incompletely defined.",
+          "quiz_question": "A 48-year-old woman with severe ACTH-dependent Cushing's disease (UFC >10x ULN, uncontrolled hypertension, poorly controlled diabetes) has had unsuccessful transsphenoidal surgery and is not yet a candidate for repeat surgery or radiation. You initiate osilodrostat. According to the French expert position statement, in which clinical scenario might a block-and-replace strategy be preferred over standard gradual titration?",
+          "quiz_answer": "The block-and-replace strategy is preferred when rapid disease control is imperative (e.g., severe hypercortisolism with life-threatening complications) or when the logistical demands of frequent monitoring for titration are not feasible. In this patient with severe, refractory disease, B&R with osilodrostat plus physiologic glucocorticoid replacement may achieve eucortisolism more quickly than stepwise titration, though this approach requires careful patient selection and remains expert opinion pending RCT confirmation.",
+          "journal": "Reviews in endocrine & metabolic disorders",
+          "year": "2026"
+        },
+        {
+          "pmid": "42688893",
+          "doi": "10.1155/crie/1796526",
+          "title": "Metyrapone in the Management of Severe Hypercortisolism Secondary to Ectopic Cushing's Syndrome.",
+          "category": "notable",
+          "summary": "This case series describes three patients with severe hypercortisolism from ectopic ACTH syndrome (neuroendocrine carcinoma, NSCLC-related metastatic NEC, and metastatic prostate cancer) all managed successfully with rapid metyrapone titration. Biochemical control was achieved in all three using initial doses of 1000\u20131500 mg/day in divided doses alongside physiologic glucocorticoid replacement to prevent adrenal insufficiency. Despite cortisol normalization and metabolic stabilization, all three patients ultimately transitioned to comfort-focused care, reflecting the aggressive natural history of these underlying malignancies.",
+          "caveat": "Only three cases; conclusions on dosing and titration strategy are limited by small sample size and heterogeneous underlying etiologies. The paper acknowledges that the rarity and aggressiveness of ectopic CS make standardized guidance difficult to derive.",
+          "quiz_question": "A 64-year-old man with metastatic prostate cancer presents with hypokalemia, uncontrolled hypertension, hyperglycemia, and a 24-hour UFC of 18x ULN, consistent with ectopic ACTH syndrome. You initiate metyrapone. Based on this case series, what starting dose and key co-treatment should you employ to minimize the risk of adrenal insufficiency?",
+          "quiz_answer": "Based on the reported experience, an initial metyrapone dose of 1000\u20131500 mg/day in divided doses is recommended, with concurrent physiologic glucocorticoid replacement (e.g., hydrocortisone) to mitigate the risk of adrenal insufficiency caused by 11-\u03b2 hydroxylase blockade. Close biochemical monitoring is essential given the rapid cortisol lowering typical of ectopic CS.",
+          "journal": "Case reports in endocrinology",
+          "year": "2026"
+        },
+        {
+          "pmid": "42688135",
+          "doi": "10.3389/fendo.2026.1855363",
+          "title": "Differences in management and outcomes between pheochromocytomas and sympathetic paragangliomas.",
+          "category": "notable",
+          "summary": "This retrospective study of 220 patients at a single academic center found that sympathetic paragangliomas (PGL) had notably worse long-term outcomes compared to pheochromocytomas (PCC): PGL patients had longer hospital stays (7 vs. 4 days), and significantly higher rates of new related tumors\u2014including recurrence, metastasis, or metachronous tumor\u2014during follow-up (27.8% vs. 11.0%, p=0.019). PCC patients more frequently presented with dysglycemia (42.2% vs. 17.6%), which also improved more often after surgery. Preoperative alpha-blockade duration was longer for PCC (50 vs. 34 days).",
+          "caveat": "Retrospective single-center design over 20 years introduces heterogeneity in management protocols and follow-up duration; differences in tumor size, genetic background, and imaging surveillance intensity between PCC and PGL groups were not fully adjusted for.",
+          "quiz_question": "A 38-year-old woman is found to have a 4 cm retroperitoneal sympathetic paraganglioma. She asks about her long-term prognosis compared to a patient with a similarly sized adrenal pheochromocytoma. Based on this study, what key difference in long-term oncologic outcomes should you convey?",
+          "quiz_answer": "Sympathetic paraganglioma patients face a significantly higher risk of new related tumors (recurrence, metastasis, or metachronous tumor) during follow-up compared to pheochromocytoma patients (27.8% vs. 11.0%). This underscores the importance of long-term surveillance imaging and biochemical testing in PGL, and reinforces current guideline recommendations for more intensive follow-up in paraganglioma versus adrenal PCC.",
+          "journal": "Frontiers in endocrinology",
           "year": "2026"
         }
       ],
