@@ -19,6 +19,8 @@
     "42632982",
     "42640040",
     "42641759",
+    "42652782",
+    "42663690",
     "42677311",
     "42682059",
     "42684648",
@@ -26,7 +28,8 @@
     "42688135",
     "42688893",
     "42693345",
-    "42701317"
+    "42701317",
+    "42708510"
   ],
   "sessions": [
     {
@@ -410,6 +413,49 @@
           "quiz_question": "A 38-year-old woman is found to have a 4 cm retroperitoneal sympathetic paraganglioma. She asks about her long-term prognosis compared to a patient with a similarly sized adrenal pheochromocytoma. Based on this study, what key difference in long-term oncologic outcomes should you convey?",
           "quiz_answer": "Sympathetic paraganglioma patients face a significantly higher risk of new related tumors (recurrence, metastasis, or metachronous tumor) during follow-up compared to pheochromocytoma patients (27.8% vs. 11.0%). This underscores the importance of long-term surveillance imaging and biochemical testing in PGL, and reinforces current guideline recommendations for more intensive follow-up in paraganglioma versus adrenal PCC.",
           "journal": "Frontiers in endocrinology",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-23",
+      "items": [
+        {
+          "pmid": "42708510",
+          "doi": "10.1210/clinem/dgag370",
+          "title": "Clinical and pharmacological determinants of serum dexamethasone concentrations during dexamethasone suppression test.",
+          "category": "notable",
+          "summary": "In this observational study of 546 patients undergoing the 1-mg overnight DST with simultaneous serum dexamethasone measurement, older age and higher BMI were independently associated with higher dexamethasone exposure in multivariable analysis, while eGFR had no significant independent effect. Suboptimal dexamethasone exposure (<4.5 nmol/L) occurred in 3.3% of patients and was frequently associated with failure to suppress cortisol, underscoring the value of concurrent dexamethasone measurement. Importantly, once adequate dexamethasone exposure was achieved, higher dexamethasone levels did not produce additional cortisol suppression \u2014 suggesting a ceiling effect rather than a dose-dependent relationship across the therapeutic range.",
+          "caveat": "Observational single-center design limits causal inference; medication associations (PPIs, statins, CCBs) did not survive all sensitivity analyses, so their clinical significance remains uncertain. Patients with mild autonomous cortisol secretion were included, potentially confounding cortisol suppression results.",
+          "quiz_question": "A 72-year-old man with BMI 34 kg/m\u00b2 undergoes a 1-mg overnight DST; his serum cortisol is 3.1 \u00b5g/dL. You are uncertain whether this represents true hypercortisolism or suboptimal dexamethasone absorption. Based on this study's findings, what single additional measurement would most efficiently clarify interpretation, and what patient characteristics in this case predict his dexamethasone exposure?",
+          "quiz_answer": "Measuring a simultaneous serum dexamethasone level is the key additional test. This study shows that older age and higher BMI are independently associated with *higher* (not lower) dexamethasone exposure, so this patient's profile would actually predict adequate or above-average exposure. If dexamethasone is confirmed adequate (\u22654.5 nmol/L), the cortisol of 3.1 \u00b5g/dL (above the 1.8 \u00b5g/dL cutoff) supports further evaluation for mild autonomous cortisol secretion rather than attributing the result to pharmacokinetic failure.",
+          "journal": "The Journal of clinical endocrinology and metabolism",
+          "year": "2026"
+        },
+        {
+          "pmid": "42652782",
+          "doi": "10.3390/jcm15166378",
+          "title": "Comparison of Cardiometabolic Profiles in Patients with Nonfunctioning Adrenal Incidentalomas and Mild Autonomous Cortisol Secretion.",
+          "category": "notable",
+          "summary": "This retrospective study of 67 patients compared MACS (post-1-mg DST cortisol \u22651.8 \u00b5g/dL, n=35) versus NFAI (n=32) and found that MACS patients had significantly lower ACTH, lower DHEA-S, and higher triglycerides \u2014 consistent with subtle but real glucocorticoid excess. Despite these metabolic differences, global longitudinal strain (GLS) on echocardiography did not differ significantly between groups, and nominal correlations between GLS and cortisol-related biochemical parameters did not survive false discovery rate correction. The absence of detectable subclinical myocardial dysfunction by GLS in a cross-sectional design does not exclude longer-term cardiovascular risk from MACS.",
+          "caveat": "Small sample size (n=67) substantially limits statistical power to detect GLS differences; the cross-sectional design precludes any causal inference about MACS and cardiac outcomes. The study was not powered as a cardiovascular outcomes trial and should not be interpreted as reassuring evidence that MACS carries no cardiac risk.",
+          "quiz_question": "A 58-year-old woman with a 2.2-cm right adrenal incidentaloma has a post-1-mg DST cortisol of 3.2 \u00b5g/dL, ACTH of 9 pg/mL, DHEA-S in the low-normal range, and triglycerides of 210 mg/dL. Her echocardiogram shows normal ejection fraction. How does this study inform your discussion of cardiovascular risk with her, and what management approach does it support?",
+          "quiz_answer": "This study confirms the MACS biochemical phenotype (suppressed ACTH, low DHEA-S, elevated triglycerides) she demonstrates, and shows that conventional echo including GLS may not capture early myocardial changes in cross-sectional assessment. The absence of a GLS difference should not be interpreted as cardiac safety reassurance. Per current guidance, her cardiometabolic comorbidities (hypertriglyceridemia) should be actively managed, and longitudinal surveillance for progressive cortisol autonomy and cardiovascular risk factors is warranted.",
+          "journal": "Journal of clinical medicine",
+          "year": "2026"
+        },
+        {
+          "pmid": "42663690",
+          "doi": "10.1007/s10143-026-04467-8",
+          "title": "Endoscopic endonasal transcavernous surgery for knosp grade 3-4 growth hormone-secreting pituitary neuroendocrine tumors: surgical outcomes and predictors of biochemical remission.",
+          "category": "notable",
+          "summary": "This retrospective single-center study of 50 patients with Knosp grade 3\u20134 GH-PitNETs compared outcomes before and after adoption of an endoscopic endonasal transcavernous approach (transcavernous-EEA). The biochemical remission rate was significantly higher in the transcavernous-EEA group (64.7% vs. 31.3%, p=0.027), without increased surgical morbidity. In exploratory multivariable analysis of the transcavernous-EEA cohort, lower preoperative IGF-1 (cutoff ~587 ng/mL) and lower day-1 postoperative GH (cutoff ~2.2 ng/mL, AUC 0.898) were independently associated with remission, suggesting POD1 GH may serve as an early remission predictor even in this invasive subgroup.",
+          "caveat": "Retrospective single-center design with only 17 patients in the transcavernous-EEA group; historical controls introduce substantial confounding from evolving surgical technique and case selection. Cutoff values are preliminary and exploratory, not validated in an independent cohort. Follow-up duration is not clearly specified for remission assessment.",
+          "quiz_question": "A 41-year-old man with acromegaly and a Knosp grade 4 macroadenoma has a preoperative IGF-1 of 520 ng/mL. On postoperative day 1, his random GH is 1.8 ng/mL. Based on this study's findings, how would you characterize his likelihood of biochemical remission, and what would be your next management step?",
+          "quiz_answer": "Both his preoperative IGF-1 (<587 ng/mL threshold) and POD1 GH (<2.185 ng/mL cutoff, AUC 0.898) fall within the range independently associated with biochemical remission in the transcavernous-EEA cohort of this study. These are favorable early indicators. The next step is formal IGF-1 measurement at 3 months postoperatively to confirm remission, with continued assessment for hypopituitarism, and a plan for adjuvant medical therapy (somatostatin receptor ligand or pegvisomant) if remission is not confirmed biochemically.",
+          "journal": "Neurosurgical review",
           "year": "2026"
         }
       ],
