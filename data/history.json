@@ -20,6 +20,7 @@
     "42640040",
     "42641759",
     "42652782",
+    "42662934",
     "42663690",
     "42677311",
     "42682059",
@@ -29,7 +30,9 @@
     "42688893",
     "42693345",
     "42701317",
-    "42708510"
+    "42708510",
+    "42712757",
+    "42713228"
   ],
   "sessions": [
     {
@@ -456,6 +459,49 @@
           "quiz_question": "A 41-year-old man with acromegaly and a Knosp grade 4 macroadenoma has a preoperative IGF-1 of 520 ng/mL. On postoperative day 1, his random GH is 1.8 ng/mL. Based on this study's findings, how would you characterize his likelihood of biochemical remission, and what would be your next management step?",
           "quiz_answer": "Both his preoperative IGF-1 (<587 ng/mL threshold) and POD1 GH (<2.185 ng/mL cutoff, AUC 0.898) fall within the range independently associated with biochemical remission in the transcavernous-EEA cohort of this study. These are favorable early indicators. The next step is formal IGF-1 measurement at 3 months postoperatively to confirm remission, with continued assessment for hypopituitarism, and a plan for adjuvant medical therapy (somatostatin receptor ligand or pegvisomant) if remission is not confirmed biochemically.",
           "journal": "Neurosurgical review",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-23",
+      "items": [
+        {
+          "pmid": "42712757",
+          "doi": "10.3389/fendo.2026.1871977",
+          "title": "A long-acting octreotide analog formed by conjugation with a peptide linker modified with two fatty acids.",
+          "category": "notable",
+          "summary": "TE-8214 is a depot-free, aqueous-formulated octreotide analog designed to bind human serum albumin, extending its half-life without the need for large-bore needle depot injections. In a randomized, double-blind, placebo-controlled Phase 1 single-ascending-dose study in healthy adults (0.6\u20134.0 mg), TE-8214 was well-tolerated with no serious or Grade \u22653 adverse events, and produced sustained, dose-dependent IGF-1 suppression lasting through Day 28 at the highest dose tested. Preclinical studies in rodents and dogs confirmed prolonged GH, IGF-1, and serotonin suppression exceeding equimolar octreotide, supporting the albumin-binding mechanism.",
+          "caveat": "This was a Phase 1 study in healthy volunteers, not patients with acromegaly or NETs; therapeutic efficacy remains unproven and the IGF-1 reduction (22.5% at highest dose) was an exploratory endpoint. Industry sponsorship and small sample size limit generalizability.",
+          "quiz_question": "A 48-year-old patient with acromegaly currently managed with monthly intramuscular octreotide LAR injections reports significant injection-site pain and nodularity. A novel depot-free somatostatin analog (TE-8214) has completed Phase 1 testing. What is the mechanism by which this agent achieves prolonged action without a depot formulation, and what Phase 1 pharmacodynamic finding supports its potential clinical utility?",
+          "quiz_answer": "TE-8214 achieves prolonged systemic exposure by conjugating octreotide to a dual-fatty-acid albumin-binding module, enabling reversible binding to human serum albumin and extending the terminal half-life. In the Phase 1 trial, a single subcutaneous dose (via 30-gauge needle) produced a sustained 22.5% reduction in IGF-1 from baseline that persisted through Day 28, demonstrating clinically meaningful pharmacodynamic activity over a month following one injection.",
+          "journal": "Frontiers in endocrinology",
+          "year": "2026"
+        },
+        {
+          "pmid": "42662934",
+          "doi": "10.7759/cureus.113538",
+          "title": "Adrenal Suppression From Mucosal Absorption of Dexamethasone Mouthwash.",
+          "category": "notable",
+          "summary": "This case report describes a breast cancer patient on immunotherapy who developed secondary adrenal insufficiency attributable to systemic absorption of a dexamethasone mouthwash used strictly as 'swish and spit' without swallowing, confirmed by elevated serum dexamethasone levels. The key clinical implication is that ICI-related hypophysitis/adrenal insufficiency is often presumed permanent and treated lifelong, but this case illustrates a reversible, drug-induced mimic that would be managed very differently. Recognizing occult topical glucocorticoid exposure\u2014including oral mucosal routes\u2014is essential before committing an oncology patient to lifelong adrenal replacement.",
+          "caveat": "Single case report; prevalence of clinically significant mucosal dexamethasone absorption in oncology patients is unknown and likely underreported. No formal pharmacokinetic data on mouthwash absorption are provided in the abstract.",
+          "quiz_question": "A 62-year-old woman with metastatic breast cancer on pembrolizumab develops fatigue and a low morning cortisol with suppressed ACTH. She is diagnosed with presumed ICI-induced adrenal insufficiency and started on hydrocortisone replacement. Before committing her to lifelong therapy, what additional medication history inquiry is critical, and why?",
+          "quiz_answer": "Clinicians should specifically ask about use of dexamethasone mouthwash (commonly prescribed for oral mucositis in oncology patients), even if used as 'swish and spit.' Systemic mucosal absorption can suppress the HPA axis and mimic ICI-induced adrenal insufficiency; confirming elevated serum dexamethasone would identify a reversible cause, sparing the patient from unnecessary lifelong glucocorticoid replacement.",
+          "journal": "Cureus",
+          "year": "2026"
+        },
+        {
+          "pmid": "42713228",
+          "doi": "10.12788/fp.0711",
+          "title": "Diagnostic Challenge of Immune Checkpoint Inhibitor-Induced Hypophysitis in Patient With Melanoma.",
+          "category": "notable",
+          "summary": "This case describes a 73-year-old man with metastatic melanoma who developed ICI-induced hypophysitis after combination ipilimumab/nivolumab therapy, presenting with fatigue, headache, and hyponatremia driven by central hypothyroidism and secondary adrenal insufficiency confirmed on cosyntropin stimulation testing. Pituitary MRI showed gland enlargement, and normal adrenal imaging excluded metastatic disease. The report reinforces that ICI-induced hypophysitis is typically irreversible, requiring ongoing hormone replacement, and that the diagnostic presentation can closely mimic other conditions\u2014making a structured endocrine evaluation protocol essential as ICI use expands broadly across oncology.",
+          "caveat": "Single case report from a VA center; the relative incidence of hypophysitis with anti-PD-1 monotherapy vs. combination CTLA-4/PD-1 blockade is not quantified here. The case did not detail long-term pituitary recovery data.",
+          "quiz_question": "A 68-year-old man with metastatic melanoma presents with fatigue and sodium of 128 mEq/L after his third cycle of ipilimumab plus nivolumab. TSH is undetectable with low free T4; morning cortisol is 4 \u00b5g/dL; ACTH is low. MRI shows a mildly enlarged pituitary. CT of the chest/abdomen/pelvis shows no adrenal metastases. What is the diagnosis, what is the appropriate initial treatment sequence, and what should the patient be counseled regarding long-term hormone requirements?",
+          "quiz_answer": "The diagnosis is ICI-induced hypophysitis causing central hypothyroidism and secondary adrenal insufficiency. Glucocorticoid replacement (e.g., IV hydrocortisone) should be initiated first before levothyroxine to avoid precipitating an adrenal crisis. The patient should be counseled that ICI-induced hypophysitis is generally irreversible, and lifelong hormone replacement therapy is typically required.",
+          "journal": "Federal practitioner : for the health care professionals of the VA, DoD, and PHS",
           "year": "2026"
         }
       ],
