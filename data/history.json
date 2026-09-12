@@ -25,6 +25,7 @@
     "42652782",
     "42662934",
     "42663690",
+    "42671655",
     "42677311",
     "42682059",
     "42684648",
@@ -32,10 +33,12 @@
     "42688135",
     "42688893",
     "42693345",
+    "42693349",
     "42701317",
     "42708510",
     "42712757",
-    "42713228"
+    "42713228",
+    "42725352"
   ],
   "sessions": [
     {
@@ -548,6 +551,49 @@
           "quiz_question": "A 32-year-old woman with a macroprolactinoma on cabergoline is planning pregnancy and asks whether she must switch to bromocriptine, which she previously tolerated poorly, or whether cabergoline can be continued. What does the current evidence base support?",
           "quiz_answer": "Recent systematic reviews have demonstrated that cabergoline has an overall maternal and fetal safety profile comparable to bromocriptine. While bromocriptine has a longer safety track record, current evidence supports cabergoline as a reasonable option in selected patients, particularly when bromocriptine is not tolerated, with management individualized through shared decision-making.",
           "journal": "Current opinion in endocrinology, diabetes, and obesity",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-24",
+      "items": [
+        {
+          "pmid": "42725352",
+          "doi": "10.1002/iju5.70267",
+          "title": "Preoperative Metyrosine Administration for Bilateral Pheochromocytomas Following Pheochromocytoma Crisis: A Case Report.",
+          "category": "notable",
+          "summary": "A 46-year-old man with bilateral pheochromocytomas complicated by reverse Takotsubo cardiomyopathy underwent one-stage bilateral adrenalectomy after preoperative preparation with metyrosine added to conventional alpha-adrenergic blockade. Urinary metanephrines fell approximately 76% with metyrosine, and bilateral adrenalectomy was completed successfully despite residual intraoperative hemodynamic fluctuations. The case is clinically timely given metyrosine's recent approval in Japan for perioperative pheochromocytoma management, extending the evidence base for its use as an adjunct to alpha-blockade in the highest-risk patients (crisis, severe cardiomyopathy, bilateral disease). The authors appropriately note that the contribution of metyrosine to intraoperative hemodynamic stability versus alpha-blockade alone remains uncertain from this single case.",
+          "caveat": "Single case report; no comparator arm, so the incremental benefit of metyrosine over alpha-blockade alone cannot be quantified. Metyrosine is not universally approved or available outside Japan.",
+          "quiz_question": "A 52-year-old man with bilateral pheochromocytomas and a recent episode of catecholamine-induced cardiomyopathy (EF 25%) is being prepared for bilateral adrenalectomy. Standard alpha-blockade has been initiated. What additional pharmacologic adjunct, and through what mechanism, might be considered to further reduce perioperative catecholamine burden in this high-risk patient?",
+          "quiz_answer": "Metyrosine (alpha-methyl-p-tyrosine) inhibits tyrosine hydroxylase, the rate-limiting enzyme in catecholamine biosynthesis, thereby reducing catecholamine synthesis and circulating metanephrine levels. In this case report, adding metyrosine to alpha-blockade reduced urinary metanephrines by ~76%, supporting its use as an adjunct in patients with preceding crisis, severe cardiac dysfunction, marked catecholamine excess, and bilateral disease.",
+          "journal": "IJU case reports",
+          "year": "2026"
+        },
+        {
+          "pmid": "42693349",
+          "doi": "10.1007/s11102-026-01756-9",
+          "title": "Internal validation of THINKERS-PA for outcome prediction after pituitary adenoma radiosurgery.",
+          "category": "preliminary",
+          "summary": "THINKERS-PA is a mixture-of-experts neural network trained on 125 patients with pituitary adenomas treated with Gamma Knife radiosurgery, predicting tumor progression, biochemical remission, and new hypopituitarism using pretreatment clinical, anatomical, and dosimetric variables. Internal cross-validation yielded time-dependent AUCs of 0.82, 0.84, and 0.81 for the three endpoints respectively, with reasonable calibration. A dose-sweeping module estimated delivered dose within \u00b11 Gy in 71% of patients, suggesting potential utility for pre-procedure dose optimization. The framework is methodologically interesting but requires external multicenter validation before it influences radiosurgery practice.",
+          "caveat": "Single-center retrospective cohort of only 125 patients; internal-only validation with no external dataset. The dose-sweeping module cannot be interpreted as prospective dose guidance. Industry or institutional conflicts of interest are not reported in the abstract.",
+          "quiz_question": "After reviewing THINKERS-PA, a colleague asks whether this tool can now be used to individualize Gamma Knife doses for pituitary adenoma patients at your institution. What is the appropriate response based on the study's current validation status?",
+          "quiz_answer": "Not yet. THINKERS-PA has undergone only internal cross-validation in a single-center retrospective cohort of 125 patients. The authors explicitly state that external multicenter validation is required before clinical implementation. Promising AUCs (0.81\u20130.84) justify further study, but the tool should not guide clinical dosing decisions until prospectively validated in independent cohorts.",
+          "journal": "Pituitary",
+          "year": "2026"
+        },
+        {
+          "pmid": "42671655",
+          "doi": "10.1007/s11102-026-01755-w",
+          "title": "Association between preoperative MRI radiomic features and methylation-defined phenotypes in non-functioning pituitary adenomas.",
+          "category": "preliminary",
+          "summary": "In a single-center radiogenomic analysis of 74 patients with non-functioning pituitary adenomas (NFPAs), preoperative gadolinium-enhanced T1-weighted MRI radiomic features were associated with DNA methylation-defined risk strata (low-risk k1/k2 vs. high-risk k3\u2013k5) previously linked to postoperative regrowth. The prespecified L1-penalized logistic regression model achieved a balanced accuracy of 0.69 and AUC of 0.73 (permutation p=0.001), with four radiomic features surviving Bonferroni correction. If validated externally, this approach could allow non-invasive preoperative risk stratification without requiring tumor tissue for methylation profiling. The authors are appropriately cautious: the model predicts a composite methylation label, not individual regrowth outcomes, and has not been independently validated.",
+          "caveat": "Small single-center cohort (n=74); classifier predicts a methylation risk label, not directly validated against individual progression-free survival. Pooling k3\u2013k5 as 'high risk' may obscure biologically distinct subgroups. External outcome-linked validation is explicitly required before clinical use.",
+          "quiz_question": "A patient with a newly diagnosed non-functioning pituitary macroadenoma is undergoing preoperative planning. A colleague mentions that DNA methylation profiling can identify high-risk tumors prone to regrowth, but this requires surgical tissue. What does the THINKERS radiomics study suggest as a potential future alternative, and what are its current limitations?",
+          "quiz_answer": "Preoperative MRI radiomic features derived from gadolinium-enhanced T1-weighted sequences may non-invasively approximate methylation-defined risk strata associated with postoperative regrowth, potentially stratifying patients before surgery. However, the study is single-center, small (n=74), predicts a composite methylation label rather than individual regrowth probability, and requires external outcome-linked validation before it can influence clinical decision-making.",
+          "journal": "Pituitary",
           "year": "2026"
         }
       ],
