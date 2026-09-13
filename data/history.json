@@ -17,6 +17,7 @@
     "42622961",
     "42622973",
     "42625656",
+    "42626294",
     "42626933",
     "42629471",
     "42632982",
@@ -35,10 +36,12 @@
     "42693345",
     "42693349",
     "42701317",
+    "42702390",
     "42708510",
     "42712757",
     "42713228",
-    "42725352"
+    "42725352",
+    "42729617"
   ],
   "sessions": [
     {
@@ -594,6 +597,49 @@
           "quiz_question": "A patient with a newly diagnosed non-functioning pituitary macroadenoma is undergoing preoperative planning. A colleague mentions that DNA methylation profiling can identify high-risk tumors prone to regrowth, but this requires surgical tissue. What does the THINKERS radiomics study suggest as a potential future alternative, and what are its current limitations?",
           "quiz_answer": "Preoperative MRI radiomic features derived from gadolinium-enhanced T1-weighted sequences may non-invasively approximate methylation-defined risk strata associated with postoperative regrowth, potentially stratifying patients before surgery. However, the study is single-center, small (n=74), predicts a composite methylation label rather than individual regrowth probability, and requires external outcome-linked validation before it can influence clinical decision-making.",
           "journal": "Pituitary",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-09-02",
+      "items": [
+        {
+          "pmid": "42729617",
+          "doi": "10.48101/ujms.v131.14421",
+          "title": "Multiple endocrine neoplasia type 1 with concurrent Cushing's disease, prolactinoma, and multifocal pancreatic neuroendocrine tumors including insulinoma: a case report.",
+          "category": "notable",
+          "summary": "This case documents a 28-year-old man with genetically confirmed MEN1 (splice-site variant c.825-1G>A) who simultaneously harbored ACTH-dependent hypercortisolism from a pituitary microadenoma, concurrent prolactinoma, primary hyperparathyroidism, and multifocal pancreatic NETs with biochemically confirmed insulinoma. Transsphenoidal surgery failed to achieve remission of Cushing's disease, and metyrapone provided only partial cortisol control, illustrating the refractory nature of MEN1-associated corticotroph tumors. Notably, lanreotide achieved complete resolution of hypoglycemia in the setting of multifocal insulinoma when a dominant lesion could not be localized even on 68Ga-NOTA-exendin-4 PET/CT, supporting a role for somatostatin analogs as a conservative bridge in this scenario. The case underscores how hormonal interactions between co-existing functioning tumors (e.g., hypercortisolism masking hypoglycemic symptoms) can significantly complicate recognition and management sequencing in MEN1.",
+          "caveat": "Single case report; findings cannot be generalized. The favorable response to lanreotide for insulinoma in this context is anecdotal and should not replace standard surgical evaluation where feasible.",
+          "quiz_question": "A 30-year-old man with known MEN1 presents with cushingoid features and episodic diaphoresis. Pituitary MRI shows a microadenoma; fasting glucose is 48 mg/dL. After transsphenoidal surgery fails to normalize cortisol, metyrapone is started. Subsequent workup confirms multifocal pancreatic NETs with biochemical insulinoma but no dominant lesion on functional imaging. What pharmacologic strategy is supported by this case for managing the insulinoma while awaiting further workup?",
+          "quiz_answer": "Lanreotide (a somatostatin analog) achieved complete resolution of hypoglycemia in this MEN1 patient with multifocal insulinoma and no localizable dominant lesion, supporting its use as a conservative medical option when surgical targeting is not feasible.",
+          "journal": "Upsala journal of medical sciences",
+          "year": "2026"
+        },
+        {
+          "pmid": "42702390",
+          "doi": "10.11817/j.issn.1672-7347.2026.240645",
+          "title": "[A rare case of Rosai-Dorfman disease involving the pituitary stalk and presenting initially with diabetes insipidus].",
+          "category": "notable",
+          "summary": "This case describes a 38-year-old man with a 15-year course beginning with diabetes insipidus that ultimately progressed to panhypopituitarism, with MRI demonstrating marked pituitary stalk thickening and dural nodules. Pituitary stalk biopsy confirmed Rosai-Dorfman disease (RDD), a rare non-Langerhans cell histiocytosis, and molecular testing identified a BRAF V600E mutation. Treatment with the BRAF inhibitor dabrafenib produced meaningful structural response at 8 months \u2014 pituitary stalk thickening improved and both dural nodules resolved completely \u2014 alongside improved quality of life on hormone replacement. This case adds to the differential for pituitary stalk thickening and highlights BRAF V600E testing and targeted therapy as actionable steps when RDD is confirmed in the sellar region.",
+          "caveat": "Single case report with only 8 months of follow-up on dabrafenib; long-term durability and pituitary function recovery are unknown. BRAF V600E prevalence in RDD is variable, so mutation testing should be pursued but negative results do not exclude the diagnosis.",
+          "quiz_question": "A 40-year-old man presents with a 12-year history of central diabetes insipidus, now with new fatigue and cold intolerance. MRI shows a thickened pituitary stalk (7 mm) and two dural-based nodules. Anterior pituitary hormonal testing confirms panhypopituitarism. Stalk biopsy shows emperipolesis within large histiocytes. Molecular testing reveals BRAF V600E. What targeted therapy demonstrated structural and symptomatic benefit in an analogous published case?",
+          "quiz_answer": "Dabrafenib, a BRAF inhibitor, produced reduction in pituitary stalk thickening and complete disappearance of dural nodules after 8 months of treatment in a BRAF V600E-positive Rosai-Dorfman disease case, alongside improved quality of life with concurrent pituitary hormone replacement.",
+          "journal": "Zhong nan da xue xue bao. Yi xue ban = Journal of Central South University. Medical sciences",
+          "year": "2026"
+        },
+        {
+          "pmid": "42626294",
+          "doi": "10.3389/fendo.2026.1895026",
+          "title": "Hunger, satiety, and eating behavior after craniopharyngioma - narrative review on current management and future therapeutic perspectives.",
+          "category": "notable",
+          "summary": "This narrative review synthesizes evidence on eating behavior and hypothalamic obesity in craniopharyngioma patients, identifying a striking gap: only 10 of 82 included studies used validated eating-behavior measures, and eating behavior was rarely a primary outcome. Across the literature, setmelanotide \u2014 an MC4R agonist \u2014 emerged as the only intervention in a randomized controlled trial to specifically target hyperphagia and achieve significant weight reduction in craniopharyngioma-related obesity. The authors emphasize that without long-term studies using standardized tools, the mechanistic drivers of hyperphagia in this population (e.g., loss of satiety signaling, altered reward circuitry) remain incompletely characterized, limiting both diagnosis and treatment optimization.",
+          "caveat": "Narrative review methodology introduces selection bias, and the evidence base for setmelanotide is based on limited RCT data in a rare population. Generalizability across childhood-onset versus adult-onset craniopharyngioma is unclear, and long-term safety data for MC4R agonists in this context remain limited.",
+          "quiz_question": "A 19-year-old with a history of childhood craniopharyngioma treated with surgery and radiotherapy presents with severe, unrelenting hyperphagia and progressive obesity (BMI 42 kg/m\u00b2) despite dietary counseling and GLP-1 receptor agonist therapy. Which pharmacologic mechanism has the strongest current RCT-level evidence for directly targeting hyperphagia in this setting?",
+          "quiz_answer": "Melanocortin-4 receptor (MC4R) agonism with setmelanotide is supported by the only identified RCT demonstrating successful targeting of hyperphagia and significant weight loss in craniopharyngioma-related obesity, reflecting the downstream loss of hypothalamic MC4R signaling in these patients.",
+          "journal": "Frontiers in endocrinology",
           "year": "2026"
         }
       ],
