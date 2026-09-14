@@ -31,17 +31,20 @@
     "42682059",
     "42684648",
     "42684867",
+    "42687935",
     "42688135",
     "42688893",
     "42693345",
     "42693349",
     "42701317",
     "42702390",
+    "42704026",
     "42708510",
     "42712757",
     "42713228",
     "42725352",
-    "42729617"
+    "42729617",
+    "42732650"
   ],
   "sessions": [
     {
@@ -640,6 +643,49 @@
           "quiz_question": "A 19-year-old with a history of childhood craniopharyngioma treated with surgery and radiotherapy presents with severe, unrelenting hyperphagia and progressive obesity (BMI 42 kg/m\u00b2) despite dietary counseling and GLP-1 receptor agonist therapy. Which pharmacologic mechanism has the strongest current RCT-level evidence for directly targeting hyperphagia in this setting?",
           "quiz_answer": "Melanocortin-4 receptor (MC4R) agonism with setmelanotide is supported by the only identified RCT demonstrating successful targeting of hyperphagia and significant weight loss in craniopharyngioma-related obesity, reflecting the downstream loss of hypothalamic MC4R signaling in these patients.",
           "journal": "Frontiers in endocrinology",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-08-04",
+      "items": [
+        {
+          "pmid": "42732650",
+          "doi": "10.1016/j.jocn.2026.112265",
+          "title": "Comparing machine learning algorithms for predicting postoperative medical management in prolactinoma surgery: a nested cross-validation study.",
+          "category": "notable",
+          "summary": "This retrospective single-center study of 138 patients who underwent surgical prolactinoma resection used nested cross-validation to evaluate eight ML algorithms for predicting which patients would require postoperative dopamine agonist therapy (DAT), affecting roughly half the cohort. A parsimonious five-feature model\u2014preoperative prolactin, tumor volume, FSH, maximum diameter, and prolactin density\u2014achieved an AUROC of ~0.78\u20130.79 across the best-performing algorithms, with only a modest gain over a conventional logistic regression baseline (AUROC 0.735). SHAP analysis identified elevated preoperative prolactin, larger tumor volume, and lower FSH as the primary drivers. The authors appropriately call for external multicenter validation before clinical implementation.",
+          "caveat": "Single-center retrospective design with 138 patients limits generalizability, and the modest incremental gain over simple logistic regression raises questions about whether the added complexity of ML is warranted; external validation is essential.",
+          "quiz_question": "A 35-year-old woman undergoes transsphenoidal resection of a prolactinoma with a preoperative prolactin of 420 ng/mL, tumor volume 4.2 cm\u00b3, and suppressed FSH. According to this study's five-feature predictive model, which direction would her SHAP-driven risk estimate lean regarding postoperative dopamine agonist requirement?",
+          "quiz_answer": "Her profile\u2014elevated preoperative prolactin, larger tumor volume, and low FSH\u2014represents the three primary drivers associated with higher predicted probability of requiring postoperative dopamine agonist therapy, per the SHAP analysis in this study.",
+          "journal": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+          "year": "2026"
+        },
+        {
+          "pmid": "42687935",
+          "doi": "10.3389/fendo.2026.1843625",
+          "title": "Elevated IGF-1 levels are associated with accelerated bone age advancement during growth hormone therapy in children: a multicenter cohort study.",
+          "category": "notable",
+          "summary": "This multicenter registry study of 1,944 children (idiopathic GHD, idiopathic short stature, or SGA) found that each 1-SD increase in IGF-1 SDS during GH therapy was independently associated with a 24% higher risk of bone age advancement (BA/CA >1). Children born SGA were at significantly higher risk than those with IGHD (HR 2.15), and ISS patients also showed elevated risk (HR 1.63). Findings were consistent across sex, age subgroups, and a stricter BA/CA >1.2 sensitivity analysis, supporting individualized GH dosing with close IGF-1 and skeletal monitoring.",
+          "caveat": "Observational registry design precludes causal inference; bone age assessment carries inherent inter-reader variability, and the study does not report final adult height outcomes, which are the clinically meaningful endpoint.",
+          "quiz_question": "An 8-year-old girl born SGA is 6 months into GH therapy. Her IGF-1 SDS has risen from +0.5 to +2.8. Based on this study's findings, how should you counsel the family about bone maturation risk, and what monitoring adjustment is warranted?",
+          "quiz_answer": "SGA status and a rising IGF-1 SDS are both independently associated with accelerated bone age advancement in this study. The family should be counseled about this risk, and dose reduction to target an IGF-1 SDS within the normal range, combined with more frequent bone age radiographs, would be the monitoring adjustment supported by these findings.",
+          "journal": "Frontiers in endocrinology",
+          "year": "2026"
+        },
+        {
+          "pmid": "42704026",
+          "doi": "10.20960/nh.07111",
+          "title": "[Oral urea in the management of inappropriate antidiuretic hormone secretion syndrome associated with Guillain-Barr\u00e9 syndrome, severe dysautonomia, and pheochromocytoma \u2012 An exceptional clinical case].",
+          "category": "preliminary",
+          "summary": "This case report describes an 82-year-old man with pheochromocytoma and colon adenocarcinoma who developed SIADH in the setting of Guillain-Barr\u00e9 syndrome with severe dysautonomia, a combination that severely constrained conventional hyponatremia therapies such as fluid restriction and oral sodium chloride. Oral urea achieved safe, gradual sodium correction without significant adverse events, enabling completion of preoperative preparation and successful subsequent adrenalectomy and colonic resection. The authors note this appears to be the first reported use of oral urea for SIADH in a patient with concurrent pheochromocytoma and Guillain-Barr\u00e9-related dysautonomia.",
+          "caveat": "Single case report; no generalizable efficacy or safety data. Pheochromocytoma was presumably not causing the SIADH, but the interaction between catecholamine excess, dysautonomia, and sodium homeostasis in this scenario is complex and the report cannot isolate the contribution of each condition.",
+          "quiz_question": "A patient with a known pheochromocytoma awaiting adrenalectomy develops symptomatic SIADH (Na 126 mEq/L) in the context of severe autonomic instability. Fluid restriction is poorly tolerated and oral NaCl is ineffective. What alternative oral agent does this case report support, and what is its mechanism of action in SIADH?",
+          "quiz_answer": "Oral urea is the agent described. It acts as an osmotic agent, increasing free water excretion by the kidneys without significantly affecting sodium or potassium, thereby raising serum sodium gradually and safely\u2014particularly useful when vasopressin receptor antagonists or aggressive fluid restriction are impractical.",
+          "journal": "Nutricion hospitalaria",
           "year": "2026"
         }
       ],
