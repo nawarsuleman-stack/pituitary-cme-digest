@@ -39,6 +39,7 @@
     "42701317",
     "42702390",
     "42704026",
+    "42707748",
     "42708510",
     "42712757",
     "42713228",
@@ -46,8 +47,10 @@
     "42727727",
     "42729617",
     "42732650",
+    "42736093",
     "42736608",
-    "42739237"
+    "42739237",
+    "42743103"
   ],
   "sessions": [
     {
@@ -732,6 +735,49 @@
           "quiz_question": "A 14-year-old with childhood-onset GHD and documented poor adherence to daily GH injections is transitioning to adult care. His parents ask about once-weekly GH options. What does current clinical trial evidence show regarding efficacy of LAGH formulations compared to daily GH in children, and what is the key remaining evidence gap?",
           "quiz_answer": "Clinical trials of once-weekly LAGHs (lonapegsomatropin, somatrogon, somapacitan) have demonstrated non-inferiority to daily GH for annualized height velocity in children with comparable safety. The key remaining evidence gap is long-term real-world data on metabolic outcomes, bone health, and sustained adherence benefits\u2014particularly relevant during the transition to adult care.",
           "journal": "Annales d'endocrinologie",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-08-05",
+      "items": [
+        {
+          "pmid": "42743103",
+          "doi": "10.12659/AJCR.952994",
+          "title": "Pheochromocytoma Masquerading as Acute Coronary Syndrome Complicated by Cardiogenic Shock: A CARE-Compliant Case Report.",
+          "category": "notable",
+          "summary": "This case report describes a 59-year-old man with a 10-year history of intermittent chest tightness who presented with acute cardiogenic shock, elevated troponin, and significantly reduced LVEF, but no obstructive coronary disease on angiography (MINOCA pattern). Plasma free normetanephrine and metanephrine were markedly elevated (>630\u2013680\u00d7 ULN), and CT confirmed a right adrenal mass. Following two weeks of alpha-blockade with phenoxybenzamine and volume expansion, laparoscopic adrenalectomy was performed, with complete normalization of cardiac function postoperatively, confirming catecholamine-induced cardiomyopathy as the mechanism.",
+          "caveat": "Single case report; the degree of metanephrine elevation here was extreme, and clinicians should note that biochemical confirmation may be more subtle in other cases of pheo-induced cardiomyopathy. The reversibility of catecholamine cardiomyopathy is well established but not universal.",
+          "quiz_question": "A 62-year-old man presents with acute cardiogenic shock, troponin elevation, and reduced LVEF on echo, but coronary angiography shows no significant stenosis. Blood pressure has been labile for years. What is the next most critical diagnostic step before attributing this to a primary cardiomyopathy?",
+          "quiz_answer": "Measurement of plasma free metanephrines (or 24-hour urinary fractionated metanephrines) to exclude pheochromocytoma, followed by adrenal CT if biochemistry is positive. As illustrated in this case, pheo can present as MINOCA with cardiogenic shock, and missing the diagnosis risks a fatal catecholamine crisis during further cardiac interventions.",
+          "journal": "The American journal of case reports",
+          "year": "2026"
+        },
+        {
+          "pmid": "42736093",
+          "doi": "10.1016/j.acra.2026.08.069",
+          "title": "Deep Learning Based on Magnetic Resonance Imaging for Preoperative Prediction of Pituitary Neuroendocrine Tumors Subtypes.",
+          "category": "preliminary",
+          "summary": "This retrospective two-center study of 888 patients with pathologically confirmed PitNETs trained a YOLOv11 deep learning model on standard preoperative MRI sequences to classify tumors into four molecular lineage groups (PIT1, TPIT, SF1, and no distinct lineage). Sagittal contrast-enhanced T1-weighted imaging performed best (mAP50-95: 0.901), with robust performance across internal, temporal external, and multicenter validation cohorts. If prospectively validated, this approach could enable noninvasive preoperative molecular subtyping to guide surgical and adjuvant treatment planning before histopathology is available.",
+          "caveat": "Retrospective design with no prospective validation; model performance metrics are promising but mAP is an object-detection metric not directly equivalent to clinical diagnostic accuracy measures like AUC or sensitivity/specificity. Generalizability beyond the two contributing centers is unproven.",
+          "quiz_question": "A 48-year-old woman with a nonfunctioning pituitary macroadenoma is scheduled for transsphenoidal resection. Her surgical team asks whether preoperative MRI alone can reliably predict the tumor's transcription factor lineage (e.g., SF1 vs. PIT1). Based on this study, what can you tell them?",
+          "quiz_answer": "Deep learning models applied to standard preoperative MRI sequences \u2014 particularly sagittal contrast-enhanced T1WI \u2014 showed high accuracy for molecular subtype classification in retrospective cohorts, with mAP50-95 of up to 0.901. However, this remains investigational; prospective validation is needed before MRI-based subtyping can replace or guide postoperative immunohistochemical lineage classification in routine practice.",
+          "journal": "Academic radiology",
+          "year": "2026"
+        },
+        {
+          "pmid": "42707748",
+          "doi": "10.7759/cureus.114171",
+          "title": "Hyponatremia as the Initial Presentation of Rathke's Cleft Cyst-Related Hypopituitarism.",
+          "category": "notable",
+          "summary": "This case report highlights a 76-year-old woman presenting with severe euvolemic hyponatremia (without headache or visual symptoms) as the sole initial manifestation of pan-hypopituitarism caused by a Rathke's cleft cyst with mild suprasellar extension. Secondary adrenal insufficiency was identified as the driver of hyponatremia; hydrocortisone replacement led to sodium normalization, underscoring that untreated central adrenal insufficiency \u2014 rather than AVP excess alone \u2014 can be the primary mechanism. The case reinforces that pituitary MRI and a full anterior pituitary hormone panel are warranted in any euvolemic hyponatremia workup that lacks an obvious cause.",
+          "caveat": "Single case report; the relative contributions of central hypothyroidism versus secondary adrenal insufficiency to the hyponatremia were not formally separated. Mild hyperprolactinemia from stalk compression was also present, adding complexity to interpretation.",
+          "quiz_question": "A 78-year-old woman presents with Na of 126 mEq/L, clinically euvolemic, no diuretics, TSH normal per primary care records. Urine osmolality is 420 mOsm/kg and urine Na is 55 mEq/L \u2014 consistent with SIADH. She has no headache or visual complaints. What additional evaluation should be performed before labeling this as idiopathic SIADH?",
+          "quiz_answer": "A morning cortisol (and if borderline, a cosyntropin stimulation test) plus a full anterior pituitary hormone panel (free T4, LH/FSH, IGF-1, prolactin) and pituitary MRI should be obtained. As this case illustrates, secondary adrenal insufficiency from an occult sellar lesion such as a Rathke's cleft cyst can present as apparent SIADH, and glucocorticoid replacement \u2014 not fluid restriction \u2014 is the corrective intervention.",
+          "journal": "Cureus",
           "year": "2026"
         }
       ],
