@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-16",
+  "fetched_at": "2026-09-17",
   "date_window": {
-    "from": "2016/09/18",
-    "to": "2026/09/16"
+    "from": "2016/09/19",
+    "to": "2026/09/17"
   },
   "already_covered_pmids": [
     "41730814",
@@ -44,6 +44,7 @@
     "42701317",
     "42702390",
     "42704026",
+    "42707748",
     "42708510",
     "42712757",
     "42713228",
@@ -51,10 +52,34 @@
     "42727727",
     "42729617",
     "42732650",
+    "42736093",
     "42736608",
-    "42739237"
+    "42739237",
+    "42743103"
   ],
   "candidates": [
+    {
+      "pmid": "42749973",
+      "doi": "10.1007/s11102-026-01757-8",
+      "title": "Prolactinoma assessment and management: an international multidisciplinary cross-sectional survey of current practice.",
+      "abstract": "Prolactinomas are the commonest pituitary adenoma encountered in clinical practice, yet many aspects of their assessment and management remain variable. The 2023 Pituitary Society Consensus Statement on the diagnosis and management of prolactin-secreting pituitary adenomas provided important contemporary guidance, but the extent to which current practice aligns with these recommendations remains unclear. We aimed to define international multidisciplinary perspectives on resource availability and clinical decision-making in prolactinoma care. We conducted an international cross-sectional survey of endocrinologists and neurosurgeons involved in prolactinoma management. Questions examined access to clinical resources, awareness of emerging issues in prolactinoma care, and areas of concordance or discordance between reported practice and published guidance. A total of 249 clinicians completed the survey, including 210 endocrinologists and 39 neurosurgeons, from America, Europe, Oceania and Asia. Important resource limitations included inconsistent reporting of Knosp grade and limited availability of transcription factor immunohistochemistry. Only 20% of respondents routinely referred newly diagnosed prolactinoma cases for multidisciplinary team discussion. Most endocrinologists counselled patients regarding dopamine agonist-related risks. Amongst neurosurgeons, reported indications for surgery and views on dopamine agonist-induced tumour fibrosis varied considerably. Although current guidelines support surgery as an equal first-line option in selected microadenomas, cabergoline remained the preferred initial treatment in these scenarios. International prolactinoma practice is heterogeneous and often discordant with contemporary guidance. Most notably, cabergoline therapy remains the preferred treatment strategy in microprolactinomas, and multidisciplinary discussion of prolactinoma cases is infrequent. This survey dataset serves as a roadmap for future research and clinical service improvement in prolactinoma care globally.",
+      "journal": "Pituitary",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42750755",
+      "doi": "10.1002/puh2.70363",
+      "title": "Can Multidrug-Resistant and Extensively Drug-Resistant Tuberculosis be Treated More Successfully?",
+      "abstract": "Signs and symptoms of tuberculosis (TB) are a result of a disturbed balance between Mycobacterium tuberculosis and the patient's tolerance to its pathogenic properties. Pharmacological treatments elicit the evolution of drug resistance, and there is a need to consider alternative treatment methods. We performed a statistical analysis of World Health Organization (WHO) data, combined with an analysis of old medical records, aimed at suggesting a new treatment. Data from the WHO for all countries worldwide (N\u00a0=\u00a0215) on the epidemiology of all TB cases, human immunodeficiency virus (HIV)-related TB, multidrug-resistant TB (MDR) and extensively drug-resistant TB (XDR) in 2012-2022 contain prevalence, success rate of treatment, mortality and numbers of failed treatments and patients lost-to-follow-up. Data on success rates in old 'sanatoria treatment', widespread before the 1940s, were used to predict hypothetical success rates of drug-resistant cases if sanatoria treatment were added to treatment regimes. After 2012, the number of MDR and XDR cases increased faster than the total number of TB cases, as did their proportions among the total. Success rates of MDR (\u223c70%) and XDR (around 60%) treatments would hypothetically increase to around 90%, when supplemented by sanatoria treatment success. Adding treatments for increasing tolerance to TB infection to the current pharmacological treatments may improve outcomes.",
+      "journal": "Public health challenges",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
     {
       "pmid": "42720766",
       "doi": "10.1007/s00261-026-05774-w",
@@ -68,104 +93,58 @@
       ]
     },
     {
-      "pmid": "42745913",
-      "doi": "10.3389/fneur.2026.1880792",
-      "title": "Regional anesthesia after spinal cord injury attenuates behavioral loss, hemorrhage, and cell death.",
-      "abstract": "Prior research has shown that regional application of an anesthetic (lidocaine) via a lumbar puncture can attenuate pain-induced secondary tissue loss after spinal cord injury (SCI). Applying lidocaine rostral to injury (at T2) also had a protective effect, suggesting neural signaling to/from rostral systems contributes to pain-induced tissue loss after SCI. The present study examined whether regional anesthesia protects the injured spinal cord when applied immediately after injury in the absence of additional pain. We hypothesized that inhibiting cellular activity in the region of injury would have a protective effect and that increasing the duration of treatment (from 1.5 to 12\u202fh) would amplify this outcome. Male rats received a severe T12 contusion injury and were fitted with a catheter with the tip positioned either at L4 (Experiment 1) or at T2 (Experiment 2). Infusion of a marker at L4 showed dispersion extending to the site of injury. Infusion at T2 was restricted to the upper thoracic region. Regional anesthesia was induced using bupivacaine due to its wide use and long duration of action. Immediately after injury, animals received 30\u202f\u03bcL of 0.75% bupivacaine or saline through the implanted catheter. Separate groups then received 0, 1, 3, or 7 additional infusions at 90\u202fmin intervals, yielding four treatment conditions: 1.5, 3, 6, or 12\u202fh of local anesthesia. A day after injury, locomotor performance was assessed and a 1\u202fcm region of injured spinal cord was taken to be assayed for markers of hemorrhage, programmed cell death, and inflammation. Animals that received bupivacaine rostral to injury for 3-12\u202fh exhibited improved locomotor recovery, less hemorrhage, and reduced cell death at the site of injury. Treatment at L4 was less effective in attenuating hemorrhage and cell death. In both experiments, there was no indication that increasing the duration of treatment beyond 3\u202fh had added benefit. The results suggest that local application of an anesthetic at, or rostral to, a SCI may have a protective effect.",
-      "journal": "Frontiers in neurology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42745918",
-      "doi": "10.1002/dad2.70477",
-      "title": "Imaging for anti-amyloid therapy eligibility: Comparing GRE and SWI in detecting microhemorrhages and superficial siderosis.",
-      "abstract": "Anti-amyloid therapies such as lecanemab require magnetic resonance imaging (MRI) screening to exclude patients with\u00a0>\u00a04 gradient-recalled echo (GRE)-detected microhemorrhages or any superficial siderosis (SS). Although GRE and susceptibility-weighted imaging (SWI) are both accepted, they differ in detection performance. We retrospectively analyzed 224 eligibility MRIs with paired GRE and SWI from a single academic health system. Six neuroradiologists assessed a 20-scan reliability subset; the remaining 204 scans were assigned to one rater for hemorrhagic lesion detection and MRI-based eligibility classification. Interobserver reliability was calculated using intraclass correlation coefficients (ICCs), and sequence differences were evaluated using non-parametric tests. SWI detected more microhemorrhages than GRE (mean 1.24\u00a0vs. 0.67, p\u00a0<\u00a00.0001), identified eight additional SS cases, and showed higher interobserver agreement (ICC 0.951\u00a0vs. 0.764, p\u00a0<\u00a00.01). SWI classified more patients as MRI ineligible than GRE (26/204 [12.7%] vs. 11/204 [5.4%]). SWI identifies more exclusionary hemorrhagic findings and demonstrates greater reproducibility than GRE.",
-      "journal": "Alzheimer's & dementia (Amsterdam, Netherlands)",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42744529",
-      "doi": "10.1016/j.endien.2026.501798",
-      "title": "Primary central nervous system lymphoma involving the hypothalamic-pituitary axis presenting with hypopituitarism: A case report with long-term follow-up.",
-      "abstract": "Primary central nervous system lymphoma (PCNSL) involving the hypothalamic-pituitary axis is a rare condition and may present with nonspecific neurologic and endocrine signs, often mimicking more common sellar lesions. We report the case of a 59-year-old woman admitted with subacute behavioral changes, cognitive decline, and polyuria. Magnetic resonance imaging revealed a pituitary-infundibular mass with suprasellar extension and marked bifrontal edema. Endocrine evaluation demonstrated panhypopituitarism and arginine vasopressin deficiency. The clinical course was complicated by severe dysnatremias requiring intensive care management and hormonal replacement. Histopathologic analysis of a transsphenoidal biopsy confirmed diffuse large B-cell lymphoma, with no systemic disease on PET-CT or bone marrow evaluation. The patient was treated with the MATRix chemotherapy regimen followed by autologous stem cell transplantation, achieving sustained complete remission at 3.5 years. Persistent hypogonadotropic hypogonadism remained as a sequelae. This case underscores the diagnostic challenges of sellar involvement by PCNSL and highlights the importance of including lymphoma in the differential diagnosis of hypothalamic-pituitary masses. Acute pituitary failure with severe electrolyte disturbances may precede oncologic diagnosis, and early multidisciplinary management combined with aggressive therapy can result in long-term remission.",
-      "journal": "Endocrinologia, diabetes y nutricion",
+      "pmid": "42750771",
+      "doi": "10.1016/j.isci.2026.117396",
+      "title": "Piezoelectric amino acids and peptides: Mechanisms, molecular engineering, and biomedical applications.",
+      "abstract": "Piezoelectric amino acids and peptides have attracted growing attention in biomedical research because of their intrinsic piezoelectricity, superior biocompatibility, and biodegradability. The electrical signals generated by these materials resemble endogenous bioelectric signals in tissues, making them promising for biosensing, tissue regeneration, antimicrobial therapy, and cancer treatment. This review summarizes the piezoelectric mechanisms, classifications, molecular modification approaches, external-field-assisted fabrication methods, and reported biomedical applications of amino acid- and peptide-based piezoelectric biomaterials. It also outlines key challenges and future directions for biodegradable bioelectronic systems. By integrating these aspects, this review provides a theoretical foundation for developing targeted piezoelectric amino acid and peptide materials with excellent piezoelectric performance, biocompatibility, and biodegradability, and for promoting their clinical application.",
+      "journal": "iScience",
       "year": "2026",
       "publication_types": [
         "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42704853",
+      "doi": "10.5114/pedm.2026.162372",
+      "title": "Distinguishing clinical features of paediatric autoimmune Addison's disease and polyendocrine syndromes: a 15-year single-centre observational study from Baghdad, Iraq.",
+      "abstract": "Autoimmune Addison's disease (AAD) is a rare endocrine disorder characterised by immune-mediated destruction of the adrenal cortex. AAD may occur in isolation or as part of a broader autoimmune polyendocrine syndrome (APS). Distinguishing the two is essential owing to implications for patient screening and prognosis. Earlier identification of APS patients is crucial for preserving residual adrenal function and developing future targeted therapies. This study aimed to define clinical and laboratory features of paediatric isolated AAD and APS. This retrospective cohort study recruited 55 paediatric patients; 27/55 had isolated AAD and 28/55 had APS. They were followed at the Children's Welfare Teaching Hospital, Baghdad, Iraq, between 2009 and 2024. Data collected and compared included: demographic variables (age, gender, family history, duration of symptoms), presenting clinical features and adrenal crisis, and laboratory parameters. Male predominance was observed in both groups, although the difference was not significant. Positive family history was more frequent in APS (p = 0.03). Clinically, hyperpigmentation, weight loss, poor appetite, and hypoglycaemia-induced seizures were significantly higher in isolated AAD (p = 0.0001, 0.0002, 0.042, 0.041). Adrenal crises were more frequent in APS cases (p = 0.18). Major risk factors for adrenal crisis included poor treatment compliance and infections. Laboratory parameters showed that hyperkalaemia and hypoglycaemia were significantly more pronounced in AAD (0.0079 and 0.00002). Distinguishing isolated AAD from APS may be clinically useful. Differences were observed in metabolic severity, family history, weight loss, hyperpigmentation, and risk of adrenal crisis. These findings suggest that management of both conditions may benefit from a tailored approach, emphasizing treatment adherence and infection prevention in both groups.",
+      "journal": "Pediatric endocrinology, diabetes, and metabolism",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Observational Study"
+      ]
+    },
+    {
+      "pmid": "42750750",
+      "doi": "10.1016/j.radcr.2026.08.034",
+      "title": "Effective amyloid clearance with lecanemab in a female with Alzheimer's disease: A case report.",
+      "abstract": "Anti-amyloid monoclonal antibodies, including lecanemab, have been approved for patients with mild cognitive impairment (MCI) or mild dementia due to Alzheimer's disease (AD). Further clarification of the long-term safety and effectiveness of these disease-modifying therapies is essential in patients treated outside the setting of clinical trials. We report an 81-year-old woman with amnestic MCI due to AD who was treated with lecanemab for 18 months in a clinical setting. At baseline, she had mild memory impairment without functional decline (Mini-Mental State Examination-Japanese version [MMSE-J], 29; Clinical Dementia Rating global score [CDR-GS], 0.5), extensive cortical amyloid deposition on \u00b9\u00b9C-Pittsburgh compound B positron emission tomography (PET; centiloid [CL], 107.1), and elevated cerebrospinal fluid phosphorylated tau 181; she received 36 biweekly intravenous lecanemab (10 mg/kg). During treatment, surveillance magnetic resonance imaging revealed no amyloid-related imaging abnormalities, no adverse events occurred, and cognitive and functional status remained stable at 18 months (MMSE-J 28; CDR-GS 0.5), while amyloid PET demonstrated marked amyloid clearance (CL 21.3). This case illustrates substantial amyloid clearance with preserved cognitive and functional status after 18 months of lecanemab treatment without treatment-related safety concerns. Continued lecanemab therapy beyond 18 months may be feasible in carefully selected patients with early-stage AD, although further real-world data are needed to establish its long-term benefits and risks.",
+      "journal": "Radiology case reports",
+      "year": "2026",
+      "publication_types": [
         "Case Reports",
-        "Review"
+        "Journal Article"
       ]
     },
     {
-      "pmid": "42686245",
-      "doi": "10.1016/j.cden.2026.05.010",
-      "title": "Sedation Criteria for Intravenous Sedation in Oral Surgery.",
-      "abstract": "Intravenous sedation is a key component of oral and maxillofacial surgery, improving patient comfort and procedural tolerance. Safe administration depends on a structured pre-sedation evaluation that includes comprehensive medical history, airway assessment, ASA classification, BMI evaluation, and screening for obstructive sleep apnea. Systemic conditions such as diabetes, anemia, sickle cell disease, and adrenal insufficiency significantly influence sedation risk and require individualized management. Together, these criteria support effective risk stratification, guide sedation planning, and align with professional standards to optimize patient safety and outcomes.",
-      "journal": "Dental clinics of North America",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "42533173",
-      "doi": "10.1007/s10815-026-03980-5",
-      "title": "Restoration of spermatogenesis in a male with prolactinoma-induced hypogonadotropic hypogonadism using follitropin delta and recombinant choriogonadotropin alfa: a case report.",
-      "abstract": "Follitropin delta is a recombinant human follicle-stimulating hormone (FSH) produced in the human PER.C6 cell line, approved exclusively for controlled ovarian stimulation in women. Its unique glycosylation profile confers distinct pharmacokinetic advantages over Chinese hamster ovary-derived follitropin alfa. To date, no published report exists on the use of follitropin delta in males. The present case describes the first successful off-label use of follitropin delta in combination with recombinant choriogonadotropin alfa (hCG) to restore spermatogenesis in a male patient with prolactinoma-induced hypogonadotropic hypogonadism and exogenous testosterone-associated azoospermia. A 30-year-old male with a 6-cm pituitary prolactinoma diagnosed at age 18, managed with cabergoline, presented with azoospermia following 2\u00a0years of testosterone undecanoate replacement therapy. There was confirmed suppression of gonadotropins (luteinizing hormone 0.3 mIU/mL and FSH 0.3 mIU/mL) and prolactin of 100\u00a0ng/mL. Hormonal stimulation was initiated with follitropin delta 10\u00a0\u00b5g twice weekly and hCG alfa (~\u2009125\u00a0\u00b5g every 4-5\u00a0days), alongside continued cabergoline. After 4\u00a0months of therapy, semen analysis revealed sperm concentration of 3.5 million/mL (total sperm count 4.9 million/ejaculate). Testosterone levels normalized, with marked clinical improvement. This case provides the first evidence that follitropin delta can successfully replace conventional FSH preparations in male gonadotropin stimulation protocols. Spermatogenesis was restored within a favorable timeframe, enabling access to assisted reproductive technology (IVF/ICSI). Nevertheless, these findings are limited to a single case report and require confirmation in larger studies.",
-      "journal": "Journal of assisted reproduction and genetics",
+      "pmid": "42746593",
+      "doi": "10.4103/tcmj.TCMJ-D-25-00145",
+      "title": "Effectiveness of transsphenoidal surgery on remission and recurrence rates of pituitary adenomas: A systematic review and meta-analysis.",
+      "abstract": "This systematic review and meta-analysis evaluated the effectiveness of transsphenoidal surgery (TSS) in achieving remission and reducing recurrence in pituitary adenomas. A systematic review and meta-analysis were conducted following PRISMA guidelines. A comprehensive search of nine databases was performed for studies published between 2010 and 2025. Eligible studies included cohort, case-control, and randomized controlled trials reporting remission and/or recurrence outcomes after TSS. Study selection, data extraction, and quality assessment using the Newcastle-Ottawa Scale were independently conducted by two reviewers. Random-effects meta-analyses were applied where appropriate. A total of 42 studies involving 6416 patients were included. Endoscopic TSS (ETSS) was reported in 62.32% of studies. Meta-analysis demonstrated that ETSS was associated with a significantly higher endocrine remission rate compared with microscopic TSS (MTSS) (RR = 1.25, 95% CI 1.12-1.40). No significant difference was observed in gross total resection rates (RR = 0.99, 95% CI 0.93-1.05). Descriptive pooled analysis showed recurrence rates of 7.1% for ETSS and 11.8% for MTSS, although no direct comparative studies were available for recurrence outcomes. Visual remission following ETSS was reported in 81.8% of patients with optic chiasm compression. These findings support the effectiveness of TSS, particularly through the endoscopic approach, in improving remission outcomes, with favorable recurrence profiles reported across included studies.",
+      "journal": "Tzu chi medical journal",
       "year": "2026",
       "publication_types": [
         "Journal Article"
       ]
     },
     {
-      "pmid": "42741749",
-      "doi": "10.7573/dic.2026-4-3",
-      "title": "How to manage medullary thyroid carcinoma: current treatment strategies.",
-      "abstract": "Medullary thyroid carcinoma (MTC) is a rare thyroid malignancy, representing approximately 2-5% of all thyroid cancers. It develops from the parafollicular C cells of the thyroid gland. Calcitonin, produced by parafollicular C cells, is a highly reliable biomarker for both diagnosis and disease monitoring. MTC commonly spreads to cervical lymph nodes and can also lead to distant metastases. Approximately 25% of MTC cases are hereditary, occurring as part of multiple endocrine neoplasia syndromes. Inherited forms are driven by germline mutations in the RET proto-oncogene. Genetic testing enables identification of RET carriers, whilst the risk associated with specific RET variants helps determine the optimal timing for prophylactic or therapeutic surgery. Surgical management remains the cornerstone treatment for MTC. Nevertheless, recurrent or metastatic disease continues to pose therapeutic challenges, requiring individualized strategies such as locoregional interventions, radiotherapy and systemic therapies. Tyrosine kinase inhibitors, along with selective RET inhibitors, represent the main therapeutic strategies for patients whose tumours show rapid progression. This review summarizes current surgical, locoregional and systemic treatment strategies for sporadic and hereditary MTC, focusing on the role of multi-kinase and selective RET inhibitors. Medullary thyroid carcinoma (MTC) is a rare thyroid cancer, accounting for 2\u20135% of all thyroid cancer cases. It arises from the thyroid\u2019s parafollicular C cells, which primarily secrete calcitonin \u2013 the main blood marker used to diagnose the disease and monitor for recurrence. MTC presents in two forms:Sporadic (70\u201375%): Occurs by chance, often presenting as a thyroid nodule or swollen neck lymph nodes.Hereditary (25\u201330%): Caused by inherited mutations in the RET gene, often occurring as part of Multiple Endocrine Neoplasia type 2 (MEN2A or MEN2B) syndromes. Calcitonin and CEA: Elevated blood levels of calcitonin and carcinoembryonic antigen (CEA) signal MTC. The rate at which these levels increase (doubling time) after surgery predicts disease progression and overall survival.Genetic testing: Recommended for all patients with MTC. Identifying a germline RET mutation allows family members to undergo early screening and preventive surgery.Pathology grading (IMTCGS): Classifies MTC into low-grade or high-grade based on cell division rates (mitotic index, Ki-67 index) and tumour necrosis. High-grade tumours behave more aggressively. Surgery is the cornerstone of treatment for localized MTC.Thyroidectomy: Total removal of the thyroid (and nearby lymph nodes) is standard. For small, single sporadic tumours, a partial removal (lobectomy) may be considered in select cases.Prophylactic surgery: Relatives who carry inherited RET mutations may undergo preventative total thyroidectomy, timed according to the specific mutation\u2019s risk of aggressiveness taking into consideration calcitonin levels and ultrasound findings in moderate-risk cases.Pre-surgical precaution: Patients with familial MTC must be screened for pheochromocytoma (an adrenal gland tumour). If present, it must be surgically removed before thyroid surgery to prevent dangerous blood pressure spikes. Up to 50% of patients have persistent disease post-surgery. MTC does not respond to traditional thyroid treatments like radioactive iodine or standard chemotherapy. For slow-growing or localized metastases (in lungs, liver or bones), targeted procedures, such as radiation, radiofrequency ablation or embolization, can control local lesions and delay systemic medication. When MTC spreads (metastasizes) or cannot be fully removed with surgery or controlled with localized treatments, targeted drug therapy becomes the primary treatment option. Because MTC does not respond to standard chemotherapy or radioactive iodine, treatment relies on specific medications that block tumour growth signals.Selective RET inhibitors: these drugs target the specific RET gene mutation driving the cancer, offering high effectiveness with fewer side effects than older treatments.Selpercatinib: Recommended as the preferred first-line therapy for patients with RET-mutated MTC. Clinical trials demonstrate superior progression-free survival (86.8% at 12 months) and fewer serious side effects compared to older options.Pralsetinib: Demonstrated strong clinical results; however, it is no longer approved for MTC in the USA and Europe.Multi-kinase inhibitors (MKIs): MKIs block multiple growth and blood vessel pathways (including VEGFR and RET) to starve the tumour. Vandetanib or cabozantinib are primarily used for RET-negative (wild-type) tumours or when selective RET inhibitors are unavailable. Next-generation RET inhibitors: Drugs like LOXO-260 and EP0031 are currently in clinical trials to directly overcome acquired resistance mutations.Combination and novel therapies: Combining RET inhibitors with other targeted agents (e.g. MET inhibitors), testing peptide receptor radionuclide therapy and exploring targeted immunotherapies (like DLL3-targeted bispecific T cell engagers).As ongoing clinical trials continue to tackle acquired drug resistance through next-generation inhibitors and combination therapies, the future of MTC treatment moves steadily toward increasingly personalized, durable disease control.",
-      "journal": "Drugs in context",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "42244465",
-      "doi": "10.1111/dom.70928",
-      "title": "Clinical Implications and Research Progress of Salivary Biomarkers for Endocrine and Metabolic Disorders.",
-      "abstract": "Similar to blood, saliva contains a broad range of biomarkers and may offer a non-invasive, repeatable specimen for endocrine and metabolic assessment. This review aims to synthesise and evaluate recent advances in the clinical translation of salivary biomarkers, while providing a critical assessment of the diagnostic reliability and clinical potential of key salivary biomarkers. PubMed, Web of Science and ScienceDirect were searched for English-language articles published up to July 2025, with emphasis on studies from 2020 to 2025. We included articles with a focus on the clinical translation of salivary biomarkers for endocrine and metabolic disorders. The relevant studies on the physiology underlying the synthesis and transport of salivary biomarkers were also identified. Late-night salivary cortisol is the most clinically established marker and is guideline-endorsed for Cushing's syndrome, while salivary cortisone may improve the diagnostic accuracy. Salivary glycaemic biomarkers, such as glucose, 1,5-anhydroglucitol, fructosamine, glycated albumin and \u03b1-amylase, show potential for diabetes screening or monitoring. Salivary uric acid, inflammatory factors and adipokines may reflect hyperuricaemia, obesity and metabolic inflammation. However, most biomarkers remain exploratory and their clinical translation is limited by inconsistent collection procedures, oral disease, medication effects and analytical platforms. Salivary biomarkers offer a promising non-invasive approach for assessment of endocrine and metabolic disorders. Standardised procedures and large-scale multicentre validation are needed to define reliable clinical cutoffs and perform comparisons with blood-based reference standards. Applications for machine learning and wearable sensing technology can further promote clinical translation.",
-      "journal": "Diabetes, obesity & metabolism",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "42745899",
-      "doi": "10.3389/fvets.2026.1898173",
-      "title": "Blood parameters of wild-caught harbor seals (Phoca vitulina) in the German North Sea: reference intervals and potential influencing factors.",
-      "abstract": "Reference ranges for blood parameters are essential for diagnostic assessment and treatment decisions for harbor seals (Phoca vitulina) in rehabilitation or under permanent human care. Moreover, they are also important for evaluating the health status of free-ranging animals, thereby allowing conclusions about population health. To date, robust datasets of free-ranging presumably healthy individuals are rare. Here, we evaluated reference values for 14 hematologic and 21 serum biochemical parameters of 576 harbor seals that were wild-caught in the German North Sea over almost three decades. After the removal of outliers, nonparametric or bootstrapping methods were applied, depending on the sample size for each parameter, to estimate 95% reference intervals and their 90% confidence intervals. Additionally, we investigated the influence of three factors, as well as potential time trends, on each blood parameter using the Mann-Whitney-U test. Here, the factors which showed a moderate effect on only a few of the tested blood parameters were age class, sex, and season. LDH values were higher in juveniles than in multi-year animals, while creatine showed higher values in multi-year animals. Females showed higher values for iron, BUN, and triglycerides compared to males. Red cell distribution width (RDW), total-protein and cholesterol values were higher in spring than in autumn. No specific changes over time were determined for any of the blood parameters. This study enhances the knowledge on blood reference values of free-ranging harbor seals, delivering important baseline data especially for further health assessments of the Wadden Sea harbor seal population. Continuous health examinations of free-ranging marine mammal populations represent an important early warning tool for identifying potential threats affecting these animals. Therefore, they can provide valuable information to support effective management and conservation measures.",
-      "journal": "Frontiers in veterinary science",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42745900",
-      "doi": "10.3389/fsurg.2026.1918397",
-      "title": "Arthroscopic-assisted uniportal spinal surgery for the treatment of rare T10/T11 thoracic disc herniation: a case report.",
-      "abstract": "Thoracic disc herniation (TDH) is rare, with an estimated incidence of 1 per 1,000,000 individuals. Surgical treatment is indicated for those suffering from myelopathy and/or intractable neurological deficit. Open surgical approaches including transthoracic and retropleural access carry substantial perioperative risks. Contemporary minimally invasive endoscopic techniques reduce tissue dissection and manipulation of the thecal sac, yet they are associated with a steep learning curve and limited intraoperative maneuverability. This study reports the case of a 76-year-old male with TDH who underwent decompression using arthroscopic-assisted uniportal spinal surgery (AUSS) for the first time, achieving effective short-term therapeutic outcomes. A 76-year-old male presented with progressive numbness and weakness in both lower extremities persisting for over one month. Computed tomography (CT) and magnetic resonance imaging (MRI) revealed T10/T11 disc herniation with severe compression of the thoracic spinal cord. The herniated nucleus pulposus was excised via AUSS, thereby achieving decompression of the thoracic spinal cord. The patient recovered uneventfully without complications, and postoperative CT and MRI confirmed complete spinal cord decompression. The application of the AUSS technique for the treatment of TDH is feasible. The AUSS approach offers several advantages, including minimal invasiveness, reduced surgical trauma, less blood loss, faster recovery, and greater operational flexibility.",
-      "journal": "Frontiers in surgery",
+      "pmid": "42620427",
+      "doi": "10.1097/GOX.0000000000008034",
+      "title": "Successful Management of Postoperative Galactorrhea after Reduction Mammaplasty.",
+      "abstract": "Galactorrhea after reduction mammoplasty is a rare postoperative complication, usually associated with hormonal dysregulation or pituitary abnormalities. A 43-year-old woman with symptomatic macromastia underwent bilateral superomedial pedicle reduction mammoplasty. Three days postoperatively, she developed high-volume bilateral milky drainage through her surgical drains. Laboratory evaluation revealed elevated prolactin (96\u2009ng/mL; reference value 5-23\u2009ng/mL). Imaging demonstrated a partially empty sella without pituitary mass. Endocrinology initiated cabergoline therapy, resulting in suppression of prolactin and resolution of the galactorrhea. The patient's drains were maintained until the galactorrhea ceased, and she went on to heal well without complication. Galactorrhea after breast reduction surgery secondary to transient hyperprolactinemia is a rare but clinically significant complication. Prompt recognition and multidisciplinary management including drain maintenance, lactation suppression, and exclusion of prolactinoma are important steps in preventing wound healing complications and achieving optimal outcomes.",
+      "journal": "Plastic and reconstructive surgery. Global open",
       "year": "2026",
       "publication_types": [
         "Case Reports",
@@ -185,24 +164,12 @@
       ]
     },
     {
-      "pmid": "42643403",
-      "doi": "",
-      "title": "Primary Adrenal Lymphoma Presenting as Addison's Disease.",
-      "abstract": "Primary adrenal lymphoma is an unusual but life-threatening cause of adrenal insufficiency. A man in his 50s with type 2 diabetes presented with malaise, gastrointestinal symptoms, dyspnoea and significant unintentional weight loss. Imaging revealed large bilateral adrenal masses with pulmonary nodules, initially suggesting metastatic disease. He later developed hypotension and electrolyte abnormalities and a short synacthen test supported adrenal insufficiency. Adrenal biopsy confirmed diffuse large B-cell lymphoma with widespread disease on PET imaging. Glucocorticoid and mineralocorticoid replacement led to rapid clinical improvement, followed by systemic chemotherapy. He completed six cycles with good tolerance, achieving a marked clinical and radiological response, but remained on long-term steroid replacement. This case highlights the importance of early adrenal assessment in patients with bilateral adrenal masses to prevent adrenal crisis and facilitate timely multidisciplinary management.",
-      "journal": "Irish medical journal",
+      "pmid": "42750742",
+      "doi": "10.1007/s13205-026-05064-8",
+      "title": "Biotransformation of phosphogypsum and its potential for soil-based applications: a preliminary study.",
+      "abstract": "Promoting the resource utilization of phosphogypsum (PG) is an urgent challenge, and its potential use as a soil amendment has attracted increasing attention. In this study, representative organic acids, the oxalate-producing fungus Aspergillus niger, and the oxalate-degrading bacterium Azospirillum brasilense OX-1 were used, together with a 45-day pot experiment with Suaeda salsa, to investigate the mineral transformation of PG and its potential for soil-based applications. Among the three organic acids tested under identical conditions, only oxalic acid induced the transformation of CaSO4\u00b72H2O in PG into whewellite. During A. niger cultivation, the pH decreased from 5.12 on day 0 to 2.82 on day 8, accompanied by a progressive decrease in the PG mineral phase and the formation of whewellite and weddellite. Calcium oxalate generated from PG through either chemical oxalic acid treatment or A. niger-mediated transformation was further converted to calcite by OX-1. In the pot experiment, the combined PG and OX-1 treatment resulted in the highest mean plant height (11.03 \u00b1 0.67\u00a0cm) and stem diameter (0.81 \u00b1 0.07\u00a0mm), compared with 4.67 \u00b1 0.40\u00a0cm and 0.32 \u00b1 0.19\u00a0mm, respectively, in the control. The combined application of PG and OX-1 also significantly altered soil pH, available phosphorus, and other physicochemical properties. These findings provide experimental evidence for the stepwise biological transformation of PG and indicate its potential value as a soil amendment. Further studies are needed to determine whether these transformation processes can occur sequentially in the rhizosphere and to evaluate their long-term environmental effects. The online version contains supplementary material available at https://doi.org/10.1007/s13205-026-05064-8.",
+      "journal": "3 Biotech",
       "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "41949969",
-      "doi": "10.62438/tunismed.v103i11.5677",
-      "title": "Management of Adrenal Incidentalomas: A Survey of Physicians from the Middle East and Africa.",
-      "abstract": "Adrenal incidentaloma (AI) is a common finding from increased imaging use. Several guidelines direct evaluation and management, but limited data exist on real-world practices. To describe the knowledge and practices of physicians from the Middle East and Africa (MEA) in AI. An online survey evaluated the definition of AI, diagnostic investigations, management approach, and long-term follow-up of patients with AI. 171 questionnaires were analysed. Adult and pediatric endocrinologists represented 71.4% of participants. A homogenous mass, < 4 cm and < 10HU, was considered benign by 57.9% of the respondents. The threshold of 4 cm for tumor size was considered suggestive of malignity by 64%. A minority, 34 (19.9%), indicated that no further imaging was required if a non-contrast CT scan was consistent with a benign adrenal mass. Most important endocrinopathies would routinely be excluded: hypercortisolism (97.7%), pheochromocytoma (95.3%), and primary hyperaldosteronism (87.1%). In a lesion considered biochemically inactive at the outset, 56.4% of the respondents would have recommended repeated biochemical testing, and 42.8% would have followed up the patients for 4 and 5 years, irrespective of radiological features. There is an under-appreciation of the risk of malignancy of AI > 4 cm and a tendency of over-investigating patients in whom a benign tumor has been established, with repeated unnecessary biochemical and radiological evaluation, revealing sub-optimal adherence to guidelines regarding AI in this region.",
-      "journal": "La Tunisie medicale",
-      "year": "2025",
       "publication_types": [
         "Journal Article"
       ]
@@ -232,143 +199,6 @@
       ]
     },
     {
-      "pmid": "42736093",
-      "doi": "10.1016/j.acra.2026.08.069",
-      "title": "Deep Learning Based on Magnetic Resonance Imaging for Preoperative Prediction of Pituitary Neuroendocrine Tumors Subtypes.",
-      "abstract": "Molecular subtyping of pituitary neuroendocrine tumors (PitNETs [pituitary adenoma]) guides treatment but requires postoperative pathology. This study aimed to develop a deep learning model for preoperative noninvasive prediction of PitNET subtypes using magnetic resonance imaging (MRI). This study retrospectively enrolled patients with pathologically confirmed PitNETs from two centers. Patients were classified into four groups based on the expression of the SF1, PIT1, and TPIT transcription factors as follows: PIT1 lineage, TPIT lineage, SF1 lineage, and no distinct cell lineage. All patients underwent preoperative MRI examinations comprising coronal T1-weighted (T1WI), T2-weighted (T2W1), and contrast-enhanced T1WI sequences, as well as sagittal T1WI and contrast-enhanced T1WI sequences. The YOLOv11 model was trained using either single or combined sequences to achieve subtype classification. Performance was evaluated via internal, temporal external, and multicenter validation using mean average precision (mAP), precision, recall, and F1-score. This retrospective study included a total of 888 patients enrolled between January 2021 and December 2025, with a mean age of 54.32 years; 52.9% of the patients were female. The model performed robustly in the internal validation set, temporal external test set, and multicenter validation cohort, effectively distinguishing among the four molecular subtypes. Among these, sagittal contrast-enhanced T1WI sequences yielded the best predictive results (mAP50-95: 0.901), while coronal T2WI sequences performed relatively poorly (mAP50-95: 0.756). MRI-based deep learning enables accurate preoperative PitNET subtyping in retrospective cohorts, warranting investigation as a tool to aid personalized management following prospective validation.",
-      "journal": "Academic radiology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42704853",
-      "doi": "10.5114/pedm.2026.162372",
-      "title": "Distinguishing clinical features of paediatric autoimmune Addison's disease and polyendocrine syndromes: a 15-year single-centre observational study from Baghdad, Iraq.",
-      "abstract": "Autoimmune Addison's disease (AAD) is a rare endocrine disorder characterised by immune-mediated destruction of the adrenal cortex. AAD may occur in isolation or as part of a broader autoimmune polyendocrine syndrome (APS). Distinguishing the two is essential owing to implications for patient screening and prognosis. Earlier identification of APS patients is crucial for preserving residual adrenal function and developing future targeted therapies. This study aimed to define clinical and laboratory features of paediatric isolated AAD and APS. This retrospective cohort study recruited 55 paediatric patients; 27/55 had isolated AAD and 28/55 had APS. They were followed at the Children's Welfare Teaching Hospital, Baghdad, Iraq, between 2009 and 2024. Data collected and compared included: demographic variables (age, gender, family history, duration of symptoms), presenting clinical features and adrenal crisis, and laboratory parameters. Male predominance was observed in both groups, although the difference was not significant. Positive family history was more frequent in APS (p = 0.03). Clinically, hyperpigmentation, weight loss, poor appetite, and hypoglycaemia-induced seizures were significantly higher in isolated AAD (p = 0.0001, 0.0002, 0.042, 0.041). Adrenal crises were more frequent in APS cases (p = 0.18). Major risk factors for adrenal crisis included poor treatment compliance and infections. Laboratory parameters showed that hyperkalaemia and hypoglycaemia were significantly more pronounced in AAD (0.0079 and 0.00002). Distinguishing isolated AAD from APS may be clinically useful. Differences were observed in metabolic severity, family history, weight loss, hyperpigmentation, and risk of adrenal crisis. These findings suggest that management of both conditions may benefit from a tailored approach, emphasizing treatment adherence and infection prevention in both groups.",
-      "journal": "Pediatric endocrinology, diabetes, and metabolism",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Observational Study"
-      ]
-    },
-    {
-      "pmid": "42694310",
-      "doi": "10.3389/fendo.2026.1842422",
-      "title": "Proteoformics-driven new concept of human growth hormone in clinical endocrinology.",
-      "abstract": "Growth hormone (GH) is a multifunctional regulator in somatic growth, metabolism, and tissue repair. Its pulsatile secretion is regulated by hypothalamic GH-releasing hormone (GHRH) and somatostatin (SST), and feedback inhibition by insulin-like growth factor 1 (IGF-1). Dysregulation of GH underlies several clinical disorders, including GH deficiency (GHD), acromegaly, and gigantism. The emerging concept of proteoformics has fundamentally reshaped the traditional view of GH: although human GH is encoded by a single gene, it gives rise to multiple proteoforms (GHPs) with distinct biological activities. In-depth study on GHPs pattern benefits understanding its precise molecular mechanism, discovering new therapeutic targets/drugs, and constructing GHPs-based biomarkers. Integration of proteoformics with multi-omics facilitates the construction of dynamic regulatory networks for GH signaling, thereby providing robust support for biomarker discovery and precision medicine strategies in GH-related diseases. Proteoform-based personalized therapy holds promise to advance current treatments such as somatostatin receptor ligands (SRLs), growth hormone receptor (GHR) antagonists, and long-acting GH formulations, with emerging therapies like antisense oligonucleotides and oral GHRH agonists showing preliminary promise. This review examines the potential role of proteoform-centered multi-omics in advancing personalized diagnosis and treatment, discusses challenges in clinical translation, and outlines a roadmap for integrating GH proteoformics into predictive, preventive, and personalized medicine (3PM).",
-      "journal": "Frontiers in endocrinology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "42745919",
-      "doi": "10.3389/fpubh.2026.1901160",
-      "title": "Telehealth readiness among Saudi nurses: the critical role of innovative self-efficacy.",
-      "abstract": "Grounded in Bandura's Self-Efficacy Theory and Davis's Technology Acceptance Model, this study assessed telehealth readiness (TR) and the association with innovative self-efficacy (ISE) among nurses in Al-Madinah Al-Munawwarah, Saudi Arabia, while identifying key demographic and professional correlates. We conducted a multicenter cross-sectional survey among 400 registered nurses from three Ministry of Health hospitals using the Telehealth Readiness Assessment Tool (TRAT) and the Innovative Self-Efficacy Scale (ISES). Group comparisons employed non-parametric tests, and multivariable linear regression examined independent associations after adjusting for demographic and professional covariates. Nurses with higher ISE demonstrated substantially greater TR. ISE emerged as the dominant independent correlate of TR in multivariable analysis, suggesting that confidence in creative problem-solving may constitute one of the cognitive resources nurses draw upon when preparing for telehealth adoption. ISE is a key correlate of TR, independent of demographic and professional characteristics. These findings extend self-efficacy theory to a mandatory, culturally distinct telehealth adoption context and suggest that training programs should target creative problem-solving alongside technical skills to optimize nursing readiness for digital health transformation in Saudi Arabia.",
-      "journal": "Frontiers in public health",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42709596",
-      "doi": "10.1080/15360288.2026.2719866",
-      "title": "Tizanidine Withdrawal Syndrome: Clinical Manifestations and Management Strategies. Case Series.",
-      "abstract": "Tizanidine, an imidazole derived \u03b12 adrenergic agonist, is widely prescribed for spasticity and chronic musculoskeletal pain. Abrupt discontinuation can precipitate withdrawal syndromes characterized by sympathetic overactivity. Although pharmacologically plausible, this phenomenon is potentially underreported in clinical practice. We describe four patients with diverse comorbidities who developed acute tizanidine withdrawal. All cases were directly observed at a single tertiary care center and identified during routine inpatient clinical practice over a defined timeline. Case 1 was a 24\u2009year old female admitted with empagliflozin induced diabetic ketoacidosis who experienced hypertensive crisis and tachycardia following abrupt cessation of chronic high dose tizanidine. Case 2 was a 29\u2009year old female with Crohn's disease who developed tremors, anxiety, and autonomic instability after reducing her regimen from 40\u2009mg nightly to 16\u2009mg daily. She had self-discontinued her last dose prior to presentation. Case 3 was a 29\u2009year old female with recurrent pancreatitis, resistant hypertension, and an adrenal incidentaloma who presented with severe hypertension and tremors after discontinuing both tizanidine and diazepam. Symptoms began within approximately 24\u2009h of abrupt cessation. Case 4 was a 42\u2009year old male with asthma, hypertension, anxiety disorder, bariatric surgery, methamphetamine use, and more than ten prior admissions specifically for tizanidine withdrawal, who presented with palpitations, tremors, vomiting, and hypertensive crisis after abrupt dose reduction. In all cases, reintroduction of tizanidine followed by a structured tapering regimen resulted in clinical stabilization. These cases highlight the clinical significance of tizanidine withdrawal, its diverse presentations, and the importance of cautious tapering. Patient education on avoiding abrupt discontinuation is essential, particularly for individuals with psychiatric comorbidities or prior withdrawal episodes. Awareness of this underrecognized syndrome is critical to prevent misdiagnosis and ensure safe prescribing practices.",
-      "journal": "Journal of pain & palliative care pharmacotherapy",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42586375",
-      "doi": "10.1016/j.bcp.2026.118355",
-      "title": "Naltrexone attenuates airway remodeling by modulating neuromediators and sensory ion channels in cigarette smoke-induced COPD pathophysiology.",
-      "abstract": "Chronic obstructive pulmonary disease (COPD) accompanied by inflammation contributes to airway obstruction, mucus hypersecretion, and other characteristic symptoms. The airways densely innervated by subsets of nerve fibers highlight the critical role of neuroimmune interactions in disease pathogenesis. The present study aimed to investigate the role of neurogenic inflammation in COPD and evaluate the therapeutic potential of naltrexone (NTX) at ultra-low doses (10\u00a0\u00a0\u03bcg/kg 1\u00a0\u00a0\u03bcg/kg 0.1\u00a0\u00a0\u03bcg/kg) in modulating neuroimmune signaling in cigarette smoke (CS) induced COPD. CS exposure elevated inflammatory markers (COX-2 and LOX-5), activation of the hypothalamic-pituitary-adrenal axis (increased cortisol and ACTH), and enhanced neurogenic signaling marked by increased levels of neurotransmitters (substance P, serotonin, acetylcholine, and dopamine) and upregulation of their respective receptors. Further the increased sensory ion channels (TRPV1 and TRPM8), indicating elevated neurogenic inflammation. Furthermore, COPD mice exhibited elevated fibrotic markers, including TGF-\u03b21, \u03b1-SMA, MMP-2, and MMP-9, and TIMP-1 expression, collagen deposition, and mucus hypersecretion. NTX at low doses (0.1\u00a0\u00a0\u03bcg/kg) significantly attenuated these alterations by suppressing inflammatory mediators, reducing neurogenic signaling, downregulating TRP channel expression, and mitigating fibrosis. Importantly NTX modulated both \u00b5OR and TLR4 expression, suggesting that its protective effects are mediated through coordinated regulation of the \u00b5OR-TLR4 axis, attenuating neuroimmune crosstalk. Histopathological findings confirmed restoration of lung architecture and reduction of airway remodeling. The findings suggest that neuroimmune dysregulation contributes to COPD pathology, while NTX at ultra-low-dose exerts protective effects by targeting this axis. The study further highlights the \u00b5OR-TLR4 axis as a potential therapeutic target through which NTX modulates airway inflammation and remodeling.",
-      "journal": "Biochemical pharmacology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42707748",
-      "doi": "10.7759/cureus.114171",
-      "title": "Hyponatremia as the Initial Presentation of Rathke's Cleft Cyst-Related Hypopituitarism.",
-      "abstract": "Rathke's cleft cyst (RCC) is a benign sellar lesion that is frequently detected incidentally, while symptomatic cases are uncommon. Endocrine dysfunction may occur due to compression of the pituitary gland, but profound hyponatremia as the initial manifestation of RCC-related hypopituitarism is rare and may delay diagnosis. We report the case of a 76-year-old woman who presented with persistent dizziness and severe euvolemic hyponatremia. Further endocrine assessment demonstrated secondary adrenal insufficiency, central hypothyroidism, hypogonadotropic hypogonadism, and mild hyperprolactinemia. Magnetic resonance imaging revealed an RCC with mild suprasellar extension and pituitary stalk deviation. The patient was treated with hydrocortisone followed by levothyroxine, resulting in clinical improvement and normalization of sodium levels. Although transsphenoidal surgery was recommended, she declined operative management and remained clinically stable with hormone replacement therapy during six months of follow-up. This case highlights that RCC-related hypopituitarism should be considered in patients presenting with unexplained euvolemic hyponatremia, even in the absence of headache, visual disturbances, or other classical sellar symptoms. Early endocrine evaluation and pituitary imaging are essential to establish the diagnosis, initiate appropriate hormone replacement, and prevent recurrent hyponatremia and potentially life-threatening adrenal insufficiency.",
-      "journal": "Cureus",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42743103",
-      "doi": "10.12659/AJCR.952994",
-      "title": "Pheochromocytoma Masquerading as Acute Coronary Syndrome Complicated by Cardiogenic Shock: A CARE-Compliant Case Report.",
-      "abstract": "BACKGROUND Pheochromocytoma is a rare neuroendocrine tumor arising from chromaffin cells of the adrenal medulla that can manifest as catecholamine-induced cardiomyopathy mimicking acute coronary syndrome. Misdiagnosis is common, particularly when cardiogenic shock and elevated troponin levels occur in the absence of obstructive coronary artery disease. We describe pheochromocytoma masquerading as acute coronary syndrome complicated by cardiogenic shock, highlighting key diagnostic clues and management strategies. CASE REPORT A 59-year-old man with a 10-year history of intermittent chest tightness exhibited acute cardiogenic shock, peak troponin I level of 5.48 ng/mL, and N-terminal pro-B-type natriuretic peptide level of 19 800 pg/mL. Initial electrocardiography showed sinus tachycardia and T-wave abnormalities. Echocardiography revealed a reduced left ventricular ejection fraction of 40% with regional wall motion abnormalities. Coronary angiography demonstrated no significant stenosis, consistent with myocardial infarction with non-obstructive coronary arteries (MINOCA). Plasma free normetanephrine and metanephrine levels were 653.9 pg/mL (>680 times the upper limit of normal) and 378.5 pg/mL (>630 times the upper limit of normal), respectively. Abdominal computed tomography identified a right adrenal mass. After 2 weeks of preoperative alpha-blockade with phenoxybenzamine and volume expansion, the patient underwent laparoscopic adrenalectomy. Histopathology confirmed pheochromocytoma. Postoperatively, cardiac function normalized and symptoms completely resolved. CONCLUSIONS Pheochromocytoma should be suspected in patients with MINOCA and unexplained cardiogenic shock, particularly when accompanied by labile blood pressure. Substantially elevated plasma metanephrine and adrenal imaging facilitate early diagnosis. Catecholamine-induced cardiomyopathy is reversible after tumor resection. Multidisciplinary management, from hemodynamic stabilization to definitive surgery, is essential.",
-      "journal": "The American journal of case reports",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Case Reports"
-      ]
-    },
-    {
-      "pmid": "42725594",
-      "doi": "10.2174/0113895575449555260825070815",
-      "title": "Precision Medicine in Prolactinomas: From Bench to Bedside.",
-      "abstract": "Lactotroph adenomas (prolactinomas, PRLomas) are the most frequently diagnosed pituitary neuroendocrine tumors and originate from anterior pituitary lactotroph cells. Excess prolactin secretion is the defining feature and typically leads to reproductive/endocrine dysfunction; when lesions enlarge, symptoms related to local compression may also occur. In clinical practice, microadenomas are reported predominantly in women, whereas men more often present with macroadenomas, a distribution that may relate to differences in symptom recognition and time to diagnosis. Current mechanistic data support a multifaceted model in which estrogen-related signaling, inherited or acquired genetic/epigenetic alterations, and dysregulated pathways, including PI3K/AKT/mTOR and RAS/RAF/MEK/ERK, intersect to promote tumor growth and functional activity. Patients therefore present along a spectrum, ranging from hypogonadism, infertility, and sex-specific manifestations to visual compromise, cranial neuropathies, or hypopituitarism in advanced disease. Dopamine agonists (DAs), particularly cabergoline, remain the standard first-line therapy; however, endoscopic surgery is increasingly used in selected patients (e.g., wellcircumscribed microadenomas and carefully chosen macroadenomas in experienced centers). For aggressive, DA-resistant, or malignant PRLomas, temozolomide remains the main systemic salvage option, and immunotherapy is being explored in early-phase settings. A precision approach will likely depend on integrating molecular stratification with clinical behavior to individualize treatment sequencing and improve long-term control and quality of life.",
-      "journal": "Mini reviews in medicinal chemistry",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42745912",
-      "doi": "10.3389/fpsyg.2026.1894423",
-      "title": "Language outcomes following long-term auditory processing training in individuals with neurodevelopmental disorders: a retrospective case series.",
-      "abstract": "In this retrospective case series, the longitudinal trajectories of receptive language, expressive language, and vocabulary acquisition during auditory processing training (APT) were described for seven individuals with different neurodevelopmental characteristics. The study aims to highlight intra-case developmental patterns rather than to assess the intervention's effectiveness. Archived clinical records of seven participants with follow-up periods ranging from 24 to 48\u202fmonths were reviewed. For all cases, the Preschool Language Scale-4 (PLS-4) scores at the baseline, 6-month, 12-month, 18-month, and 24-month observation windows were retained as unique age ranges corresponding to the highest item group in which all items were correctly completed at each assessment. Where a participant correctly completed all items in one age group but was unable to complete all items in the subsequent age group, their level was classified as the age group in which they had completed all items. Word counts reflect newly recorded words within each interval. The analyses were conducted on a case-by-case and descriptive basis; no inferential statistical tests were used. By the twenty-fourth month, all seven cases had progressed to a higher PLS-4 item group age range compared with baseline, in terms of both receptive and expressive language. The number of newly recorded words in the shared observation window also increased at each stage. Whilst the median number of words recorded at baseline was 4 (range: 0-34), this figure was determined to be 678 (range: 133-1,150) for the 18-24-month period. Excluding initial words, the median total number of new words recorded between 0 and 24\u202fmonths was 1,126 (range: 288-2,238). Individual developmental trajectories varied considerably. The data indicate that, over the follow-up period, there was progress and an increase in vocabulary acquisition in the age groups corresponding to the PLS-4 item groups at the case level. However, due to the small, clinically heterogeneous sample, the absence of a control group, and concurrent developmental and educational support, the observed changes cannot be causally attributed to APT. The findings are considered to be hypothesis-generating clinical observations for future controlled studies.",
-      "journal": "Frontiers in psychology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42701998",
-      "doi": "10.1111/acel.70697",
-      "title": "Growth Hormone Receptor Antagonism Extends Lifespan.",
-      "abstract": "Interventions that disrupt growth hormone (GH) action are recognized as some of the most potent methods for extending lifespan. Accordingly, GH receptor antagonists (GHA) represent potential therapeutics to improve healthspan. Somavert (Pegvisomant for injection), used for treating patients with acromegaly, is currently the only FDA approved GHA. This drug was based on our laboratory's early 1990s discovery that mutating a codon for a conserved glycine-at position 119 in bovine GH or 120 in human GH-to a variety of amino acids, including lysine, ultimately converted GH from an agonist to antagonist. Since Pegvisomant has poor affinity to rodent GHR, it has not been tested for its ability to extend lifespan in rodents. To address this gap, we evaluated survival in GHA transgenic mice, a mouse line that played a crucial role in the discovery and development of Pegvisomant and has been maintained in our lab since 1991. While a prior study with several limitations failed to detect lifespan extension in GHA mice, our current study addressing these limitations shows that both median and maximal lifespan were significantly increased in male (p\u2009=\u20090.044; p\u2009=\u20090.0037) and female GHA mice (p\u2009=\u20092\u2009\u00d7\u200910-8; p\u2009=\u20099\u2009\u00d7\u200910-6), with maximal lifespan extended by 186 and 265\u2009days, respectively. Analysis of an independent cohort of 2-year-old mice revealed that GHA males and females were less frail with enhanced grip strength despite increased adiposity. These findings demonstrate for the first time that GH antagonism can improve health and extend lifespan.",
-      "journal": "Aging cell",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42728076",
-      "doi": "10.1136/bcr-2026-272922",
-      "title": "Clinically silent pheochromocytoma presenting as an adrenal incidentaloma: the importance of biochemical evaluation.",
-      "abstract": "Pheochromocytoma is an uncommon catecholamine-secreting tumour that may rarely present without classic adrenergic symptoms. We report a woman in her late 70s with an incidentally detected 5 cm left adrenal mass identified during imaging for unrelated indications. Despite long-standing, well-controlled hypertension and absence of classic catecholamine excess symptoms, biochemical evaluation revealed elevated plasma free metanephrines, confirming pheochromocytoma. A CT scan demonstrated a predominantly cystic adrenal lesion with minimal enhancement; however, elevated unenhanced attenuation values were atypical for a benign adrenal adenoma and warranted biochemical evaluation to exclude a hormonally active adrenal lesion. Minimally invasive surgical management was pursued because untreated pheochromocytoma may result in cardiovascular and perioperative complications even in clinically asymptomatic individuals. Surgical resection achieved biochemical cure. This case highlights the importance of biochemical evaluation of adrenal incidentalomas, particularly in elderly patients without classic adrenergic symptoms.",
-      "journal": "BMJ case reports",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Case Reports"
-      ]
-    },
-    {
       "pmid": "42592430",
       "doi": "10.21037/acr-2026-0018",
       "title": "Concurrent human epidermal growth factor receptor 2-positive breast cancer with axillary nodal metastasis in a patient with pituitary prolactinoma: a case report.",
@@ -381,14 +211,38 @@
       ]
     },
     {
-      "pmid": "42745897",
-      "doi": "10.3389/fpsyg.2026.1927590",
-      "title": "Posttraumatic growth following culturally grounded intervention among tribal young women with dissociative disorders in Sikkim: an interpretative phenomenological analysis.",
-      "abstract": "Trauma recovery among tribal adolescent girls and young women in Northeast India remains poorly understood, particularly for those with dissociative disorders. Existing frameworks rely on Western paradigms that do not account for the cultural, spiritual, and environmental realities of tribal communities. Using Interpretative Phenomenological Analysis (IPA), this study examined the lived healing experiences of three young women from Sikkim who had completed a culturally grounded intervention comprising Pranayama, Ana Pana Sati meditation, and raga-based music therapy in 2022. Long-form semi-structured follow-up interviews were conducted in 2025. Analysis yielded four superordinate experiential domains: (1) Psychological and Emotional Transformation, (2) Sociocultural and Systemic Trauma Context, (3) Embodied and Relational Pathways to Healing, and (4) Non-Linear Recovery and Ongoing Vulnerability. Participants described significant posttraumatic growth including emotional liberation, identity reconstruction, and altruistic orientation, alongside persistent sociocultural stressors and episodic relapse. These findings informed the TRIBE-HEAL model (Trauma Resilience Integration using Breathwork and Expressive Healing Approaches in Local contexts), a culturally grounded trauma-recovery framework addressing the biopsychosocial-spiritual dimensions of healing in marginalized tribal settings. TRIBE-HEAL is proposed as an exploratory, hypothesis-generating framework derived from a small idiographic sample; it has not been independently validated and requires further testing before clinical application.",
-      "journal": "Frontiers in psychology",
+      "pmid": "42655768",
+      "doi": "10.3390/vetsci13080749",
+      "title": "Diagnosis, Perioperative Management, and Surgical Treatment of Suspected Functional Pheochromocytoma in Two Dogs: Surgical Complexity in the Absence of Planned Venotomy.",
+      "abstract": "Functional pheochromocytoma is an uncommon canine adrenal tumor associated with substantial surgical and anesthetic challenges. This report describes two dogs with suspected functional pheochromocytoma that exhibited distinct causes of surgical complexity. Both underwent endocrine evaluation, contrast-enhanced CT, adrenalectomy, and histopathology. In Case 1, severe perivascular adhesion resulted in an iatrogenic caudal vena cava laceration despite the absence of definitive vascular invasion, requiring primary venorrhaphy. In Case 2, marked tumor-induced vascular distortion obscured critical anatomical landmarks, necessitating staged surgical management. Three-dimensional vascular reconstruction facilitated refinement of the surgical approach, while individualized anesthetic management enabled successful surgery despite marked intraoperative hemodynamic fluctuations. Histopathology confirmed pheochromocytoma in both dogs, including malignant pheochromocytoma in Case 2. Case 1 developed chronic kidney disease during long-term follow-up, whereas no clinical evidence of local recurrence or distant metastasis was observed during the available follow-up. These cases demonstrate that surgical complexity may arise from severe perivascular adhesion and tumor-induced vascular distortion, even without planned vascular lumen entry or advanced vascular procedures. Patient-specific anatomical assessment, individualized perioperative planning, and selective 3D vascular reconstruction may improve surgical safety in complex adrenal tumors.",
+      "journal": "Veterinary sciences",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42750756",
+      "doi": "10.1002/puh2.70375",
+      "title": "Predictive Modelling of Climate-Driven Malaria Transmission for Optimal Control Using a Coupled SEIR-SEI and GIS Framework.",
+      "abstract": "Climate change is a potent intensifier of vector-borne disease dynamics; however, its impact on malaria in pre-elimination settings remains poorly understood. A climate-sensitive transmission model integrated with 11 years of clinical surveillance and facility-level spatial risk data was applied to assess malaria elimination prospects in Zimbabwe's Mberengwa District. Under mid-century warming in a high-emission scenario, the peak infectious prevalence is projected to increase by more than 4-fold, and the duration of high-intensity transmission will increase from 213 to 250 days per year. Decadal seasonal oscillations in case counts were reproduced by the model, whereas recent overestimation reflected intensified elimination activities that suppressed transmission below climate-driven expectations. Sensitivity analysis identified temperature-dependent mosquito mortality as the dominant source of uncertainty, with insecticide-based indoor spraying being the most influential, modifiable intervention. Simulations indicate that high-coverage spraying alone can achieve elimination, and a fully integrated strategy, including bed nets, spraying and gametocyte-targeting therapy, can reduce transmission by 85%. Spatial mapping of 37 health facility catchments highlighted five high-priority hotspots concentrated in the southern and south-eastern health facilities, where climate exposure and the current burden of disease converge. These results provide a locally informed, climate-intelligent framework to support malaria elimination in the context of accelerating climate change.",
+      "journal": "Public health challenges",
       "year": "2026",
       "publication_types": [
         "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42741749",
+      "doi": "10.7573/dic.2026-4-3",
+      "title": "How to manage medullary thyroid carcinoma: current treatment strategies.",
+      "abstract": "Medullary thyroid carcinoma (MTC) is a rare thyroid malignancy, representing approximately 2-5% of all thyroid cancers. It develops from the parafollicular C cells of the thyroid gland. Calcitonin, produced by parafollicular C cells, is a highly reliable biomarker for both diagnosis and disease monitoring. MTC commonly spreads to cervical lymph nodes and can also lead to distant metastases. Approximately 25% of MTC cases are hereditary, occurring as part of multiple endocrine neoplasia syndromes. Inherited forms are driven by germline mutations in the RET proto-oncogene. Genetic testing enables identification of RET carriers, whilst the risk associated with specific RET variants helps determine the optimal timing for prophylactic or therapeutic surgery. Surgical management remains the cornerstone treatment for MTC. Nevertheless, recurrent or metastatic disease continues to pose therapeutic challenges, requiring individualized strategies such as locoregional interventions, radiotherapy and systemic therapies. Tyrosine kinase inhibitors, along with selective RET inhibitors, represent the main therapeutic strategies for patients whose tumours show rapid progression. This review summarizes current surgical, locoregional and systemic treatment strategies for sporadic and hereditary MTC, focusing on the role of multi-kinase and selective RET inhibitors. Medullary thyroid carcinoma (MTC) is a rare thyroid cancer, accounting for 2\u20135% of all thyroid cancer cases. It arises from the thyroid\u2019s parafollicular C cells, which primarily secrete calcitonin \u2013 the main blood marker used to diagnose the disease and monitor for recurrence. MTC presents in two forms:Sporadic (70\u201375%): Occurs by chance, often presenting as a thyroid nodule or swollen neck lymph nodes.Hereditary (25\u201330%): Caused by inherited mutations in the RET gene, often occurring as part of Multiple Endocrine Neoplasia type 2 (MEN2A or MEN2B) syndromes. Calcitonin and CEA: Elevated blood levels of calcitonin and carcinoembryonic antigen (CEA) signal MTC. The rate at which these levels increase (doubling time) after surgery predicts disease progression and overall survival.Genetic testing: Recommended for all patients with MTC. Identifying a germline RET mutation allows family members to undergo early screening and preventive surgery.Pathology grading (IMTCGS): Classifies MTC into low-grade or high-grade based on cell division rates (mitotic index, Ki-67 index) and tumour necrosis. High-grade tumours behave more aggressively. Surgery is the cornerstone of treatment for localized MTC.Thyroidectomy: Total removal of the thyroid (and nearby lymph nodes) is standard. For small, single sporadic tumours, a partial removal (lobectomy) may be considered in select cases.Prophylactic surgery: Relatives who carry inherited RET mutations may undergo preventative total thyroidectomy, timed according to the specific mutation\u2019s risk of aggressiveness taking into consideration calcitonin levels and ultrasound findings in moderate-risk cases.Pre-surgical precaution: Patients with familial MTC must be screened for pheochromocytoma (an adrenal gland tumour). If present, it must be surgically removed before thyroid surgery to prevent dangerous blood pressure spikes. Up to 50% of patients have persistent disease post-surgery. MTC does not respond to traditional thyroid treatments like radioactive iodine or standard chemotherapy. For slow-growing or localized metastases (in lungs, liver or bones), targeted procedures, such as radiation, radiofrequency ablation or embolization, can control local lesions and delay systemic medication. When MTC spreads (metastasizes) or cannot be fully removed with surgery or controlled with localized treatments, targeted drug therapy becomes the primary treatment option. Because MTC does not respond to standard chemotherapy or radioactive iodine, treatment relies on specific medications that block tumour growth signals.Selective RET inhibitors: these drugs target the specific RET gene mutation driving the cancer, offering high effectiveness with fewer side effects than older treatments.Selpercatinib: Recommended as the preferred first-line therapy for patients with RET-mutated MTC. Clinical trials demonstrate superior progression-free survival (86.8% at 12 months) and fewer serious side effects compared to older options.Pralsetinib: Demonstrated strong clinical results; however, it is no longer approved for MTC in the USA and Europe.Multi-kinase inhibitors (MKIs): MKIs block multiple growth and blood vessel pathways (including VEGFR and RET) to starve the tumour. Vandetanib or cabozantinib are primarily used for RET-negative (wild-type) tumours or when selective RET inhibitors are unavailable. Next-generation RET inhibitors: Drugs like LOXO-260 and EP0031 are currently in clinical trials to directly overcome acquired resistance mutations.Combination and novel therapies: Combining RET inhibitors with other targeted agents (e.g. MET inhibitors), testing peptide receptor radionuclide therapy and exploring targeted immunotherapies (like DLL3-targeted bispecific T cell engagers).As ongoing clinical trials continue to tackle acquired drug resistance through next-generation inhibitors and combination therapies, the future of MTC treatment moves steadily toward increasingly personalized, durable disease control.",
+      "journal": "Drugs in context",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
       ]
     },
     {
@@ -397,30 +251,6 @@
       "title": "Pregnancy in a patient with metastatic functioning midgut neuroendocrine tumor receiving lanreotide after peptide receptor radionuclide therapy.",
       "abstract": "Neuroendocrine tumors (NETs) are rare neoplasms that present significant challenges during pregnancy, particularly in the context of metastatic disease or carcinoid syndrome requiring systemic therapy. Data on the safety of somatostatin analogs during pregnancy remain limited and are primarily derived from studies involving patients with acromegaly. We report the maternal and fetal outcomes in a pregnant patient diagnosed with a metastatic NET of the ileocecal valve, complicated by carcinoid syndrome. The patient had previously undergone treatment with 177Lu-DOTATATE, debulking surgery, and lanreotide therapy. Lanreotide administration was continued throughout the pregnancy under multidisciplinary supervision. Maternal monitoring revealed no complications, and postpartum evaluations confirmed disease stability. The newborn developed transient neonatal hyperbilirubinemia requiring phototherapy but demonstrated normal development at the 18-month follow-up. This case highlights important clinical considerations regarding the continuation of somatostatin analog therapy, biochemical monitoring, peri-delivery planning for a carcinoid crisis, and pregnancy after peptide receptor radionuclide therapy in patients with functioning metastatic NETs. It provides supportive observational evidence that the continuation of lanreotide during pregnancy may be feasible in carefully selected patients under close multidisciplinary supervision, although conclusions regarding safety remain limited by the rarity of available data.",
       "journal": "Archives of endocrinology and metabolism",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42704007",
-      "doi": "10.20960/nh.07101",
-      "title": "[When growth hormone levels drop - Management with urea of postoperative inappropriate antidiuretic hormone secretion syndrome in a patient who underwent surgery for acromegaly].",
-      "abstract": "postoperative hyponatremia is a common complication after endoscopic transsphenoidal surgery, with an incidence of 9-35 % that rises to 41.5 % in patients with acromegaly. a 74-year-old woman diagnosed with acromegaly underwent endoscopic transsphenoidal surgery and developed severe symptomatic hyponatremia (sodium 117 mmol/l) due to SIADH on postoperative day 11, after other causes of postoperative hyponatremia were ruled out. Following initial correction with hypertonic saline, treatment with oral urea (15 g/day) was started, achieving a safe increase in serum sodium (133 mmol/l at 48 hours) that allowed hospital discharge. One week later, with normalized sodium levels (137 mmol/l), treatment was withdrawn without subsequent recurrence. oral urea is an effective, well-tolerated and cost-effective first-line treatment for SIADH after pituitary surgery, particularly relevant in patients with acromegaly given their higher incidence of late hyponatremia. Systematic sodium monitoring during the highest-risk period could allow earlier treatment initiation and prevent progression to severe cases.",
-      "journal": "Nutricion hospitalaria",
-      "year": "2026",
-      "publication_types": [
-        "English Abstract",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42655768",
-      "doi": "10.3390/vetsci13080749",
-      "title": "Diagnosis, Perioperative Management, and Surgical Treatment of Suspected Functional Pheochromocytoma in Two Dogs: Surgical Complexity in the Absence of Planned Venotomy.",
-      "abstract": "Functional pheochromocytoma is an uncommon canine adrenal tumor associated with substantial surgical and anesthetic challenges. This report describes two dogs with suspected functional pheochromocytoma that exhibited distinct causes of surgical complexity. Both underwent endocrine evaluation, contrast-enhanced CT, adrenalectomy, and histopathology. In Case 1, severe perivascular adhesion resulted in an iatrogenic caudal vena cava laceration despite the absence of definitive vascular invasion, requiring primary venorrhaphy. In Case 2, marked tumor-induced vascular distortion obscured critical anatomical landmarks, necessitating staged surgical management. Three-dimensional vascular reconstruction facilitated refinement of the surgical approach, while individualized anesthetic management enabled successful surgery despite marked intraoperative hemodynamic fluctuations. Histopathology confirmed pheochromocytoma in both dogs, including malignant pheochromocytoma in Case 2. Case 1 developed chronic kidney disease during long-term follow-up, whereas no clinical evidence of local recurrence or distant metastasis was observed during the available follow-up. These cases demonstrate that surgical complexity may arise from severe perivascular adhesion and tumor-induced vascular distortion, even without planned vascular lumen entry or advanced vascular procedures. Patient-specific anatomical assessment, individualized perioperative planning, and selective 3D vascular reconstruction may improve surgical safety in complex adrenal tumors.",
-      "journal": "Veterinary sciences",
       "year": "2026",
       "publication_types": [
         "Case Reports",
@@ -440,6 +270,51 @@
       ]
     },
     {
+      "pmid": "42750749",
+      "doi": "10.1016/j.euros.2026.08.006",
+      "title": "Fungal Urinary Tract Infection: A Brief Manual for Diagnosis and Treatment for Urologists.",
+      "abstract": "The detection of fungi in urine is common, particularly in nosocomial settings. Nevertheless, diagnostic and treatment approaches are often associated with uncertainty. Accordingly, this review aimed to give a concise overview of fungal urinary tract infection (UTI) as a supplement to the more comprehensive update of the European Association of Urology 2026 Guidelines on Urological Infections. Only 2-11% of fungal isolates in urine are associated with symptoms, and a fungal UTI should only be assumed in such cases. Candida albicans is the most frequently identified pathogen. Diagnosis should include a urine culture with susceptibility testing, especially in non-albicans Candida UTI. Nonantimicrobial measures such as catheter replacement should always be part of the treatment. First-line antimicrobial treatment is fluconazole. In cases of localized bladder infections, intravesical amphotericin B may be considered. Asymptomatic funguria should only be treated in exceptional cases. Urologists should play a key role in treatment decision-making for patients with fungal UTIs.",
+      "journal": "European urology open science",
+      "year": "2026",
+      "publication_types": [
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "42749874",
+      "doi": "10.1007/s11102-026-01758-7",
+      "title": "Infiltrative and inflammatory systemic disorders involving the pituitary gland.",
+      "abstract": "The hypothalamic-pituitary region can be affected by a wide and heterogeneous group of infiltrative and inflammatory disorders, including granulomatous, histiocytic, storage, infectious, non-pituitary neoplastic, and autoimmune or inflammatory conditions collectively grouped as hypophysitis. Although individually rare, these disorders are increasingly recognized due to growing awareness, wider use of pituitary imaging, and the emergence of immune checkpoint inhibitor-induced hypophysitis. They typically present with hypopituitarism (often including arginine vasopressin deficiency, which, particularly when accompanied by pituitary stalk thickening, is highly suggestive of a non-adenomatous lesion) together with mass effect symptoms and, in many cases, systemic manifestations reflecting extrapituitary organ involvement. Neuroimaging findings, while rarely pathognomonic, can narrow the differential diagnosis, particularly when pituitary stalk involvement is present: symmetric stalk/gland enlargement with homogeneous enhancement suggests lymphocytic, IgG4-related, or granulomatous hypophysitis, whereas rim enhancement, necrosis, or bone-destructive lesions point toward infectious or neoplastic causes. A structured diagnostic work-up, combining clinical history, hormonal evaluation, targeted laboratory testing, pituitary and systemic imaging, and, when necessary, histopathological confirmation, is essential to establish an accurate diagnosis before committing patients to long-term immunosuppression or unnecessary pituitary surgery. Management requires two parallel strategies: prompt hormone replacement therapy, with urgent attention to corticotroph deficiency, and disease-specific treatment tailored to the underlying etiology, ranging from glucocorticoids and immunosuppressants to antimicrobial therapy, targeted oncologic agents, or surgery. Because pituitary deficits are frequently irreversible and several of these disorders follow a relapsing course, long-term multidisciplinary follow-up is warranted. This review summarizes the pathophysiology, clinical presentation, diagnostic approach and neuroimaging features, for infiltrative and inflammatory hypothalamic-pituitary disorders, aiming to facilitate their timely recognition and appropriate management.",
+      "journal": "Pituitary",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42747392",
+      "doi": "10.1210/endrev/bnag035",
+      "title": "The Sentinel Hormone GDF-15, Glucocorticoid Homeostasis and Adrenal Disorders.",
+      "abstract": "Growth and differentiation factor 15 (GDF-15) is a stress-responsive hormone secreted by various cell types in response to cellular stress. To regulate ingestive behaviour, suppress food intake, and induce nausea and vomiting during cellular stress, GDF-15 signals via a brainstem-restricted receptor, GFRAL. Elevated circulating GDF-15 levels serve as a biomarker of cellular stress and are increased in a wide range of diseases. GDF-15 has recently been established as a causal factor in cancer cachexia and GDF15-GFRAL antagonism is being pursued as a therapeutic strategy. Recent studies have highlighted a dynamic interplay between GDF-15 and the hypothalamus-pituitary-adrenal (HPA) axis, suggesting that GDF-15 acts as a sentinel hormone in stress responses. Here, we review the canonical role of GDF-15 in stress-related conditions and its potential impact on circadian regulation and HPA axis dysregulation. The review explores the potential activation of the HPA axis by GDF-15 and discuss the hypothesis that downstream glucocorticoid signalling may contribute to some of the cardiovascular, metabolic, immune, and musculoskeletal changes reported for GDF-15. Additionally, the review discusses the potential role of GDF-15 in adrenal insufficiency and its treatment and in adrenocortical carcinoma. In summary, this review aims to elucidate the role of GDF-15 in glucocorticoid homeostasis and adrenal disease in the context of the stress response.",
+      "journal": "Endocrine reviews",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42725594",
+      "doi": "10.2174/0113895575449555260825070815",
+      "title": "Precision Medicine in Prolactinomas: From Bench to Bedside.",
+      "abstract": "Lactotroph adenomas (prolactinomas, PRLomas) are the most frequently diagnosed pituitary neuroendocrine tumors and originate from anterior pituitary lactotroph cells. Excess prolactin secretion is the defining feature and typically leads to reproductive/endocrine dysfunction; when lesions enlarge, symptoms related to local compression may also occur. In clinical practice, microadenomas are reported predominantly in women, whereas men more often present with macroadenomas, a distribution that may relate to differences in symptom recognition and time to diagnosis. Current mechanistic data support a multifaceted model in which estrogen-related signaling, inherited or acquired genetic/epigenetic alterations, and dysregulated pathways, including PI3K/AKT/mTOR and RAS/RAF/MEK/ERK, intersect to promote tumor growth and functional activity. Patients therefore present along a spectrum, ranging from hypogonadism, infertility, and sex-specific manifestations to visual compromise, cranial neuropathies, or hypopituitarism in advanced disease. Dopamine agonists (DAs), particularly cabergoline, remain the standard first-line therapy; however, endoscopic surgery is increasingly used in selected patients (e.g., wellcircumscribed microadenomas and carefully chosen macroadenomas in experienced centers). For aggressive, DA-resistant, or malignant PRLomas, temozolomide remains the main systemic salvage option, and immunotherapy is being explored in early-phase settings. A precision approach will likely depend on integrating molecular stratification with clinical behavior to individualize treatment sequencing and improve long-term control and quality of life.",
+      "journal": "Mini reviews in medicinal chemistry",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
       "pmid": "42736824",
       "doi": "10.1097/MD.0000000000050508",
       "title": "A case report on the co-presentation of pituitary abscess and POEMS-like syndrome.",
@@ -452,11 +327,22 @@
       ]
     },
     {
-      "pmid": "42620427",
-      "doi": "10.1097/GOX.0000000000008034",
-      "title": "Successful Management of Postoperative Galactorrhea after Reduction Mammaplasty.",
-      "abstract": "Galactorrhea after reduction mammoplasty is a rare postoperative complication, usually associated with hormonal dysregulation or pituitary abnormalities. A 43-year-old woman with symptomatic macromastia underwent bilateral superomedial pedicle reduction mammoplasty. Three days postoperatively, she developed high-volume bilateral milky drainage through her surgical drains. Laboratory evaluation revealed elevated prolactin (96\u2009ng/mL; reference value 5-23\u2009ng/mL). Imaging demonstrated a partially empty sella without pituitary mass. Endocrinology initiated cabergoline therapy, resulting in suppression of prolactin and resolution of the galactorrhea. The patient's drains were maintained until the galactorrhea ceased, and she went on to heal well without complication. Galactorrhea after breast reduction surgery secondary to transient hyperprolactinemia is a rare but clinically significant complication. Prompt recognition and multidisciplinary management including drain maintenance, lactation suppression, and exclusion of prolactinoma are important steps in preventing wound healing complications and achieving optimal outcomes.",
-      "journal": "Plastic and reconstructive surgery. Global open",
+      "pmid": "42701998",
+      "doi": "10.1111/acel.70697",
+      "title": "Growth Hormone Receptor Antagonism Extends Lifespan.",
+      "abstract": "Interventions that disrupt growth hormone (GH) action are recognized as some of the most potent methods for extending lifespan. Accordingly, GH receptor antagonists (GHA) represent potential therapeutics to improve healthspan. Somavert (Pegvisomant for injection), used for treating patients with acromegaly, is currently the only FDA approved GHA. This drug was based on our laboratory's early 1990s discovery that mutating a codon for a conserved glycine-at position 119 in bovine GH or 120 in human GH-to a variety of amino acids, including lysine, ultimately converted GH from an agonist to antagonist. Since Pegvisomant has poor affinity to rodent GHR, it has not been tested for its ability to extend lifespan in rodents. To address this gap, we evaluated survival in GHA transgenic mice, a mouse line that played a crucial role in the discovery and development of Pegvisomant and has been maintained in our lab since 1991. While a prior study with several limitations failed to detect lifespan extension in GHA mice, our current study addressing these limitations shows that both median and maximal lifespan were significantly increased in male (p\u2009=\u20090.044; p\u2009=\u20090.0037) and female GHA mice (p\u2009=\u20092\u2009\u00d7\u200910-8; p\u2009=\u20099\u2009\u00d7\u200910-6), with maximal lifespan extended by 186 and 265\u2009days, respectively. Analysis of an independent cohort of 2-year-old mice revealed that GHA males and females were less frail with enhanced grip strength despite increased adiposity. These findings demonstrate for the first time that GH antagonism can improve health and extend lifespan.",
+      "journal": "Aging cell",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42744529",
+      "doi": "10.1016/j.endien.2026.501798",
+      "title": "Primary central nervous system lymphoma involving the hypothalamic-pituitary axis presenting with hypopituitarism: A case report with long-term follow-up.",
+      "abstract": "Primary central nervous system lymphoma (PCNSL) involving the hypothalamic-pituitary axis is a rare condition and may present with nonspecific neurologic and endocrine signs, often mimicking more common sellar lesions. We report the case of a 59-year-old woman admitted with subacute behavioral changes, cognitive decline, and polyuria. Magnetic resonance imaging revealed a pituitary-infundibular mass with suprasellar extension and marked bifrontal edema. Endocrine evaluation demonstrated panhypopituitarism and arginine vasopressin deficiency. The clinical course was complicated by severe dysnatremias requiring intensive care management and hormonal replacement. Histopathologic analysis of a transsphenoidal biopsy confirmed diffuse large B-cell lymphoma, with no systemic disease on PET-CT or bone marrow evaluation. The patient was treated with the MATRix chemotherapy regimen followed by autologous stem cell transplantation, achieving sustained complete remission at 3.5 years. Persistent hypogonadotropic hypogonadism remained as a sequelae. This case underscores the diagnostic challenges of sellar involvement by PCNSL and highlights the importance of including lymphoma in the differential diagnosis of hypothalamic-pituitary masses. Acute pituitary failure with severe electrolyte disturbances may precede oncologic diagnosis, and early multidisciplinary management combined with aggressive therapy can result in long-term remission.",
+      "journal": "Endocrinologia, diabetes y nutricion",
       "year": "2026",
       "publication_types": [
         "Case Reports",
@@ -464,11 +350,116 @@
       ]
     },
     {
-      "pmid": "42745898",
-      "doi": "10.3389/fpsyt.2026.1915709",
-      "title": "Dorsal anterior cingulate cortex-targeted transcranial temporal interference stimulation for negative symptoms and cognitive impairment in schizophrenia: a participant- and assessor-blinded, sham-controlled randomized controlled trial protocol.",
-      "abstract": "Persistent negative symptoms and cognitive deficits remain major obstacles to functional recovery in schizophrenia. These impairments are often only partially responsive to antipsychotic treatment and may persist even when other symptoms are clinically stable. Psychosocial interventions show inconsistent efficacy, and commonly used non-invasive brain stimulation techniques have limited ability to target deeper cortical regions. Transcranial temporal interference stimulation (tTIS) has recently emerged as a promising approach for modulating neural activity in such regions. This trial aims to evaluate the clinical efficacy of tTIS targeting the dorsal anterior cingulate cortex (dACC) in individuals with schizophrenia. Seventy-four participants with schizophrenia will be enrolled in a parallel-group, sham-controlled trial. After random allocation, half of the participants will receive active stimulation and the remainder will receive sham stimulation. Group assignment will be blinded from participants and clinical evaluators. Each participant will complete 10 sessions over 2 weeks, with one 30-minute session scheduled on each weekday. Assessments will be completed before the first session, after the treatment course, and 4 weeks after treatment completion. Evaluation will include symptom ratings, neuropsychological testing, behavioral tasks, and multimodal neuroimaging. The primary endpoint is the baseline-adjusted between-group difference in the Positive and Negative Syndrome Scale negative symptom subscale (PANSS-NS) score at T1. The PANSS-NS score at T2 will be analyzed as a secondary outcome to evaluate the durability of the treatment effect. The Brief Assessment of Cognition in Schizophrenia composite z-score and the Scale for the Assessment of Negative Symptoms total score are prespecified as key secondary outcomes. Participants will be included in the primary analysis according to their original treatment assignment. This study aims to determine whether dACC-targeted tTIS is feasible and clinically promising in schizophrenia. By combining symptom evaluation with cognitive, behavioral, and imaging measures, the trial may also generate preliminary evidence about treatment-related neural changes. The results will help guide the design of future studies evaluating deep-targeted non-invasive stimulation in psychiatric populations. https://clinicaltrials.gov/, identifier NCT07658898.",
-      "journal": "Frontiers in psychiatry",
+      "pmid": "42244465",
+      "doi": "10.1111/dom.70928",
+      "title": "Clinical Implications and Research Progress of Salivary Biomarkers for Endocrine and Metabolic Disorders.",
+      "abstract": "Similar to blood, saliva contains a broad range of biomarkers and may offer a non-invasive, repeatable specimen for endocrine and metabolic assessment. This review aims to synthesise and evaluate recent advances in the clinical translation of salivary biomarkers, while providing a critical assessment of the diagnostic reliability and clinical potential of key salivary biomarkers. PubMed, Web of Science and ScienceDirect were searched for English-language articles published up to July 2025, with emphasis on studies from 2020 to 2025. We included articles with a focus on the clinical translation of salivary biomarkers for endocrine and metabolic disorders. The relevant studies on the physiology underlying the synthesis and transport of salivary biomarkers were also identified. Late-night salivary cortisol is the most clinically established marker and is guideline-endorsed for Cushing's syndrome, while salivary cortisone may improve the diagnostic accuracy. Salivary glycaemic biomarkers, such as glucose, 1,5-anhydroglucitol, fructosamine, glycated albumin and \u03b1-amylase, show potential for diabetes screening or monitoring. Salivary uric acid, inflammatory factors and adipokines may reflect hyperuricaemia, obesity and metabolic inflammation. However, most biomarkers remain exploratory and their clinical translation is limited by inconsistent collection procedures, oral disease, medication effects and analytical platforms. Salivary biomarkers offer a promising non-invasive approach for assessment of endocrine and metabolic disorders. Standardised procedures and large-scale multicentre validation are needed to define reliable clinical cutoffs and perform comparisons with blood-based reference standards. Applications for machine learning and wearable sensing technology can further promote clinical translation.",
+      "journal": "Diabetes, obesity & metabolism",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42686245",
+      "doi": "10.1016/j.cden.2026.05.010",
+      "title": "Sedation Criteria for Intravenous Sedation in Oral Surgery.",
+      "abstract": "Intravenous sedation is a key component of oral and maxillofacial surgery, improving patient comfort and procedural tolerance. Safe administration depends on a structured pre-sedation evaluation that includes comprehensive medical history, airway assessment, ASA classification, BMI evaluation, and screening for obstructive sleep apnea. Systemic conditions such as diabetes, anemia, sickle cell disease, and adrenal insufficiency significantly influence sedation risk and require individualized management. Together, these criteria support effective risk stratification, guide sedation planning, and align with professional standards to optimize patient safety and outcomes.",
+      "journal": "Dental clinics of North America",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42694310",
+      "doi": "10.3389/fendo.2026.1842422",
+      "title": "Proteoformics-driven new concept of human growth hormone in clinical endocrinology.",
+      "abstract": "Growth hormone (GH) is a multifunctional regulator in somatic growth, metabolism, and tissue repair. Its pulsatile secretion is regulated by hypothalamic GH-releasing hormone (GHRH) and somatostatin (SST), and feedback inhibition by insulin-like growth factor 1 (IGF-1). Dysregulation of GH underlies several clinical disorders, including GH deficiency (GHD), acromegaly, and gigantism. The emerging concept of proteoformics has fundamentally reshaped the traditional view of GH: although human GH is encoded by a single gene, it gives rise to multiple proteoforms (GHPs) with distinct biological activities. In-depth study on GHPs pattern benefits understanding its precise molecular mechanism, discovering new therapeutic targets/drugs, and constructing GHPs-based biomarkers. Integration of proteoformics with multi-omics facilitates the construction of dynamic regulatory networks for GH signaling, thereby providing robust support for biomarker discovery and precision medicine strategies in GH-related diseases. Proteoform-based personalized therapy holds promise to advance current treatments such as somatostatin receptor ligands (SRLs), growth hormone receptor (GHR) antagonists, and long-acting GH formulations, with emerging therapies like antisense oligonucleotides and oral GHRH agonists showing preliminary promise. This review examines the potential role of proteoform-centered multi-omics in advancing personalized diagnosis and treatment, discusses challenges in clinical translation, and outlines a roadmap for integrating GH proteoformics into predictive, preventive, and personalized medicine (3PM).",
+      "journal": "Frontiers in endocrinology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42747664",
+      "doi": "10.1007/s12020-026-04778-2",
+      "title": "Glucocorticoids: an enemy or a friend for the dermatologist? recommendations for proper use and safe discontinuation.",
+      "abstract": "Glucocorticoids (GCs) are steroid hormones produced by the adrenal cortex with anti-inflammatory and immunoregulating effects, thus essential for the management of numerous inflammatory and autoimmune disorders, including a wide range of dermatological conditions. The aim of our review is to summarize current data about the indications for GCs in dermatology, present the dermatological and endocrinological adverse effects and summarize current recommendations about the proper use and safe discontinuation of GCs, creating a practical guide for dermatologists. A narrative review of the literature on PubMed/MEDLINE was conducted and included articles in English, published until July, 2026. A combination of the keywords \"glucocorticoids\", \"dermatology\", \"adrenal insufficiency\", \"HPA axis\", \"adverse effects\" and \"monitoring\" was used to identify relevant literature for this review, with emphasis on recent recommendations and guidelines. The reference lists of the selected publications were also reviewed. Although GCs are commonly prescribed medications in dermatology, their use is associated with numerous adverse effects, extending beyond the skin to multiple organ systems. However, some side effects, such as adrenal insufficiency and withdrawal syndrome, may even be life-threatening. Due to the expanded use of GCs, careful prescription and safe discontinuation is required. For this reason, we have created a practical clinical guide, summarizing the relevant recommendations to ensure proper use of GCs as well as safe discontinuation of the treatment. Optimal GC use requires individualized and careful selection of potency, duration, and route of administration to prevent any side effects and ensure the best outcome for the patient.",
+      "journal": "Endocrine",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42750739",
+      "doi": "10.1007/s43657-026-00322-4",
+      "title": "Artificial Intelligence-Driven Multiomics and Clinical Investigation Identify Macrophage Migration Inhibitory Factor as a Pan-Cancer Biomarker.",
+      "abstract": "Early cancer detection remains challenging due to the lack of reliable pan-cancer screening methods, particularly blood-based biomarkers. Using a novel three-tiered validation framework combining artificial intelligence (AI)-powered literature mining of 180,000 PubMed articles (1950-2024), multiomics integration across major databases, and extensive clinical validation, we identified macrophage migration inhibitory factor (MIF) as a promising blood-based biomarker for pan-cancer detection. Multiomics analysis revealed consistent MIF upregulation across 21 cancer types at the transcriptional level and across 12 cancer types at the protein level. Clinical validation in independent cohorts (n\u2009=\u20094,269) showed that serum MIF protein levels discriminated effectively between cancer patients and healthy controls (median AUC\u2009=\u20090.994) and between cancer and benign conditions (median AUC\u2009=\u20090.881). Notably, comparative analyses showed that MIF demonstrated superior or comparable performance to established cancer-specific markers, including AFP for hepatocellular carcinoma (MIF AUC\u2009=\u20090.885 vs. AFP AUC: 0.744-0.887) and CA125 for ovarian cancer (MIF AUC\u2009=\u20090.831 vs. CA125 AUC: 0.58-0.71). Meta-analysis of 28 cohorts (n\u2009=\u20095,347) confirmed the diagnostic efficacy of MIF (pooled AUC: 0.782). This cost-effective, blood-based ELISA approach establishes MIF as a valuable tool for broad applications in cancer screening. The online version contains supplementary material available at https://doi.org/10.1007/s43657-026-00322-4.",
+      "journal": "Phenomics (Cham, Switzerland)",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42704007",
+      "doi": "10.20960/nh.07101",
+      "title": "[When growth hormone levels drop - Management with urea of postoperative inappropriate antidiuretic hormone secretion syndrome in a patient who underwent surgery for acromegaly].",
+      "abstract": "postoperative hyponatremia is a common complication after endoscopic transsphenoidal surgery, with an incidence of 9-35 % that rises to 41.5 % in patients with acromegaly. a 74-year-old woman diagnosed with acromegaly underwent endoscopic transsphenoidal surgery and developed severe symptomatic hyponatremia (sodium 117 mmol/l) due to SIADH on postoperative day 11, after other causes of postoperative hyponatremia were ruled out. Following initial correction with hypertonic saline, treatment with oral urea (15 g/day) was started, achieving a safe increase in serum sodium (133 mmol/l at 48 hours) that allowed hospital discharge. One week later, with normalized sodium levels (137 mmol/l), treatment was withdrawn without subsequent recurrence. oral urea is an effective, well-tolerated and cost-effective first-line treatment for SIADH after pituitary surgery, particularly relevant in patients with acromegaly given their higher incidence of late hyponatremia. Systematic sodium monitoring during the highest-risk period could allow earlier treatment initiation and prevent progression to severe cases.",
+      "journal": "Nutricion hospitalaria",
+      "year": "2026",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42728076",
+      "doi": "10.1136/bcr-2026-272922",
+      "title": "Clinically silent pheochromocytoma presenting as an adrenal incidentaloma: the importance of biochemical evaluation.",
+      "abstract": "Pheochromocytoma is an uncommon catecholamine-secreting tumour that may rarely present without classic adrenergic symptoms. We report a woman in her late 70s with an incidentally detected 5 cm left adrenal mass identified during imaging for unrelated indications. Despite long-standing, well-controlled hypertension and absence of classic catecholamine excess symptoms, biochemical evaluation revealed elevated plasma free metanephrines, confirming pheochromocytoma. A CT scan demonstrated a predominantly cystic adrenal lesion with minimal enhancement; however, elevated unenhanced attenuation values were atypical for a benign adrenal adenoma and warranted biochemical evaluation to exclude a hormonally active adrenal lesion. Minimally invasive surgical management was pursued because untreated pheochromocytoma may result in cardiovascular and perioperative complications even in clinically asymptomatic individuals. Surgical resection achieved biochemical cure. This case highlights the importance of biochemical evaluation of adrenal incidentalomas, particularly in elderly patients without classic adrenergic symptoms.",
+      "journal": "BMJ case reports",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    },
+    {
+      "pmid": "41949969",
+      "doi": "10.62438/tunismed.v103i11.5677",
+      "title": "Management of Adrenal Incidentalomas: A Survey of Physicians from the Middle East and Africa.",
+      "abstract": "Adrenal incidentaloma (AI) is a common finding from increased imaging use. Several guidelines direct evaluation and management, but limited data exist on real-world practices. To describe the knowledge and practices of physicians from the Middle East and Africa (MEA) in AI. An online survey evaluated the definition of AI, diagnostic investigations, management approach, and long-term follow-up of patients with AI. 171 questionnaires were analysed. Adult and pediatric endocrinologists represented 71.4% of participants. A homogenous mass, < 4 cm and < 10HU, was considered benign by 57.9% of the respondents. The threshold of 4 cm for tumor size was considered suggestive of malignity by 64%. A minority, 34 (19.9%), indicated that no further imaging was required if a non-contrast CT scan was consistent with a benign adrenal mass. Most important endocrinopathies would routinely be excluded: hypercortisolism (97.7%), pheochromocytoma (95.3%), and primary hyperaldosteronism (87.1%). In a lesion considered biochemically inactive at the outset, 56.4% of the respondents would have recommended repeated biochemical testing, and 42.8% would have followed up the patients for 4 and 5 years, irrespective of radiological features. There is an under-appreciation of the risk of malignancy of AI > 4 cm and a tendency of over-investigating patients in whom a benign tumor has been established, with repeated unnecessary biochemical and radiological evaluation, revealing sub-optimal adherence to guidelines regarding AI in this region.",
+      "journal": "La Tunisie medicale",
+      "year": "2025",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42750776",
+      "doi": "10.1016/j.isci.2026.117440",
+      "title": "CTLA-4 haploinsufficiency leads to late-onset autoimmune pathology in mice.",
+      "abstract": "In humans, the loss of function in a single copy of the CTLA4 gene leads to an immune disorder characterized by a spectrum of immunodeficient and autoimmune manifestations. To investigate the pathogenicity of CTLA-4 haploinsufficiency, we utilized a heterozygous mouse model carrying a patient-derived Y139C mutation. We found that young heterozygous mice exhibited lymphoproliferative features and an activated T cell phenotype, without displaying autoimmunity. Co-culture assays revealed impaired trans-endocytosis. Despite this dysfunction, they remained resistant to induced inflammation. With age, however, they eventually developed spontaneous autoimmune manifestations that were more pronounced than those in age-matched littermates. Mechanistically, systemic activation induced CTLA-4-independent compensatory pathways, allowing Tregs to retain suppressive activity. Our study confirmed the pathogenicity of the Y139C heterozygous mutation, providing supporting evidence for CTLA-4 haploinsufficiency. Moreover, these results revealed that compensatory mechanisms arise in response to compromised trans-endocytosis. Further exploration may offer insights into disease progression and support the development of therapeutic strategies.",
+      "journal": "iScience",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42709596",
+      "doi": "10.1080/15360288.2026.2719866",
+      "title": "Tizanidine Withdrawal Syndrome: Clinical Manifestations and Management Strategies. Case Series.",
+      "abstract": "Tizanidine, an imidazole derived \u03b12 adrenergic agonist, is widely prescribed for spasticity and chronic musculoskeletal pain. Abrupt discontinuation can precipitate withdrawal syndromes characterized by sympathetic overactivity. Although pharmacologically plausible, this phenomenon is potentially underreported in clinical practice. We describe four patients with diverse comorbidities who developed acute tizanidine withdrawal. All cases were directly observed at a single tertiary care center and identified during routine inpatient clinical practice over a defined timeline. Case 1 was a 24\u2009year old female admitted with empagliflozin induced diabetic ketoacidosis who experienced hypertensive crisis and tachycardia following abrupt cessation of chronic high dose tizanidine. Case 2 was a 29\u2009year old female with Crohn's disease who developed tremors, anxiety, and autonomic instability after reducing her regimen from 40\u2009mg nightly to 16\u2009mg daily. She had self-discontinued her last dose prior to presentation. Case 3 was a 29\u2009year old female with recurrent pancreatitis, resistant hypertension, and an adrenal incidentaloma who presented with severe hypertension and tremors after discontinuing both tizanidine and diazepam. Symptoms began within approximately 24\u2009h of abrupt cessation. Case 4 was a 42\u2009year old male with asthma, hypertension, anxiety disorder, bariatric surgery, methamphetamine use, and more than ten prior admissions specifically for tizanidine withdrawal, who presented with palpitations, tremors, vomiting, and hypertensive crisis after abrupt dose reduction. In all cases, reintroduction of tizanidine followed by a structured tapering regimen resulted in clinical stabilization. These cases highlight the clinical significance of tizanidine withdrawal, its diverse presentations, and the importance of cautious tapering. Patient education on avoiding abrupt discontinuation is essential, particularly for individuals with psychiatric comorbidities or prior withdrawal episodes. Awareness of this underrecognized syndrome is critical to prevent misdiagnosis and ensure safe prescribing practices.",
+      "journal": "Journal of pain & palliative care pharmacotherapy",
       "year": "2026",
       "publication_types": [
         "Journal Article"
