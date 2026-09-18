@@ -53,7 +53,10 @@
     "42743103",
     "42747392",
     "42749874",
-    "42749973"
+    "42749973",
+    "42751607",
+    "42753014",
+    "42753040"
   ],
   "sessions": [
     {
@@ -824,6 +827,49 @@
           "quiz_question": "A patient with known adrenal insufficiency on stable glucocorticoid replacement presents with unexplained weight loss, fatigue, and nausea. GDF-15 levels are markedly elevated. Based on the framework proposed in this review, what additional considerations does elevated GDF-15 raise in the context of HPA axis disease?",
           "quiz_answer": "According to this review, elevated GDF-15 in a patient with adrenal insufficiency could reflect ongoing cellular stress and may signal inadequate glucocorticoid replacement or an intercurrent stress state activating the HPA axis. GDF-15 signals via GFRAL to suppress appetite and induce nausea/vomiting\u2014symptoms that can mimic adrenal crisis or under-replacement. The review also raises the hypothesis that GDF-15 itself may modulate HPA axis activity, so elevated levels warrant reassessment of replacement adequacy and investigation for intercurrent illness, while recognizing the clinical evidence base remains preliminary.",
           "journal": "Endocrine reviews",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-28",
+      "items": [
+        {
+          "pmid": "42753014",
+          "doi": "10.1007/s10143-026-04502-8",
+          "title": "Endocrine and surgical outcomes after medial cavernous sinus wall resection for functioning pituitary adenomas: a systematic review and meta-analysis.",
+          "category": "notable",
+          "summary": "This systematic review and meta-analysis of 13 studies (493 patients) found that intentional medial cavernous sinus wall resection (MCSWR) was associated with pooled endocrine remission rates of 87% for acromegaly, 89% for Cushing's disease, and 78% for prolactinomas, with gross total resection achieved in 92% overall. Recurrence occurred in only 6% at follow-up, and serious complications were rare \u2014 no ICA injuries, cranial nerve palsies in 3%, and CSF leak in 4%. These data suggest MCSWR is a viable surgical strategy for cavernous sinus-invasive functioning adenomas in experienced hands, with an acceptable safety profile.",
+          "caveat": "The evidence base is predominantly retrospective, single-arm, and from high-volume centers, with follow-up ranging from only 9\u201330 months in most cohorts \u2014 insufficient to capture late recurrences. Risk of bias was rated serious to critical in most studies, and the absence of comparative controls limits causal inference.",
+          "quiz_question": "A 38-year-old woman with Cushing's disease has a 12 mm corticotroph adenoma with radiologic evidence of medial cavernous sinus wall invasion (Knosp grade 2). Her surgeon is considering medial cavernous sinus wall resection. Based on the best available aggregate data, what remission rate and major complication rate should she be counseled about?",
+          "quiz_answer": "Based on this meta-analysis, the pooled endocrine remission rate for Cushing's disease after MCSWR is approximately 89%, with a recurrence rate of ~6%. Major complication rates are low: ICA injury 0%, CN III/VI palsies ~3% each, and postoperative CSF leak ~4%. However, she should be informed these data come from high-volume, largely retrospective series with limited follow-up.",
+          "journal": "Neurosurgical review",
+          "year": "2026"
+        },
+        {
+          "pmid": "42751607",
+          "doi": "10.1093/pch/pxag048",
+          "title": "Adrenal suppression secondary to inhaled corticosteroids.",
+          "category": "notable",
+          "summary": "This Canadian Pediatric Society position statement addresses the underrecognized risk of adrenal suppression (AS) from inhaled corticosteroids (ICS) in children, which can be life-threatening despite being a 'topical' therapy. The Working Group recommends screening with a morning serum cortisol in asymptomatic children on high-dose ICS for \u22653 months, any ICS dose combined with a CYP3A4 inhibitor, or in any child with symptoms of AS regardless of dose. Pediatric Endocrinology referral is warranted when morning cortisol is low or clinical suspicion is high, with individualized optimization of ICS technique, dosing, and comorbidity management to minimize AS risk.",
+          "caveat": "This is a guideline/position statement rather than a primary research study, so it reflects expert consensus and existing evidence rather than new trial data. Specific cortisol threshold cutoffs for 'low' are not defined in the abstract, requiring clinician judgment and local laboratory reference ranges.",
+          "quiz_question": "A 9-year-old with moderate-persistent asthma is on high-dose fluticasone via MDI for 6 months and is also receiving itraconazole (a CYP3A4 inhibitor) for tinea capitis. He is currently asymptomatic. According to Canadian Pediatric Society recommendations, what is the appropriate next step?",
+          "quiz_answer": "This child meets two screening criteria \u2014 high-dose ICS for \u22653 months AND concurrent CYP3A4 inhibitor use. A morning serum cortisol should be obtained regardless of symptoms. If the result is low or clinical suspicion remains high, Pediatric Endocrinology referral is indicated.",
+          "journal": "Paediatrics & child health",
+          "year": "2026"
+        },
+        {
+          "pmid": "42753040",
+          "doi": "10.1007/s11547-026-02278-x",
+          "title": "xsCT-based radiomics for adrenal incidentaloma characterization.",
+          "category": "preliminary",
+          "summary": "This retrospective single-center study of 135 patients developed CT-based radiomic models to distinguish benign (adenoma, myelolipoma, ganglioneuroma, pseudocyst) from malignant (pheochromocytoma, adrenocortical carcinoma, metastasis, lymphoma) adrenal incidentalomas. Using LASSO-selected radiomic features from non-contrast and portal-phase acquisitions, the models achieved AUCs of 0.88 and 0.84, respectively, suggesting meaningful discriminatory performance beyond traditional HU thresholds alone. This adds to growing evidence that radiomics could augment \u2014 though not yet replace \u2014 standard imaging characterization of adrenal masses.",
+          "caveat": "Retrospective, single-center design with modest sample size (n=135) and no external validation cohort, substantially limiting generalizability. Notably, pheochromocytoma was classified as 'malignant' in the grouping scheme, which differs from standard clinical classification frameworks and may complicate direct application to routine practice.",
+          "quiz_question": "A 55-year-old man has a 3.2 cm adrenal mass with unenhanced attenuation of 18 HU (indeterminate by standard criteria). A radiomic model applied to his CT images classifies it as 'high risk for malignancy.' How should this radiomic output be integrated into clinical decision-making based on current evidence?",
+          "quiz_answer": "Radiomic models for adrenal incidentalomas show promising discriminatory performance (AUC ~0.88 in this study) but remain preliminary tools validated only in single-center retrospective cohorts without external validation. The radiomic result should be considered adjunctive information alongside standard evaluation \u2014 biochemical workup (metanephrines, aldosterone/renin, 1mg DST) and established imaging criteria \u2014 rather than as a standalone decision driver. Multidisciplinary discussion or referral to adrenal-focused centers is appropriate for indeterminate lesions.",
+          "journal": "La Radiologia medica",
           "year": "2026"
         }
       ],
