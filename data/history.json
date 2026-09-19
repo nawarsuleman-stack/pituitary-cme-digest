@@ -56,7 +56,10 @@
     "42749973",
     "42751607",
     "42753014",
-    "42753040"
+    "42753040",
+    "42755565",
+    "42758639",
+    "42760967"
   ],
   "sessions": [
     {
@@ -870,6 +873,49 @@
           "quiz_question": "A 55-year-old man has a 3.2 cm adrenal mass with unenhanced attenuation of 18 HU (indeterminate by standard criteria). A radiomic model applied to his CT images classifies it as 'high risk for malignancy.' How should this radiomic output be integrated into clinical decision-making based on current evidence?",
           "quiz_answer": "Radiomic models for adrenal incidentalomas show promising discriminatory performance (AUC ~0.88 in this study) but remain preliminary tools validated only in single-center retrospective cohorts without external validation. The radiomic result should be considered adjunctive information alongside standard evaluation \u2014 biochemical workup (metanephrines, aldosterone/renin, 1mg DST) and established imaging criteria \u2014 rather than as a standalone decision driver. Multidisciplinary discussion or referral to adrenal-focused centers is appropriate for indeterminate lesions.",
           "journal": "La Radiologia medica",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-17",
+      "items": [
+        {
+          "pmid": "42760967",
+          "doi": "10.3389/fendo.2026.1872524",
+          "title": "Plasma cortisol cut-off concentrations using the dexamethasone suppression test in patients with adrenal incidentalomas.",
+          "category": "notable",
+          "summary": "In this prospective cross-sectional study of 108 patients with adrenal incidentalomas and 101 matched controls, the guideline-recommended 50 nmol/L post-1mg DST cortisol threshold corresponded only to the 90th percentile of control values\u2014not the 97.5th percentile as would be expected for a specificity-optimized cutoff. Using the control-derived 97.5th percentile threshold of 66 nmol/L (LC-MS/MS), the proportion classified as having autonomous cortisol secretion fell from 44% to 26%. Pre-DST ACTH was a poor predictor of post-DST cortisol suppression (AUC 0.69), and post-DST cortisol was not significantly associated with cardiometabolic comorbidities in this cohort.",
+          "caveat": "Single-center cross-sectional design with a relatively modest sample size; LC-MS/MS and immunoassay results may not be directly interchangeable across institutions, and the clinical consequences of reclassifying patients at the higher threshold require prospective outcome data before any guideline revision is warranted.",
+          "quiz_question": "A 58-year-old woman with an incidentally discovered 2.1 cm left adrenal adenoma (10 HU on non-contrast CT) undergoes a 1 mg overnight DST with post-DST cortisol of 58 nmol/L by immunoassay. Per current ESE/ENS@T guidelines she is classified as having mild autonomous cortisol secretion (MACS). Based on this new study's findings, what concern does this classification raise, and what does the data suggest about the 50 nmol/L threshold?",
+          "quiz_answer": "The 50 nmol/L threshold corresponds to only the 90th percentile of a healthy control population rather than the conventional 97.5th percentile used to define pathological suppression failure\u2014meaning it may overcall MACS. The study found that using a control-derived 66 nmol/L threshold (97.5th percentile by LC-MS/MS) reclassifies approximately 18% fewer patients as having autonomous secretion. This patient's result of 58 nmol/L falls below 66 nmol/L, raising the possibility that she would not meet a specificity-optimized threshold, though the clinical implications of reclassification remain to be validated prospectively.",
+          "journal": "Frontiers in endocrinology",
+          "year": "2026"
+        },
+        {
+          "pmid": "42758639",
+          "doi": "10.1093/ejendo/lvag180",
+          "title": "Cardiovascular Morbidity in Acromegaly during a Long-term Follow-Up - a Nationwide Cohort Study.",
+          "category": "notable",
+          "summary": "This Finnish nationwide retrospective cohort study (n=565 acromegaly patients, n=5,629 controls; median follow-up 17.2 years) demonstrates that cardiovascular morbidity in acromegaly begins years before diagnosis and remains persistently elevated throughout follow-up (HR 1.59 vs. controls). The highest excess risk was seen for pulmonary arterial disease (HR 2.74), valvular disease/cardiomyopathy (HR 2.68), and hypertension (HR 2.11). Crucially, even patients achieving biochemical remission after surgery with normal pituitary function still had significantly higher cardiovascular morbidity than controls, underscoring that cure does not normalize long-term cardiovascular risk.",
+          "caveat": "Retrospective design with inherent selection and ascertainment biases; radiotherapy exposure and hypopituitarism were independently associated with increased CV morbidity, making it difficult to fully disentangle disease-intrinsic from treatment-related risk. Contemporary somatostatin analog use patterns are not granularly reported.",
+          "quiz_question": "A 45-year-old man with acromegaly underwent successful transsphenoidal surgery 5 years ago and has maintained normal IGF-1 levels and intact pituitary function since. He asks whether his cardiovascular risk is now equivalent to the general population. What does this nationwide Finnish cohort study indicate?",
+          "quiz_answer": "Despite biochemical remission and preserved pituitary function after surgery, this cohort study found that acromegaly patients continued to have significantly elevated cardiovascular morbidity compared to matched controls throughout the entire follow-up period (median >17 years). Excess risk for valvular disease, cardiomyopathy, pulmonary arterial disease, and hypertension persisted even in surgically cured patients, indicating that long-term cardiovascular surveillance and risk factor management remain essential regardless of biochemical cure.",
+          "journal": "European journal of endocrinology",
+          "year": "2026"
+        },
+        {
+          "pmid": "42755565",
+          "doi": "10.3389/fonc.2026.1784221",
+          "title": "A case report of a composite pheochromocytoma that occurred 13 years after adrenalectomy for pheochromocytoma.",
+          "category": "notable",
+          "summary": "In this retrospective single-center cohort of 120 patients with bilateral adrenal incidentalomas (BAIs) followed for at least 36 months, 56% had mild autonomous cortisol secretion (MACS) at baseline and 44% were non-functioning. Among initially non-functioning BAIs, 32.1% developed MACS during follow-up (biochemical progression), while 44.3% showed radiological progression (\u22653 mm increase in number or size). Importantly, radiological and biochemical progression were largely discordant\u2014only 7.4% of radiologically progressing patients also showed biochemical progression\u2014highlighting that BAIs may require individualized reassessment strategies beyond current ESE/ENS@T guidelines, which lack specific BAI-directed recommendations.",
+          "caveat": "Retrospective single-center design with significant attrition (only 64/120 completed full biochemical follow-up); heterogeneous baseline characteristics and lack of a prospective comparator limit generalizability. The clinical consequences of biochemical progression (e.g., cardiometabolic outcomes) were not assessed.",
+          "quiz_question": "A 67-year-old woman is referred for bilateral adrenal nodules (right 18 mm, left 14 mm), both with Hounsfield units <10 on unenhanced CT. Her 1 mg DST cortisol is 1.3 \u00b5g/dL (non-functioning). She asks whether she needs ongoing follow-up. What does this cohort study suggest about the natural history of non-functioning BAIs?",
+          "quiz_answer": "This study found that approximately one-third (32.1%) of patients with initially non-functioning BAIs developed mild autonomous cortisol secretion (MACS) over a minimum 36-month follow-up. Additionally, 44.3% showed radiological progression, and notably, biochemical and radiological progression were largely discordant events. These findings suggest that non-functioning BAIs cannot be safely discharged after a single normal evaluation, and support individualized clinical reassessment\u2014though optimal surveillance intervals remain to be defined by prospective multicenter studies.",
+          "journal": "Frontiers in oncology",
           "year": "2026"
         }
       ],
