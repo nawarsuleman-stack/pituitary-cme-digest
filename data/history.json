@@ -62,10 +62,13 @@
     "42755565",
     "42755597",
     "42758342",
+    "42758384",
     "42758639",
     "42760967",
     "42762503",
-    "42762504"
+    "42762504",
+    "42764013",
+    "42766172"
   ],
   "sessions": [
     {
@@ -1008,6 +1011,49 @@
           "quiz_question": "A patient with primary adrenal insufficiency on conventional thrice-daily oral hydrocortisone reports persistent fatigue, particularly in the morning, and her HbA1c has risen. She asks whether there is a better formulation. What does current evidence and clinician survey data suggest about the unmet need here?",
           "quiz_answer": "Conventional immediate-release hydrocortisone has an unphysiological pharmacokinetic profile and is associated with metabolic adverse effects including hyperglycemia and weight gain. Survey data confirm that ~90% of clinicians recognize the need for modified-release formulations. Once-daily modified-release hydrocortisone (e.g., Plenadren) better mimics the physiological cortisol rhythm and has been associated with improved metabolic profiles in clinical trials, making it a clinically reasonable option to discuss in this patient.",
           "journal": "Endocrine regulations",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-17",
+      "items": [
+        {
+          "pmid": "42764013",
+          "doi": "10.1093/ejendo/lvag182",
+          "title": "Dietary Interventions and Vitamin D3 Replacement in Pituitary Tumors: a Systematic Review.",
+          "category": "notable",
+          "summary": "This systematic review of 8 studies (355 participants) examined dietary strategies across acromegaly, Cushing's disease, prolactinoma, and hypopituitarism. Very low-carbohydrate ketogenic diets reduced IGF-I in acromegaly and improved BMI/metabolic parameters in Cushing's disease, while energy-restricted diets combined with physical activity benefited prolactinoma and hypopituitarism patients. Vitamin D3 replacement was associated with reduced vertebral fracture risk in acromegaly and improved insulin sensitivity and lipid profiles in Cushing's disease, suggesting adjunctive dietary and nutritional strategies deserve a formal place in PitNET management discussions.",
+          "caveat": "Only 8 small heterogeneous studies met inclusion criteria; most are observational or have high risk of bias, and the evidence base is insufficient to support formal dietary prescriptions without larger randomized trials.",
+          "quiz_question": "A 45-year-old woman with active Cushing's disease awaiting surgery asks about lifestyle modifications that might help her metabolic comorbidities in the interim. Based on the best available (though limited) evidence, which dietary approach and nutritional supplement have shown the most promise for improving BMI/metabolic parameters and insulin sensitivity, respectively?",
+          "quiz_answer": "Very low-carbohydrate ketogenic or energy-restricted diets have shown improvement in BMI and metabolic parameters in Cushing's disease, while vitamin D3 replacement was associated with improved insulin sensitivity and lipid levels in this population, per this systematic review. Both should be considered adjuncts, not replacements for definitive therapy, given the limited evidence base.",
+          "journal": "European journal of endocrinology",
+          "year": "2026"
+        },
+        {
+          "pmid": "42758384",
+          "doi": "10.1007/s10143-026-04503-7",
+          "title": "Endoscopic endonasal approach for recurrent or residual pituitary neuroendocrine tumors.",
+          "category": "notable",
+          "summary": "This retrospective series of 152 patients undergoing repeat endoscopic endonasal surgery (EES) for recurrent or residual PitNETs demonstrated a gross total resection (GTR) rate of 69.1%, with visual field improvement in 72.5% of those with preoperative deficits. The complication profile was acceptable: new permanent diabetes insipidus occurred in only 1.3% and new hypopituitarism in 7.9%. Critically, Knosp grade 3\u20134 was the strongest independent predictor of incomplete resection (OR >86), underscoring the importance of cavernous sinus involvement in surgical planning for redo cases.",
+          "caveat": "Retrospective single-center design with patient selection bias (only those deemed suitable for repeat EES were included); the very high OR for Knosp 3\u20134 is imprecise due to sparse data in that subgroup. Median follow-up of 36 months may be insufficient to capture late recurrences.",
+          "quiz_question": "A 52-year-old man with a non-functioning pituitary macroadenoma underwent transsphenoidal resection 3 years ago; MRI now shows a 2 cm residual tumor with Knosp grade 4 cavernous sinus invasion. He is referred for consideration of repeat EES. What does this large retrospective series suggest about his likelihood of achieving GTR, and what is the principal predictor of incomplete resection?",
+          "quiz_answer": "Knosp grade 3\u20134 was the single strongest predictor of incomplete resection (OR >86) in this series, meaning patients like this one with Knosp 4 involvement have a substantially lower chance of achieving GTR. Overall GTR was 69.1% across the cohort, but this drops significantly for high Knosp-grade tumors, and alternative or adjunctive strategies (radiosurgery, medical therapy) should be part of the multidisciplinary discussion.",
+          "journal": "Neurosurgical review",
+          "year": "2026"
+        },
+        {
+          "pmid": "42766172",
+          "doi": "10.1007/s11060-026-05737-7",
+          "title": "Intracranial germ cell tumors: an underrecognized diagnostic consideration in adults with sellar/suprasellar lesions.",
+          "category": "notable",
+          "summary": "In a single-center study of 48 adults (\u226518 years) with sellar/suprasellar intracranial germ cell tumors (iGCTs), the median age at onset was 23.4 years and 87.5% were male. CSF \u03b2-hCG distinguished iGCTs from lymphocytic hypophysitis (LYH) with an AUC of 0.897 at a cutoff of 2.52 U/L (sensitivity 78.6%, specificity 95.5%). A nomogram incorporating sex, log-transformed serum \u03b2-hCG, hyperprolactinemia, and pituitary stalk thickening further improved discrimination (AUC 0.939), offering a practical framework to avoid delayed diagnosis of this treatable condition in adults presenting with hypopituitarism and stalk lesions.",
+          "caveat": "Single-center retrospective study with internal bootstrap validation only; external validation in independent cohorts is required before the nomogram can be broadly adopted. The LYH comparator group limits generalizability to the full differential of pituitary stalk lesions.",
+          "quiz_question": "A 24-year-old male presents with diabetes insipidus, hyperprolactinemia, and a thickened pituitary stalk on MRI. Serum \u03b2-hCG is mildly elevated. You are considering lymphocytic hypophysitis versus an intracranial germ cell tumor. According to this study, what CSF marker and cutoff best differentiates these two entities, and what other clinical features favor iGCT?",
+          "quiz_answer": "CSF \u03b2-hCG >2.52 U/L had a sensitivity of 78.6% and specificity of 95.5% for distinguishing iGCT from LYH (AUC 0.897). Male sex, elevated serum \u03b2-hCG, hyperprolactinemia, and pituitary stalk thickening together (incorporated in the nomogram) further favor iGCT. Young male patients with these features warrant CSF analysis and oncologic workup before attributing stalk lesions to autoimmune hypophysitis.",
+          "journal": "Journal of neuro-oncology",
           "year": "2026"
         }
       ],
