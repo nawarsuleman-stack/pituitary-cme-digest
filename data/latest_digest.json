@@ -1,40 +1,40 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-16",
   "items": [
     {
-      "pmid": "42764013",
-      "doi": "10.1093/ejendo/lvag182",
-      "title": "Dietary Interventions and Vitamin D3 Replacement in Pituitary Tumors: a Systematic Review.",
+      "pmid": "42770351",
+      "doi": "10.1177/22143602261485046",
+      "title": "Adrenal insufficiency in individuals with Duchenne muscular dystrophy treated with glucocorticoids: Insights from the past, current challenges, and future directions.",
       "category": "notable",
-      "summary": "This systematic review of 8 studies (355 participants) examined dietary strategies across acromegaly, Cushing's disease, prolactinoma, and hypopituitarism. Very low-carbohydrate ketogenic diets reduced IGF-I in acromegaly and improved BMI/metabolic parameters in Cushing's disease, while energy-restricted diets combined with physical activity benefited prolactinoma and hypopituitarism patients. Vitamin D3 replacement was associated with reduced vertebral fracture risk in acromegaly and improved insulin sensitivity and lipid profiles in Cushing's disease, suggesting adjunctive dietary and nutritional strategies deserve a formal place in PitNET management discussions.",
-      "caveat": "Only 8 small heterogeneous studies met inclusion criteria; most are observational or have high risk of bias, and the evidence base is insufficient to support formal dietary prescriptions without larger randomized trials.",
-      "quiz_question": "A 45-year-old woman with active Cushing's disease awaiting surgery asks about lifestyle modifications that might help her metabolic comorbidities in the interim. Based on the best available (though limited) evidence, which dietary approach and nutritional supplement have shown the most promise for improving BMI/metabolic parameters and insulin sensitivity, respectively?",
-      "quiz_answer": "Very low-carbohydrate ketogenic or energy-restricted diets have shown improvement in BMI and metabolic parameters in Cushing's disease, while vitamin D3 replacement was associated with improved insulin sensitivity and lipid levels in this population, per this systematic review. Both should be considered adjuncts, not replacements for definitive therapy, given the limited evidence base.",
+      "summary": "This review provides updated best-practice guidance on managing iatrogenic adrenal insufficiency (AI) in Duchenne muscular dystrophy (DMD) patients on chronic high-dose glucocorticoids \u2014 a group at particularly high risk given prolonged supraphysiologic GC exposure from a young age. Key themes include caregiver/patient education on adrenal suppression recognition, stress-dosing protocols, safe transitions between GC regimens (e.g., deflazacort to prednisone or vice versa), and strategies for safe GC discontinuation. The review also notes applicability to Becker muscular dystrophy and female manifesting carriers on individualized GC regimens.",
+      "caveat": "This is a narrative review without a formal systematic methodology; recommendations are consensus/expert-based and may not be uniformly evidence-graded. The DMD therapeutic landscape is rapidly evolving (gene therapy, exon skipping), and GC tapering guidance may need updating as these agents displace or modify GC use.",
+      "quiz_question": "A 14-year-old male with DMD on deflazacort 0.9 mg/kg/day for 8 years is transitioning to a reduced-dose regimen due to side effects. He presents to the ED with vomiting and fatigue after a GI illness. His parents report he missed two doses. What is the most important immediate management consideration?",
+      "quiz_answer": "This patient is at high risk for acute adrenal insufficiency given prolonged supraphysiologic GC exposure causing HPA axis suppression. He should receive empiric stress-dose hydrocortisone (e.g., 50\u2013100 mg/m\u00b2 IV bolus, then divided doses over 24 hours) without waiting for confirmatory cortisol levels, as per AI stress-dosing protocols outlined for DMD patients in this review.",
+      "journal": "Journal of neuromuscular diseases",
+      "year": "2026"
+    },
+    {
+      "pmid": "42728076",
+      "doi": "10.1136/bcr-2026-272922",
+      "title": "Clinically silent pheochromocytoma presenting as an adrenal incidentaloma: the importance of biochemical evaluation.",
+      "category": "notable",
+      "summary": "This case report describes a woman in her late 70s with a 5 cm left adrenal incidentaloma discovered incidentally, who had long-standing well-controlled hypertension and no classic catecholamine-excess symptoms \u2014 yet biochemical evaluation revealed elevated plasma free metanephrines confirming pheochromocytoma. CT showed a predominantly cystic lesion with elevated unenhanced attenuation values atypical for adenoma. Minimally invasive resection achieved biochemical cure, reinforcing that clinical silence does not exclude functionally active pheochromocytoma and that biochemical screening is obligatory for all adrenal incidentalomas regardless of symptom status.",
+      "caveat": "Single case report; provides illustrative rather than epidemiologic evidence. The reminder about mandatory biochemical testing is guideline-concordant (Endocrine Society 2023 adrenal incidentaloma guidelines), so the clinical lesson is not novel \u2014 but the case usefully reinforces the point for elderly patients without classic adrenergic features.",
+      "quiz_question": "A 78-year-old woman with a history of treated hypertension undergoes abdominal CT for diverticulitis workup, revealing a 5.2 cm left adrenal mass with an unenhanced HU of 28. She denies headaches, palpitations, or sweating. Her blood pressure is 138/82 mmHg on two antihypertensives. What is the next required step in evaluation?",
+      "quiz_answer": "Biochemical testing for pheochromocytoma \u2014 specifically plasma free metanephrines or 24-hour urine fractionated metanephrines \u2014 is mandatory regardless of the absence of classic adrenergic symptoms, as this case demonstrates that clinically silent pheochromocytoma can present as an adrenal incidentaloma. Elevated unenhanced attenuation (>10 HU) is also atypical for a benign adenoma and further mandates functional workup before any biopsy or intervention.",
+      "journal": "BMJ case reports",
+      "year": "2026"
+    },
+    {
+      "pmid": "42773730",
+      "doi": "10.1093/ejendo/lvag183",
+      "title": "Pituitary adenomas in older patients - approaches, challenges and future directions.",
+      "category": "notable",
+      "summary": "This review synthesizes 20 years of published data on pituitary adenomas diagnosed in elderly patients, highlighting that clinical phenotypes often differ substantially from younger cohorts \u2014 for example, acromegaly and prolactinoma may present atypically, and age-related pituitary changes can confound hormonal interpretation. Diagnosis is complicated by overlap between normal aging (e.g., declining IGF-1, declining gonadotropins, visual changes) and adenoma-related findings. The authors emphasize individualized, patient-tailored management that accounts for frailty, polypharmacy, and patient preferences, and advocate for management at centers of excellence with multidisciplinary expertise.",
+      "caveat": "Narrative review with a 20-year literature window, which includes heterogeneous study designs and populations; no meta-analytic pooling. Specific evidence for outcomes in elderly patients with pituitary adenomas remains sparse compared to younger populations, limiting the strength of age-specific recommendations.",
+      "quiz_question": "A 78-year-old man is referred for a newly diagnosed 2.2 cm non-functioning pituitary macroadenoma found incidentally on MRI. He is frail with mild cognitive impairment, stable visual fields, and no hormonal excess. His family asks about surgery. How should his management differ from that of a 45-year-old with the same finding?",
+      "quiz_answer": "In elderly and/or frail patients with incidental non-functioning pituitary macroadenomas and preserved visual fields, a conservative watchful-waiting approach is generally preferred over upfront surgery, as surgical risk is amplified by frailty, comorbidities, and reduced physiologic reserve. Management should be individualized with input from a multidisciplinary pituitary team, weighing the patient's wishes, functional status, and life expectancy \u2014 rather than applying the same intervention thresholds used for younger, surgically fit patients.",
       "journal": "European journal of endocrinology",
-      "year": "2026"
-    },
-    {
-      "pmid": "42758384",
-      "doi": "10.1007/s10143-026-04503-7",
-      "title": "Endoscopic endonasal approach for recurrent or residual pituitary neuroendocrine tumors.",
-      "category": "notable",
-      "summary": "This retrospective series of 152 patients undergoing repeat endoscopic endonasal surgery (EES) for recurrent or residual PitNETs demonstrated a gross total resection (GTR) rate of 69.1%, with visual field improvement in 72.5% of those with preoperative deficits. The complication profile was acceptable: new permanent diabetes insipidus occurred in only 1.3% and new hypopituitarism in 7.9%. Critically, Knosp grade 3\u20134 was the strongest independent predictor of incomplete resection (OR >86), underscoring the importance of cavernous sinus involvement in surgical planning for redo cases.",
-      "caveat": "Retrospective single-center design with patient selection bias (only those deemed suitable for repeat EES were included); the very high OR for Knosp 3\u20134 is imprecise due to sparse data in that subgroup. Median follow-up of 36 months may be insufficient to capture late recurrences.",
-      "quiz_question": "A 52-year-old man with a non-functioning pituitary macroadenoma underwent transsphenoidal resection 3 years ago; MRI now shows a 2 cm residual tumor with Knosp grade 4 cavernous sinus invasion. He is referred for consideration of repeat EES. What does this large retrospective series suggest about his likelihood of achieving GTR, and what is the principal predictor of incomplete resection?",
-      "quiz_answer": "Knosp grade 3\u20134 was the single strongest predictor of incomplete resection (OR >86) in this series, meaning patients like this one with Knosp 4 involvement have a substantially lower chance of achieving GTR. Overall GTR was 69.1% across the cohort, but this drops significantly for high Knosp-grade tumors, and alternative or adjunctive strategies (radiosurgery, medical therapy) should be part of the multidisciplinary discussion.",
-      "journal": "Neurosurgical review",
-      "year": "2026"
-    },
-    {
-      "pmid": "42766172",
-      "doi": "10.1007/s11060-026-05737-7",
-      "title": "Intracranial germ cell tumors: an underrecognized diagnostic consideration in adults with sellar/suprasellar lesions.",
-      "category": "notable",
-      "summary": "In a single-center study of 48 adults (\u226518 years) with sellar/suprasellar intracranial germ cell tumors (iGCTs), the median age at onset was 23.4 years and 87.5% were male. CSF \u03b2-hCG distinguished iGCTs from lymphocytic hypophysitis (LYH) with an AUC of 0.897 at a cutoff of 2.52 U/L (sensitivity 78.6%, specificity 95.5%). A nomogram incorporating sex, log-transformed serum \u03b2-hCG, hyperprolactinemia, and pituitary stalk thickening further improved discrimination (AUC 0.939), offering a practical framework to avoid delayed diagnosis of this treatable condition in adults presenting with hypopituitarism and stalk lesions.",
-      "caveat": "Single-center retrospective study with internal bootstrap validation only; external validation in independent cohorts is required before the nomogram can be broadly adopted. The LYH comparator group limits generalizability to the full differential of pituitary stalk lesions.",
-      "quiz_question": "A 24-year-old male presents with diabetes insipidus, hyperprolactinemia, and a thickened pituitary stalk on MRI. Serum \u03b2-hCG is mildly elevated. You are considering lymphocytic hypophysitis versus an intracranial germ cell tumor. According to this study, what CSF marker and cutoff best differentiates these two entities, and what other clinical features favor iGCT?",
-      "quiz_answer": "CSF \u03b2-hCG >2.52 U/L had a sensitivity of 78.6% and specificity of 95.5% for distinguishing iGCT from LYH (AUC 0.897). Male sex, elevated serum \u03b2-hCG, hyperprolactinemia, and pituitary stalk thickening together (incorporated in the nomogram) further favor iGCT. Young male patients with these features warrant CSF analysis and oncologic workup before attributing stalk lesions to autoimmune hypophysitis.",
-      "journal": "Journal of neuro-oncology",
       "year": "2026"
     }
   ],

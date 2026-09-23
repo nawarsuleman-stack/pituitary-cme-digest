@@ -45,6 +45,7 @@
     "42713228",
     "42725352",
     "42727727",
+    "42728076",
     "42729617",
     "42732650",
     "42736093",
@@ -68,7 +69,9 @@
     "42762503",
     "42762504",
     "42764013",
-    "42766172"
+    "42766172",
+    "42770351",
+    "42773730"
   ],
   "sessions": [
     {
@@ -1054,6 +1057,49 @@
           "quiz_question": "A 24-year-old male presents with diabetes insipidus, hyperprolactinemia, and a thickened pituitary stalk on MRI. Serum \u03b2-hCG is mildly elevated. You are considering lymphocytic hypophysitis versus an intracranial germ cell tumor. According to this study, what CSF marker and cutoff best differentiates these two entities, and what other clinical features favor iGCT?",
           "quiz_answer": "CSF \u03b2-hCG >2.52 U/L had a sensitivity of 78.6% and specificity of 95.5% for distinguishing iGCT from LYH (AUC 0.897). Male sex, elevated serum \u03b2-hCG, hyperprolactinemia, and pituitary stalk thickening together (incorporated in the nomogram) further favor iGCT. Young male patients with these features warrant CSF analysis and oncologic workup before attributing stalk lesions to autoimmune hypophysitis.",
           "journal": "Journal of neuro-oncology",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-16",
+      "items": [
+        {
+          "pmid": "42770351",
+          "doi": "10.1177/22143602261485046",
+          "title": "Adrenal insufficiency in individuals with Duchenne muscular dystrophy treated with glucocorticoids: Insights from the past, current challenges, and future directions.",
+          "category": "notable",
+          "summary": "This review provides updated best-practice guidance on managing iatrogenic adrenal insufficiency (AI) in Duchenne muscular dystrophy (DMD) patients on chronic high-dose glucocorticoids \u2014 a group at particularly high risk given prolonged supraphysiologic GC exposure from a young age. Key themes include caregiver/patient education on adrenal suppression recognition, stress-dosing protocols, safe transitions between GC regimens (e.g., deflazacort to prednisone or vice versa), and strategies for safe GC discontinuation. The review also notes applicability to Becker muscular dystrophy and female manifesting carriers on individualized GC regimens.",
+          "caveat": "This is a narrative review without a formal systematic methodology; recommendations are consensus/expert-based and may not be uniformly evidence-graded. The DMD therapeutic landscape is rapidly evolving (gene therapy, exon skipping), and GC tapering guidance may need updating as these agents displace or modify GC use.",
+          "quiz_question": "A 14-year-old male with DMD on deflazacort 0.9 mg/kg/day for 8 years is transitioning to a reduced-dose regimen due to side effects. He presents to the ED with vomiting and fatigue after a GI illness. His parents report he missed two doses. What is the most important immediate management consideration?",
+          "quiz_answer": "This patient is at high risk for acute adrenal insufficiency given prolonged supraphysiologic GC exposure causing HPA axis suppression. He should receive empiric stress-dose hydrocortisone (e.g., 50\u2013100 mg/m\u00b2 IV bolus, then divided doses over 24 hours) without waiting for confirmatory cortisol levels, as per AI stress-dosing protocols outlined for DMD patients in this review.",
+          "journal": "Journal of neuromuscular diseases",
+          "year": "2026"
+        },
+        {
+          "pmid": "42728076",
+          "doi": "10.1136/bcr-2026-272922",
+          "title": "Clinically silent pheochromocytoma presenting as an adrenal incidentaloma: the importance of biochemical evaluation.",
+          "category": "notable",
+          "summary": "This case report describes a woman in her late 70s with a 5 cm left adrenal incidentaloma discovered incidentally, who had long-standing well-controlled hypertension and no classic catecholamine-excess symptoms \u2014 yet biochemical evaluation revealed elevated plasma free metanephrines confirming pheochromocytoma. CT showed a predominantly cystic lesion with elevated unenhanced attenuation values atypical for adenoma. Minimally invasive resection achieved biochemical cure, reinforcing that clinical silence does not exclude functionally active pheochromocytoma and that biochemical screening is obligatory for all adrenal incidentalomas regardless of symptom status.",
+          "caveat": "Single case report; provides illustrative rather than epidemiologic evidence. The reminder about mandatory biochemical testing is guideline-concordant (Endocrine Society 2023 adrenal incidentaloma guidelines), so the clinical lesson is not novel \u2014 but the case usefully reinforces the point for elderly patients without classic adrenergic features.",
+          "quiz_question": "A 78-year-old woman with a history of treated hypertension undergoes abdominal CT for diverticulitis workup, revealing a 5.2 cm left adrenal mass with an unenhanced HU of 28. She denies headaches, palpitations, or sweating. Her blood pressure is 138/82 mmHg on two antihypertensives. What is the next required step in evaluation?",
+          "quiz_answer": "Biochemical testing for pheochromocytoma \u2014 specifically plasma free metanephrines or 24-hour urine fractionated metanephrines \u2014 is mandatory regardless of the absence of classic adrenergic symptoms, as this case demonstrates that clinically silent pheochromocytoma can present as an adrenal incidentaloma. Elevated unenhanced attenuation (>10 HU) is also atypical for a benign adenoma and further mandates functional workup before any biopsy or intervention.",
+          "journal": "BMJ case reports",
+          "year": "2026"
+        },
+        {
+          "pmid": "42773730",
+          "doi": "10.1093/ejendo/lvag183",
+          "title": "Pituitary adenomas in older patients - approaches, challenges and future directions.",
+          "category": "notable",
+          "summary": "This review synthesizes 20 years of published data on pituitary adenomas diagnosed in elderly patients, highlighting that clinical phenotypes often differ substantially from younger cohorts \u2014 for example, acromegaly and prolactinoma may present atypically, and age-related pituitary changes can confound hormonal interpretation. Diagnosis is complicated by overlap between normal aging (e.g., declining IGF-1, declining gonadotropins, visual changes) and adenoma-related findings. The authors emphasize individualized, patient-tailored management that accounts for frailty, polypharmacy, and patient preferences, and advocate for management at centers of excellence with multidisciplinary expertise.",
+          "caveat": "Narrative review with a 20-year literature window, which includes heterogeneous study designs and populations; no meta-analytic pooling. Specific evidence for outcomes in elderly patients with pituitary adenomas remains sparse compared to younger populations, limiting the strength of age-specific recommendations.",
+          "quiz_question": "A 78-year-old man is referred for a newly diagnosed 2.2 cm non-functioning pituitary macroadenoma found incidentally on MRI. He is frail with mild cognitive impairment, stable visual fields, and no hormonal excess. His family asks about surgery. How should his management differ from that of a 45-year-old with the same finding?",
+          "quiz_answer": "In elderly and/or frail patients with incidental non-functioning pituitary macroadenomas and preserved visual fields, a conservative watchful-waiting approach is generally preferred over upfront surgery, as surgical risk is amplified by frailty, comorbidities, and reduced physiologic reserve. Management should be individualized with input from a multidisciplinary pituitary team, weighing the patient's wishes, functional status, and life expectancy \u2014 rather than applying the same intervention thresholds used for younger, surgically fit patients.",
+          "journal": "European journal of endocrinology",
           "year": "2026"
         }
       ],
