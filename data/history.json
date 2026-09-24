@@ -71,7 +71,10 @@
     "42764013",
     "42766172",
     "42770351",
-    "42773730"
+    "42771820",
+    "42773730",
+    "42776342",
+    "42778805"
   ],
   "sessions": [
     {
@@ -1099,6 +1102,49 @@
           "caveat": "Narrative review with a 20-year literature window, which includes heterogeneous study designs and populations; no meta-analytic pooling. Specific evidence for outcomes in elderly patients with pituitary adenomas remains sparse compared to younger populations, limiting the strength of age-specific recommendations.",
           "quiz_question": "A 78-year-old man is referred for a newly diagnosed 2.2 cm non-functioning pituitary macroadenoma found incidentally on MRI. He is frail with mild cognitive impairment, stable visual fields, and no hormonal excess. His family asks about surgery. How should his management differ from that of a 45-year-old with the same finding?",
           "quiz_answer": "In elderly and/or frail patients with incidental non-functioning pituitary macroadenomas and preserved visual fields, a conservative watchful-waiting approach is generally preferred over upfront surgery, as surgical risk is amplified by frailty, comorbidities, and reduced physiologic reserve. Management should be individualized with input from a multidisciplinary pituitary team, weighing the patient's wishes, functional status, and life expectancy \u2014 rather than applying the same intervention thresholds used for younger, surgically fit patients.",
+          "journal": "European journal of endocrinology",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-25",
+      "items": [
+        {
+          "pmid": "42776342",
+          "doi": "10.1007/s11102-026-01759-6",
+          "title": "Pituitary Society Delphi consensus on the role of radiotherapy for pituitary adenomas.",
+          "category": "practice-changing",
+          "summary": "A modified two-round Delphi panel of 29 international experts (neuroendocrinologists, neurosurgeons, radiation oncologists) reached consensus on 24 of 27 statements regarding radiotherapy for pituitary adenomas. Key agreements include: radiotherapy indication and technique should be decided by expert multidisciplinary tumor boards including a radiation oncologist; hormonal hypersecretion should be controlled medically while awaiting radiotherapy's delayed efficacy in functioning adenomas; and long-term follow-up exceeding 10 years is required to assess delayed efficacy, recurrence, and side effects. Modern radiotherapy techniques were judged effective and potentially safer than prior approaches, with a recognized shift from fractionated radiotherapy toward stereotactic radiosurgery in appropriately selected patients.",
+          "caveat": "Delphi consensus reflects expert opinion rather than randomized trial data; panelists acknowledged that further long-term comparative outcome data are still needed, and practice variation across institutions and healthcare systems may limit generalizability.",
+          "quiz_question": "A 55-year-old patient with a residual GH-secreting macroadenoma after transsphenoidal surgery has persistently elevated IGF-1 despite maximum-dose octreotide LAR. The multidisciplinary tumor board is considering stereotactic radiosurgery. According to the Pituitary Society Delphi consensus, what is the recommended approach to managing hormonal excess during the period between radiosurgery delivery and expected onset of its biochemical effect?",
+          "quiz_answer": "The consensus recommends continuing medical therapy to control hormonal hypersecretion while awaiting the delayed efficacy of radiotherapy, as the biochemical effect of radiosurgery typically unfolds over months to years. The panel emphasized this as a key management principle for functioning adenomas undergoing radiotherapy.",
+          "journal": "Pituitary",
+          "year": "2026"
+        },
+        {
+          "pmid": "42778805",
+          "doi": "10.1007/s11102-026-01750-1",
+          "title": "Pasireotide-LAR and pegvisomant combination in resistant acromegaly: a case series of predominantly mammosomatotroph adenomas.",
+          "category": "notable",
+          "summary": "This single-center retrospective case series reports outcomes in six patients (predominantly mammosomatotroph adenomas, ages 15\u201344) with treatment-resistant acromegaly who received combination pasireotide-LAR plus pegvisomant over a median of 3.3 years after failing surgery and multiple prior medical therapies. All six achieved normal IGF-1 and tumor stability, though one required additional surgery and radiosurgery after biochemical escape at 9 months. Importantly, three of six developed hyperglycemia in the pre-diabetes range, and concurrent pegvisomant use did not appear to mitigate pasireotide-induced glycemic deterioration\u2014underscoring the need for proactive glucose monitoring in this combination.",
+          "caveat": "Extremely small sample size (n=6) from a single tertiary center limits generalizability; retrospective design precludes causal conclusions; the predominantly mammosomatotroph histology may not represent the broader acromegaly population; no comparator arm.",
+          "quiz_question": "A 28-year-old woman with a mammosomatotroph macroadenoma has persistently elevated IGF-1 despite transsphenoidal surgery and sequential trials of octreotide LAR and cabergoline. You initiate pasireotide-LAR 40 mg every 28 days and plan to add pegvisomant. What metabolic parameter requires close monitoring, and does adding pegvisomant reliably protect against this complication?",
+          "quiz_answer": "Blood glucose (and HbA1c) must be monitored closely, as pasireotide-LAR causes hyperglycemia via inhibition of insulin secretion. Based on this case series, co-administration of pegvisomant does not appear to mitigate pasireotide-induced glycemic deterioration\u2014three of six patients developed pre-diabetes range hyperglycemia despite combination therapy.",
+          "journal": "Pituitary",
+          "year": "2026"
+        },
+        {
+          "pmid": "42771820",
+          "doi": "10.1093/ejendo/lvag169",
+          "title": "Distinguishing hyperparathyroidism from insulin-like growth factor I-driven calcium-phosphate metabolism changes in acromegaly.",
+          "category": "notable",
+          "summary": "In a retrospective study of 393 patients with acromegaly at two French university hospitals, 5.9% had concomitant primary hyperparathyroidism (PHPT). In patients with isolated acromegaly, mild hypercalcemia (3.2%) and hyperphosphatemia (37.3%) resolved after acromegaly treatment, whereas PHPT patients had persistent hypercalcemia with low-to-normal phosphate and elevated PTH. A simple threshold-based decision rule\u2014calcium >2.60 mmol/L combined with phosphate <1.46 mmol/L\u2014demonstrated excellent discriminatory performance (bootstrapped sensitivity 94%, specificity 99.3%) for identifying parathyroid autonomy, outperforming more complex machine learning models in interpretability while matching their accuracy.",
+          "caveat": "Retrospective design with potential referral bias at two specialized centers; the diagnostic rule was developed and internally validated in the same cohort (bootstrap correction applied but no independent external validation); no pathogenic gene variants were found in tested genes, but not all MEN1-related genes were necessarily screened.",
+          "quiz_question": "A 48-year-old man with active acromegaly (elevated IGF-1, unsuppressed GH) is found to have serum calcium 2.68 mmol/L and serum phosphate 0.85 mmol/L. PTH is mildly elevated. How should you interpret this biochemical picture, and what does this study suggest regarding further workup?",
+          "quiz_answer": "The combination of calcium >2.60 mmol/L with a low-normal phosphate (<1.46 mmol/L) and elevated PTH points strongly toward concomitant primary hyperparathyroidism rather than IGF-1-driven mineral disturbance, which typically causes hyperphosphatemia and resolves with acromegaly treatment. This study's threshold-based rule (Ca >2.60 + PO4 <1.46) had 94% sensitivity and 99.3% specificity for PHPT in acromegaly, supporting dedicated parathyroid evaluation in this patient.",
           "journal": "European journal of endocrinology",
           "year": "2026"
         }
