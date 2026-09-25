@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-24",
+  "fetched_at": "2026-09-25",
   "date_window": {
-    "from": "2016/09/26",
-    "to": "2026/09/24"
+    "from": "2016/09/27",
+    "to": "2026/09/25"
   },
   "already_covered_pmids": [
     "41730814",
@@ -76,15 +76,29 @@
     "42764013",
     "42766172",
     "42770351",
-    "42773730"
+    "42771820",
+    "42773730",
+    "42776342",
+    "42778805"
   ],
   "candidates": [
     {
-      "pmid": "42620427",
-      "doi": "10.1097/GOX.0000000000008034",
-      "title": "Successful Management of Postoperative Galactorrhea after Reduction Mammaplasty.",
-      "abstract": "Galactorrhea after reduction mammoplasty is a rare postoperative complication, usually associated with hormonal dysregulation or pituitary abnormalities. A 43-year-old woman with symptomatic macromastia underwent bilateral superomedial pedicle reduction mammoplasty. Three days postoperatively, she developed high-volume bilateral milky drainage through her surgical drains. Laboratory evaluation revealed elevated prolactin (96\u2009ng/mL; reference value 5-23\u2009ng/mL). Imaging demonstrated a partially empty sella without pituitary mass. Endocrinology initiated cabergoline therapy, resulting in suppression of prolactin and resolution of the galactorrhea. The patient's drains were maintained until the galactorrhea ceased, and she went on to heal well without complication. Galactorrhea after breast reduction surgery secondary to transient hyperprolactinemia is a rare but clinically significant complication. Prompt recognition and multidisciplinary management including drain maintenance, lactation suppression, and exclusion of prolactinoma are important steps in preventing wound healing complications and achieving optimal outcomes.",
-      "journal": "Plastic and reconstructive surgery. Global open",
+      "pmid": "42786839",
+      "doi": "10.2174/0118715303511788260918112249",
+      "title": "Autoimmune Polyendocrinopathy Candidiasis Ectodermal Dystrophy (APECED): Epidemiology, Pathogenesis, Clinical Manifestations, Diagnosis, and Management.",
+      "abstract": "Autoimmune Polyendocrinopathy Candidiasis Ectodermal Dystrophy (APECED), or Autoimmune Polyendocrine Syndrome Type 1 (APS-1), is recognized as a rare monogenic disease with an underlying etiology of biallelic mutations in the AIRE gene. Defective AIRE protein disrupts central and peripheral immune tolerance, resulting in widespread immune dysregulation. The disease is characterized by substantial phenotypic heterogeneity, with manifestations that may develop progressively throughout life. This review integrates current evidence from published APECED-related articles addressing epidemiology, genetic background, immunopathogenesis, clinical manifestations, diagnostic approaches, and management strategies. These patients present with a spectrum of clinical manifestations, including chronic mucocutaneous candidiasis, autoimmune endocrinopathies, hypoparathyroidism, primary adrenal insufficiency (Addison's disease), pneumonitis, enteropathy, ectodermal dystrophy, and increased susceptibility to severe infections. The onset, severity, and combination of these manifestations vary considerably among affected individuals, reflecting the clinical heterogeneity of the disease. Diagnosing APECED remains challenging, as many patients do not initially present with the classical triad. Moreover, additional endocrine and non-endocrine manifestations may develop progressively during the disease course, contributing to diagnostic delay and increasing the complexity of clinical management. This review highlights the broad clinical heterogeneity of APECED and discusses recent advances in diagnosis, multidisciplinary management, and emerging targeted therapeutic strategies while emphasizing the need for further clinical validation. Improved recognition of atypical and nonclassical manifestations, together with advances in genetic and immunological evaluation, may facilitate earlier diagnosis and more individualized management. Early diagnosis and continuous multidisciplinary follow-up are essential to optimize clinical outcomes and quality of life in patients with APECED.",
+      "journal": "Endocrine, metabolic & immune disorders drug targets",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42787029",
+      "doi": "10.3389/fmed.2026.1867541",
+      "title": "Case Report: Successful treatment of pediatric patients with acute generalized pustular psoriasis with secukinumab.",
+      "abstract": "Acute generalized pustular psoriasis (GPP) is a rare, distinct subtype of psoriasis characterized clinically by sterile pustules arising on an erythematous base. Pediatric GPP is associated with severe manifestations, high healthcare expenditures, and a great risk of mortality, severely affecting the quality of life of both children and their families. Secukinumab, a fully human monoclonal antibody that selectively targets IL-17A-a pivotal cytokine in psoriasis pathogenesis that promotes keratinocyte proliferation and inflammatory responses-has been approved for the treatment of moderate-to-severe plaque psoriasis in children aged 6-18 years. Here, we describe three pediatric patients with GPP who were successfully treated with secukinumab. To date, no secukinumab-related adverse effects have been observed among the three pediatric patients throughout their respective follow-up periods. Secukinumab may be an effective option for the treatment of GPP in children.",
+      "journal": "Frontiers in medicine",
       "year": "2026",
       "publication_types": [
         "Case Reports",
@@ -92,11 +106,58 @@
       ]
     },
     {
-      "pmid": "42771567",
-      "doi": "10.1159/hrp/adaag029",
-      "title": "A Century of Growth Hormone from Pierre Marie (1886) to Creutzfeldt-Jakob Disease (1985).",
-      "abstract": "The century from1886 to 1985 was auspicious for those with an interest in growth. A clinically recognized overgrowth syndrome was named acromegaly. It explained some earlier described patients and even distant historical figures. Quickly this clinical syndrome was tied to a pituitary tumor and therapy from a group of innovative neurosurgeons. Contemporaneously, failure of the pituitary was recognized and noted to be a cause of severe growth failure and infantilism. Experimentally, new techniques were developed to hypophysectomize animals from tadpoles to rats as well as to learn to extract, purify and replace the missing pituitary hormones with increasingly pure and potent extracts from bovine pituitaries. These developments led to the concept of species specificity for growth hormone (GH), that is, only primate GH was biologically effective in primates, as well as the active core hypothesis which postulated that all species had GH molecules with active centers for their pleotropic effects and that unmasking them might make portions of the animal GH molecules active in man. In the end that has not proven correct, but became moot given the explosion of the molecular biology era with its virtually unlimited supply of recombinant hGH. Human (primate) GH is species specific and to date the active core hypothesis which might have provided biologically effective peptides, derived from animal or human GHs, and likely to be synthesized with the techniques available at that time (mid-1960s) were never required given that rhGH was approved for clinical use in those with hypopituitarism.",
-      "journal": "Hormone research in paediatrics",
+      "pmid": "42780339",
+      "doi": "10.3389/fendo.2026.1933394",
+      "title": "Management of ectopic Cushing syndrome in medullary thyroid carcinoma: from case reports to systematic literature review.",
+      "abstract": "Ectopic Cushing's syndrome (ECS) secondary to medullary thyroid carcinoma (MTC) is a rare endocrine manifestation associated with aggressive disease and considerable morbidity from severe hypercortisolism. We conducted a systematic review of PubMed and Web of Science from inception to January 25, 2026, in accordance with PRISMA guidelines, to identify all published cases of ECS due to MTC. Data were extracted on clinical presentation, RET mutational status, treatments, outcomes, and causes of death. In addition, we described four previously unreported patients from \"C. I. Parhon\" National Institute in Bucharest, Romania, analyzed independently from the systematic review dataset. The systematic review identified 99 published cases of ECS caused by MTC. The mean age at diagnosis was 46.3 years (range 12-84), with male predominance (69.7%). Among cases with available genetic data, most were sporadic 32/43 cases (74.4%), frequently harboring somatic RET M918T mutation. MTC stage at diagnosis was available in 90 cases, of which 48 patients (53.3%) presented with distant metastases. ECS and MTC were diagnosed concomitantly in 45/89 patients (50.6%), while MTC preceded ECS in 43/89 patients (48.3%), with a median delay of 42 months. Hypercortisolism manifestations predominated and often masked locoregional thyroid disease. Thyroid surgery was the initial therapeutic approach in 62/77 cases (80.5%). Hypercortisolism was difficult to control and often refractory to multiple treatment strategies. Bilateral adrenalectomy was required in 33 patients, including 12 in whom it served as rescue treatment following failure of medical therapy. Selective RET inhibitors, particularly selpercatinib, have recently emerged as a promising treatment option, with all five reported cases demonstrating rapid biochemical improvement and radiologic responses. Among cases with available outcome data, mortality was primarily driven by complications of uncontrolled hypercortisolism and progressive metastatic MTC. Complementing the systematic review, regarding the four cases from our center, we have observed substantial disease burden, with thyroid surgery performed in every patient. Two cases received vandetanib producing favorable biochemical (calcitonin) and radiologic responses. Hypercortisolism proved challenging to manage, with three patients failing to achieve remission despite multimodal therapy, including surgery, targeted therapy, adrenalectomy, or medical treatment. ECS secondary to MTC is an exceptionally rare and highly morbid manifestation that occurs predominantly in metastatic sporadic MTC. Management of both tumor burden and hypercortisolism is complex and often requires multimodal therapy. Emerging data suggests that selective RET inhibitors may lead to simultaneous control of both tumor progression and cortisol excess in RET-mutated disease, although current data remain limited to case reports. The four institutional cases offer additional real-world clinical context and are presented separately from the systematic review to maintain methodological rigor.",
+      "journal": "Frontiers in endocrinology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Case Reports"
+      ]
+    },
+    {
+      "pmid": "42787020",
+      "doi": "10.12688/wellcomeopenres.26002.2",
+      "title": "Effect of a community-based intervention for cardiovascular risk factor control on stroke mortality in rural Gadchiroli, India: a cluster-randomised controlled trial.",
+      "abstract": "Stroke is the second leading cause of death globally. We tested whether it was feasible to deliver a community-based intervention package for prevention of stroke and, whether such an intervention would reduce stroke mortality in a rural underserved community in central India. In this two-arm, parallel group, open label, cluster randomised controlled trial, 64 villages were randomly assigned with 1:1 allocation to the control and the intervention arm in a demographic surveillance site. The intervention was delivered for 3.5 years. It included community-based screening for hypertension, diabetes and stroke among individuals \u2265 50 years of age by trained community health workers followed by village-based treatment by an outreach physician, awareness generation and active follow up. In the control arm, households were provided information on the ill effects of tobacco and steps to quit it. Cause of death was ascertained on all deaths using verbal autopsies by physician coders who were blinded to the treatment allocation. There were 7671 individuals in the control arm and 8255 in the intervention arm who were \u2265 50 years of age. In the intervention arm, out of 8255 eligible individuals, 8026 were screened and 2793 were diagnosed with hypertension, 317 with diabetes and 182 with stroke and those with these three conditions received the intervention. The stroke mortality rate per 100,000 person-years in the last 2.5 years of the intervention, which was the primary outcome of the trial, was comparable in the intervention (416.7) and the control arm (484.9) (adjusted hazard ration [HR] 0.84, 95 % confidence interval [0.62,1.12]; p = 0.23). Important limitations include limited access to brain imaging and lipid profile measurements. In this under resourced rural community in central India, a community-based intervention for stroke risk reduction did not reduce stroke mortality over the final 2.5 years of the trial. However, the trial intervention was acceptable and led to improved medication compliance, blood pressure control and awareness about stroke. The trial was registered at the Clinical Trials Registry of India: CTRI/2015/12/006424. Stroke is the second leading cause of death worldwide, and many people do not have their risk factors such as high blood pressure and diabetes under good control. We tested if a community-based program could be delivered in a rural setting in central India and whether it could reduce deaths from stroke. We conducted a trial in which one group of villages received a community-based preventive program for 3.5 years, while another group did not. We then compared stroke deaths between these two groups during the last 2.5 years of the program. In the intervention villages, trained community health workers screened adults aged 50 and above for high blood pressure, diabetes, and stroke symptoms. Those who screened positive were examined and treated by an outreach doctor. Health workers visited homes every month to check blood pressure, ensure people took their medicines, and give advice on reducing tobacco, alcohol, and salt. After 2.5 years, stroke deaths were lower in the intervention villages, but the difference was not statistically significant. The program did successfully reduce blood pressure and improve stroke awareness. It did not reduce blood sugar levels or the use of tobacco or alcohol. When we looked at the full 3.5-year trial period, stroke deaths were significantly lower in the intervention villages. Although the reduction in stroke deaths was not significant over the last 2.5 years, the improvement in awareness and blood pressure control suggests that community-based prevention of stroke with an active role for community health workers and making treatment available in villages could be included in India\u2019s national program for prevention and control of non-communicable diseases (NP-NCD). The main limitations of the study were the lack of access to certain tests, such as brain scans, cholesterol testing, and measurements to assess long term blood sugar control.",
+      "journal": "Wellcome open research",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42786607",
+      "doi": "10.1161/JAHA.126.049591",
+      "title": "Dexamethasone Nonsuppression in Primary Aldosteronism: Associations With Adrenal Imaging Findings.",
+      "abstract": "The 1-mg dexamethasone suppression test (DST) nonsuppression is increasingly recognized beyond adrenal incidentaloma, but its prevalence and clinical significance in patients evaluated for primary aldosteronism (PA) remain unclear, particularly in those without adrenal nodules. In this prospective observational study, consecutive patients with hypertension suspected of PA underwent standardized hormonal evaluation, including the 1-mg DST. DST nonsuppression was defined as post-DST serum cortisol >1.8 \u03bcg/dL in the absence of overt Cushing's syndrome. Patients were classified as non-PA or confirmed PA and further stratified by adrenal nodules status on computed tomography. Associations with DST nonsuppression were examined using multivariable logistic regression and propensity score-based analyses, with overlap weighting as the primary approach. Among 883 patients who completed the 1-mg DST, DST nonsuppression was observed in 12.2%. Its prevalence showed an increasing pattern across groups, being lowest in individuals without PA, intermediate in patients with PA without adrenal nodules, and highest in those with adrenal nodules. Adrenal nodules were independently associated with DST nonsuppression (odds ratio, 2.68 [95% CI, 1.01-7.12]), with consistent findings across propensity score-based analyses. Among patients with PA without adrenal nodules, DST nonsuppression was associated with lower estimated glomerular filtration rate and a higher prevalence of chronic kidney disease. In the high-risk population with PA, DST nonsuppression was not randomly distributed across predefined groups and was independently associated with adrenal nodules. Even in the absence of adrenal nodules, DST nonsuppression was associated by less favorable renal markers, supporting its consistent association with clinical characteristics in patients with PA, rather than implying a distinct biochemical characteristic.",
+      "journal": "Journal of the American Heart Association",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42787033",
+      "doi": "10.3389/fneur.2026.1850645",
+      "title": "Biomechanical optimization of rolling manipulation for lumbar muscle strain: a study protocol of cerebral hemodynamic responses and clinical efficacy using fNIRS.",
+      "abstract": "Lumbar muscle strain (LMS) is a common chronic soft tissue injury disorder, and Tuina, especially Tuina rolling manipulation, is widely used for its management. However, standardized force parameters based on biomechanical effects have not yet been established, and the analgesic mechanisms of rolling manipulation remain insufficiently understood, particularly regarding its influence on cortical hemodynamic responses during manual intervention. Existing studies are fragmented, lacking systematic investigation of the entire chain from pain stimulation-induced cortical hemodynamic responses, to biomechanically optimized manipulation parameters, and to clinical efficacy. Therefore, this study aims to combine functional near-infrared spectroscopy (fNIRS) with biomechanical detection to explore cortical hemodynamic changes induced by pain stimulation, determine the optimal pressure parameters of rolling manipulation and explore the cortical hemodynamic responses associated with rolling manipulation treatment for lumbar muscle strain. This is a three-part, hierarchical mixed-methods study. Part 1 (Observational): We will compare cerebral hemodynamic responses (via fNIRS) between LMS patients (n\u202f=\u202f15) and healthy controls (n\u202f=\u202f15) under two levels of controlled pain stimulation (pain-free vs. high pain threshold). Part 2 (Interventional, Crossover): In 24 LMS patients, we will screen for the optimal pressure level (low, medium, high) of rolling manipulation by evaluating multi-dimensional biomechanical outcomes. Part 3 (Interventional, Controlled): Using the optimal pressure identified in Part 2, we will enroll 69 participants in total, including 46 patients with LMS (23 in the case intervention group and 23 in the case control group) and 23 healthy controls.fNIRS will be used to characterize cortical hemodynamic changes associated with rolling manipulation, while clinical and biomechanical outcomes will be assessed to evaluate therapeutic effects after two treatment courses. This protocol combines neuroimaging and biomechanical assessments to explore the potential association between peripheral biomechanical responses and cortical hemodynamic changes during Tuina rolling manipulation, optimize key operational parameters, and provide preliminary evidence for future clinical research and application.",
+      "journal": "Frontiers in neurology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Observational Study"
+      ]
+    },
+    {
+      "pmid": "42747664",
+      "doi": "10.1007/s12020-026-04778-2",
+      "title": "Glucocorticoids: an enemy or a friend for the dermatologist? recommendations for proper use and safe discontinuation.",
+      "abstract": "Glucocorticoids (GCs) are steroid hormones produced by the adrenal cortex with anti-inflammatory and immunoregulating effects, thus essential for the management of numerous inflammatory and autoimmune disorders, including a wide range of dermatological conditions. The aim of our review is to summarize current data about the indications for GCs in dermatology, present the dermatological and endocrinological adverse effects and summarize current recommendations about the proper use and safe discontinuation of GCs, creating a practical guide for dermatologists. A narrative review of the literature on PubMed/MEDLINE was conducted and included articles in English, published until July, 2026. A combination of the keywords \"glucocorticoids\", \"dermatology\", \"adrenal insufficiency\", \"HPA axis\", \"adverse effects\" and \"monitoring\" was used to identify relevant literature for this review, with emphasis on recent recommendations and guidelines. The reference lists of the selected publications were also reviewed. Although GCs are commonly prescribed medications in dermatology, their use is associated with numerous adverse effects, extending beyond the skin to multiple organ systems. However, some side effects, such as adrenal insufficiency and withdrawal syndrome, may even be life-threatening. Due to the expanded use of GCs, careful prescription and safe discontinuation is required. For this reason, we have created a practical clinical guide, summarizing the relevant recommendations to ensure proper use of GCs as well as safe discontinuation of the treatment. Optimal GC use requires individualized and careful selection of potency, duration, and route of administration to prevent any side effects and ensure the best outcome for the patient.",
+      "journal": "Endocrine",
       "year": "2026",
       "publication_types": [
         "Journal Article",
@@ -104,26 +165,25 @@
       ]
     },
     {
-      "pmid": "42776342",
-      "doi": "10.1007/s11102-026-01759-6",
-      "title": "Pituitary Society Delphi consensus on the role of radiotherapy for pituitary adenomas.",
-      "abstract": "Radiotherapy is used as second- or third-line treatment after transsphenoidal surgery for both functioning and nonfunctioning pituitary adenomas. Improved precision delivery may reduce side effects, but use overall has declined, partly due to improved surgical technique and advances in medical therapy, partly reflecting a shift from fractionated radiotherapy to stereotactic radiosurgery in appropriately selected patients, and also due to lack of clear, evidence-based guidelines. Questions remain regarding radiotherapy indications, optimal timing, choice of technique, and follow-up for efficacy and side effects. The aim of this Delphi panel was to establish expert consensus in these areas. The Pituitary Society Steering Committee conducted a modified two-round Delphi panel with 29 international experts from five continents, including neuroendocrinologists, neurosurgeons and radiation oncologists. Among the 26 initial statements, 22 (84.6%) reached agreement after Round 1. Four statements were reconsidered in Round 2, together with an additional question, after which 24 of 27 (88.9%) reached consensus. Panelists agreed that radiotherapy indication and timing should be assessed by expert multidisciplinary tumor boards, including a radiation oncologist, with the technique determined according to patient and adenoma characteristics. They emphasized controlling hormonal secretion while waiting for maximal radiotherapy efficacy in functioning adenomas. Long term follow-up\u2009>\u200910\u00a0years is required to assess for delayed efficacy, recurrence and side effects, although panelists agreed on the relatively low medium-term risk with modern techniques. Modified Delphi panel provides practical guidance regarding indications, timing, choice of technique and long-term follow-up of radiotherapy in pituitary adenomas. Modern techniques appear as effective and potentially safer vs. previous ones. Further long-term comparative data are needed.",
-      "journal": "Pituitary",
-      "year": "2026",
+      "pmid": "41949969",
+      "doi": "10.62438/tunismed.v103i11.5677",
+      "title": "Management of Adrenal Incidentalomas: A Survey of Physicians from the Middle East and Africa.",
+      "abstract": "Adrenal incidentaloma (AI) is a common finding from increased imaging use. Several guidelines direct evaluation and management, but limited data exist on real-world practices. To describe the knowledge and practices of physicians from the Middle East and Africa (MEA) in AI. An online survey evaluated the definition of AI, diagnostic investigations, management approach, and long-term follow-up of patients with AI. 171 questionnaires were analysed. Adult and pediatric endocrinologists represented 71.4% of participants. A homogenous mass, < 4 cm and < 10HU, was considered benign by 57.9% of the respondents. The threshold of 4 cm for tumor size was considered suggestive of malignity by 64%. A minority, 34 (19.9%), indicated that no further imaging was required if a non-contrast CT scan was consistent with a benign adrenal mass. Most important endocrinopathies would routinely be excluded: hypercortisolism (97.7%), pheochromocytoma (95.3%), and primary hyperaldosteronism (87.1%). In a lesion considered biochemically inactive at the outset, 56.4% of the respondents would have recommended repeated biochemical testing, and 42.8% would have followed up the patients for 4 and 5 years, irrespective of radiological features. There is an under-appreciation of the risk of malignancy of AI > 4 cm and a tendency of over-investigating patients in whom a benign tumor has been established, with repeated unnecessary biochemical and radiological evaluation, revealing sub-optimal adherence to guidelines regarding AI in this region.",
+      "journal": "La Tunisie medicale",
+      "year": "2025",
       "publication_types": [
-        "Journal Article",
-        "Consensus Statement",
-        "Review"
+        "Journal Article"
       ]
     },
     {
-      "pmid": "42768234",
-      "doi": "10.1208/s12248-026-01294-z",
-      "title": "Immunogenicity Profile of Lonapegsomatropin During Long-Term Treatment in Children With Growth Hormone Deficiency.",
-      "abstract": "Monitoring and evaluation of immunogenicity is important for biological therapeutics due to the potential impact of antibodies on safety and efficacy. A comprehensive immunogenicity assessment was conducted to support clinical development of lonapegsomatropin, a prodrug of somatropin, administered once weekly. Lonapegsomatropin is approved in the United States for pediatric and adult growth hormone deficiency (GHD), and in other countries for pediatric GHD. Lonapegsomatropin consists of somatropin, an inert methoxy polyethylene glycol carrier (mPEG), and a proprietary TransCon\u00ae linker that transiently binds somatropin to the carrier. Four dedicated immunoassays were developed, validated, and applied in a risk-based tiered approach to rigorously assess the immunogenicity of lonapegsomatropin in children with GHD. Samples collected from 298 children with GHD treated with lonapegsomatropin for up to six years were analyzed for anti-drug antibodies (ADAs) against lonapegsomatropin (intact prodrug), released somatropin, and mPEG. Treatment-emergent anti-lonapegsomatropin, anti-somatropin, and anti-mPEG binding antibodies were detected in 4.7%, 5.4%, and 0.7% of treated children, respectively. ADA responses were low titer, transiently detected, and primarily observed within the first year of treatment, and no neutralizing antibodies were detected. These findings support the long-term low immunogenicity of lonapegsomatropin in children with GHD, consistent with somatropin. Importantly, the multi-assay tiered strategy applied here was robust and reproducible, enabling sensitive detection of ADAs against the intact prodrug, mPEG, and released somatropin across trials, and demonstrated its clinical applicability for evaluating a complex long-acting growth hormone like lonapegsomatropin.",
-      "journal": "The AAPS journal",
+      "pmid": "42766020",
+      "doi": "10.1007/s00393-026-01867-5",
+      "title": "[Management of emergencies in rheumatology].",
+      "abstract": "Emergencies in rheumatology can present with a\u00a0wide range of symptoms and findings, often requiring rapid diagnostics and treatment to prevent permanent damage or avert life-threatening conditions. This article aims to provide an overview of important differential diagnoses that should be considered in rheumatologic and/or immunosuppressed patients presenting in an emergency setting. It covers conditions such as septic arthritis, giant cell arteritis, acute adrenal insufficiency, the differential diagnosis of respiratory symptoms and acute kidney injury, macrophage activation syndrome, and catastrophic antiphospholipid syndrome. In this article, the clinical presentation, diagnostic approach, and acute management of these conditions are discussed and explained. Notfallsituationen in der Rheumatologie k\u00f6nnen sich mit einem breiten Spektrum an Symptomen und Befunden \u00e4u\u00dfern und bed\u00fcrfen h\u00e4ufig einer raschen Diagnostik und Therapie, um bleibende Sch\u00e4den zu vermeiden oder eine vitale Bedrohung abzuwenden. Dieser Artikel gibt einen \u00dcberblick \u00fcber wichtige Differenzialdiagnosen, an die bei rheumatologischen und/oder immunsupprimierten Patient:innen bei einer notfallm\u00e4\u00dfigen Vorstellung gedacht werden muss. Es werden Erkrankungen, wie die septische Arthritis, Riesenzellarteritis, akute Nebennierenrindeninsuffizienz, die Differenzialdiagnostik von respiratorischen Symptomen und einer akuten Nierensch\u00e4digung, das Makrophagenaktivierungssyndrom und das katastrophale Antiphospholipidsyndrom beleuchtet. Hierbei werden die Symptomatik, Diagnostik und akute Therapie behandelt und erl\u00e4utert.",
+      "journal": "Zeitschrift fur Rheumatologie",
       "year": "2026",
       "publication_types": [
+        "English Abstract",
         "Journal Article"
       ]
     },
@@ -133,6 +193,30 @@
       "title": "De Morsier Syndrome Associated With Megalocornea: Impact of Hormone Replacement Therapy on the Resolution of Neonatal Cholestasis.",
       "abstract": "De Morsier syndrome, or septo-optic dysplasia (SOD), is a rare congenital malformation characterized by optic nerve hypoplasia, midline brain abnormalities, and pituitary hormone deficiencies. Neonatal presentation can be misleading, particularly when it manifests as cholestatic jaundice. We report the clinical, biochemical, and radiological evaluation of a two-month-old male infant admitted for persistent neonatal cholestatic jaundice, progressive weight faltering, and recurrent hypoglycemia. Slit-lamp examination, comprehensive endocrine workup, and brain magnetic resonance imaging (MRI) were performed to establish the diagnosis. Written informed consent was obtained from the patient's parents (or legal guardians) for publication of this case report and any accompanying images. Physical examination revealed horizontal nystagmus and bilateral megalocornea (diameter > 13 mm). Laboratory investigations showed cholestasis with normal gamma-glutamyl transferase (GGT) levels and recurrent hypoglycemia, which led to the diagnosis of combined anterior pituitary hormone deficiency (growth hormone, thyroid-stimulating hormone, and adrenocorticotropic hormone). Brain MRI confirmed the diagnosis by showing agenesis of the septum pellucidum, bilateral optic nerve hypoplasia, and an ectopic posterior pituitary gland. Targeted hormone replacement therapy with L-thyroxine (10 \u03bcg/kg/day) and hydrocortisone (5 mg/kg/day) led to a complete resolution of the cholestasis within three weeks, alongside blood glucose stabilization and weight gain. Neonatal cholestasis is a classic early manifestation of SOD due to impaired bile acid transporter maturation caused by endocrine deficits. Its association with megalocornea highlights the variability of embryonic anterior segment anomalies. Early diagnosis is vital to initiate prompt hormone therapy, ensure hepatic recovery, and optimize neurodevelopmental outcomes.",
       "journal": "Cureus",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42744529",
+      "doi": "10.1016/j.endien.2026.501798",
+      "title": "Primary central nervous system lymphoma involving the hypothalamic-pituitary axis presenting with hypopituitarism: A case report with long-term follow-up.",
+      "abstract": "Primary central nervous system lymphoma (PCNSL) involving the hypothalamic-pituitary axis is a rare condition and may present with nonspecific neurologic and endocrine signs, often mimicking more common sellar lesions. We report the case of a 59-year-old woman admitted with subacute behavioral changes, cognitive decline, and polyuria. Magnetic resonance imaging revealed a pituitary-infundibular mass with suprasellar extension and marked bifrontal edema. Endocrine evaluation demonstrated panhypopituitarism and arginine vasopressin deficiency. The clinical course was complicated by severe dysnatremias requiring intensive care management and hormonal replacement. Histopathologic analysis of a transsphenoidal biopsy confirmed diffuse large B-cell lymphoma, with no systemic disease on PET-CT or bone marrow evaluation. The patient was treated with the MATRix chemotherapy regimen followed by autologous stem cell transplantation, achieving sustained complete remission at 3.5 years. Persistent hypogonadotropic hypogonadism remained as a sequelae. This case underscores the diagnostic challenges of sellar involvement by PCNSL and highlights the importance of including lymphoma in the differential diagnosis of hypothalamic-pituitary masses. Acute pituitary failure with severe electrolyte disturbances may precede oncologic diagnosis, and early multidisciplinary management combined with aggressive therapy can result in long-term remission.",
+      "journal": "Endocrinologia, diabetes y nutricion",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42620427",
+      "doi": "10.1097/GOX.0000000000008034",
+      "title": "Successful Management of Postoperative Galactorrhea after Reduction Mammaplasty.",
+      "abstract": "Galactorrhea after reduction mammoplasty is a rare postoperative complication, usually associated with hormonal dysregulation or pituitary abnormalities. A 43-year-old woman with symptomatic macromastia underwent bilateral superomedial pedicle reduction mammoplasty. Three days postoperatively, she developed high-volume bilateral milky drainage through her surgical drains. Laboratory evaluation revealed elevated prolactin (96\u2009ng/mL; reference value 5-23\u2009ng/mL). Imaging demonstrated a partially empty sella without pituitary mass. Endocrinology initiated cabergoline therapy, resulting in suppression of prolactin and resolution of the galactorrhea. The patient's drains were maintained until the galactorrhea ceased, and she went on to heal well without complication. Galactorrhea after breast reduction surgery secondary to transient hyperprolactinemia is a rare but clinically significant complication. Prompt recognition and multidisciplinary management including drain maintenance, lactation suppression, and exclusion of prolactinoma are important steps in preventing wound healing complications and achieving optimal outcomes.",
+      "journal": "Plastic and reconstructive surgery. Global open",
       "year": "2026",
       "publication_types": [
         "Case Reports",
@@ -152,95 +236,27 @@
       ]
     },
     {
-      "pmid": "42779484",
-      "doi": "10.1111/jgs.70711",
-      "title": "Mapping the Landscape of AgeTech Standards and Guidelines: A Gray Literature Review.",
-      "abstract": "AgeTech is increasingly promoted to support aging populations, yet it's safe, effective, and scalable adoption depends on clear standards and guidelines. Although previous research has examined AgeTech design in academic literature, the landscape of formal standards and guidelines has not been systematically mapped. This study aimed to identify and characterize standards and guidelines relevant to AgeTech through a structured gray literature review. Searches were conducted on May 10, 2024, across the online catalogs and search platforms of the International Organization for Standardization (ISO), International Electrotechnical Commission, ASTM International, IEEE, and CSA Group; the websites of the World Health Organization, World Bank, and AGE-WELL; and Google. No publication date restrictions were applied. In total, 3198 records were identified and screened using predefined eligibility criteria. Extracted data were analyzed using descriptive statistics and content analysis. Twenty-two eligible standards and guidelines published between 2008 and 2024 were included. The largest number of documents was published in 2022 and 2024, with four documents in each year (18.2% each). Most documents were developed by the International Organization for Standardization (ISO; 55%, 12/22). The leading thematic goals were health and assistive technologies (54%, 12/22) and accessibility and usability (23%, 5/22), whereas safety, security, and privacy accounted for only 9% (2/22). Supportive homes and communities (32%, 7/22) and autonomy and independence (27%, 6/22) were the dominant AgeTech categories. Most documents focused on the general older adult population (73%, 16/22), with limited attention to specific subgroups. Although AgeTech standardization is advancing, critical gaps remain. Limited attention to safety, security, privacy, and digital economy and community inclusion raises concerns for trust, equity, and sustainable adoption. Addressing these gaps through targeted and coordinated standardization efforts is essential to support inclusive, trustworthy, and scalable AgeTech solutions in the context of rapid global population aging.",
-      "journal": "Journal of the American Geriatrics Society",
+      "pmid": "42787038",
+      "doi": "10.3389/fonc.2026.1839945",
+      "title": "Survival disparities in HER2-low versus HER2-positive breast cancer: a systematic review of progression-free survival and overall survival.",
+      "abstract": "The emergence of HER2-low breast cancer as a distinct clinical entity has challenged the traditional binary classification of HER2 status. This systematic review aims to evaluate the disparities in Progression-Free Survival (PFS) and Overall Survival (OS) between HER2-low and HER2-positive breast cancer patients. A systematic search was performed across PubMed, Scopus, Cochrane Library, ESMO and ASCO for studies published through January 2026. The Clinical trials and observational studies reporting Progression-Free Survival (PFS) and Overall Survival (OS) with Hazard Ratios (HR) were included. Due to significant clinical and methodological heterogeneity, a formal meta-analysis was deemed inappropriate; consequently, evidence was synthesized qualitatively following the Synthesis Without Meta-analysis (SWiM) guidelines. The protocol was prospectively registered in PROSPERO (CRD420261293004). A total of 536 records were identified; after removing 356 duplicates, 180 were screened, and 10 trials met the inclusion criteria. Preliminary synthesis indicates that HER2-low tumors exhibit distinct survival trajectories compared to HER2-positive cohorts, often influenced by Hormone Receptor (HR) co-expression and the type of targeted therapy received. Understanding survival disparities is crucial for optimizing treatment sequencing in the era of antibody-drug conjugates (ADCs). https://www.crd.york.ac.uk/prospero/, identifier CRD420261293004.",
+      "journal": "Frontiers in oncology",
       "year": "2026",
       "publication_types": [
         "Journal Article",
-        "Review"
+        "Systematic Review"
       ]
     },
     {
-      "pmid": "42751930",
-      "doi": "10.5603/ep.112616",
-      "title": "The association between abdominal muscle mass quantified by computed tomography and osteoporosis in postmenopausal women.",
-      "abstract": "Osteoporosis is a significant health concern among postmenopausal women owing to its association with increased fracturerisk and morbidity. Although traditional risk factors such as hormonal changes, dietary intake, and physical activity have been extensivelyinvestigated, the role of muscle mass, particularly abdominal muscle mass, in bone health remains incompletely understood. This studyaimed to investigate the association between abdominal muscle mass, as measured by computed tomography (CT), and osteoporosis inpostmenopausal Korean women. This retrospective cross-sectional study included 1,723 postmenopausal women who underwent both abdominal CT and dual-energy X-ray absorptiometry (DXA) for bone mineral density (BMD) assessment. Abdominal muscle mass was quantifiedusing total abdominal muscle area (TAMA) at the L3 vertebral level on CT. Osteoporosis was defined as a T-score \u2264 -2.5 at the lumbar spine or hip. Multivariable logistic regression analyses were conducted to examine the association between TAMA and osteoporosis, adjustingfor age, body mass index, lifestyle factors, and biochemical markers. Participants in the highest TAMA quartile exhibited significantly higher BMD in both the lumbar spine and hip than those in the lowest quartile (p < 0.05). Higher TAMA was independently associated with a lower risk of osteoporosis (adjusted OR, 0.365up of autosomal recessive disorders characterized by enzyme deficiencies thatimpair adrenal steroidogenesis, most commonly due to 21-hydroxylase deficiency. The biochemical defects in CAH translate to a spectrumof clinical consequences, which include adrenal insufficiency, genital ambiguity or disordered sex development, infertility, short stature,and an increased risk of metabolic syndrome during adolescence and adulthood. The severity and clinical features of CAH vary dependingon the enzymatic defect, residual enzymatic activity, the age of presentation, and genotype. This review comprehensively covers the genetic background, classification, and clinical spectrum of CAH, including classical and non-classical forms. We discuss the importance and implementation of neonatal screening programs for early diagnosis and intervention. Specialattention is given to differences in treatment approaches between children and adolescents, highlighting the challenges of optimizingglucocorticoid and mineralocorticoid therapy across developmental stages. Furthermore, we present emerging novel pharmacologicalagents currently in clinical trials aimed at improving disease management. The review also addresses potential complications associatedwith CAH, such as metabolic syndrome, cardiovascular risks, and bone health issues. Emphasizing a patient-centered approach, wehighlight the critical role of experienced endocrinologists in delinering individualized care to improve long-term outcomes. Our review summarizes the current knowledge, aims to guide clinicians in evidence-based management and highlights ongoing research into innovativetherapies for CAH.",
-      "journal": "Endokrynologia Polska",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42744529",
-      "doi": "10.1016/j.endien.2026.501798",
-      "title": "Primary central nervous system lymphoma involving the hypothalamic-pituitary axis presenting with hypopituitarism: A case report with long-term follow-up.",
-      "abstract": "Primary central nervous system lymphoma (PCNSL) involving the hypothalamic-pituitary axis is a rare condition and may present with nonspecific neurologic and endocrine signs, often mimicking more common sellar lesions. We report the case of a 59-year-old woman admitted with subacute behavioral changes, cognitive decline, and polyuria. Magnetic resonance imaging revealed a pituitary-infundibular mass with suprasellar extension and marked bifrontal edema. Endocrine evaluation demonstrated panhypopituitarism and arginine vasopressin deficiency. The clinical course was complicated by severe dysnatremias requiring intensive care management and hormonal replacement. Histopathologic analysis of a transsphenoidal biopsy confirmed diffuse large B-cell lymphoma, with no systemic disease on PET-CT or bone marrow evaluation. The patient was treated with the MATRix chemotherapy regimen followed by autologous stem cell transplantation, achieving sustained complete remission at 3.5 years. Persistent hypogonadotropic hypogonadism remained as a sequelae. This case underscores the diagnostic challenges of sellar involvement by PCNSL and highlights the importance of including lymphoma in the differential diagnosis of hypothalamic-pituitary masses. Acute pituitary failure with severe electrolyte disturbances may precede oncologic diagnosis, and early multidisciplinary management combined with aggressive therapy can result in long-term remission.",
-      "journal": "Endocrinologia, diabetes y nutricion",
+      "pmid": "42774794",
+      "doi": "10.1093/jscr/rjag807",
+      "title": "Adrenal myelolipoma with severe hemorrhage: a case report.",
+      "abstract": "Adrenal masses are identified with abdominal imaging, most of them are benign and nonfunctioning. They are typically managed conservatively; however, large lesions may present with complications requiring urgent intervention. We present a case of a 65-year-old male with right flank pain found to have a rapidly enlarging hemorrhagic right adrenal mass measuring 15.4\u2009\u00d7\u200913.1\u2009\u00d7\u200917.9\u00a0cm with mixed fat and soft tissue components. Hormonal evaluation was negative for a functional adrenal tumor, though malignancy could not be excluded due to ongoing hemorrhage and lesion size. The patient required blood transfusion and open adrenalectomy with en bloc right colectomy. The mass was densely adherent to surrounding structures with significant clot burden. Final pathology confirmed an adrenal myelolipoma composed of mature adipose tissue and tri-lineage hematopoietic elements with extensive intra-tumoral hemorrhage and necrosis. This case highlights the importance of prompt surgical management of large hemorrhagic adrenal masses.",
+      "journal": "Journal of surgical case reports",
       "year": "2026",
       "publication_types": [
         "Case Reports",
         "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42774755",
-      "doi": "10.1016/j.jcte.2026.100458",
-      "title": "Growth hormone-releasing hormone, growth hormone, and neuroendocrine tumors.",
-      "abstract": "Neuroendocrine tumors (NETs) are known to produce growth hormone (GH) and growth hormone-releasing hormone (GHRH) leading to acromegaly. Ectopic production of these hormones can lead to ectopic acromegaly which is very rare. Ectopic acromegaly secondary to GHRH has been studied more extensively than GH-related ectopic acromegaly. Given the extreme rarity of these neoplasms, comprehensive guidelines for diagnosis and management of these NETs are currently lacking. This review summarizes the literature on clinical presentation, challenges in diagnosis and management of these NETs. The diagnosis of ectopic acromegaly is often difficult as clinical features do not differ from eutopic acromegaly, and we discuss herein when the clinical suspicion should be held high. GHRH serum concentrations are a useful diagnostic tool when ectopic production is suspected. Once the ectopic source is identified using imaging modalities including advanced molecular imaging, the choice of treatment is surgical resection of the respective NET. Other therapies include use of somatostatin receptor analogues and chemo- or immuno-therapies as an adjunct or in refractory cases.",
-      "journal": "Journal of clinical & translational endocrinology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "41949969",
-      "doi": "10.62438/tunismed.v103i11.5677",
-      "title": "Management of Adrenal Incidentalomas: A Survey of Physicians from the Middle East and Africa.",
-      "abstract": "Adrenal incidentaloma (AI) is a common finding from increased imaging use. Several guidelines direct evaluation and management, but limited data exist on real-world practices. To describe the knowledge and practices of physicians from the Middle East and Africa (MEA) in AI. An online survey evaluated the definition of AI, diagnostic investigations, management approach, and long-term follow-up of patients with AI. 171 questionnaires were analysed. Adult and pediatric endocrinologists represented 71.4% of participants. A homogenous mass, < 4 cm and < 10HU, was considered benign by 57.9% of the respondents. The threshold of 4 cm for tumor size was considered suggestive of malignity by 64%. A minority, 34 (19.9%), indicated that no further imaging was required if a non-contrast CT scan was consistent with a benign adrenal mass. Most important endocrinopathies would routinely be excluded: hypercortisolism (97.7%), pheochromocytoma (95.3%), and primary hyperaldosteronism (87.1%). In a lesion considered biochemically inactive at the outset, 56.4% of the respondents would have recommended repeated biochemical testing, and 42.8% would have followed up the patients for 4 and 5 years, irrespective of radiological features. There is an under-appreciation of the risk of malignancy of AI > 4 cm and a tendency of over-investigating patients in whom a benign tumor has been established, with repeated unnecessary biochemical and radiological evaluation, revealing sub-optimal adherence to guidelines regarding AI in this region.",
-      "journal": "La Tunisie medicale",
-      "year": "2025",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42777437",
-      "doi": "10.1016/j.jss.2026.08.021",
-      "title": "Adrenal Tumors Identified on Abdominal Imaging in Breast Cancer Patients: Benign Incidentalomas or Metastatic Disease?",
-      "abstract": "Adrenal incidentalomas are usually benign nonfunctional adrenal adenomas when found in noncancer patients. However, adrenal incidentalomas may represent metastatic disease in patients with a history of breast cancer. For managing clinicians, the distinction between benign incidentalomas and metastatic disease is important as metastases may require a percutaneous biopsy and a change in management, while most adenomas do not require intervention. This study investigates whether radiographic and clinical features can distinguish benign adrenal tumors from adrenal metastases in breast cancer patients. We performed a single institution review of 2745 breast cancer patients with abdominal imaging. Adrenal tumors were classified as benign, metastatic, or indeterminate based on predetermined radiologic criteria. Statistical analysis was performed to identify factors associated with metastases. A total of 103 (3.8%) breast cancer patients had adrenal tumors: 79 (77%) benign, 11 (11%) metastatic, and 13 (13%) indeterminate. Adrenal metastases had a larger initial mean tumor size (2.4 versus 1.7 cm, P = 0.03) and were more likely to have additional sites of metastases identified on the same scan (64% versus 24%, P = 0.01) than benign tumors. Multivariate analysis showed that the presence of other metastases (odds ratio [OR] 7.73, P = 0.01), larger initial tumor size (OR 1.90, P = 0.048), and finding an adrenal tumor on a surveillance scan (OR 8.60, P < 0.01) increased the likelihood of the lesion being metastatic disease. Most adrenal tumors found on abdominal imaging for breast cancer patients are benign, but larger adrenal tumors and patients with other sites of metastasis are at increased risk for adrenal metastases.",
-      "journal": "The Journal of surgical research",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42751096",
-      "doi": "10.1155/cris/7531559",
-      "title": "A Case of Synchronous Laparoscopic Surgery for Sigmoid Colon Cancer Inaccessible by Colonoscopy and Left Adrenal Pheochromocytoma.",
-      "abstract": "We report the case of a 65-year-old man with sigmoid colon cancer who presented with left lower abdominal pain. Preoperative computed tomography (CT) revealed a tumor in the left adrenal gland. As the patient had no clinical symptoms suggestive of catecholamine excess, the lesion was initially suspected to be a left adrenal metastasis; however, endocrinological evaluation was performed to establish the differential diagnosis. According to the Endocrine Society Clinical Practice Guidelines, the patient was diagnosed with a left adrenal pheochromocytoma. To reduce overall surgical invasiveness and shorten the hospital stay, synchronous laparoscopic resection of the sigmoid colon cancer and the adrenal tumor was planned. The procedure was performed using five ports commonly utilized for left-sided colectomy, with an additional epigastric port, resulting in a total of six ports. Postoperatively, the patient developed adhesive small bowel obstruction, which resolved with conservative management, and he was discharged on postoperative day 19. Simultaneous laparoscopic resection of sigmoid colon cancer and left adrenal pheochromocytoma is extremely rare. The present case provides valuable insight suggesting that safe one-stage surgery may be feasible through meticulous perioperative planning and the use of a transperitoneal approach with a shared operative field. Further accumulation of similar cases is warranted to establish optimal treatment strategies.",
-      "journal": "Case reports in surgery",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42779472",
-      "doi": "10.1017/S0033291726105868",
-      "title": "Acceptability and efficacy of a smartphone intervention informed by interpersonal psychotherapy for perinatal mental health: A randomized controlled trial.",
-      "abstract": "Perinatal depression is a global health concern linked to adverse maternal and neonatal outcomes. Although evidence-based psychological interventions, such as interpersonal psychotherapy (IPT), are effective, women lack access to in-person perinatal care. Smartphone-based interventions may offer scalable support; however, evidence from randomized controlled trials (RCTs) evaluating IPT-informed smartphone interventions remains limited. This study assessed the acceptability and efficacy of an IPT-informed smartphone intervention for perinatal mental well-being. Participants were recruited nationwide through online advertisements and postcards. In this nonblinded RCT, 350 pregnant women were assigned to a fully self-guided smartphone application (intervention) or usual care (control). No minimum depression symptom score was required for participation. Acceptability in the intervention group at 8\u00a0weeks after enrolment was indicated by the Japanese version of the Client Satisfaction Questionnaire-8 (CSQ-8J) scores of \u226517. Efficacy was defined as the change in Patient Health Questionnaire-9 (PHQ-9) scores from baseline to 8\u00a0weeks following enrolment. Depressive symptoms were assessed at 1\u00a0month postpartum. The application achieved acceptability, with 90.2% (157/174) of participants scoring \u226517 on the CSQ-8J. No significant between-group differences in depressive symptoms were observed during pregnancy (standardized mean difference (SMD)\u00a0=\u00a00.11). At 1\u00a0month postpartum, the intervention group exhibited significantly lower depressive symptom scores (SMD\u00a0=\u00a00.28). The smartphone application was highly acceptable. While no significant differences in depressive symptoms were observed during pregnancy, differences favoring the intervention group were observed at 1\u00a0month postpartum. An IPT-informed smartphone intervention may represent a promising approach to perinatal mental health support.",
-      "journal": "Psychological medicine",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Randomized Controlled Trial"
       ]
     },
     {
@@ -267,17 +283,6 @@
       ]
     },
     {
-      "pmid": "42777813",
-      "doi": "10.1016/j.wneu.2026.125362",
-      "title": "The value of the modified Knosp grade in pituitary adenoma surgery.",
-      "abstract": "Cavernous sinus invasion in pituitary adenomas, nowadays categorized with the modified Knosp grade, is strongly correlated with incomplete resection, lower rates of biochemical remission, and increased risk of recurrence. The aim of this study was to apply the modified KG to our institutional pituitary surgery cohort and to determine its association with gross total resection, serving as a contemporary external validation with an emphasis on interinstitutional reproducibility. Prospectively collected data between 2011 and 2024 of patients with pure transsphenoidal endoscopic pituitary surgery in our tertiary academic referral center was analyzed. Uni- and multivariate regression models were applied to identify predictors for gross total resection. A total of 482 patients were included in the study. Gross total resection was achieved in 69% of patients (grade 0: 97%, grade 1: 82%, grade 2: 79%, grade 3A: 45%, grade 3B: 35%, and grade 4: 7%). Multivariate logistic regression model showed that the modified Knosp grade remained the strongest independent predictor of achieving gross total resection. In our cohort, the modified Knosp grade served as a reliable predictor of achieving gross total resection in pituitary adenoma surgery. The modification of Knosp grade 3 into 3A and 3B offers clear prognostic insights, since grade 3B demonstrates a significantly higher rate of incomplete resection. These findings serve as valuable information for determining treatment strategy and preoperative counseling for patients undergoing pituitary surgery.",
-      "journal": "World neurosurgery",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
       "pmid": "42771717",
       "doi": "10.1080/08998280.2026.2719087",
       "title": "PTHrP-mediated hypercalcemia in metastatic adrenocortical carcinoma mimicking pheochromocytoma: a\u00a0diagnostic challenge.",
@@ -289,120 +294,15 @@
       ]
     },
     {
-      "pmid": "42779468",
-      "doi": "10.1111/ajag.70235",
-      "title": "Informant Perspectives on the Quality of Life of Healthy Older People, and People With Dementia Living in the Community and Care Facilities.",
-      "abstract": "Quality of life (QoL) ratings for people living with dementia appear to be influenced by several factors. This study examined how informant perspectives and place of residence influence agreement between self- and informant-rated QoL of people living with dementia. This cross-sectional observational study included 74 healthy older controls, 80 community-dwelling people living with dementia and 351 residing in residential care facilities (RCFs), along with their informants. Quality of life was assessed using the Quality of Life in Alzheimer's Disease (QoL-AD) scale. Carers provided two ratings: (i) proxy (their estimate of the person's self-rating) and (ii) opinion (their own view of the person's QoL). In the control group, self- and informant-rated QoL did not differ significantly. Among community-dwelling people living with dementia, self-rated QoL was higher than both proxy (mean difference 2.7, 95% CI 1.3-4.1) and opinion ratings (mean difference 5.3, 95% CI 3.8-6.8). Similarly, those in RCFs rated their QoL higher than informants. The mean difference between self and opinion rating was greater than the mean difference between self and proxy rating (7.2, 95% CI 6.0, 8.5 for opinion rating, and 5.1, 95% CI 3.8, 6.3 for proxy rating). Discrepancies were greater for people living with dementia residing in RCF than in the community. Informants tend to underestimate QoL in people living with dementia, particularly in residential care. Informant perspective and dementia severity may influence ratings. Researchers and service providers should consider both self- and informant perspectives when evaluating QoL in people living with dementia.",
-      "journal": "Australasian journal on ageing",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Observational Study",
-        "Comparative Study"
-      ]
-    },
-    {
-      "pmid": "42771820",
-      "doi": "10.1093/ejendo/lvag169",
-      "title": "Distinguishing hyperparathyroidism from insulin-like growth factor I-driven calcium-phosphate metabolism changes in acromegaly.",
-      "abstract": "Acromegaly is frequently associated with disturbances in calcium-phosphate metabolism, including mild hypercalcemia. Hypercalcemia may also reflect primary hyperparathyroidism (PHPT), which can occur with or without variants in MEN1 or the related genes. Distinguishing PHPT from insulin-like growth factor I (IGF-I)-related alterations in mineral metabolism remains challenging. We aimed to assess the prevalence and characteristics of PHPT in patients with acromegaly and explore biochemical approaches for identifying parathyroid autonomy. We conducted a retrospective study at 2 French university hospitals, including adults with acromegaly who had at least 1 serum calcium measurement obtained during uncontrolled disease. Three diagnostic approaches based on serum calcium and phosphate levels were evaluated: a threshold-based decision rule, logistic regression, and a support vector machine model. Among 393 patients (54% women; median age 43 years [interquatile range 33-55]), 23 (5.9%) had concomitant PHPT. In isolated acromegaly, hyperphosphatemia occurred in 37.3% and mild hypercalcemia in 3.2% of patients; both resolved after acromegaly treatment. Patients with PHPT had persistent mild hypercalcemia (median calcium 2.72 mmol/L [interquatile range 2.66-2.86]), elevated PTH, and low-to-normal phosphate levels, these abnormalities resolved after parathyroid surgery in the 10 operated patients. No pathogenic variants were identified in the tested genes. A threshold-based rule combining calcium >2.60 mmol/L and phosphate <1.46 mmol/L showed excellent diagnostic performance for identifying parathyroid autonomy, with bootstrap 0.632+ corrected sensitivity and specificity of 0.940 and 0.993, respectively, and was preferred because of its simplicity. PHPT may be more frequent in acromegaly than in the general population. In patients with acromegaly and hypercalcemia, a nonelevated phosphate level strongly suggests concomitant PHPT, whereas an elevated phosphate level favors IGF-I-related mineral disturbances.",
-      "journal": "European journal of endocrinology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42779501",
-      "doi": "10.1111/scd.70256",
-      "title": "Minimally Invasive Caries Arrest and Oral Rehabilitation for a Patient With Severe Recessive Dystrophic Epidermolysis Bullosa.",
-      "abstract": "To describe the stepwise, atraumatic dental management of a pediatric patient with severe recessive dystrophic epidermolysis bullosa (RDEB), emphasizing conservative caries arrest, the challenges of restorative care within a severely microstomia-limited oral opening, and coordinated multidisciplinary care. A male patient with severe RDEB was followed at a university pediatric dental clinic from Age 13 to 14 years within a dental home maintained since infancy. Serial silver diamine fluoride applications arrested multiple occlusal carious lesions. Glass ionomer sealants were placed on seven teeth without retraction or mirror use. At Age 14, comprehensive restorative care under general anesthesia included stainless-steel crown placement on a mandibular first molar and glass ionomer restorations on two additional teeth, all accomplished through a maximum interincisal opening of approximately 30\u00a0mm. Fiber-optic nasal intubation required multiple attempts. Six-month follow-up confirmed caries-free status and intact restorations. A guideline-driven, stepwise protocol combining conservative caries arrest, glass ionomer sealants and restorations, and targeted general anesthesia care preserved oral function while minimizing mucosal trauma. Multidisciplinary coordination supported the care episode, with anesthesiology managing the difficult airway, dermatology advising on the treatment setting and mucosal protection, and hematology optimizing the patient's baseline iron-deficiency anemia.",
-      "journal": "Special care in dentistry : official publication of the American Association of Hospital Dentists, the Academy of Dentistry for the Handicapped, and the American Society for Geriatric Dentistry",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42779478",
-      "doi": "10.1152/ajplung.00037.2026",
-      "title": "Inhibition of Extracellular Tissue Transglutaminase (TG2) Activity Attenuates Development of Pulmonary Fibrosis in a Novel Rabbit Model.",
-      "abstract": "Pulmonary fibrosis is an interstitial scarring disease of the lung characterized by poor prognosis and limited treatment options. Tissue transglutaminase (TG2) is believed to promote lung fibrosis by crosslinking extracellular matrix components and activating latent TGF\u03b2. This study evaluates the contribution of TG2 to pulmonary fibrosis in human lung tissue from donors with idiopathic pulmonary fibrosis (IPF) and in a novel rabbit model of pulmonary silicosis, using a therapeutic TG2 blocking antibody to inhibit extracellular matrix crosslinking. Human IPF tissue expressed elevated levels of TG2 antigen and Tgm2 RNA as detected by in situ hybridization. and antigen. Silica-treated rabbits developed lung fibrosis with increased collagen and increased TG2 enzymatic activity. Treatment with TG2 inhibitory antibody rbBB7, a rabbitized version of the human therapeutic antibody zampilimab, reduced TG2 activity and attenuated fibrosis by 50% when used in either a prevention or treatment strategy, which was associated, with reductions in interstitial collagen accumulation. TG2 has previously been reported to contribute to pulmonary fibrosis in the mouse bleomycin model, leading to the conclusion that TG2 contributes significantly to the pathogenesis of pulmonary fibrosis as demonstrated in human tissue specimens and two independent animal models with different fibrotic stimuli. Blockade of TG2 extracellular crosslinking activity with a therapeutic antibody significantly attenuated the development of fibrosis when given in a prevention strategy or treatment strategy. Blockade of extracellular TG2 activity has exciting therapeutic potential.",
-      "journal": "American journal of physiology. Lung cellular and molecular physiology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42774794",
-      "doi": "10.1093/jscr/rjag807",
-      "title": "Adrenal myelolipoma with severe hemorrhage: a case report.",
-      "abstract": "Adrenal masses are identified with abdominal imaging, most of them are benign and nonfunctioning. They are typically managed conservatively; however, large lesions may present with complications requiring urgent intervention. We present a case of a 65-year-old male with right flank pain found to have a rapidly enlarging hemorrhagic right adrenal mass measuring 15.4\u2009\u00d7\u200913.1\u2009\u00d7\u200917.9\u00a0cm with mixed fat and soft tissue components. Hormonal evaluation was negative for a functional adrenal tumor, though malignancy could not be excluded due to ongoing hemorrhage and lesion size. The patient required blood transfusion and open adrenalectomy with en bloc right colectomy. The mass was densely adherent to surrounding structures with significant clot burden. Final pathology confirmed an adrenal myelolipoma composed of mature adipose tissue and tri-lineage hematopoietic elements with extensive intra-tumoral hemorrhage and necrosis. This case highlights the importance of prompt surgical management of large hemorrhagic adrenal masses.",
-      "journal": "Journal of surgical case reports",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42779500",
-      "doi": "10.1177/10406387261481448",
-      "title": "Diagnostic and prognostic value of hematology measurands and lactate dehydrogenase isoenzyme activities in canine immune thrombocytopenia at a primary care hospital.",
-      "abstract": "Immune thrombocytopenia (ITP) is a common hematologic disorder in dogs for which reliable diagnostic and prognostic markers are limited. We evaluated retrospectively the diagnostic and prognostic value of hematology measurands and lactate dehydrogenase (LDH) isoenzyme activities in a primary care setting. Dogs with thrombocytopenia were classified into ITP (n = 14) and non-ITP (n = 27) groups, and platelet count, plateletcrit, mean platelet volume (MPV), and LDH isoenzyme activity profiles were compared between groups. Platelet count and plateletcrit were significantly lower in the ITP group, with sensitivities and specificities of 92.3% and 100% and 85.7% and 100% at cutoffs of 8 \u00d7 109/L and 0.0001 L/L, respectively. LDH1-3 activities were significantly higher, whereas LDH5 activities were significantly lower in the ITP group, although specificity was limited. Within the ITP group, dogs with bleeding (n = 8) had significantly lower MPVs. Dogs responding to prednisolone monotherapy (n = 7) had higher platelet counts and MPVs. The outcome predictive performance of a platelet count \u22653 \u00d7 109/L or MPV \u226515.8 fL was excellent (100% sensitivity and specificity in this cohort). Platelet count and plateletcrit were reliable diagnostic indicators for canine ITP in primary care. LDH isoenzyme activities offer limited standalone diagnostic value but may provide supplementary information. MPV may serve as an indicator of bleeding risk and a predictor of treatment response.",
-      "journal": "Journal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42766020",
-      "doi": "10.1007/s00393-026-01867-5",
-      "title": "[Management of emergencies in rheumatology].",
-      "abstract": "Emergencies in rheumatology can present with a\u00a0wide range of symptoms and findings, often requiring rapid diagnostics and treatment to prevent permanent damage or avert life-threatening conditions. This article aims to provide an overview of important differential diagnoses that should be considered in rheumatologic and/or immunosuppressed patients presenting in an emergency setting. It covers conditions such as septic arthritis, giant cell arteritis, acute adrenal insufficiency, the differential diagnosis of respiratory symptoms and acute kidney injury, macrophage activation syndrome, and catastrophic antiphospholipid syndrome. In this article, the clinical presentation, diagnostic approach, and acute management of these conditions are discussed and explained. Notfallsituationen in der Rheumatologie k\u00f6nnen sich mit einem breiten Spektrum an Symptomen und Befunden \u00e4u\u00dfern und bed\u00fcrfen h\u00e4ufig einer raschen Diagnostik und Therapie, um bleibende Sch\u00e4den zu vermeiden oder eine vitale Bedrohung abzuwenden. Dieser Artikel gibt einen \u00dcberblick \u00fcber wichtige Differenzialdiagnosen, an die bei rheumatologischen und/oder immunsupprimierten Patient:innen bei einer notfallm\u00e4\u00dfigen Vorstellung gedacht werden muss. Es werden Erkrankungen, wie die septische Arthritis, Riesenzellarteritis, akute Nebennierenrindeninsuffizienz, die Differenzialdiagnostik von respiratorischen Symptomen und einer akuten Nierensch\u00e4digung, das Makrophagenaktivierungssyndrom und das katastrophale Antiphospholipidsyndrom beleuchtet. Hierbei werden die Symptomatik, Diagnostik und akute Therapie behandelt und erl\u00e4utert.",
-      "journal": "Zeitschrift fur Rheumatologie",
-      "year": "2026",
-      "publication_types": [
-        "English Abstract",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42244465",
-      "doi": "10.1111/dom.70928",
-      "title": "Clinical Implications and Research Progress of Salivary Biomarkers for Endocrine and Metabolic Disorders.",
-      "abstract": "Similar to blood, saliva contains a broad range of biomarkers and may offer a non-invasive, repeatable specimen for endocrine and metabolic assessment. This review aims to synthesise and evaluate recent advances in the clinical translation of salivary biomarkers, while providing a critical assessment of the diagnostic reliability and clinical potential of key salivary biomarkers. PubMed, Web of Science and ScienceDirect were searched for English-language articles published up to July 2025, with emphasis on studies from 2020 to 2025. We included articles with a focus on the clinical translation of salivary biomarkers for endocrine and metabolic disorders. The relevant studies on the physiology underlying the synthesis and transport of salivary biomarkers were also identified. Late-night salivary cortisol is the most clinically established marker and is guideline-endorsed for Cushing's syndrome, while salivary cortisone may improve the diagnostic accuracy. Salivary glycaemic biomarkers, such as glucose, 1,5-anhydroglucitol, fructosamine, glycated albumin and \u03b1-amylase, show potential for diabetes screening or monitoring. Salivary uric acid, inflammatory factors and adipokines may reflect hyperuricaemia, obesity and metabolic inflammation. However, most biomarkers remain exploratory and their clinical translation is limited by inconsistent collection procedures, oral disease, medication effects and analytical platforms. Salivary biomarkers offer a promising non-invasive approach for assessment of endocrine and metabolic disorders. Standardised procedures and large-scale multicentre validation are needed to define reliable clinical cutoffs and perform comparisons with blood-based reference standards. Applications for machine learning and wearable sensing technology can further promote clinical translation.",
-      "journal": "Diabetes, obesity & metabolism",
+      "pmid": "42771567",
+      "doi": "10.1159/hrp/adaag029",
+      "title": "A Century of Growth Hormone from Pierre Marie (1886) to Creutzfeldt-Jakob Disease (1985).",
+      "abstract": "The century from1886 to 1985 was auspicious for those with an interest in growth. A clinically recognized overgrowth syndrome was named acromegaly. It explained some earlier described patients and even distant historical figures. Quickly this clinical syndrome was tied to a pituitary tumor and therapy from a group of innovative neurosurgeons. Contemporaneously, failure of the pituitary was recognized and noted to be a cause of severe growth failure and infantilism. Experimentally, new techniques were developed to hypophysectomize animals from tadpoles to rats as well as to learn to extract, purify and replace the missing pituitary hormones with increasingly pure and potent extracts from bovine pituitaries. These developments led to the concept of species specificity for growth hormone (GH), that is, only primate GH was biologically effective in primates, as well as the active core hypothesis which postulated that all species had GH molecules with active centers for their pleotropic effects and that unmasking them might make portions of the animal GH molecules active in man. In the end that has not proven correct, but became moot given the explosion of the molecular biology era with its virtually unlimited supply of recombinant hGH. Human (primate) GH is species specific and to date the active core hypothesis which might have provided biologically effective peptides, derived from animal or human GHs, and likely to be synthesized with the techniques available at that time (mid-1960s) were never required given that rhGH was approved for clinical use in those with hypopituitarism.",
+      "journal": "Hormone research in paediatrics",
       "year": "2026",
       "publication_types": [
         "Journal Article",
         "Review"
-      ]
-    },
-    {
-      "pmid": "42747664",
-      "doi": "10.1007/s12020-026-04778-2",
-      "title": "Glucocorticoids: an enemy or a friend for the dermatologist? recommendations for proper use and safe discontinuation.",
-      "abstract": "Glucocorticoids (GCs) are steroid hormones produced by the adrenal cortex with anti-inflammatory and immunoregulating effects, thus essential for the management of numerous inflammatory and autoimmune disorders, including a wide range of dermatological conditions. The aim of our review is to summarize current data about the indications for GCs in dermatology, present the dermatological and endocrinological adverse effects and summarize current recommendations about the proper use and safe discontinuation of GCs, creating a practical guide for dermatologists. A narrative review of the literature on PubMed/MEDLINE was conducted and included articles in English, published until July, 2026. A combination of the keywords \"glucocorticoids\", \"dermatology\", \"adrenal insufficiency\", \"HPA axis\", \"adverse effects\" and \"monitoring\" was used to identify relevant literature for this review, with emphasis on recent recommendations and guidelines. The reference lists of the selected publications were also reviewed. Although GCs are commonly prescribed medications in dermatology, their use is associated with numerous adverse effects, extending beyond the skin to multiple organ systems. However, some side effects, such as adrenal insufficiency and withdrawal syndrome, may even be life-threatening. Due to the expanded use of GCs, careful prescription and safe discontinuation is required. For this reason, we have created a practical clinical guide, summarizing the relevant recommendations to ensure proper use of GCs as well as safe discontinuation of the treatment. Optimal GC use requires individualized and careful selection of potency, duration, and route of administration to prevent any side effects and ensure the best outcome for the patient.",
-      "journal": "Endocrine",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "42779506",
-      "doi": "10.1093/ejendo/lvag185",
-      "title": "Transition to once-weekly growth hormone in paediatric isolated growth hormone deficiency: A real-world experience.",
-      "abstract": "To evaluate real-world auxological and biochemical outcomes in children and adolescents with isolated growth hormone deficiency (GHD) who transitioned from daily recombinant human growth hormone to once-weekly somatrogon. Single-centre retrospective observational study. Seventy-three paediatric patients with isolated GHD (52 boys) transitioned to weekly somatrogon at a mean age of 12.56 \u00b1 2.87 years. At the time of data collection, all 73 patients had completed 6 months of follow-up, while 58 and 27 patients had completed 12 and 18 months, respectively. Primary outcomes were changes in height standard deviation score (SDS) and height velocity SDS. Secondary outcomes included body mass index (BMI) SDS, weight SDS, and serum insulin-like growth factor-1 (IGF-1) SDS. Assessments were performed 6 months prior to transition and at 6, 12, and 18 months after initiation of long-acting growth hormone therapy. Height SDS increased, while height velocity SDS remained positive throughout follow-up. BMI SDS increased significantly during the first year after transition but stabilized by 18 months. Serum IGF-1 SDS showed an early increase at 6 months and subsequently declined. Transition from daily growth hormone to once-weekly somatrogon maintained effective growth outcomes in paediatric patients with isolated GHD. These findings support the effectiveness of weekly therapy in routine clinical practice. Further long-term studies are needed to better characterize metabolic effects and inform individualized treatment strategies.",
-      "journal": "European journal of endocrinology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
       ]
     },
     {
@@ -418,15 +318,37 @@
       ]
     },
     {
-      "pmid": "42766639",
-      "doi": "10.1213/XAA.0000000000002255",
-      "title": "Perioperative Management and Clinical Course of Acromegaly-Related Heart Failure: A Case Report.",
-      "abstract": "This report describes a case of undiagnosed acromegaly in a 73-year-old female presenting for robotic supracervical hysterectomy. During the index operation, prolonged abdominal insufflation was not tolerated secondary to a severely depressed ejection fraction (EF) of 10% to 15%. The procedure was aborted and the patient was treated for acromegaly and heart failure. Fifteen months following treatment, her EF improved to 50% to 55%, and she underwent successful pelvic organ prolapse repair without complications. If clinical suspicion for acromegaly arises, early diagnosis and medical management may allow for optimization of cardiovascular function and reduced risks of perioperative instability.",
-      "journal": "A&A practice",
+      "pmid": "42777813",
+      "doi": "10.1016/j.wneu.2026.125362",
+      "title": "The value of the modified Knosp grade in pituitary adenoma surgery.",
+      "abstract": "Cavernous sinus invasion in pituitary adenomas, nowadays categorized with the modified Knosp grade, is strongly correlated with incomplete resection, lower rates of biochemical remission, and increased risk of recurrence. The aim of this study was to apply the modified KG to our institutional pituitary surgery cohort and to determine its association with gross total resection, serving as a contemporary external validation with an emphasis on interinstitutional reproducibility. Prospectively collected data between 2011 and 2024 of patients with pure transsphenoidal endoscopic pituitary surgery in our tertiary academic referral center was analyzed. Uni- and multivariate regression models were applied to identify predictors for gross total resection. A total of 482 patients were included in the study. Gross total resection was achieved in 69% of patients (grade 0: 97%, grade 1: 82%, grade 2: 79%, grade 3A: 45%, grade 3B: 35%, and grade 4: 7%). Multivariate logistic regression model showed that the modified Knosp grade remained the strongest independent predictor of achieving gross total resection. In our cohort, the modified Knosp grade served as a reliable predictor of achieving gross total resection in pituitary adenoma surgery. The modification of Knosp grade 3 into 3A and 3B offers clear prognostic insights, since grade 3B demonstrates a significantly higher rate of incomplete resection. These findings serve as valuable information for determining treatment strategy and preoperative counseling for patients undergoing pituitary surgery.",
+      "journal": "World neurosurgery",
       "year": "2026",
       "publication_types": [
-        "Journal Article",
-        "Case Reports"
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42751930",
+      "doi": "10.5603/ep.112616",
+      "title": "The association between abdominal muscle mass quantified by computed tomography and osteoporosis in postmenopausal women.",
+      "abstract": "Osteoporosis is a significant health concern among postmenopausal women owing to its association with increased fracturerisk and morbidity. Although traditional risk factors such as hormonal changes, dietary intake, and physical activity have been extensivelyinvestigated, the role of muscle mass, particularly abdominal muscle mass, in bone health remains incompletely understood. This studyaimed to investigate the association between abdominal muscle mass, as measured by computed tomography (CT), and osteoporosis inpostmenopausal Korean women. This retrospective cross-sectional study included 1,723 postmenopausal women who underwent both abdominal CT and dual-energy X-ray absorptiometry (DXA) for bone mineral density (BMD) assessment. Abdominal muscle mass was quantifiedusing total abdominal muscle area (TAMA) at the L3 vertebral level on CT. Osteoporosis was defined as a T-score \u2264 -2.5 at the lumbar spine or hip. Multivariable logistic regression analyses were conducted to examine the association between TAMA and osteoporosis, adjustingfor age, body mass index, lifestyle factors, and biochemical markers. Participants in the highest TAMA quartile exhibited significantly higher BMD in both the lumbar spine and hip than those in the lowest quartile (p < 0.05). Higher TAMA was independently associated with a lower risk of osteoporosis (adjusted OR, 0.365up of autosomal recessive disorders characterized by enzyme deficiencies thatimpair adrenal steroidogenesis, most commonly due to 21-hydroxylase deficiency. The biochemical defects in CAH translate to a spectrumof clinical consequences, which include adrenal insufficiency, genital ambiguity or disordered sex development, infertility, short stature,and an increased risk of metabolic syndrome during adolescence and adulthood. The severity and clinical features of CAH vary dependingon the enzymatic defect, residual enzymatic activity, the age of presentation, and genotype. This review comprehensively covers the genetic background, classification, and clinical spectrum of CAH, including classical and non-classical forms. We discuss the importance and implementation of neonatal screening programs for early diagnosis and intervention. Specialattention is given to differences in treatment approaches between children and adolescents, highlighting the challenges of optimizingglucocorticoid and mineralocorticoid therapy across developmental stages. Furthermore, we present emerging novel pharmacologicalagents currently in clinical trials aimed at improving disease management. The review also addresses potential complications associatedwith CAH, such as metabolic syndrome, cardiovascular risks, and bone health issues. Emphasizing a patient-centered approach, wehighlight the critical role of experienced endocrinologists in delinering individualized care to improve long-term outcomes. Our review summarizes the current knowledge, aims to guide clinicians in evidence-based management and highlights ongoing research into innovativetherapies for CAH.",
+      "journal": "Endokrynologia Polska",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42787024",
+      "doi": "10.7759/cureus.116801",
+      "title": "Concurrent Catastrophic Antiphospholipid Syndrome, Hemophagocytic Lymphohistiocytosis, and Myocarditis Leading to Multi-organ Failure in a Patient With Systemic Lupus Erythematosus and Antiphospholipid Syndrome.",
+      "abstract": "Catastrophic antiphospholipid syndrome (CAPS) is a fulminant and life-threatening manifestation of antiphospholipid syndrome (APLS), often presenting with rapid multi-organ dysfunction and high mortality despite aggressive therapy. Its associations with hemophagocytic lymphohistiocytosis (HLH) and lupus myocarditis are not well understood. We report the case of a 43-year-old woman with systemic lupus erythematosus (SLE) and secondary APLS who developed CAPS following elective mitral valve repair. Her course was complicated by renal cortical necrosis, recurrent lupus myocarditis, refractory immune thrombocytopenia, sepsis, and HLH, requiring multiple immunosuppressive modalities including corticosteroids, intravenous immunoglobulin, plasma exchange, rituximab, cyclophosphamide, and anakinra. Despite intensive multidisciplinary management across rheumatology, cardiology, nephrology, hematology, infectious diseases, and intensive care, she suffered progressive multi-organ failure and transitioned to palliative care. This case highlights the diagnostic and therapeutic complexity of overlapping autoimmune syndromes, the risks of surgical triggers in predisposed patients, and the challenges of balancing immunosuppression against infection in the setting of CAPS. It underscores the need for dynamic multidisciplinary collaboration, early recognition of HLH and lupus myocarditis overlap, and timely integration of palliative care when maximal therapy fails.",
+      "journal": "Cureus",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
       ]
     },
     {
@@ -442,22 +364,81 @@
       ]
     },
     {
-      "pmid": "42779474",
-      "doi": "10.1111/jar.70305",
-      "title": "Co-Creating Health Promotion Training With People With Intellectual Disabilities: A Participatory Action Research Study.",
-      "abstract": "People with intellectual disabilities face persistent health inequalities and limited access to health promotion services. Their perspectives are rarely included in service design. This participatory action research (Jan 2024-Apr 2025) involved co-researcher and co-trainers in the development of a new health promotion training for professionals working in institutional contexts. An Inclusive and Participatory Educational Board guided four iterative steps: identifying needs, co-designing content, co-teaching training and evaluating outcomes. Findings revealed that people with intellectual disabilities prioritize holistic well-being, autonomy and personalized support, while professionals tend to focus on conventional health domains. Both groups highlighted needs spanning individual, social and structural levels. The co-creation process fostered inclusion and mutual learning but encountered logistical, communication and institutional challenges. Co-creation enhances the relevance, ethical grounding and equity of training in health promotion and prevention. Future efforts must improve inclusive communication, institutional coordination and formal recognition of service users' contributions. All people see health in different ways. People with intellectual disabilities think about health as a whole, where many things are connected. Professionals often think about health in separate areas, like physical health or mental health. Communication about health needs must be improved. This includes communication between professionals and people with intellectual disabilities, and also between professionals. Better communication helps everyone work in a more consistent way. We conducted a participatory and inclusive process. It helped make the research more ethical and meaningful. It changed the balance of power. It also focused on the real needs of people with intellectual disabilities in health promotion and prevention. For future participatory research projects, it is important to consider the realities of the workplace, such as staff turnover. It is also important to improve the participation of people with intellectual disabilities. This means giving them better recognition for their work and providing the support they need to understand all steps of the project.",
-      "journal": "Journal of applied research in intellectual disabilities : JARID",
+      "pmid": "42787021",
+      "doi": "10.64898/2026.09.10.750673",
+      "title": "The cytokine structural homologs IL-1\u03b2 and IL-1Ra have distinct dynamical character that potentially influence their roles in allosteric regulation of the IL-1 receptor.",
+      "abstract": "Interleukin-1\u03b2 (IL-1\u03b2) and the interleukin-1 receptor antagonist (IL-1Ra) share the \u03b2-trefoil fold, engage the same receptor (IL-1R), but produce opposite biological outcomes. IL-1\u03b2 recruits the accessory protein IL-1RAcP to initiate inflammatory signaling while IL-1Ra occupies the receptor without supporting co-receptor recruitment. Seeking the origin of this divergence in properties not apparent from static structures, we used solution NMR relaxation to characterize fast internal motion in both proteins. Rigorous treatment of macromolecular tumbling shows both to be nearly maximally triaxial, which admits two near-degenerate axially symmetric solutions. This ambiguity was propagated throughout and found to have negligible impact. Complete replicate data sets from independently prepared IL-1\u03b2 samples establish the experimental precision directly. Backbone amide and methyl-bearing side chain order parameters are indistinguishable between the two proteins, the latter averaging 0.484 \u00b1 0.030 and 0.486 \u00b1 0.033, indicating essentially equivalent residual conformational entropy. Their spatial distributions are uncorrelated when projected onto the shared fold. Importantly, the difference between the proteins is concentrated at the receptor interface, where methyl probes lying on the IL-1\u03b2 footprint are considerably more mobile than those of IL-1Ra. It is therefore the agonist, not the antagonist, that presents an anomalously mobile binding surface. IL-1Ra also buries some 16% less surface while ostensibly binding IL-1R more tightly, the signature of an interface predisposed toward productive contact. Conformational entropy can thus distinguish protein function where structure and average flexibility are conserved, and the distinction resides not in how much entropy a protein has but in where it is kept.",
+      "journal": "bioRxiv : the preprint server for biology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "42774755",
+      "doi": "10.1016/j.jcte.2026.100458",
+      "title": "Growth hormone-releasing hormone, growth hormone, and neuroendocrine tumors.",
+      "abstract": "Neuroendocrine tumors (NETs) are known to produce growth hormone (GH) and growth hormone-releasing hormone (GHRH) leading to acromegaly. Ectopic production of these hormones can lead to ectopic acromegaly which is very rare. Ectopic acromegaly secondary to GHRH has been studied more extensively than GH-related ectopic acromegaly. Given the extreme rarity of these neoplasms, comprehensive guidelines for diagnosis and management of these NETs are currently lacking. This review summarizes the literature on clinical presentation, challenges in diagnosis and management of these NETs. The diagnosis of ectopic acromegaly is often difficult as clinical features do not differ from eutopic acromegaly, and we discuss herein when the clinical suspicion should be held high. GHRH serum concentrations are a useful diagnostic tool when ectopic production is suspected. Once the ectopic source is identified using imaging modalities including advanced molecular imaging, the choice of treatment is surgical resection of the respective NET. Other therapies include use of somatostatin receptor analogues and chemo- or immuno-therapies as an adjunct or in refractory cases.",
+      "journal": "Journal of clinical & translational endocrinology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42766639",
+      "doi": "10.1213/XAA.0000000000002255",
+      "title": "Perioperative Management and Clinical Course of Acromegaly-Related Heart Failure: A Case Report.",
+      "abstract": "This report describes a case of undiagnosed acromegaly in a 73-year-old female presenting for robotic supracervical hysterectomy. During the index operation, prolonged abdominal insufflation was not tolerated secondary to a severely depressed ejection fraction (EF) of 10% to 15%. The procedure was aborted and the patient was treated for acromegaly and heart failure. Fifteen months following treatment, her EF improved to 50% to 55%, and she underwent successful pelvic organ prolapse repair without complications. If clinical suspicion for acromegaly arises, early diagnosis and medical management may allow for optimization of cardiovascular function and reduced risks of perioperative instability.",
+      "journal": "A&A practice",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    },
+    {
+      "pmid": "42244465",
+      "doi": "10.1111/dom.70928",
+      "title": "Clinical Implications and Research Progress of Salivary Biomarkers for Endocrine and Metabolic Disorders.",
+      "abstract": "Similar to blood, saliva contains a broad range of biomarkers and may offer a non-invasive, repeatable specimen for endocrine and metabolic assessment. This review aims to synthesise and evaluate recent advances in the clinical translation of salivary biomarkers, while providing a critical assessment of the diagnostic reliability and clinical potential of key salivary biomarkers. PubMed, Web of Science and ScienceDirect were searched for English-language articles published up to July 2025, with emphasis on studies from 2020 to 2025. We included articles with a focus on the clinical translation of salivary biomarkers for endocrine and metabolic disorders. The relevant studies on the physiology underlying the synthesis and transport of salivary biomarkers were also identified. Late-night salivary cortisol is the most clinically established marker and is guideline-endorsed for Cushing's syndrome, while salivary cortisone may improve the diagnostic accuracy. Salivary glycaemic biomarkers, such as glucose, 1,5-anhydroglucitol, fructosamine, glycated albumin and \u03b1-amylase, show potential for diabetes screening or monitoring. Salivary uric acid, inflammatory factors and adipokines may reflect hyperuricaemia, obesity and metabolic inflammation. However, most biomarkers remain exploratory and their clinical translation is limited by inconsistent collection procedures, oral disease, medication effects and analytical platforms. Salivary biomarkers offer a promising non-invasive approach for assessment of endocrine and metabolic disorders. Standardised procedures and large-scale multicentre validation are needed to define reliable clinical cutoffs and perform comparisons with blood-based reference standards. Applications for machine learning and wearable sensing technology can further promote clinical translation.",
+      "journal": "Diabetes, obesity & metabolism",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42777437",
+      "doi": "10.1016/j.jss.2026.08.021",
+      "title": "Adrenal Tumors Identified on Abdominal Imaging in Breast Cancer Patients: Benign Incidentalomas or Metastatic Disease?",
+      "abstract": "Adrenal incidentalomas are usually benign nonfunctional adrenal adenomas when found in noncancer patients. However, adrenal incidentalomas may represent metastatic disease in patients with a history of breast cancer. For managing clinicians, the distinction between benign incidentalomas and metastatic disease is important as metastases may require a percutaneous biopsy and a change in management, while most adenomas do not require intervention. This study investigates whether radiographic and clinical features can distinguish benign adrenal tumors from adrenal metastases in breast cancer patients. We performed a single institution review of 2745 breast cancer patients with abdominal imaging. Adrenal tumors were classified as benign, metastatic, or indeterminate based on predetermined radiologic criteria. Statistical analysis was performed to identify factors associated with metastases. A total of 103 (3.8%) breast cancer patients had adrenal tumors: 79 (77%) benign, 11 (11%) metastatic, and 13 (13%) indeterminate. Adrenal metastases had a larger initial mean tumor size (2.4 versus 1.7 cm, P = 0.03) and were more likely to have additional sites of metastases identified on the same scan (64% versus 24%, P = 0.01) than benign tumors. Multivariate analysis showed that the presence of other metastases (odds ratio [OR] 7.73, P = 0.01), larger initial tumor size (OR 1.90, P = 0.048), and finding an adrenal tumor on a surveillance scan (OR 8.60, P < 0.01) increased the likelihood of the lesion being metastatic disease. Most adrenal tumors found on abdominal imaging for breast cancer patients are benign, but larger adrenal tumors and patients with other sites of metastasis are at increased risk for adrenal metastases.",
+      "journal": "The Journal of surgical research",
       "year": "2026",
       "publication_types": [
         "Journal Article"
       ]
     },
     {
-      "pmid": "42778805",
-      "doi": "10.1007/s11102-026-01750-1",
-      "title": "Pasireotide-LAR and pegvisomant combination in resistant acromegaly: a case series of predominantly mammosomatotroph adenomas.",
-      "abstract": "Long-term real-world data on concurrent pasireotide-LAR (PAS) and pegvisomant (PEGV) use in treatment-resistant acromegaly remain limited, especially for mammosomatotroph adenomas in younger adults. We report outcomes of six patients treated with this combination at a single tertiary pituitary center. IRB-approved retrospective case series. Baseline and follow-up biochemical, radiological, histopathological, treatment and safety outcomes were captured. Six patients (5 females, 1 male; age 15 to 44 years) with somatotroph (n\u2009=\u20092) or mammosomatotroph (n\u2009=\u20094) adenomas, all macroadenomas, received PAS (20 to 60\u00a0mg every 28 days) plus PEGV (60 to 280\u00a0mg/week) over a median of 3.3 years (range 0.5 to 5.9) after lack of disease control post-surgery despite multiple lines of medical therapy. All six maintained tumor stability and achieved normal IGF-1. One had biochemical escape after 9 months of biochemical control requiring a 2nd surgery and radiosurgery. One patient discontinued PEGV after 3 years due to injection site pain, 3 patients developed hyperglycemia in the pre-diabetes range; no hepatotoxicity, acute symptomatic biliary disease, or arrhythmias occurred. In this series of predominantly mammosomatotroph adenomas in younger adults, combination PAS plus PEGV offers potential durable biochemical control, tumor stability and PEGV dose reduction in treatment-resistant acromegaly. Glucose monitoring during treatment is essential as concomitant use of PEGV does not appear to mitigate PAS-induced glycemic deterioration. Larger prospective studies are needed to better define predictors of response.",
-      "journal": "Pituitary",
+      "pmid": "42787032",
+      "doi": "10.3389/fmed.2026.1921992",
+      "title": "Clinical features of intestinal tuberculosis: an analysis of 46 cases, including six initially misdiagnosed as Crohn's disease.",
+      "abstract": "The purpose of this study was to summarize the clinical, laboratory, endoscopic, imaging, and histopathological features of intestinal tuberculosis (ITB), with a focus on the clinical characteristics of ITB cases initially misdiagnosed as Crohn's disease (CD), to improve clinicians' understanding and diagnosis of ITB. The clinical data of patients diagnosed with ITB at the First Affiliated Hospital of Wannan Medical University between 1 January 2012 and 31 December 2025 were retrospectively analyzed. Among them, six patients were initially misdiagnosed as having CD and were analyzed as a separate subgroup. All data were analyzed using descriptive statistical methods. In total, 46 patients with ITB were enrolled in the study. The most common clinical manifestation was abdominal pain (32 cases, 69.56%), followed by abdominal distention (18 cases, 39.13%). The positive rates of the T-Spot assay for tuberculosis (T-SPOT.TB test), purified protein-derived (PPD) test, and chest imaging were 81.25% (26/32), 40.91% (9/22), and 39.13% (18/46), respectively. In the subgroup of six patients with ITB initially misdiagnosed as CD, all six underwent PPD and T-SPOT.TB testing, with positive rates of 50% and 100%, respectively, indicating 50% agreement between the two diagnostic methods. Because ITB could not be ruled out, all six patients received diagnostic antituberculosis therapy and showed a favorable response. The clinical manifestations of ITB lack specificity, and its endoscopic and imaging manifestations are diverse, making ITB easily confused with CD. In patients with a high clinical suspicion of ITB, diagnostic antituberculosis treatment can serve as an important auxiliary diagnostic method. Improving the recognition of atypical ITB cases may help reduce misdiagnosis and improve patient prognosis.",
+      "journal": "Frontiers in medicine",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42783215",
+      "doi": "10.3390/diseases14090322",
+      "title": "The Functional Side of Multiple Endocrine Neoplasia Type 1-Associated Adrenal Disease: Mild Autonomous Cortisol Secretion.",
+      "abstract": "Background/Objectives: Multiple endocrine neoplasia type 1 (MEN1) is a rare hereditary syndrome characterized by primary hyperparathyroidism, duodeno-pancreatic and pituitary neuroendocrine tumors. Adrenal lesions are acknowledged manifestations of MEN1, but their functional characterization remains limited. Mild autonomous cortisol secretion (MACS) is associated with cardiometabolic risk and skeletal involvement in sporadic adrenal incidentaloma, significantly impacting patient morbidity, but data in MEN1 are lacking. The aims of the study were to estimate the prevalence of MACS in adult patients with MEN1 and radiological evidence of adrenal involvement, and to evaluate the associated biochemical, cardiometabolic, and skeletal features. Methods: This retrospective single-center observational study included adult patients with clinical, familial, or genetic MEN1 and adrenal involvement. MACS was defined as serum cortisol >1.8 \u00b5g/dL after a 1 mg overnight dexamethasone suppression test in the absence of overt Cushing syndrome. Cardiometabolic and skeletal characteristics were compared according to MACS status. Results: Among 101 MEN1 patients, 38 had adrenal involvement and 22 underwent complete hormonal evaluation. MACS was identified in 15 of the 22 patients (68.2%). Patients with MACS had significantly lower baseline ACTH concentrations and showed a trend toward a higher prevalence of metabolic syndrome. No significant differences were observed in osteoporosis or fracture prevalence. Conclusions: This is the first study specifically evaluating the prevalence of MACS in MEN1 patients with adrenal lesions. MACS appears to be more common than in sporadic adrenal incidentalomas and may represent an important factor for improving clinical characterization and tailoring patient management. Larger prospective studies are needed to define the optimal follow-up strategy.",
+      "journal": "Diseases (Basel, Switzerland)",
       "year": "2026",
       "publication_types": [
         "Journal Article"
@@ -473,6 +454,28 @@
       "publication_types": [
         "Journal Article",
         "Review"
+      ]
+    },
+    {
+      "pmid": "42768234",
+      "doi": "10.1208/s12248-026-01294-z",
+      "title": "Immunogenicity Profile of Lonapegsomatropin During Long-Term Treatment in Children With Growth Hormone Deficiency.",
+      "abstract": "Monitoring and evaluation of immunogenicity is important for biological therapeutics due to the potential impact of antibodies on safety and efficacy. A comprehensive immunogenicity assessment was conducted to support clinical development of lonapegsomatropin, a prodrug of somatropin, administered once weekly. Lonapegsomatropin is approved in the United States for pediatric and adult growth hormone deficiency (GHD), and in other countries for pediatric GHD. Lonapegsomatropin consists of somatropin, an inert methoxy polyethylene glycol carrier (mPEG), and a proprietary TransCon\u00ae linker that transiently binds somatropin to the carrier. Four dedicated immunoassays were developed, validated, and applied in a risk-based tiered approach to rigorously assess the immunogenicity of lonapegsomatropin in children with GHD. Samples collected from 298 children with GHD treated with lonapegsomatropin for up to six years were analyzed for anti-drug antibodies (ADAs) against lonapegsomatropin (intact prodrug), released somatropin, and mPEG. Treatment-emergent anti-lonapegsomatropin, anti-somatropin, and anti-mPEG binding antibodies were detected in 4.7%, 5.4%, and 0.7% of treated children, respectively. ADA responses were low titer, transiently detected, and primarily observed within the first year of treatment, and no neutralizing antibodies were detected. These findings support the long-term low immunogenicity of lonapegsomatropin in children with GHD, consistent with somatropin. Importantly, the multi-assay tiered strategy applied here was robust and reproducible, enabling sensitive detection of ADAs against the intact prodrug, mPEG, and released somatropin across trials, and demonstrated its clinical applicability for evaluating a complex long-acting growth hormone like lonapegsomatropin.",
+      "journal": "The AAPS journal",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42751096",
+      "doi": "10.1155/cris/7531559",
+      "title": "A Case of Synchronous Laparoscopic Surgery for Sigmoid Colon Cancer Inaccessible by Colonoscopy and Left Adrenal Pheochromocytoma.",
+      "abstract": "We report the case of a 65-year-old man with sigmoid colon cancer who presented with left lower abdominal pain. Preoperative computed tomography (CT) revealed a tumor in the left adrenal gland. As the patient had no clinical symptoms suggestive of catecholamine excess, the lesion was initially suspected to be a left adrenal metastasis; however, endocrinological evaluation was performed to establish the differential diagnosis. According to the Endocrine Society Clinical Practice Guidelines, the patient was diagnosed with a left adrenal pheochromocytoma. To reduce overall surgical invasiveness and shorten the hospital stay, synchronous laparoscopic resection of the sigmoid colon cancer and the adrenal tumor was planned. The procedure was performed using five ports commonly utilized for left-sided colectomy, with an additional epigastric port, resulting in a total of six ports. Postoperatively, the patient developed adhesive small bowel obstruction, which resolved with conservative management, and he was discharged on postoperative day 19. Simultaneous laparoscopic resection of sigmoid colon cancer and left adrenal pheochromocytoma is extremely rare. The present case provides valuable insight suggesting that safe one-stage surgery may be feasible through meticulous perioperative planning and the use of a transperitoneal approach with a shared operative field. Further accumulation of similar cases is warranted to establish optimal treatment strategies.",
+      "journal": "Case reports in surgery",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
       ]
     }
   ]

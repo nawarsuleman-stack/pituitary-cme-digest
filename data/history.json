@@ -74,7 +74,10 @@
     "42771820",
     "42773730",
     "42776342",
-    "42778805"
+    "42778805",
+    "42780339",
+    "42783215",
+    "42786607"
   ],
   "sessions": [
     {
@@ -1146,6 +1149,49 @@
           "quiz_question": "A 48-year-old man with active acromegaly (elevated IGF-1, unsuppressed GH) is found to have serum calcium 2.68 mmol/L and serum phosphate 0.85 mmol/L. PTH is mildly elevated. How should you interpret this biochemical picture, and what does this study suggest regarding further workup?",
           "quiz_answer": "The combination of calcium >2.60 mmol/L with a low-normal phosphate (<1.46 mmol/L) and elevated PTH points strongly toward concomitant primary hyperparathyroidism rather than IGF-1-driven mineral disturbance, which typically causes hyperphosphatemia and resolves with acromegaly treatment. This study's threshold-based rule (Ca >2.60 + PO4 <1.46) had 94% sensitivity and 99.3% specificity for PHPT in acromegaly, supporting dedicated parathyroid evaluation in this patient.",
           "journal": "European journal of endocrinology",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-24",
+      "items": [
+        {
+          "pmid": "42786607",
+          "doi": "10.1161/JAHA.126.049591",
+          "title": "Dexamethasone Nonsuppression in Primary Aldosteronism: Associations With Adrenal Imaging Findings.",
+          "category": "notable",
+          "summary": "In this prospective observational study of 883 hypertensive patients evaluated for primary aldosteronism (PA), 12.2% showed 1-mg DST nonsuppression (post-DST cortisol >1.8 \u00b5g/dL). Nonsuppression prevalence increased stepwise from non-PA patients to PA without adrenal nodules to PA with adrenal nodules, with adrenal nodules independently associated with DST nonsuppression (OR 2.68, 95% CI 1.01\u20137.12) after propensity score adjustment. Notably, even among PA patients without adrenal nodules on CT, DST nonsuppression correlated with lower eGFR and higher prevalence of chronic kidney disease, suggesting clinically meaningful autonomous cortisol co-secretion even when imaging is negative.",
+          "caveat": "Single-center prospective observational design limits generalizability; causal direction between MACS and CKD cannot be established, and overt Cushing's syndrome was excluded by definition but subclinical hypercortisolism was not formally quantified beyond the DST cutoff.",
+          "quiz_question": "A 55-year-old hypertensive man is confirmed to have primary aldosteronism. His CT shows no adrenal nodules. His 1-mg DST post-cortisol is 2.3 \u00b5g/dL. Based on this study's findings, what additional clinical concern does this DST result raise, and what is the association with renal function?",
+          "quiz_answer": "Even in PA patients without adrenal nodules, DST nonsuppression (post-cortisol >1.8 \u00b5g/dL) was associated with lower estimated GFR and a higher prevalence of chronic kidney disease in this study, suggesting that mild autonomous cortisol co-secretion carries cardiometabolic consequences independent of visible adrenal nodules and should not be dismissed as spurious.",
+          "journal": "Journal of the American Heart Association",
+          "year": "2026"
+        },
+        {
+          "pmid": "42783215",
+          "doi": "10.3390/diseases14090322",
+          "title": "The Functional Side of Multiple Endocrine Neoplasia Type 1-Associated Adrenal Disease: Mild Autonomous Cortisol Secretion.",
+          "category": "notable",
+          "summary": "This retrospective single-center study is the first to specifically characterize mild autonomous cortisol secretion (MACS) in MEN1 patients with radiologically confirmed adrenal involvement. Among 22 MEN1 patients who underwent complete hormonal evaluation, MACS (post-1 mg DST cortisol >1.8 \u00b5g/dL without overt Cushing's) was identified in 15 (68.2%)\u2014a strikingly higher prevalence than reported for sporadic adrenal incidentalomas. Patients with MACS had significantly lower baseline ACTH concentrations and a trend toward higher metabolic syndrome prevalence, suggesting that autonomous cortisol co-secretion may be an under-recognized contributor to cardiometabolic burden in MEN1.",
+          "caveat": "Very small evaluated sample (n=22 with complete hormonal data out of 101 MEN1 patients), retrospective single-center design, and absence of a control group limit the strength of conclusions; prospective multicenter validation is clearly needed before routine screening recommendations can be formalized.",
+          "quiz_question": "A 42-year-old woman with genetically confirmed MEN1 is found to have a 2.2 cm left adrenal adenoma on surveillance imaging. Her aldosterone, metanephrines, and androgens are all normal. Should you perform a 1-mg DST, and what prevalence of MACS does this study suggest in this population?",
+          "quiz_answer": "Yes, a 1-mg DST is warranted. This study found MACS in 68.2% of MEN1 patients with adrenal involvement who underwent complete evaluation\u2014substantially higher than in sporadic incidentalomas\u2014making systematic cortisol autonomy screening a clinically important step in MEN1 adrenal management despite the preliminary nature of the data.",
+          "journal": "Diseases (Basel, Switzerland)",
+          "year": "2026"
+        },
+        {
+          "pmid": "42780339",
+          "doi": "10.3389/fendo.2026.1933394",
+          "title": "Management of ectopic Cushing syndrome in medullary thyroid carcinoma: from case reports to systematic literature review.",
+          "category": "notable",
+          "summary": "This PRISMA-compliant systematic review compiled 99 published cases of ectopic Cushing's syndrome (ECS) due to medullary thyroid carcinoma (MTC), supplemented by four new institutional cases. Over half of patients presented with distant metastases at diagnosis, and hypercortisolism was frequently refractory to medical therapy\u2014requiring bilateral adrenalectomy as rescue in 33 patients. Importantly, emerging data on selective RET inhibitors (particularly selpercatinib) showed rapid biochemical improvement and radiologic responses in all five reported cases where they were used, suggesting simultaneous tumor and cortisol control may be achievable in RET-mutated disease.",
+          "caveat": "The systematic review is entirely case-report\u2013level evidence with substantial heterogeneity in reporting, and the selpercatinib data comprise only five cases\u2014far too few to establish efficacy or guide treatment sequencing. Publication bias likely overrepresents dramatic or treatment-responsive cases.",
+          "quiz_question": "A 52-year-old man with metastatic sporadic MTC (somatic RET M918T mutation) develops severe hypokalemia, proximal myopathy, and uncontrolled hyperglycemia. ACTH-dependent hypercortisolism is confirmed, with inferior petrosal sinus sampling ruling out a pituitary source. Medical management of hypercortisolism has failed. What does this systematic review suggest as both a potential rescue strategy for hypercortisolism and a disease-directed therapy?",
+          "quiz_answer": "Bilateral adrenalectomy was used as rescue therapy in 33 patients in this review when medical management failed. Additionally, the review highlights emerging evidence that selpercatinib (a selective RET inhibitor) may simultaneously control tumor progression and cortisol excess in RET-mutated MTC, with rapid biochemical responses reported in all five cases described\u2014though current data remain limited to case reports.",
+          "journal": "Frontiers in endocrinology",
           "year": "2026"
         }
       ],
