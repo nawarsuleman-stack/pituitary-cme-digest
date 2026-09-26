@@ -73,11 +73,14 @@
     "42770351",
     "42771820",
     "42773730",
+    "42774339",
     "42776342",
     "42778805",
     "42780339",
     "42783215",
-    "42786607"
+    "42786607",
+    "42787106",
+    "42791427"
   ],
   "sessions": [
     {
@@ -1192,6 +1195,49 @@
           "quiz_question": "A 52-year-old man with metastatic sporadic MTC (somatic RET M918T mutation) develops severe hypokalemia, proximal myopathy, and uncontrolled hyperglycemia. ACTH-dependent hypercortisolism is confirmed, with inferior petrosal sinus sampling ruling out a pituitary source. Medical management of hypercortisolism has failed. What does this systematic review suggest as both a potential rescue strategy for hypercortisolism and a disease-directed therapy?",
           "quiz_answer": "Bilateral adrenalectomy was used as rescue therapy in 33 patients in this review when medical management failed. Additionally, the review highlights emerging evidence that selpercatinib (a selective RET inhibitor) may simultaneously control tumor progression and cortisol excess in RET-mutated MTC, with rapid biochemical responses reported in all five cases described\u2014though current data remain limited to case reports.",
           "journal": "Frontiers in endocrinology",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-09-18",
+      "items": [
+        {
+          "pmid": "42791427",
+          "doi": "10.1007/s10143-026-04510-8",
+          "title": "Clinical characteristics and prognostic outcomes of silent corticotroph versus gonadotroph adenomas: A 603-case single-center cohort study.",
+          "category": "notable",
+          "summary": "In this large single-center cohort of 603 non-functioning pituitary adenomas, silent corticotroph adenomas (SCAs) were more common in younger women and displayed more aggressive behavior than silent gonadotroph adenomas (SGAs): larger tumor size, higher rates of cavernous sinus invasion (69% vs. 41%), more intratumoral hemorrhage, lower gross total resection rates, and notably higher postoperative venous thromboembolism risk (16% vs. 9.6%). Recurrence predictors differed meaningfully between subtypes\u2014younger age, subtotal resection, and firm consistency drove SCA recurrence, while tumor size, Ki-67 \u22653%, and firm consistency predicted SGA recurrence. Nomograms for 2- and 4-year radiological progression showed strong internal discriminative ability (AUCs 0.93/0.91 for SCAs; 0.90/0.88 for SGAs), supporting individualized surveillance planning.",
+          "caveat": "Retrospective single-center design from one Chinese institution limits generalizability; nomograms require external validation before clinical adoption, and immunohistochemical subtyping methodology details are not fully elaborated in the abstract.",
+          "quiz_question": "A 38-year-old woman undergoes transsphenoidal resection of a non-functioning pituitary macroadenoma. Pathology returns as a silent corticotroph adenoma with subtotal resection due to cavernous sinus invasion. Based on this study's findings, which additional postoperative complication should be specifically anticipated at a higher rate compared to silent gonadotroph adenoma patients?",
+          "quiz_answer": "Venous thromboembolism (VTE). SCAs had a significantly higher rate of postoperative VTE (16% vs. 9.6% in SGAs, P=0.025), making prophylaxis and vigilance particularly important in this subtype.",
+          "journal": "Neurosurgical review",
+          "year": "2026"
+        },
+        {
+          "pmid": "42787106",
+          "doi": "10.3389/fneur.2026.1926817",
+          "title": "A structured approach to address variability in the global management of adrenal insufficiency in Duchenne muscular dystrophy: the 2025 PJ Nicholoff steroid protocol.",
+          "category": "notable",
+          "summary": "This review addresses the increasingly complex challenge of managing glucocorticoid-induced adrenal suppression in Duchenne muscular dystrophy (DMD), where patients may receive prednisone/prednisolone, deflazacort, or the newer agent vamorolone on daily or intermittent schedules. The updated 2025 PJ Nicholoff Steroid Protocol provides a DMD-specific practical framework covering anticipatory education, written weight-based stress-dose steroid plans, safe tapering algorithms, confirmation of HPA axis recovery, and structured guidance for transitions between GC agents\u2014including vamorolone, for which stress-dosing experience is still limited. The authors highlight that global variability in drug availability, institutional protocols, and caregiver education creates meaningful safety gaps for a population at high risk for adrenal crisis during illness or surgical stress.",
+          "caveat": "This is a consensus/expert framework review rather than a prospective clinical trial; evidence for vamorolone-specific HPA suppression and optimal stress-dosing thresholds remains limited, and the protocol has not yet been validated in outcome studies.",
+          "quiz_question": "A 12-year-old boy with Duchenne muscular dystrophy on daily deflazacort develops a febrile respiratory illness and his parents are unsure whether to give stress-dose steroids. According to the principles outlined in the 2025 PJ Nicholoff Protocol, what key elements should his written stress-steroid plan include to guide his caregivers in this situation?",
+          "quiz_answer": "The plan should include a weight-based stress-dose calculation (typically 3\u00d7 the physiologic replacement equivalent), clear triggers for when to administer it (fever, vomiting, significant physiological stress, missed doses), instructions on route escalation if the child cannot take oral medication, and guidance on when to seek emergency care\u2014all part of anticipatory caregiver education emphasized by the protocol.",
+          "journal": "Frontiers in neurology",
+          "year": "2026"
+        },
+        {
+          "pmid": "42774339",
+          "doi": "10.3389/frai.2026.1915569",
+          "title": "An interpretable machine learning framework using multi-phase computed tomography for differentiation of adrenal lipid-poor adenomas and pheochromocytomas.",
+          "category": "preliminary",
+          "summary": "This retrospective study of 229 pathologically confirmed adrenal tumors (132 lipid-poor adenomas, 97 pheochromocytomas) developed an interpretable decision-tree (DT) machine learning model using multi-phase CT radiomic features to distinguish these two entities, which can be challenging when standard lipid-rich criteria are absent. The DT model achieved excellent AUCs of 0.977 (washout cohort) and 0.983 (non-washout cohort), with cystic degeneration identified as the most influential discriminator, followed by enhancement potential and baseline attenuation. The inherently transparent decision logic of the DT approach offers a clinically actionable advantage over black-box models, potentially supporting radiologists in managing indeterminate adrenal lesions without requiring biopsy.",
+          "caveat": "Retrospective single-institution design with a relatively small sample (n=229); the model has not been externally validated, and the high AUCs likely reflect optimistic performance that may not reproduce across imaging platforms or clinical settings. Biochemical exclusion of pheochromocytoma before any invasive workup remains mandatory regardless of imaging model output.",
+          "quiz_question": "A 55-year-old man has a 3.2 cm adrenal mass with non-contrast attenuation of 25 HU (lipid-poor). Multi-phase CT shows no cystic degeneration and moderate enhancement with an absolute percentage washout of 45% (non-washout criteria). According to this study's decision-tree model, which CT feature is the single most important discriminator between lipid-poor adenoma and pheochromocytoma, and what is its significance in this case?",
+          "quiz_answer": "Cystic degeneration was identified as the most influential discriminator in the model. Its absence in this case slightly favors adenoma, but enhancement potential and baseline attenuation are the next key variables in the decision tree. Critically, biochemical testing for catecholamine excess must be performed before any biopsy or invasive procedure regardless of imaging findings.",
+          "journal": "Frontiers in artificial intelligence",
           "year": "2026"
         }
       ],
