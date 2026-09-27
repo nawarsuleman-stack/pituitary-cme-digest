@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-26",
+  "fetched_at": "2026-09-27",
   "date_window": {
-    "from": "2016/09/28",
-    "to": "2026/09/26"
+    "from": "2016/09/29",
+    "to": "2026/09/27"
   },
   "already_covered_pmids": [
     "41730814",
@@ -78,127 +78,16 @@
     "42770351",
     "42771820",
     "42773730",
+    "42774339",
     "42776342",
     "42778805",
     "42780339",
     "42783215",
-    "42786607"
+    "42786607",
+    "42787106",
+    "42791427"
   ],
   "candidates": [
-    {
-      "pmid": "42798452",
-      "doi": "10.3389/fimmu.2026.1926947",
-      "title": "A four-dimensional spatial atlas of spinal cord injury reveals predominant Spp1-integrin signaling driving microglia-fibroblast crosstalk in fibrotic niches.",
-      "abstract": "Spinal cord injury (SCI) leads to fibrotic scarring that blocks axonal regeneration, yet the molecular mechanisms controlling scar formation remain incompletely understood. Microglia and fibroblasts accumulate at lesion sites, but their intercellular communication, spatial organization and therapeutic tractability have not been systematically mapped. We integrated spatial transcriptomics, single-cell transcriptomics, bulk RNA sequencing, and microarray profiling across multiple post-injury time points in mouse and rat SCI models. A four-dimensional spatial atlas spanning three spatial dimensions and time was constructed to map microglia-fibroblast interactions. Fibroblast differentiation trajectories were used to establish molecular subtypes and a risk prediction model, validated in independent cohorts and human peripheral blood. NT3-chitosan was tested in a complete transection model with functional and molecular assessments. The four-dimensional spatial atlas identified Spp1-Itgav/Itgb1 as the dominant microglia-to-fibroblast signaling axis during peak scar consolidation, spatially colocalized with NF-\u03baB and TGF-\u03b2 transcriptional programs. Fibroblast differentiation-based classification stratified SCI into three subtypes associated with injury severity and immune remodeling. A risk model based on fibroblast differentiation-associated signatures in peripheral blood predicted ASIA grade A with AUCs of 0.883, 0.939, and 0.807 in the total, training, and test sets, respectively. NT3-chitosan treatment was associated with reduced Spp1-Itgav/Itgb1 signaling, diminished fibrotic scarring, and sustained locomotor recovery over 52 weeks. Microglia-fibroblast crosstalk via Spp1-Itgav/Itgb1 is enriched in regions of fibrotic scar maturation, alongside NF-\u03baB and TGF-\u03b2 transcriptional activation. The fibroblast differentiation-based framework enables risk stratification and guides scar-targeted interventions, providing a clinically actionable pathway for SCI therapy.",
-      "journal": "Frontiers in immunology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42798440",
-      "doi": "10.3389/fneur.2026.1943765",
-      "title": "Effect of intracranial pressure monitoring-based therapy on clinical efficacy and serum levels in neurosurgical patients with severe intracerebral hemorrhage.",
-      "abstract": "To investigate the effect of intracranial pressure (ICP) monitoring combined with hematoma evacuation on clinical efficacy and serum markers in neurosurgical patients with severe intracerebral hemorrhage. A total of 120 patients with severe intracerebral hemorrhage treated in the Department of Neurology, Taihe Hospital, Hubei University of Medicine from January 2025 to January 2026 were retrospectively enrolled. According to whether postoperative ICP monitoring was performed, the patients were divided into an ICP monitoring group (hematoma evacuation + external ventricular drain-based ICP monitoring) and a control group (hematoma evacuation alone). Propensity score matching at a 1:1 ratio was used to balance baseline characteristics, and 57 patients were ultimately included in each group. The surgical indicators, 3-month favorable outcome defined as Glasgow Outcome Scale score 4-5, neurological deficit scores, serum levels of endothelin-1 (ET-1), matrix metalloproteinase-9 (MMP-9), advanced oxidation protein products (AOPP), cortisol (Cor), and norepinephrine (NE), activity of daily living (ADL) score, and complication rates were compared between the two groups. After matching, there were no significant differences in intraoperative blood loss and evacuated hematoma volume between the two groups (both p\u202f>\u202f0.05). The operation time of the ICP monitoring group was longer than that of the control group (p\u202f<\u202f0.05), while the hematoma evacuation time and hospital stay were significantly shorter (both p\u202f<\u202f0.05). The 3-month favorable outcome rate in the ICP monitoring group was 87.72% (50/57), which was significantly higher than 49.12% (28/57) in the control group (p\u202f<\u202f0.05). After treatment, the Chinese Stroke Scale (CSS) scores and National Institutes of Health Stroke Scale (NIHSS) scores in the ICP monitoring group were both lower than those in the control group (both p\u202f<\u202f0.05); the serum levels of ET-1, MMP-9, AOPP, Cor, and NE in the ICP monitoring group were also significantly lower than those in the control group (all p\u202f<\u202f0.05). The ADL score of the ICP monitoring group was significantly higher than that of the control group (p\u202f<\u202f0.05). The overall complication rate was 7.02% (4/57) in the ICP monitoring group, which was significantly lower than 22.81% (13/57) in the control group (p\u202f<\u202f0.05). Intracranial pressure monitoring combined with hematoma evacuation was associated with better clinical outcome, lower serum levels of ET-1, MMP-9, AOPP, and stress hormones, fewer complications, and greater independence in daily living. However, the observational design limits causal inference, and the external ventricular drain may have contributed both monitoring and therapeutic drainage effects that cannot be completely separated in this study.",
-      "journal": "Frontiers in neurology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42756625",
-      "doi": "10.3389/fsurg.2026.1883619",
-      "title": "Giant adrenal pseudocyst with unclear preoperative origin: a case report and literature review.",
-      "abstract": "Adrenal cysts are relatively rare, and most are nonfunctional and lack specific clinical manifestations, often being discovered incidentally during imaging examinations. For giant adrenal cysts with a maximum diameter exceeding 10\u2005cm, especially when accompanied by degenerative changes such as hemorrhage, fibrosis, and calcification, compression of adjacent organs and obscuration of anatomical planes may increase the difficulty of determining the origin preoperatively, and they may even be misdiagnosed as pancreatic, renal, or other retroperitoneal cystic lesions. This article reports one case of a giant adrenal pseudocyst with unclear origin before surgery and discusses its diagnostic and surgical management strategies. A 36-year-old woman was admitted after a left retroperitoneal mass was incidentally discovered during trauma evaluation one month earlier. Contrast-enhanced CT showed a cystic low-density lesion measuring approximately 108\u2005mm\u2009\u00d7\u2009102\u2005mm\u2009\u00d7\u2009108\u2005mm in the left retroperitoneal space, with marginal calcification. The left adrenal gland was not distinctly identified, and the lesion was closely related to the stomach, spleen, and pancreas. The organ of origin remained uncertain preoperatively, with cystic lesions of adrenal, pancreatic, or gastric origin considered in the differential diagnosis. After multidisciplinary discussion, laparoscopic resection was performed. Intraoperatively, the lesion was densely adherent to surrounding organs and its origin was difficult to determine; resection was completed after decompression, and the residual cyst wall on the splenic side was treated with electrocautery. Postoperative pathology confirmed a left adrenal pseudocyst with calcification. The patient recovered smoothly, and no complications were observed during follow-up. Giant complex adrenal pseudocysts may mimic other left retroperitoneal cystic lesions, and the diagnostic difficulty lies in determining the organ of origin. For giant retroperitoneal cystic lesions of unclear origin, adrenal origin should be included as an important differential diagnosis, and comprehensive decisions should be made based on imaging, endocrine evaluation, and multidisciplinary discussion; if no safe dissection plane exists intraoperatively, individualized management should be implemented.",
-      "journal": "Frontiers in surgery",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42798429",
-      "doi": "10.3389/fphar.2026.1921161",
-      "title": "Pyocyanin reversibly inhibits Chlamydia by impairing newly formed elementary body infectivity and delaying the developmental cycle.",
-      "abstract": "Chlamydia is an obligate intracellular bacterial pathogen responsible for sexually transmitted infections and blindness worldwide. In our search for antichlamydial agents from natural sources, we identified pyocyanin, a phenazine derivative from Pseudomonas aeruginosa. Previous studies showed that pyocyanin disables elementary body (EB) infectivity at low concentrations and inhibits intracellular growth at higher concentrations. In the present study, we show that its antichlamydial activity is primarily attributed to the intracellular developmental stage. Complete inhibition of detectable infectious progeny was achieved at 16\u00a0\u03bcM\u00a0at the standard 36 hpi endpoint, while its effect on the infection stage reached only approximately 60% inhibition. Two independent delayed treatment assays revealed that pyocyanin reduces the infectivity of newly formed EBs without reducing their number. Furthermore, pyocyanin delays rather than arrests the chlamydial developmental cycle, and its inhibitory effect is reversible, requiring sustained drug exposure for optimal efficacy. These findings position pyocyanin among a growing class of antichlamydial agents that target distinct steps of the pathogen's developmental cycle and support its potential as a chemical probe for chlamydial biology and a lead compound for drug development.",
-      "journal": "Frontiers in pharmacology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "41949969",
-      "doi": "10.62438/tunismed.v103i11.5677",
-      "title": "Management of Adrenal Incidentalomas: A Survey of Physicians from the Middle East and Africa.",
-      "abstract": "Adrenal incidentaloma (AI) is a common finding from increased imaging use. Several guidelines direct evaluation and management, but limited data exist on real-world practices. To describe the knowledge and practices of physicians from the Middle East and Africa (MEA) in AI. An online survey evaluated the definition of AI, diagnostic investigations, management approach, and long-term follow-up of patients with AI. 171 questionnaires were analysed. Adult and pediatric endocrinologists represented 71.4% of participants. A homogenous mass, < 4 cm and < 10HU, was considered benign by 57.9% of the respondents. The threshold of 4 cm for tumor size was considered suggestive of malignity by 64%. A minority, 34 (19.9%), indicated that no further imaging was required if a non-contrast CT scan was consistent with a benign adrenal mass. Most important endocrinopathies would routinely be excluded: hypercortisolism (97.7%), pheochromocytoma (95.3%), and primary hyperaldosteronism (87.1%). In a lesion considered biochemically inactive at the outset, 56.4% of the respondents would have recommended repeated biochemical testing, and 42.8% would have followed up the patients for 4 and 5 years, irrespective of radiological features. There is an under-appreciation of the risk of malignancy of AI > 4 cm and a tendency of over-investigating patients in whom a benign tumor has been established, with repeated unnecessary biochemical and radiological evaluation, revealing sub-optimal adherence to guidelines regarding AI in this region.",
-      "journal": "La Tunisie medicale",
-      "year": "2025",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42756607",
-      "doi": "10.7759/cureus.114713",
-      "title": "De Morsier Syndrome Associated With Megalocornea: Impact of Hormone Replacement Therapy on the Resolution of Neonatal Cholestasis.",
-      "abstract": "De Morsier syndrome, or septo-optic dysplasia (SOD), is a rare congenital malformation characterized by optic nerve hypoplasia, midline brain abnormalities, and pituitary hormone deficiencies. Neonatal presentation can be misleading, particularly when it manifests as cholestatic jaundice. We report the clinical, biochemical, and radiological evaluation of a two-month-old male infant admitted for persistent neonatal cholestatic jaundice, progressive weight faltering, and recurrent hypoglycemia. Slit-lamp examination, comprehensive endocrine workup, and brain magnetic resonance imaging (MRI) were performed to establish the diagnosis. Written informed consent was obtained from the patient's parents (or legal guardians) for publication of this case report and any accompanying images. Physical examination revealed horizontal nystagmus and bilateral megalocornea (diameter > 13 mm). Laboratory investigations showed cholestasis with normal gamma-glutamyl transferase (GGT) levels and recurrent hypoglycemia, which led to the diagnosis of combined anterior pituitary hormone deficiency (growth hormone, thyroid-stimulating hormone, and adrenocorticotropic hormone). Brain MRI confirmed the diagnosis by showing agenesis of the septum pellucidum, bilateral optic nerve hypoplasia, and an ectopic posterior pituitary gland. Targeted hormone replacement therapy with L-thyroxine (10 \u03bcg/kg/day) and hydrocortisone (5 mg/kg/day) led to a complete resolution of the cholestasis within three weeks, alongside blood glucose stabilization and weight gain. Neonatal cholestasis is a classic early manifestation of SOD due to impaired bile acid transporter maturation caused by endocrine deficits. Its association with megalocornea highlights the variability of embryonic anterior segment anomalies. Early diagnosis is vital to initiate prompt hormone therapy, ensure hepatic recovery, and optimize neurodevelopmental outcomes.",
-      "journal": "Cureus",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42771717",
-      "doi": "10.1080/08998280.2026.2719087",
-      "title": "PTHrP-mediated hypercalcemia in metastatic adrenocortical carcinoma mimicking pheochromocytoma: a\u00a0diagnostic challenge.",
-      "abstract": "Humoral hypercalcemia of malignancy is a paraneoplastic syndrome mediated by parathyroid hormone-related peptide (PTHrP). Adrenal masses may present a diagnostic challenge when clinical, biochemical, and imaging findings overlap with endocrine tumors such as pheochromocytoma. We report an 80-year-old man presenting with severe hypercalcemia, normal phosphate levels, elevated PTHrP, and suppressed intact parathyroid hormone. Imaging revealed an 8.8\u2009cm heterogeneous left adrenal mass with hepatic and osseous lesions along with enlarged preauricular lymph nodes, suggestive of metastatic disease. Discordant catecholamine testing raised concern for pheochromocytoma; however, biopsy confirmed adrenocortical carcinoma. This case highlights the importance of integrating biochemical, radiological, and histopathological data in evaluating adrenal masses with atypical presentations. PTHrP-mediated hypercalcemia is a rare presentation of adrenocortical carcinoma.Large heterogeneous adrenal masses with metastasis should raise suspicion of malignancy.Normal plasma metanephrine levels effectively exclude pheochromocytoma despite abnormal urine results.Pheochromocytoma must be ruled out before adrenal biopsy to avoid catecholamine-crisis.Definitive management of hypercalcemia of malignancy requires treatment of underlying tumors.",
-      "journal": "Proceedings (Baylor University. Medical Center)",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42798434",
-      "doi": "10.3389/fmed.2026.1873327",
-      "title": "Safety and efficacy of microbiota-directed adjunctive therapy in acute pancreatitis: a systematic review and meta-analysis of prebiotics, probiotics, and synbiotics.",
-      "abstract": "Prebiotics, probiotics, and synbiotics have been proposed as adjunctive treatments for acute pancreatitis (AP), but their clinical efficacy and safety remain uncertain. We conducted a systematic review and meta-analysis to evaluate their effects on recovery-related, efficacy, and safety-critical outcomes in AP. PubMed, Web of Science, Scopus, Embase, and the Cochrane Library were searched through July 2026, supplemented by Google Scholar and reference-list screening. Comparative interventional and observational studies evaluating prebiotics, probiotics, or synbiotics versus placebo, standard care, or nutritional controls were eligible. Risk of bias was assessed using Cochrane RoB 2 for randomized studies and the Newcastle-Ottawa Scale for non-randomized studies. Random-effects meta-analyses were performed using mean differences (MDs) or risk ratios (RRs) with 95% confidence intervals (CIs). Sensitivity and subgroup analyses were conducted to explore study quality and clinical heterogeneity. 30 studies were included in the systematic review and 25 in the meta-analysis. Microbiota-directed interventions were associated with a shorter hospital stay in the full-analysis set (MD\u202f-\u202f4.68\u202fdays, 95% CI\u202f-\u202f6.22 to -3.14), although heterogeneity was substantial (I2\u202f=\u202f98.74%); the association persisted in the sensitivity analysis (MD\u202f-\u202f3.90\u202fdays, 95% CI\u202f-\u202f5.93 to -1.87). Mortality was lower in the full analysis (RR 0.67, 95% CI 0.45-0.98), but this finding was not robust and lost statistical significance in the sensitivity analysis. Total infection (RR 0.50, 95% CI 0.36-0.69) and infectious morbidity (RR 0.58, 95% CI 0.42-0.80) were reduced, whereas infected pancreatic necrosis, organ failure/multiple organ failure, need for operation, and systemic inflammatory response syndrome were not significantly improved overall. Adverse-event reporting was inconsistent, and a large multicenter trial provided an important safety signal for live multispecies probiotics in predicted severe AP. Microbiota-directed interventions may be associated with shorter hospital stay and fewer infection-related complications, but substantial heterogeneity, intervention diversity, and incomplete safety reporting limit clinical interpretation. Evidence for mortality or other severe outcomes is not robust. Current evidence does not support routine use of these interventions in AP, particularly live probiotic preparations in severe or critically ill patients. Future adequately powered, severity-stratified trials using standardized formulations and prospective safety monitoring are needed. Registration number: CRD420261387279.",
-      "journal": "Frontiers in medicine",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Systematic Review"
-      ]
-    },
-    {
-      "pmid": "42751096",
-      "doi": "10.1155/cris/7531559",
-      "title": "A Case of Synchronous Laparoscopic Surgery for Sigmoid Colon Cancer Inaccessible by Colonoscopy and Left Adrenal Pheochromocytoma.",
-      "abstract": "We report the case of a 65-year-old man with sigmoid colon cancer who presented with left lower abdominal pain. Preoperative computed tomography (CT) revealed a tumor in the left adrenal gland. As the patient had no clinical symptoms suggestive of catecholamine excess, the lesion was initially suspected to be a left adrenal metastasis; however, endocrinological evaluation was performed to establish the differential diagnosis. According to the Endocrine Society Clinical Practice Guidelines, the patient was diagnosed with a left adrenal pheochromocytoma. To reduce overall surgical invasiveness and shorten the hospital stay, synchronous laparoscopic resection of the sigmoid colon cancer and the adrenal tumor was planned. The procedure was performed using five ports commonly utilized for left-sided colectomy, with an additional epigastric port, resulting in a total of six ports. Postoperatively, the patient developed adhesive small bowel obstruction, which resolved with conservative management, and he was discharged on postoperative day 19. Simultaneous laparoscopic resection of sigmoid colon cancer and left adrenal pheochromocytoma is extremely rare. The present case provides valuable insight suggesting that safe one-stage surgery may be feasible through meticulous perioperative planning and the use of a transperitoneal approach with a shared operative field. Further accumulation of similar cases is warranted to establish optimal treatment strategies.",
-      "journal": "Case reports in surgery",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42787106",
-      "doi": "10.3389/fneur.2026.1926817",
-      "title": "A structured approach to address variability in the global management of adrenal insufficiency in Duchenne muscular dystrophy: the 2025 PJ Nicholoff steroid protocol.",
-      "abstract": "Adrenal suppression is a potentially life-threatening consequence of chronic glucocorticoid (GC) therapy in Duchenne muscular dystrophy (DMD), placing individuals at risk for adrenal insufficiency and adrenal crisis during increased physiological stress, missed GC doses, abrupt discontinuation, or transitions between GC regimens. Management is increasingly complex because DMD treatment now includes multiple GC agents, including prednisone/prednisolone, deflazacort, and vamorolone, as well as daily, intermittent, and transition regimens that differ across countries and clinical settings. Although general principles of adrenal insufficiency prevention are well established, implementation remains challenging because of global variability in drug availability, institutional stress-steroid protocols, clinician experience, and caregiver education. This article discusses key sources of variability in adrenal suppression management for individuals with DMD and presents the 2025 PJ Nicholoff Steroid Protocol as an example of a practical, DMD-specific framework. The updated protocol incorporates newer therapies such as vamorolone and emphasizes anticipatory education, written stress-steroid plans (including a weight-based approach), safe GC tapering, confirmation of hypothalamic-pituitary-adrenal axis recovery, and careful management of transitions between GC agents and regimens. This structured approach aims to support safer and more consistent adrenal suppression management for individuals with DMD receiving chronic GC therapy through six critical concepts.",
-      "journal": "Frontiers in neurology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
     {
       "pmid": "42776131",
       "doi": "10.20945/2359-4292-2026-0115",
@@ -212,14 +101,13 @@
       ]
     },
     {
-      "pmid": "42795710",
-      "doi": "10.3390/jcm15186938",
-      "title": "Pheochromocytoma Presenting as Spontaneous Adrenal Hemorrhage in a Normotensive Patient: A Case Report.",
-      "abstract": "Background: Pheochromocytoma is a rare tumor of the adrenal medulla, often associated with hypertension, headache, diaphoresis, and palpitations, but presentations vary; some are silent until incidentally found or when complications develop. One rare complication is spontaneous adrenal hemorrhage, previously mainly found at autopsy, which can extend into the retroperitoneum, causing acute pain and mimicking emergencies. Imaging modalities like computed tomography are vital for detection, especially in acute cases, while magnetic resonance imaging provides greater tissue detail to identify tumors such as pheochromocytomas. If a functional adrenal tumor is suspected, biochemical tests for catecholamine excess are crucial for diagnosis and management. In this report, we present a case of pheochromocytoma that initially manifested with spontaneous adrenal hemorrhage without hypertension, thereby complicating and prolonging the diagnostic process. Case presentation: A previously healthy 34-year-old man presented with sudden, severe right-sided abdominal and flank pain, nausea, vomiting, and headache. He was normotensive but anemic and required a red blood cell transfusion. Initial computed tomography revealed a large hemorrhagic lesion in the right retroperitoneal space. The hematoma was managed conservatively. Magnetic resonance imaging confirmed subacute hematoma. Follow-up computed tomography showed gradual regression of the hematoma but persistence of an enhancing right adrenal lesion. Elevated plasma metanephrine and normetanephrine levels, together with positive iodine-123 metaiodobenzylguanidine imaging and preoperative computed tomography, supported the diagnosis of pheochromocytoma. After preoperative alpha-adrenergic blockade, laparoscopic right adrenalectomy was performed without complications. Histopathology confirmed a pheochromocytoma classified as moderately differentiated (GAPP), with a Ki-67index of 1-3%. Genetic testing showed no pathogenic variants in the analyzed genes associated with hereditary pheochromocytoma or paraganglioma syndromes. Conclusions: Spontaneous adrenal hemorrhage may be the first sign of pheochromocytoma, even in normotensive patients. Acute bleeding can obscure the tumor. Persistent adrenal lesions after hematoma regression should be monitored with computed tomography or magnetic resonance imaging, along with biochemical and functional evaluation, to avoid serious complications or death.",
-      "journal": "Journal of clinical medicine",
+      "pmid": "42801333",
+      "doi": "10.1111/all.70528",
+      "title": "Diagnostic Delay in Eosinophilic Granulomatosis With Polyangiitis: Clinical Predictors and Implications for Earlier Recognition.",
+      "abstract": "Eosinophilic Granulomatosis with Polyangiitis (EGPA), previously known as Churg-Strauss syndrome, is a rare antineutrophil cytoplasmic antibody (ANCA) vasculitis, with multiorgan involvement. Due to the variable presentation, diagnosis is often challenging and delayed. We aimed to assess diagnostic delay among patients with EGPA and identify clinical characteristics associated with delayed recognition. A single-institution retrospective chart review was performed in adult patients over 18 diagnosed with EGPA. Data was collected on demographics, clinical features, laboratory data, imaging results, biopsy results, treatment, and outcomes. A total of 36 patients were included, with an average time to diagnosis from onset of symptoms of 4.82\u2009years (SD\u2009=\u20095.44). Mean age at diagnosis was 52.5\u2009years and 47.2% were female. Overall, asthma (80.5%) and chronic rhinosinusitis (CRS) (80.5%) were the most prevalent features, and [VERIFY: abstract currently reports 5.5% CRS surgery; Results report 19/29] of those with CRS required surgery prior to diagnosis. Lung nodules or infiltrates were identified in 77.8%, nasal polyps in 52.8%, and 27.8% had received a biologic prior to diagnosis. In this exploratory analysis, diagnostic delay >\u20093\u2009years was associated with female sex (OR 6.7, 95% CI 1.66-31.9), elevated C-ANCA (yes), which was associated with lower odds of diagnostic delay (OR 0.11, 95% CI 0.005-0.716, p\u2009=\u20090.049), and prior biologic treatment (OR 7.1, 95% CI 1.42-54.4). Renal involvement was associated with a lower likelihood of diagnostic delay (p\u2009=\u20090.037). Given the small cohort and wide confidence intervals, these findings should be interpreted as hypothesis-generating. Diagnosing EGPA presents a clinical challenge given its rarity and multiorgan presentation. A high clinical suspicion is required to ensure earlier recognition of this rare disease, including a thorough review of systems and appropriate laboratory workup, particularly in patients with treatment-resistant asthma, CRS, or eosinophilia.",
+      "journal": "Allergy",
       "year": "2026",
       "publication_types": [
-        "Case Reports",
         "Journal Article"
       ]
     },
@@ -236,23 +124,23 @@
       ]
     },
     {
-      "pmid": "42744529",
-      "doi": "10.1016/j.endien.2026.501798",
-      "title": "Primary central nervous system lymphoma involving the hypothalamic-pituitary axis presenting with hypopituitarism: A case report with long-term follow-up.",
-      "abstract": "Primary central nervous system lymphoma (PCNSL) involving the hypothalamic-pituitary axis is a rare condition and may present with nonspecific neurologic and endocrine signs, often mimicking more common sellar lesions. We report the case of a 59-year-old woman admitted with subacute behavioral changes, cognitive decline, and polyuria. Magnetic resonance imaging revealed a pituitary-infundibular mass with suprasellar extension and marked bifrontal edema. Endocrine evaluation demonstrated panhypopituitarism and arginine vasopressin deficiency. The clinical course was complicated by severe dysnatremias requiring intensive care management and hormonal replacement. Histopathologic analysis of a transsphenoidal biopsy confirmed diffuse large B-cell lymphoma, with no systemic disease on PET-CT or bone marrow evaluation. The patient was treated with the MATRix chemotherapy regimen followed by autologous stem cell transplantation, achieving sustained complete remission at 3.5 years. Persistent hypogonadotropic hypogonadism remained as a sequelae. This case underscores the diagnostic challenges of sellar involvement by PCNSL and highlights the importance of including lymphoma in the differential diagnosis of hypothalamic-pituitary masses. Acute pituitary failure with severe electrolyte disturbances may precede oncologic diagnosis, and early multidisciplinary management combined with aggressive therapy can result in long-term remission.",
-      "journal": "Endocrinologia, diabetes y nutricion",
+      "pmid": "42801330",
+      "doi": "10.1093/dote/doag107",
+      "title": "Revisional surgery for delayed gastric conduit emptying after esophagectomy: the RESTORANT project.",
+      "abstract": "Delayed gastric conduit emptying (DGCE) is a debilitating functional complication after esophagectomy. Because of a lack of large-scale outcome data, this project evaluated surgical revisional strategies for refractory DGCE within a recently published mechanism-informed classification system. REvisional Surgery for delayed gasTRic conduit emptying (RESTORANT) was a multicentric, retrospective cohort study including adult patients undergoing revisional surgery for DGCE from January 1, 2015, to December 31, 2024, across 26 high-volume centers that performed 11,807 esophagectomies during this period. Patients were eligible irrespective of the date of their index esophagectomy. Interventions were stratified into Class 1 (pylorus-related, C1), Class 2 (conduit-related, C2), and Class 3 (hiatus-related/paraconduit hernia, C3), with class assigned retrospectively according to the revisional procedure performed. The primary endpoint was reported symptom resolution. A total of 196 patients underwent 263 surgical interventions for DGCE. Sustained symptom relief was comparable across all classes: C1 (47.2%), C2 (58.2%), and C3 (63.9%; P\u2009=\u20090.165). For C1, pyloroplasty (47.6%) and Roux-en-Y diversion (46.7%) showed similar efficacy. In C2, conduit replacement (75.0%) and remodeling (61.3%) were significantly more effective than simple mobilization (50.0%; P\u2009=\u20090.035). For C3, paraconduit hernia repair achieved higher resolution than crural division (65.8% vs. 47.1%). The overall complication rate was 32.7%, with significantly higher major morbidity and mortality in C2 (20.0% and 3.6%) compared with C3 (13.4% and 1.7%) and C1 (16.7% and 2.8%, P\u2009=\u20090.047). Multivariable analysis identified no independent predictors of surgical success but was limited by heterogeneity and sample size. RESTORANT provides the first multicentric analysis of surgical DGCE repair. While symptom resolution is achievable across all classes, C2 interventions carry increased risks. These findings may help structure future prospective audits.",
+      "journal": "Diseases of the esophagus : official journal of the International Society for Diseases of the Esophagus",
       "year": "2026",
       "publication_types": [
-        "Case Reports",
-        "Journal Article"
+        "Journal Article",
+        "Multicenter Study"
       ]
     },
     {
-      "pmid": "42794158",
-      "doi": "10.3390/children13091138",
-      "title": "Acute Neurological Deterioration in a Child with Shunt-Dependent Post-Hemorrhagic Hydrocephalus: A Case Report.",
-      "abstract": "Post-hemorrhagic hydrocephalus (PHH) is a serious neurological sequela of severe intraventricular hemorrhage (IVH) in premature infants and remains one of the leading indications for ventriculoperitoneal (VP) shunt placement. Evaluating possible VP shunt-related complications can be challenging because clinical manifestations are often nonspecific, neuroimaging may initially appear unchanged, and microbiological cultures may remain negative. We report the case of a 19-month-old male born at 28 weeks' gestation who developed Grade IV germinal matrix/intraventricular hemorrhage with bilateral intraparenchymal extension, early periventricular cystic leukomalacia, and post-hemorrhagic communicating hydrocephalus requiring multiple cerebrospinal fluid diversion procedures culminating in long-term VP shunt dependence. His medical history was notable for recurrent neonatal meningitis, secondary epilepsy with previous episodes of status epilepticus, secondary adrenal insufficiency, and severe global developmental delay. He presented with fever, recurrent coffee-ground vomiting, abdominal distension, progressive lethargy, reduced responsiveness, and localized erythematous swelling over the cranial VP shunt reservoir, raising concern for possible shunt-related pathology. During hospitalization, he deteriorated with status epilepticus and respiratory failure, with clinical concern for increased intracranial pressure, requiring admission to the Pediatric Intensive Care Unit (PICU). Laboratory investigations demonstrated leukocytosis, elevated C-reactive protein, cerebrospinal fluid pleocytosis, markedly elevated CSF protein, and CSF glucose of 2.0 mmol/L, for which a paired serum glucose value was unavailable, while repeated blood, urine, wound, and CSF cultures remained negative. Initial computed tomography (CT) demonstrated no significant interval change in the chronic hydrocephalus despite progressive neurological deterioration; however, serial neuroimaging later revealed progressive bilateral extra-axial fluid collections with radiological features suggestive of an evolving subacute subdural hemorrhage. The patient was managed with empirical broad-spectrum intravenous antibiotics, aggressive seizure control, stress-dose corticosteroids, respiratory support, and continuous multidisciplinary monitoring. His neurological and respiratory status subsequently improved, and he returned to his pre-admission neurological baseline before discharge with planned further evaluation at a tertiary pediatric neurosurgical center. This case highlights the diagnostic uncertainty surrounding acute neurological deterioration in a child with shunt-dependent PHH. VP shunt-related infection or malfunction remained important but unconfirmed diagnostic considerations, alongside competing or potentially overlapping contributors including status epilepticus, evolving extra-axial collections, respiratory infection, and endocrine or metabolic decompensation. No single etiology was definitively established. The case emphasizes the importance of serial neurological assessment, consideration of alternative diagnoses, repeat neuroimaging, and multidisciplinary evaluation when initial investigations do not establish the cause of deterioration.",
-      "journal": "Children (Basel, Switzerland)",
+      "pmid": "42774794",
+      "doi": "10.1093/jscr/rjag807",
+      "title": "Adrenal myelolipoma with severe hemorrhage: a case report.",
+      "abstract": "Adrenal masses are identified with abdominal imaging, most of them are benign and nonfunctioning. They are typically managed conservatively; however, large lesions may present with complications requiring urgent intervention. We present a case of a 65-year-old male with right flank pain found to have a rapidly enlarging hemorrhagic right adrenal mass measuring 15.4\u2009\u00d7\u200913.1\u2009\u00d7\u200917.9\u00a0cm with mixed fat and soft tissue components. Hormonal evaluation was negative for a functional adrenal tumor, though malignancy could not be excluded due to ongoing hemorrhage and lesion size. The patient required blood transfusion and open adrenalectomy with en bloc right colectomy. The mass was densely adherent to surrounding structures with significant clot burden. Final pathology confirmed an adrenal myelolipoma composed of mature adipose tissue and tri-lineage hematopoietic elements with extensive intra-tumoral hemorrhage and necrosis. This case highlights the importance of prompt surgical management of large hemorrhagic adrenal masses.",
+      "journal": "Journal of surgical case reports",
       "year": "2026",
       "publication_types": [
         "Case Reports",
@@ -271,91 +159,55 @@
       ]
     },
     {
-      "pmid": "42798443",
-      "doi": "10.3389/fpain.2026.1903789",
-      "title": "Pain profiles in pancreatic cancer and chronic pancreatitis: a multicenter cross-sectional analysis.",
-      "abstract": "Abnormal pain processing has been associated with impaired patient-reported outcomes (PROMs) in chronic pancreatitis (CP), but its clinical relevance in pancreatic ductal adenocarcinoma (PDAC) remains unclear. We investigated the association between P-QST-defined hyperalgesia and pain-related, psychological, and quality-of-life outcomes in patients with painful PDAC and compared these associations with CP. This multicenter cross-sectional analysis included patients with painful CP and PDAC at five tertiary referral hospitals in Denmark, Germany and the USA. Based on the results of pancreatic quantitative sensory testing (P-QST), patients were classified into three subgroups according to hyperalgesia status: no hyperalgesia, reflecting normal pain processing; segmental hyperalgesia at the pancreatic dermatome, suggesting abnormal spinal pain processing; widespread hyperalgesia, indicative of pathological pain processing across the entire neuraxis. PROMs included the Brief Pain Inventory (BPI), Pain Catastrophizing Scale (PCS), Hospital Anxiety and Depression Scale (HADS), and EORTC QLQ-C30. Between-disease P-QST analyses were adjusted for age, sex, and regular opioid use. Exploratory disease-by-hyperalgesia interaction analyses assessed whether associations between hyperalgesia and selected PROMs differed between CP and PDAC. A total of 275 patients (153 CP, 122 PDAC) were enrolled. Hyperalgesia was present in 53.6% of patients with CP and 43.8% of patients with PDAC, with no statistically significant difference after multivariable adjustment (aOR 0.75, 95% CI 0.43-1.33; p\u2009=\u20090.327). Patients with CP reported greater pain intensity (p\u2009=\u20090.027), pain interference (p\u2009=\u20090.049), and pain catastrophizing (p\u2009=\u20090.034) than patients with PDAC. Within the PDAC cohort, hyperalgesia was not associated with consistent differences in pain intensity, pain interference, catastrophizing, anxiety, or quality-of-life outcomes. However, formal interaction analysis demonstrated that the association between hyperalgesia and BPI pain interference differed between PDAC and CP (interaction \u03b2=1.61, 95% CI 0.27-2.95; p\u2009=\u20090.018). Although altered pain processing was frequent in painful PDAC, its association with patient-reported outcomes differed from that observed in CP. In particular, hyperalgesia showed a disease-specific relationship with pain-related functional impairment. These findings suggest that the clinical meaning of P-QST-defined hyperalgesia in PDAC cannot simply be inferred from CP and support further PDAC-specific studies linking pain phenotype to patient-reported burden and treatment response and pain management approaches might not be transferable across diseases.",
-      "journal": "Frontiers in pain research (Lausanne, Switzerland)",
+      "pmid": "42777813",
+      "doi": "10.1016/j.wneu.2026.125362",
+      "title": "The value of the modified Knosp grade in pituitary adenoma surgery.",
+      "abstract": "Cavernous sinus invasion in pituitary adenomas, nowadays categorized with the modified Knosp grade, is strongly correlated with incomplete resection, lower rates of biochemical remission, and increased risk of recurrence. The aim of this study was to apply the modified KG to our institutional pituitary surgery cohort and to determine its association with gross total resection, serving as a contemporary external validation with an emphasis on interinstitutional reproducibility. Prospectively collected data between 2011 and 2024 of patients with pure transsphenoidal endoscopic pituitary surgery in our tertiary academic referral center was analyzed. Uni- and multivariate regression models were applied to identify predictors for gross total resection. A total of 482 patients were included in the study. Gross total resection was achieved in 69% of patients (grade 0: 97%, grade 1: 82%, grade 2: 79%, grade 3A: 45%, grade 3B: 35%, and grade 4: 7%). Multivariate logistic regression model showed that the modified Knosp grade remained the strongest independent predictor of achieving gross total resection. In our cohort, the modified Knosp grade served as a reliable predictor of achieving gross total resection in pituitary adenoma surgery. The modification of Knosp grade 3 into 3A and 3B offers clear prognostic insights, since grade 3B demonstrates a significantly higher rate of incomplete resection. These findings serve as valuable information for determining treatment strategy and preoperative counseling for patients undergoing pituitary surgery.",
+      "journal": "World neurosurgery",
       "year": "2026",
       "publication_types": [
         "Journal Article"
       ]
     },
     {
-      "pmid": "42798437",
-      "doi": "10.3389/fnins.2026.1890235",
-      "title": "Comparative efficacy of neuromodulation techniques for Alzheimer's disease: a systematic review and network meta-analysis of randomized controlled trials.",
-      "abstract": "Neuromodulation techniques (NMTs) have shown potential therapeutic value in Alzheimer's disease (AD), but the comparative efficacy of different modalities remains unclear. This study aimed to systematically compare and rank available NMTs to identify their relative benefits across cognitive, functional, and neuropsychiatric outcomes. To evaluate and rank the efficacy of NMTs in improving cognitive function, activities of daily living (ADLs), and neuropsychiatric symptoms in AD patients, thereby providing evidence-based guidance for clinical intervention strategies. English-language literature was systematically searched in PubMed, Web of Science, Cochrane Library, and EMBASE from database inception to February 2026. Inclusion criteria were randomized controlled trials (RCTs) of AD patients aged \u226518\u202fyears. Interventions included repetitive transcranial magnetic stimulation (rTMS), transcranial alternating current stimulation (tACS), transcranial direct current stimulation (tDCS), photobiomodulation (PBM), transcutaneous electrical stimulation (TES), transcranial ultrasound stimulation (TUS), transcranial pulse stimulation (TPS), deep brain stimulation (DBS), and sham stimulation (Sham). Outcome measures included Mini-Mental State Examination (MMSE), Montreal Cognitive Assessment (MoCA), Alzheimer' s Disease Assessment Scale-Cognitive Subscale (ADAS-Cog), Alzheimer' s Disease Cooperative Study-Activities of Daily Living (ADCS-ADL), Boston Naming Test (BNT), Neuropsychiatric Inventory (NPI), and Geriatric Depression Scale (GDS). Data extraction and risk-of-bias assessment followed Cochrane guidelines. Network meta-analysis (NMA) was conducted in Stata 17.0, with effect sizes ranked by the surface under the cumulative ranking curve (SUCRA). A total of 36 RCTs involving 1,445 patients were included in the analysis. Compared with Sham, TPS significantly improved MMSE (MD\u202f=\u202f3.92, 95% CI: 1.57 to 6.35; SUCRA\u202f=\u202f97.50%), MoCA (MD\u202f=\u202f4.99, 95% CI: 2.26 to 7.72; SUCRA\u202f=\u202f69.25%), and BNT scores (MD\u202f=\u202f4.02, 95% CI: 1.81 to 6.23; SUCRA\u202f=\u202f81.8%). rTMS also showed favorable effects on ADAS-Cog scores (MD\u202f=\u202f-11.10, 95% CI: -14.51 to -7.71; SUCRA\u202f=\u202f91.00%). Regarding activities of daily living, TES ranked highest on the ADCS-ADL scale (SUCRA\u202f=\u202f71.00%). In terms of neuropsychiatric symptoms, TPS achieved the highest ranking for improving NPI scores (SUCRA\u202f=\u202f92.3%), whereas tACS showed the best performance on GDS scores (SUCRA\u202f=\u202f69.5%). Neuromodulation interventions demonstrated domain-specific benefits in AD, with no single approach showing universal superiority. TPS demonstrated the greatest potential for improving global cognitive outcomes, while rTMS showed advantages in ADAS-Cog performance. Nevertheless, limited sample sizes, heterogeneous stimulation protocols, and insufficient long-term evidence restrict the generalizability of current findings. Future multicenter RCTs with standardized protocols and prolonged follow-up are needed to confirm these results and guide clinical implementation. PROSPERO, CRD420261364193.",
-      "journal": "Frontiers in neuroscience",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Systematic Review"
-      ]
-    },
-    {
-      "pmid": "42788146",
-      "doi": "10.7759/cureus.115173",
-      "title": "A Giant Adenomatoid Tumor of the Adrenal Gland: A Report of a Rare and Interesting Case.",
-      "abstract": "Adenomatoid tumor (AT) is a rare benign mesothelial neoplasm that typically arises in the genital tract. Adrenal involvement is exceptionally uncommon, with fewer than 50 cases reported in the literature. Because of its nonspecific clinical and radiological features, preoperative diagnosis is challenging and malignancy is often suspected. We report the case of a 48-year-old man in whom a left adrenal mass was incidentally discovered during evaluation for renal colic. Hormonal assessment demonstrated a non-functioning adrenal lesion. Computed tomography and magnetic resonance imaging revealed a large, well-circumscribed 12-cm heterogeneous mass with predominant cystic degeneration, thick septations, and intralesional calcifications, raising suspicion of a malignant adrenal neoplasm. The patient underwent open left adrenalectomy. Gross examination showed a well-defined yellowish tumor with extensive cystic changes and calcifications. Histologically, the lesion consisted of anastomosing cystic spaces lined by bland flattened to cuboidal cells, associated with lymphoid aggregates, fibrosis, calcifications, and focal ossification. Immunohistochemistry demonstrated strong positivity for CK7, calretinin, WT1, and D2-40, confirming mesothelial differentiation, while CD31 and CD34 were negative. These findings established the diagnosis of adrenal AT. The postoperative course was uneventful, and no recurrence has been observed during follow-up. Adrenal AT is a rare benign lesion that may mimic malignant adrenal neoplasms, particularly when large and cystic. Histopathological and immunohistochemical examination remains essential for definitive diagnosis. Complete surgical excision is curative and associated with an excellent prognosis.",
-      "journal": "Cureus",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42798430",
-      "doi": "10.3389/fmed.2026.1932798",
-      "title": "Toward visualized pathophenotyping: a multimodal imaging-guided conceptual framework for chronic low back pain.",
-      "abstract": "Chronic low back pain (CLBP) remains a leading cause of disability, yet many current interventions are limited by operator dependence and an inability to target deep pathophysiological drivers. This Perspective proposes Visualized Pathophenotyping, a conceptual precision paradigm that integrates multimodal imaging to characterize patient-specific deep structural and perfusion abnormalities and guide targeted interventions. The framework comprises three pillars: (1) precise assessment using shear wave elastography and infrared thermography or laser Doppler flowmetry to define mechanical and ischemic phenotypes; (2) ultrasound-guided deep mechanical stimulation for accurate targeting of fascial adhesions and myofascial trigger points; and (3) phenotype-specific intelligent monitoring with virtual/augmented reality and wearable AI to sustain tissue remodeling and prevent recurrence. Emerging evidence from randomized trials and meta-analyses suggests that visualization-guided approaches yield superior short-term pain relief and functional improvement compared with blind techniques. Digital therapeutics may enhance adherence and some functional outcomes, although broader biopsychosocial effects remain to be confirmed. By shifting CLBP management from operator-dependent procedures toward objective, data-driven care, this hypothesis-generating framework may reduce recurrence, minimize opioid reliance, and improve scalability, pending validation through prospective multicenter trials of diagnostic accuracy, clinical utility, and cost-effectiveness.",
-      "journal": "Frontiers in medicine",
+      "pmid": "42771717",
+      "doi": "10.1080/08998280.2026.2719087",
+      "title": "PTHrP-mediated hypercalcemia in metastatic adrenocortical carcinoma mimicking pheochromocytoma: a\u00a0diagnostic challenge.",
+      "abstract": "Humoral hypercalcemia of malignancy is a paraneoplastic syndrome mediated by parathyroid hormone-related peptide (PTHrP). Adrenal masses may present a diagnostic challenge when clinical, biochemical, and imaging findings overlap with endocrine tumors such as pheochromocytoma. We report an 80-year-old man presenting with severe hypercalcemia, normal phosphate levels, elevated PTHrP, and suppressed intact parathyroid hormone. Imaging revealed an 8.8\u2009cm heterogeneous left adrenal mass with hepatic and osseous lesions along with enlarged preauricular lymph nodes, suggestive of metastatic disease. Discordant catecholamine testing raised concern for pheochromocytoma; however, biopsy confirmed adrenocortical carcinoma. This case highlights the importance of integrating biochemical, radiological, and histopathological data in evaluating adrenal masses with atypical presentations. PTHrP-mediated hypercalcemia is a rare presentation of adrenocortical carcinoma.Large heterogeneous adrenal masses with metastasis should raise suspicion of malignancy.Normal plasma metanephrine levels effectively exclude pheochromocytoma despite abnormal urine results.Pheochromocytoma must be ruled out before adrenal biopsy to avoid catecholamine-crisis.Definitive management of hypercalcemia of malignancy requires treatment of underlying tumors.",
+      "journal": "Proceedings (Baylor University. Medical Center)",
       "year": "2026",
       "publication_types": [
         "Journal Article"
       ]
     },
     {
-      "pmid": "42793791",
-      "doi": "10.3390/diagnostics16183006",
-      "title": "Adrenocortical Carcinoma: An Exceptional Survival Span Across a Tailored Management.",
-      "abstract": "Adrenocortical carcinoma (ACC) represents a very rare (an incidence of 1-2 cases per million) and aggressive malignancy (an overall 5-year survival of 15%). Less than 15-20% of cases involve a single metastatic disease. In this presentation, we documented a most exceptional survival span in a case of ACC, between the female patient's age of 50 and the current age of 66. The subject underwent an open right adrenalectomy three times (at first diagnosis, after recurrence 2 years later, and, most recently, 15 years after the initial diagnosis amid a multi-visceral resection). She initially displayed Cushing syndrome, which remitted post-surgery. While the first pathological report established an adrenocortical adenoma, after relapse, low-grade ACC was confirmed and the first tumor mass was re-assessed as ACC based on a similar pathological profile. Following the second surgery and ACC recognition, she started mitotane therapy for 5 years (which she tolerated well, although she developed primary adrenal insufficiency). During this period, a single metastatic disease was detected at the pulmonary level, and she underwent a successful thoracic surgical resection of a 2.5 cm metastasis in the left inferior lobe (2 years after the second adrenalectomy). After this 5-year course of mitotane, the disease was stable, and a 4-year withdrawal period was followed by a relapse with local adrenal recurrence and growth of several lung nodules. Mitotane was re-started, and the en bloc resection included the right adrenal tumor (of 12 cm), right kidney, three liver segments, retro-hepatic inferior vena cava, and (partial) left renal vein. The reconstruction of the inferior vena cava required a Dacron graft of 12 cm in addition to a synthetic graft, which was placed between the left renal vein and the first graft. During surgery and in the following weeks, she presented with several episodes of acute adrenal insufficiency despite continued prompt replacement. A peak ACTH of 369 (Normal: 7.2-63.3) pg/mL was reached at one point. Renal function remained stable. In the meantime, she continued levothyroxine replacement (50 to 75 \u00b5g/day) for mitotane-induced primary hypothyroidism. Postoperative, low-grade ACC was confirmed with a Ki67 of 15%, as previously found. She re-started mitotane in month 3 and completely recovered following 9 months, while an abdominal CT scan confirmed no adrenal remnants. Further close surveillance was mandatory. A particular aspect involves the patient's options (personalized management), as she declined chemotherapy, immunotherapy or radiotherapy at any point in life and delayed the third adrenalectomy during the COVID-19 pandemic and early post-pandemic years. This case highlights an exceptional survival span across two decades with an ailment with a generally poor prognosis. Another particular aspect involves a complex multi-segmental resection, which requires a highly skilled surgical team; only a limited number of cases have previously been published, and, to the best of our knowledge, there is no previous data with respect to a third intervention after 15 years of surviving with ACC.",
-      "journal": "Diagnostics (Basel, Switzerland)",
+      "pmid": "42801324",
+      "doi": "10.1080/03008207.2026.2731155",
+      "title": "MST1 inhibition mitigates fat deposition in rotator cuff tears by modulating the WNT/\u03b2-catenin pathway.",
+      "abstract": "Fatty infiltration of the supraspinatus muscle following rotator cuff tear (RCT) is a major pathological factor leading to poor functional outcomes, yet effective treatments are lacking. The kinase mammalian Sterile 20-like kinase 1 (MST1) has been implicated in metabolic disorders, but its role in RCT-associated muscle steatosis remains unexplored. Using a murine RCT model, fatty infiltration was assessed via Oil Red O staining, triglyceride content, and expression of adipogenic markers. Fibro/adipogenic progenitors (FAPs) were isolated for in vitro mechanistic studies of MST1 on fatty infiltration. In vivo knockdown of MST1 was achieved via local lentiviral shRNA injection. Masson's trichrome staining and myogenic regulatory protein were used to evaluate muscle atrophy. MST1 expression was upregulated in the supraspinatus muscle post-RCT, correlating with progressive lipid accumulation. MST1 knockdown in FAPs impaired adipogenic differentiation, reducing lipid droplets and the expression of PPAR\u03b3 and FABP4. Mechanistically, MST1 depletion activated the WNT/\u03b2-catenin signaling pathway, and its inhibition reversed the anti-adipogenic effect. In vivo, MST1 knockdown attenuated fatty infiltration, suppressed the adipogenic program, and alleviated muscle atrophy in RCT mice. Our findings unveil a pivotal role for MST1 in driving fatty infiltration by regulating FAP adipogenesis via the WNT/\u03b2-catenin pathway. Targeted inhibition of MST1 represents a promising therapeutic strategy to mitigate muscle steatosis and alleviate muscle atrophy after RCT.",
+      "journal": "Connective tissue research",
       "year": "2026",
       "publication_types": [
         "Journal Article"
       ]
     },
     {
-      "pmid": "42787715",
-      "doi": "10.1016/j.tcr.2026.101435",
-      "title": "Pertrochanteric fracture in case of Sheehan syndrome: A rare case report.",
-      "abstract": "Sheehan's syndrome is caused by ischemic necrosis of the pituitary gland following hypo-perfusion to the pituitary gland. The prevalence is around 3.2% in women <40\u00a0years of age and is relatively common in developing countries. The diagnosis is made with the help of a suggestive obstetric history, clinical manifestations, laboratory findings of reduced hormone levels, and pertinent radiological features. The treatment is to replace the patient with deficient hormones and prevent the complications associated with it. We present the management of a patient with Sheehan's syndrome with pertrochanteric fracture due to the rarity of its presentation. The patient underwent the insertion of a proximal femur nail under closed reduction and achieved optimum results post operatively. As such no case reports with these findings have been documented in the literature or online sources.",
-      "journal": "Trauma case reports",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42774339",
-      "doi": "10.3389/frai.2026.1915569",
-      "title": "An interpretable machine learning framework using multi-phase computed tomography for differentiation of adrenal lipid-poor adenomas and pheochromocytomas.",
-      "abstract": "To develop and validate an interpretable machine learning (ML) framework that differentiates adrenal lipid-poor adenomas (LPAs) from pheochromocytomas (PHEOs) using radiomic features derived from multi-phase contrast-enhanced computed tomography (CECT). This retrospective study included 229 patients with pathologically confirmed adrenal tumours (132 LPAs, 97 PHEOs). Lesions were stratified into washout (absolute percentage washout [APW]\u202f>\u202f60%) and non-washout (APW\u202f\u2264\u202f60%) cohorts according to established criteria. We trained decision tree (DT), support vector machine (SVM), and logistic regression (LR) models using a predefined set of clinically relevant CT features. The inherently interpretable DT model was further dissected to revealr key discriminative features and its underlying decision logic. Model performance was evaluated using the area under the curve (AUC) with 95% confidence intervals. The DT model achieved excellent diagnostic performance, with an AUC of 0.977 (95% CI: 0.934-1.000) in the washout group and 0.983 (95% CI: 0.962-1.000) in the non-washout group. Feature importance analysis identified cystic degeneration as the most influential discriminator, followed by enhancement potential (EP) and baseline attenuation (CTu). The DT's hierarchical decision rules provided clear and clinically transparent pathways. This interpretable ML framework accurately distinguishes LPAs from PHEOs. The DT model strikes an optimal balance between high diagnostic accuracy and inherent interpretability, offering a practical tool that may enhance clinical confidence when managing indeterminate adrenal lesions.",
-      "journal": "Frontiers in artificial intelligence",
+      "pmid": "42801328",
+      "doi": "10.1093/dote/doag108",
+      "title": "Clinical significance and natural history of esophageal histologic inflammation without macroscopic findings in children.",
+      "abstract": "Routine esophageal biopsies during pediatric esophagogastroduodenoscopy (EGD) are recommended by current guidelines, even in the absence of macroscopic abnormalities; however, their clinical value remains uncertain. We conducted a retrospective review of all diagnostic EGDs performed at our institute between January 2019 and December 2021, a period during which esophageal biopsies were routinely obtained. Endoscopic findings and histologic results were analyzed to determine the diagnostic yield and clinical impact of biopsies in patients with a normal-appearing esophagus. A total of 1400 procedures were included, of which 1279 (91.3%) demonstrated a normal macroscopic esophagus. Among these, histological inflammation was identified in 73 cases (5.7%). However, only 27 cases (2.1%) were considered clinically significant. These included eosinophilic esophagitis in 7 patients (0.5%) and nonspecific esophagitis in 20 patients (1.6%), all of whom were treated with proton pump inhibitors. The remaining cases represented histological findings without clinical consequences during follow-up. To conclude, routine esophageal biopsies in children and adolescents with a normal-appearing esophagus during EGD appear to have a low diagnostic yield and limited impact on clinical management.",
+      "journal": "Diseases of the esophagus : official journal of the International Society for Diseases of the Esophagus",
       "year": "2026",
       "publication_types": [
         "Journal Article"
       ]
     },
     {
-      "pmid": "42774755",
-      "doi": "10.1016/j.jcte.2026.100458",
-      "title": "Growth hormone-releasing hormone, growth hormone, and neuroendocrine tumors.",
-      "abstract": "Neuroendocrine tumors (NETs) are known to produce growth hormone (GH) and growth hormone-releasing hormone (GHRH) leading to acromegaly. Ectopic production of these hormones can lead to ectopic acromegaly which is very rare. Ectopic acromegaly secondary to GHRH has been studied more extensively than GH-related ectopic acromegaly. Given the extreme rarity of these neoplasms, comprehensive guidelines for diagnosis and management of these NETs are currently lacking. This review summarizes the literature on clinical presentation, challenges in diagnosis and management of these NETs. The diagnosis of ectopic acromegaly is often difficult as clinical features do not differ from eutopic acromegaly, and we discuss herein when the clinical suspicion should be held high. GHRH serum concentrations are a useful diagnostic tool when ectopic production is suspected. Once the ectopic source is identified using imaging modalities including advanced molecular imaging, the choice of treatment is surgical resection of the respective NET. Other therapies include use of somatostatin receptor analogues and chemo- or immuno-therapies as an adjunct or in refractory cases.",
-      "journal": "Journal of clinical & translational endocrinology",
+      "pmid": "42801315",
+      "doi": "10.1080/14787210.2026.2740114",
+      "title": "Emerging therapies for candidozyma auris (Candida auris): current landscape and future directions.",
+      "abstract": "The multidrug-resistant fungal pathogen Candidozyma auris (Candida auris) has spread rapidly across healthcare systems worldwide, emerging as a critical threat to patient safety. With a limited antifungal armamentarium increasingly compromised by rising resistance, the development of novel therapeutic strategies is urgently needed. This review examines emerging therapies for C. auris, organized by clinical maturity and molecular target, evaluates their discovery pipelines, and outlines the limitations. We also discuss combination therapies and decolonization strategies as approaches for preventing and treating C. auris infections. C. auris continues to outpace the currently available therapeutic arsenal. The greatest near-term advances are likely to come from agents with novel mechanisms of action and from rational combination strategies. However, major translational barriers remain, including limited fungal-specific targets, pharmacokinetic challenges, and the gap between preclinical findings and clinical application. Progress will depend on integrating artificial intelligence-driven drug discovery, rational target selection, and optimized pharmacokinetic modeling to accelerate therapeutic development. Equally important is the development of effective decolonization strategies to interrupt healthcare transmission. Together, these advances could redefine C. auris treatment and address one of the most pressing challenges in contemporary medical mycology.",
+      "journal": "Expert review of anti-infective therapy",
       "year": "2026",
       "publication_types": [
         "Journal Article",
@@ -374,18 +226,6 @@
       ]
     },
     {
-      "pmid": "42798438",
-      "doi": "10.1093/omcr/omag130",
-      "title": "Rapid response to high-dose Anakinra in refractory SLE-associated Haemophagocytic Lymphohistiocytosis: a case report.",
-      "abstract": "Haemophagocytic Lymphohistiocytosis (HLH) causes life-threatening hyperinflammation and has conventionally been treated with glucocorticoids plus additional immunosuppression such as ciclosporin and anakinra. We describe the case of a 47-year-old female who presented to a DGH with HLH secondary to both Systemic Lupus Erythematosus (SLE) and Covid infection. Her disease relapsed despite an initial response to first-line treatment including glucocorticoids, ciclosporin, intravenous immunoglobulins (IVIG) and conventional doses of anakinra. She subsequently responded to a higher dose of anakinra, resulting in sustained remission. This case illustrates the potentially life-saving difference between conventional and higher anakinra doses in severe HLH- an observation that is consistent with other reported cases of HLH with different triggers. We argue, therefore, for high-dose anakinra to be used first-line in refractory HLH, given the high mortality of the disease, while also carefully monitoring for infections post-interleukin-1-blockade. This adds weight to the shifting national treatment paradigm in this direction.",
-      "journal": "Oxford medical case reports",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
       "pmid": "42751930",
       "doi": "10.5603/ep.112616",
       "title": "The association between abdominal muscle mass quantified by computed tomography and osteoporosis in postmenopausal women.",
@@ -397,11 +237,45 @@
       ]
     },
     {
-      "pmid": "42620427",
-      "doi": "10.1097/GOX.0000000000008034",
-      "title": "Successful Management of Postoperative Galactorrhea after Reduction Mammaplasty.",
-      "abstract": "Galactorrhea after reduction mammoplasty is a rare postoperative complication, usually associated with hormonal dysregulation or pituitary abnormalities. A 43-year-old woman with symptomatic macromastia underwent bilateral superomedial pedicle reduction mammoplasty. Three days postoperatively, she developed high-volume bilateral milky drainage through her surgical drains. Laboratory evaluation revealed elevated prolactin (96\u2009ng/mL; reference value 5-23\u2009ng/mL). Imaging demonstrated a partially empty sella without pituitary mass. Endocrinology initiated cabergoline therapy, resulting in suppression of prolactin and resolution of the galactorrhea. The patient's drains were maintained until the galactorrhea ceased, and she went on to heal well without complication. Galactorrhea after breast reduction surgery secondary to transient hyperprolactinemia is a rare but clinically significant complication. Prompt recognition and multidisciplinary management including drain maintenance, lactation suppression, and exclusion of prolactinoma are important steps in preventing wound healing complications and achieving optimal outcomes.",
-      "journal": "Plastic and reconstructive surgery. Global open",
+      "pmid": "42801326",
+      "doi": "10.1002/adhm.71771",
+      "title": "An ROS-Responsive CeO2-Selenium Nanozyme Mitigates Renal Injury via Coordinated Ferroptosis Inhibition and Inflammation Resolution.",
+      "abstract": "Acute kidney injury (AKI) and chronic kidney disease (CKD), despite distinct etiologies, share a common pathological axis characterized by reactive oxygen species (ROS) burst, ferroptosis activation, and sustained inflammation. Targeting this ROS-ferroptosis-inflammation cycle represents a promising therapeutic strategy; however, current nanoplatforms are limited by insufficient responsiveness and limited capacity to regulate shared pathological mechanisms across distinct renal disease models. Here, we develop an engineered ROS-responsive nanozyme by integrating diselenide-bridged organosilica, hyaluronic acid (HA)-modified cerium oxide (CeO2), and a selenium-containing diselenide framework. Under oxidative stress, MON@HA-CeO2 undergoes ROS-triggered disassembly, coupling HA-CeO2-mediated ROS scavenging with selenium-related GPX4 restoration to suppress lipid peroxidation, ferroptosis, and inflammatory amplification. In both glycerol-induced AKI and unilateral ureteral obstruction (UUO)-induced renal fibrosis models, the nanozyme significantly improves renal function and attenuates tissue injury, fibrosis, and inflammation. Overall, this work demonstrates a versatile strategy for targeting a shared pathological axis and provides a promising platform for the treatment of diverse renal diseases.",
+      "journal": "Advanced healthcare materials",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42788146",
+      "doi": "10.7759/cureus.115173",
+      "title": "A Giant Adenomatoid Tumor of the Adrenal Gland: A Report of a Rare and Interesting Case.",
+      "abstract": "Adenomatoid tumor (AT) is a rare benign mesothelial neoplasm that typically arises in the genital tract. Adrenal involvement is exceptionally uncommon, with fewer than 50 cases reported in the literature. Because of its nonspecific clinical and radiological features, preoperative diagnosis is challenging and malignancy is often suspected. We report the case of a 48-year-old man in whom a left adrenal mass was incidentally discovered during evaluation for renal colic. Hormonal assessment demonstrated a non-functioning adrenal lesion. Computed tomography and magnetic resonance imaging revealed a large, well-circumscribed 12-cm heterogeneous mass with predominant cystic degeneration, thick septations, and intralesional calcifications, raising suspicion of a malignant adrenal neoplasm. The patient underwent open left adrenalectomy. Gross examination showed a well-defined yellowish tumor with extensive cystic changes and calcifications. Histologically, the lesion consisted of anastomosing cystic spaces lined by bland flattened to cuboidal cells, associated with lymphoid aggregates, fibrosis, calcifications, and focal ossification. Immunohistochemistry demonstrated strong positivity for CK7, calretinin, WT1, and D2-40, confirming mesothelial differentiation, while CD31 and CD34 were negative. These findings established the diagnosis of adrenal AT. The postoperative course was uneventful, and no recurrence has been observed during follow-up. Adrenal AT is a rare benign lesion that may mimic malignant adrenal neoplasms, particularly when large and cystic. Histopathological and immunohistochemical examination remains essential for definitive diagnosis. Complete surgical excision is curative and associated with an excellent prognosis.",
+      "journal": "Cureus",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42751096",
+      "doi": "10.1155/cris/7531559",
+      "title": "A Case of Synchronous Laparoscopic Surgery for Sigmoid Colon Cancer Inaccessible by Colonoscopy and Left Adrenal Pheochromocytoma.",
+      "abstract": "We report the case of a 65-year-old man with sigmoid colon cancer who presented with left lower abdominal pain. Preoperative computed tomography (CT) revealed a tumor in the left adrenal gland. As the patient had no clinical symptoms suggestive of catecholamine excess, the lesion was initially suspected to be a left adrenal metastasis; however, endocrinological evaluation was performed to establish the differential diagnosis. According to the Endocrine Society Clinical Practice Guidelines, the patient was diagnosed with a left adrenal pheochromocytoma. To reduce overall surgical invasiveness and shorten the hospital stay, synchronous laparoscopic resection of the sigmoid colon cancer and the adrenal tumor was planned. The procedure was performed using five ports commonly utilized for left-sided colectomy, with an additional epigastric port, resulting in a total of six ports. Postoperatively, the patient developed adhesive small bowel obstruction, which resolved with conservative management, and he was discharged on postoperative day 19. Simultaneous laparoscopic resection of sigmoid colon cancer and left adrenal pheochromocytoma is extremely rare. The present case provides valuable insight suggesting that safe one-stage surgery may be feasible through meticulous perioperative planning and the use of a transperitoneal approach with a shared operative field. Further accumulation of similar cases is warranted to establish optimal treatment strategies.",
+      "journal": "Case reports in surgery",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42794158",
+      "doi": "10.3390/children13091138",
+      "title": "Acute Neurological Deterioration in a Child with Shunt-Dependent Post-Hemorrhagic Hydrocephalus: A Case Report.",
+      "abstract": "Post-hemorrhagic hydrocephalus (PHH) is a serious neurological sequela of severe intraventricular hemorrhage (IVH) in premature infants and remains one of the leading indications for ventriculoperitoneal (VP) shunt placement. Evaluating possible VP shunt-related complications can be challenging because clinical manifestations are often nonspecific, neuroimaging may initially appear unchanged, and microbiological cultures may remain negative. We report the case of a 19-month-old male born at 28 weeks' gestation who developed Grade IV germinal matrix/intraventricular hemorrhage with bilateral intraparenchymal extension, early periventricular cystic leukomalacia, and post-hemorrhagic communicating hydrocephalus requiring multiple cerebrospinal fluid diversion procedures culminating in long-term VP shunt dependence. His medical history was notable for recurrent neonatal meningitis, secondary epilepsy with previous episodes of status epilepticus, secondary adrenal insufficiency, and severe global developmental delay. He presented with fever, recurrent coffee-ground vomiting, abdominal distension, progressive lethargy, reduced responsiveness, and localized erythematous swelling over the cranial VP shunt reservoir, raising concern for possible shunt-related pathology. During hospitalization, he deteriorated with status epilepticus and respiratory failure, with clinical concern for increased intracranial pressure, requiring admission to the Pediatric Intensive Care Unit (PICU). Laboratory investigations demonstrated leukocytosis, elevated C-reactive protein, cerebrospinal fluid pleocytosis, markedly elevated CSF protein, and CSF glucose of 2.0 mmol/L, for which a paired serum glucose value was unavailable, while repeated blood, urine, wound, and CSF cultures remained negative. Initial computed tomography (CT) demonstrated no significant interval change in the chronic hydrocephalus despite progressive neurological deterioration; however, serial neuroimaging later revealed progressive bilateral extra-axial fluid collections with radiological features suggestive of an evolving subacute subdural hemorrhage. The patient was managed with empirical broad-spectrum intravenous antibiotics, aggressive seizure control, stress-dose corticosteroids, respiratory support, and continuous multidisciplinary monitoring. His neurological and respiratory status subsequently improved, and he returned to his pre-admission neurological baseline before discharge with planned further evaluation at a tertiary pediatric neurosurgical center. This case highlights the diagnostic uncertainty surrounding acute neurological deterioration in a child with shunt-dependent PHH. VP shunt-related infection or malfunction remained important but unconfirmed diagnostic considerations, alongside competing or potentially overlapping contributors including status epilepticus, evolving extra-axial collections, respiratory infection, and endocrine or metabolic decompensation. No single etiology was definitively established. The case emphasizes the importance of serial neurological assessment, consideration of alternative diagnoses, repeat neuroimaging, and multidisciplinary evaluation when initial investigations do not establish the cause of deterioration.",
+      "journal": "Children (Basel, Switzerland)",
       "year": "2026",
       "publication_types": [
         "Case Reports",
@@ -421,34 +295,82 @@
       ]
     },
     {
-      "pmid": "42777813",
-      "doi": "10.1016/j.wneu.2026.125362",
-      "title": "The value of the modified Knosp grade in pituitary adenoma surgery.",
-      "abstract": "Cavernous sinus invasion in pituitary adenomas, nowadays categorized with the modified Knosp grade, is strongly correlated with incomplete resection, lower rates of biochemical remission, and increased risk of recurrence. The aim of this study was to apply the modified KG to our institutional pituitary surgery cohort and to determine its association with gross total resection, serving as a contemporary external validation with an emphasis on interinstitutional reproducibility. Prospectively collected data between 2011 and 2024 of patients with pure transsphenoidal endoscopic pituitary surgery in our tertiary academic referral center was analyzed. Uni- and multivariate regression models were applied to identify predictors for gross total resection. A total of 482 patients were included in the study. Gross total resection was achieved in 69% of patients (grade 0: 97%, grade 1: 82%, grade 2: 79%, grade 3A: 45%, grade 3B: 35%, and grade 4: 7%). Multivariate logistic regression model showed that the modified Knosp grade remained the strongest independent predictor of achieving gross total resection. In our cohort, the modified Knosp grade served as a reliable predictor of achieving gross total resection in pituitary adenoma surgery. The modification of Knosp grade 3 into 3A and 3B offers clear prognostic insights, since grade 3B demonstrates a significantly higher rate of incomplete resection. These findings serve as valuable information for determining treatment strategy and preoperative counseling for patients undergoing pituitary surgery.",
-      "journal": "World neurosurgery",
+      "pmid": "42801331",
+      "doi": "10.1093/jvimsj/aalag219",
+      "title": "Idiopathic cholesterol pericarditis in a dog presenting with cardiac tamponade.",
+      "abstract": "A 7-year, 6-month-old, female neutered, Pug dog presented with lethargy, hyporexia, polydipsia, abdominal distension, and dyspnea. Point-of-care ultrasonography identified tricavitary effusions and cardiac tamponade. Pericardiocentesis yielded 83\u00a0mL of sanguineous scintillating fluid. Clinical examination, bloodwork, echocardiography, electrocardiography, thoracic and abdominal computed tomography scans, and pericardial fluid analysis including culture and sensitivity did not identify any cardiovascular, endocrine, neoplastic, or infectious causes of the pericardial effusion. Pericardial fluid analysis identified high cholesterol concentrations and numerous cholesterol crystals on cytology, supporting a diagnosis of cholesterol pericarditis. Subtotal pericardiectomy was performed 7\u00a0weeks later to address pericardial and pleural effusions. Histopathological pericardial biopsies identified pericarditis with no neoplastic tissue detected. A pleural port was placed 4\u00a0months later to manage recurrent pleural effusion. Elective euthanasia was performed 10\u00a0weeks later citing a compromised quality of life from increasingly frequent bouts of dyspnea. This is a case report of a dog with idiopathic cholesterol pericarditis presenting with cardiac tamponade.",
+      "journal": "Journal of veterinary internal medicine",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    },
+    {
+      "pmid": "42756607",
+      "doi": "10.7759/cureus.114713",
+      "title": "De Morsier Syndrome Associated With Megalocornea: Impact of Hormone Replacement Therapy on the Resolution of Neonatal Cholestasis.",
+      "abstract": "De Morsier syndrome, or septo-optic dysplasia (SOD), is a rare congenital malformation characterized by optic nerve hypoplasia, midline brain abnormalities, and pituitary hormone deficiencies. Neonatal presentation can be misleading, particularly when it manifests as cholestatic jaundice. We report the clinical, biochemical, and radiological evaluation of a two-month-old male infant admitted for persistent neonatal cholestatic jaundice, progressive weight faltering, and recurrent hypoglycemia. Slit-lamp examination, comprehensive endocrine workup, and brain magnetic resonance imaging (MRI) were performed to establish the diagnosis. Written informed consent was obtained from the patient's parents (or legal guardians) for publication of this case report and any accompanying images. Physical examination revealed horizontal nystagmus and bilateral megalocornea (diameter > 13 mm). Laboratory investigations showed cholestasis with normal gamma-glutamyl transferase (GGT) levels and recurrent hypoglycemia, which led to the diagnosis of combined anterior pituitary hormone deficiency (growth hormone, thyroid-stimulating hormone, and adrenocorticotropic hormone). Brain MRI confirmed the diagnosis by showing agenesis of the septum pellucidum, bilateral optic nerve hypoplasia, and an ectopic posterior pituitary gland. Targeted hormone replacement therapy with L-thyroxine (10 \u03bcg/kg/day) and hydrocortisone (5 mg/kg/day) led to a complete resolution of the cholestasis within three weeks, alongside blood glucose stabilization and weight gain. Neonatal cholestasis is a classic early manifestation of SOD due to impaired bile acid transporter maturation caused by endocrine deficits. Its association with megalocornea highlights the variability of embryonic anterior segment anomalies. Early diagnosis is vital to initiate prompt hormone therapy, ensure hepatic recovery, and optimize neurodevelopmental outcomes.",
+      "journal": "Cureus",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42795710",
+      "doi": "10.3390/jcm15186938",
+      "title": "Pheochromocytoma Presenting as Spontaneous Adrenal Hemorrhage in a Normotensive Patient: A Case Report.",
+      "abstract": "Background: Pheochromocytoma is a rare tumor of the adrenal medulla, often associated with hypertension, headache, diaphoresis, and palpitations, but presentations vary; some are silent until incidentally found or when complications develop. One rare complication is spontaneous adrenal hemorrhage, previously mainly found at autopsy, which can extend into the retroperitoneum, causing acute pain and mimicking emergencies. Imaging modalities like computed tomography are vital for detection, especially in acute cases, while magnetic resonance imaging provides greater tissue detail to identify tumors such as pheochromocytomas. If a functional adrenal tumor is suspected, biochemical tests for catecholamine excess are crucial for diagnosis and management. In this report, we present a case of pheochromocytoma that initially manifested with spontaneous adrenal hemorrhage without hypertension, thereby complicating and prolonging the diagnostic process. Case presentation: A previously healthy 34-year-old man presented with sudden, severe right-sided abdominal and flank pain, nausea, vomiting, and headache. He was normotensive but anemic and required a red blood cell transfusion. Initial computed tomography revealed a large hemorrhagic lesion in the right retroperitoneal space. The hematoma was managed conservatively. Magnetic resonance imaging confirmed subacute hematoma. Follow-up computed tomography showed gradual regression of the hematoma but persistence of an enhancing right adrenal lesion. Elevated plasma metanephrine and normetanephrine levels, together with positive iodine-123 metaiodobenzylguanidine imaging and preoperative computed tomography, supported the diagnosis of pheochromocytoma. After preoperative alpha-adrenergic blockade, laparoscopic right adrenalectomy was performed without complications. Histopathology confirmed a pheochromocytoma classified as moderately differentiated (GAPP), with a Ki-67index of 1-3%. Genetic testing showed no pathogenic variants in the analyzed genes associated with hereditary pheochromocytoma or paraganglioma syndromes. Conclusions: Spontaneous adrenal hemorrhage may be the first sign of pheochromocytoma, even in normotensive patients. Acute bleeding can obscure the tumor. Persistent adrenal lesions after hematoma regression should be monitored with computed tomography or magnetic resonance imaging, along with biochemical and functional evaluation, to avoid serious complications or death.",
+      "journal": "Journal of clinical medicine",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42787715",
+      "doi": "10.1016/j.tcr.2026.101435",
+      "title": "Pertrochanteric fracture in case of Sheehan syndrome: A rare case report.",
+      "abstract": "Sheehan's syndrome is caused by ischemic necrosis of the pituitary gland following hypo-perfusion to the pituitary gland. The prevalence is around 3.2% in women <40\u00a0years of age and is relatively common in developing countries. The diagnosis is made with the help of a suggestive obstetric history, clinical manifestations, laboratory findings of reduced hormone levels, and pertinent radiological features. The treatment is to replace the patient with deficient hormones and prevent the complications associated with it. We present the management of a patient with Sheehan's syndrome with pertrochanteric fracture due to the rarity of its presentation. The patient underwent the insertion of a proximal femur nail under closed reduction and achieved optimum results post operatively. As such no case reports with these findings have been documented in the literature or online sources.",
+      "journal": "Trauma case reports",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42756625",
+      "doi": "10.3389/fsurg.2026.1883619",
+      "title": "Giant adrenal pseudocyst with unclear preoperative origin: a case report and literature review.",
+      "abstract": "Adrenal cysts are relatively rare, and most are nonfunctional and lack specific clinical manifestations, often being discovered incidentally during imaging examinations. For giant adrenal cysts with a maximum diameter exceeding 10\u2005cm, especially when accompanied by degenerative changes such as hemorrhage, fibrosis, and calcification, compression of adjacent organs and obscuration of anatomical planes may increase the difficulty of determining the origin preoperatively, and they may even be misdiagnosed as pancreatic, renal, or other retroperitoneal cystic lesions. This article reports one case of a giant adrenal pseudocyst with unclear origin before surgery and discusses its diagnostic and surgical management strategies. A 36-year-old woman was admitted after a left retroperitoneal mass was incidentally discovered during trauma evaluation one month earlier. Contrast-enhanced CT showed a cystic low-density lesion measuring approximately 108\u2005mm\u2009\u00d7\u2009102\u2005mm\u2009\u00d7\u2009108\u2005mm in the left retroperitoneal space, with marginal calcification. The left adrenal gland was not distinctly identified, and the lesion was closely related to the stomach, spleen, and pancreas. The organ of origin remained uncertain preoperatively, with cystic lesions of adrenal, pancreatic, or gastric origin considered in the differential diagnosis. After multidisciplinary discussion, laparoscopic resection was performed. Intraoperatively, the lesion was densely adherent to surrounding organs and its origin was difficult to determine; resection was completed after decompression, and the residual cyst wall on the splenic side was treated with electrocautery. Postoperative pathology confirmed a left adrenal pseudocyst with calcification. The patient recovered smoothly, and no complications were observed during follow-up. Giant complex adrenal pseudocysts may mimic other left retroperitoneal cystic lesions, and the diagnostic difficulty lies in determining the organ of origin. For giant retroperitoneal cystic lesions of unclear origin, adrenal origin should be included as an important differential diagnosis, and comprehensive decisions should be made based on imaging, endocrine evaluation, and multidisciplinary discussion; if no safe dissection plane exists intraoperatively, individualized management should be implemented.",
+      "journal": "Frontiers in surgery",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42793791",
+      "doi": "10.3390/diagnostics16183006",
+      "title": "Adrenocortical Carcinoma: An Exceptional Survival Span Across a Tailored Management.",
+      "abstract": "Adrenocortical carcinoma (ACC) represents a very rare (an incidence of 1-2 cases per million) and aggressive malignancy (an overall 5-year survival of 15%). Less than 15-20% of cases involve a single metastatic disease. In this presentation, we documented a most exceptional survival span in a case of ACC, between the female patient's age of 50 and the current age of 66. The subject underwent an open right adrenalectomy three times (at first diagnosis, after recurrence 2 years later, and, most recently, 15 years after the initial diagnosis amid a multi-visceral resection). She initially displayed Cushing syndrome, which remitted post-surgery. While the first pathological report established an adrenocortical adenoma, after relapse, low-grade ACC was confirmed and the first tumor mass was re-assessed as ACC based on a similar pathological profile. Following the second surgery and ACC recognition, she started mitotane therapy for 5 years (which she tolerated well, although she developed primary adrenal insufficiency). During this period, a single metastatic disease was detected at the pulmonary level, and she underwent a successful thoracic surgical resection of a 2.5 cm metastasis in the left inferior lobe (2 years after the second adrenalectomy). After this 5-year course of mitotane, the disease was stable, and a 4-year withdrawal period was followed by a relapse with local adrenal recurrence and growth of several lung nodules. Mitotane was re-started, and the en bloc resection included the right adrenal tumor (of 12 cm), right kidney, three liver segments, retro-hepatic inferior vena cava, and (partial) left renal vein. The reconstruction of the inferior vena cava required a Dacron graft of 12 cm in addition to a synthetic graft, which was placed between the left renal vein and the first graft. During surgery and in the following weeks, she presented with several episodes of acute adrenal insufficiency despite continued prompt replacement. A peak ACTH of 369 (Normal: 7.2-63.3) pg/mL was reached at one point. Renal function remained stable. In the meantime, she continued levothyroxine replacement (50 to 75 \u00b5g/day) for mitotane-induced primary hypothyroidism. Postoperative, low-grade ACC was confirmed with a Ki67 of 15%, as previously found. She re-started mitotane in month 3 and completely recovered following 9 months, while an abdominal CT scan confirmed no adrenal remnants. Further close surveillance was mandatory. A particular aspect involves the patient's options (personalized management), as she declined chemotherapy, immunotherapy or radiotherapy at any point in life and delayed the third adrenalectomy during the COVID-19 pandemic and early post-pandemic years. This case highlights an exceptional survival span across two decades with an ailment with a generally poor prognosis. Another particular aspect involves a complex multi-segmental resection, which requires a highly skilled surgical team; only a limited number of cases have previously been published, and, to the best of our knowledge, there is no previous data with respect to a third intervention after 15 years of surviving with ACC.",
+      "journal": "Diagnostics (Basel, Switzerland)",
       "year": "2026",
       "publication_types": [
         "Journal Article"
       ]
     },
     {
-      "pmid": "42766020",
-      "doi": "10.1007/s00393-026-01867-5",
-      "title": "[Management of emergencies in rheumatology].",
-      "abstract": "Emergencies in rheumatology can present with a\u00a0wide range of symptoms and findings, often requiring rapid diagnostics and treatment to prevent permanent damage or avert life-threatening conditions. This article aims to provide an overview of important differential diagnoses that should be considered in rheumatologic and/or immunosuppressed patients presenting in an emergency setting. It covers conditions such as septic arthritis, giant cell arteritis, acute adrenal insufficiency, the differential diagnosis of respiratory symptoms and acute kidney injury, macrophage activation syndrome, and catastrophic antiphospholipid syndrome. In this article, the clinical presentation, diagnostic approach, and acute management of these conditions are discussed and explained. Notfallsituationen in der Rheumatologie k\u00f6nnen sich mit einem breiten Spektrum an Symptomen und Befunden \u00e4u\u00dfern und bed\u00fcrfen h\u00e4ufig einer raschen Diagnostik und Therapie, um bleibende Sch\u00e4den zu vermeiden oder eine vitale Bedrohung abzuwenden. Dieser Artikel gibt einen \u00dcberblick \u00fcber wichtige Differenzialdiagnosen, an die bei rheumatologischen und/oder immunsupprimierten Patient:innen bei einer notfallm\u00e4\u00dfigen Vorstellung gedacht werden muss. Es werden Erkrankungen, wie die septische Arthritis, Riesenzellarteritis, akute Nebennierenrindeninsuffizienz, die Differenzialdiagnostik von respiratorischen Symptomen und einer akuten Nierensch\u00e4digung, das Makrophagenaktivierungssyndrom und das katastrophale Antiphospholipidsyndrom beleuchtet. Hierbei werden die Symptomatik, Diagnostik und akute Therapie behandelt und erl\u00e4utert.",
-      "journal": "Zeitschrift fur Rheumatologie",
-      "year": "2026",
-      "publication_types": [
-        "English Abstract",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42771567",
-      "doi": "10.1159/hrp/adaag029",
-      "title": "A Century of Growth Hormone from Pierre Marie (1886) to Creutzfeldt-Jakob Disease (1985).",
-      "abstract": "The century from1886 to 1985 was auspicious for those with an interest in growth. A clinically recognized overgrowth syndrome was named acromegaly. It explained some earlier described patients and even distant historical figures. Quickly this clinical syndrome was tied to a pituitary tumor and therapy from a group of innovative neurosurgeons. Contemporaneously, failure of the pituitary was recognized and noted to be a cause of severe growth failure and infantilism. Experimentally, new techniques were developed to hypophysectomize animals from tadpoles to rats as well as to learn to extract, purify and replace the missing pituitary hormones with increasingly pure and potent extracts from bovine pituitaries. These developments led to the concept of species specificity for growth hormone (GH), that is, only primate GH was biologically effective in primates, as well as the active core hypothesis which postulated that all species had GH molecules with active centers for their pleotropic effects and that unmasking them might make portions of the animal GH molecules active in man. In the end that has not proven correct, but became moot given the explosion of the molecular biology era with its virtually unlimited supply of recombinant hGH. Human (primate) GH is species specific and to date the active core hypothesis which might have provided biologically effective peptides, derived from animal or human GHs, and likely to be synthesized with the techniques available at that time (mid-1960s) were never required given that rhGH was approved for clinical use in those with hypopituitarism.",
-      "journal": "Hormone research in paediatrics",
+      "pmid": "42774755",
+      "doi": "10.1016/j.jcte.2026.100458",
+      "title": "Growth hormone-releasing hormone, growth hormone, and neuroendocrine tumors.",
+      "abstract": "Neuroendocrine tumors (NETs) are known to produce growth hormone (GH) and growth hormone-releasing hormone (GHRH) leading to acromegaly. Ectopic production of these hormones can lead to ectopic acromegaly which is very rare. Ectopic acromegaly secondary to GHRH has been studied more extensively than GH-related ectopic acromegaly. Given the extreme rarity of these neoplasms, comprehensive guidelines for diagnosis and management of these NETs are currently lacking. This review summarizes the literature on clinical presentation, challenges in diagnosis and management of these NETs. The diagnosis of ectopic acromegaly is often difficult as clinical features do not differ from eutopic acromegaly, and we discuss herein when the clinical suspicion should be held high. GHRH serum concentrations are a useful diagnostic tool when ectopic production is suspected. Once the ectopic source is identified using imaging modalities including advanced molecular imaging, the choice of treatment is surgical resection of the respective NET. Other therapies include use of somatostatin receptor analogues and chemo- or immuno-therapies as an adjunct or in refractory cases.",
+      "journal": "Journal of clinical & translational endocrinology",
       "year": "2026",
       "publication_types": [
         "Journal Article",
@@ -456,12 +378,12 @@
       ]
     },
     {
-      "pmid": "42791427",
-      "doi": "10.1007/s10143-026-04510-8",
-      "title": "Clinical characteristics and prognostic outcomes of silent corticotroph versus gonadotroph adenomas: A 603-case single-center cohort study.",
-      "abstract": "Silent corticotroph adenomas (SCAs) and silent gonadotroph adenomas (SGAs) are subtypes of non-functioning pituitary adenomas (NFPAs).However, studies comparing SCAs and SGAs are scarce, and their differences in clinical features, behavior, and prognosis are not well understood. This retrospective cohort study included 603 NFPA patients (188 SCAs, 415 SGAs) who underwent surgery at Beijing Tiantan Hospital between 2020 and 2025. Data were collected to compare features between groups, and Cox models identified predictors of postoperative radiological progression/recurrence. A nomogram was developed and evaluated using ROC, calibration, and decision curve analysis. SCAs were more common in younger women, while SGAs predominated in men. SCAs had larger tumor size (29.7\u2009\u00b1\u200910.8 mm vs. 27.9\u2009\u00b1\u20099.3 mm, P\u2009=\u20090.043), more cavernous sinus invasion (69% vs. 41%, P\u2009<\u20090.001), and more intratumoral hemorrhage (10.1% vs. 2.9%, P\u2009<\u20090.001) compared to SGAs, but a lower gross total resection rate (GTR) (86.7% vs. 92.5%, P\u2009=\u20090.022). Postoperative venous thromboembolism (VTE) was more frequent in SCAs (16% vs. 9.6%, P\u2009=\u20090.025). Multivariate Cox analysis identified distinct recurrence predictors: for SCAs, younger age, recurrent tumors, subtotal resection, and firm consistency increased recurrence risk; for SGAs, larger tumor size, subtotal resection, firm consistency, and Ki-67\u2009\u2265\u20093% were predictive. The nomograms showed good apparent discrimination, and bootstrap internal validation demonstrated that both models retained good discriminative ability after correction for optimism. The AUCs for 2- and 4-year radiological progression/recurrence prediction were 0.934 and 0.914 for SCAs, and 0.898 and 0.882 for SGAs, respectively. Calibration and decision curve analyses suggested acceptable model performance within this cohort; however, external validation is required before clinical application. SCAs and SGAs differ in demographics, tumor behavior, and postoperative outcomes. SCAs are more invasive with lower GTR and higher VTE risk, while SGAs are firmer and more likely to cause pituitary dysfunction. The recurrence model supports individualized follow-up and early identification of high-risk patients.",
-      "journal": "Neurosurgical review",
-      "year": "2026",
+      "pmid": "41949969",
+      "doi": "10.62438/tunismed.v103i11.5677",
+      "title": "Management of Adrenal Incidentalomas: A Survey of Physicians from the Middle East and Africa.",
+      "abstract": "Adrenal incidentaloma (AI) is a common finding from increased imaging use. Several guidelines direct evaluation and management, but limited data exist on real-world practices. To describe the knowledge and practices of physicians from the Middle East and Africa (MEA) in AI. An online survey evaluated the definition of AI, diagnostic investigations, management approach, and long-term follow-up of patients with AI. 171 questionnaires were analysed. Adult and pediatric endocrinologists represented 71.4% of participants. A homogenous mass, < 4 cm and < 10HU, was considered benign by 57.9% of the respondents. The threshold of 4 cm for tumor size was considered suggestive of malignity by 64%. A minority, 34 (19.9%), indicated that no further imaging was required if a non-contrast CT scan was consistent with a benign adrenal mass. Most important endocrinopathies would routinely be excluded: hypercortisolism (97.7%), pheochromocytoma (95.3%), and primary hyperaldosteronism (87.1%). In a lesion considered biochemically inactive at the outset, 56.4% of the respondents would have recommended repeated biochemical testing, and 42.8% would have followed up the patients for 4 and 5 years, irrespective of radiological features. There is an under-appreciation of the risk of malignancy of AI > 4 cm and a tendency of over-investigating patients in whom a benign tumor has been established, with repeated unnecessary biochemical and radiological evaluation, revealing sub-optimal adherence to guidelines regarding AI in this region.",
+      "journal": "La Tunisie medicale",
+      "year": "2025",
       "publication_types": [
         "Journal Article"
       ]
@@ -478,11 +400,34 @@
       ]
     },
     {
+      "pmid": "42744529",
+      "doi": "10.1016/j.endien.2026.501798",
+      "title": "Primary central nervous system lymphoma involving the hypothalamic-pituitary axis presenting with hypopituitarism: A case report with long-term follow-up.",
+      "abstract": "Primary central nervous system lymphoma (PCNSL) involving the hypothalamic-pituitary axis is a rare condition and may present with nonspecific neurologic and endocrine signs, often mimicking more common sellar lesions. We report the case of a 59-year-old woman admitted with subacute behavioral changes, cognitive decline, and polyuria. Magnetic resonance imaging revealed a pituitary-infundibular mass with suprasellar extension and marked bifrontal edema. Endocrine evaluation demonstrated panhypopituitarism and arginine vasopressin deficiency. The clinical course was complicated by severe dysnatremias requiring intensive care management and hormonal replacement. Histopathologic analysis of a transsphenoidal biopsy confirmed diffuse large B-cell lymphoma, with no systemic disease on PET-CT or bone marrow evaluation. The patient was treated with the MATRix chemotherapy regimen followed by autologous stem cell transplantation, achieving sustained complete remission at 3.5 years. Persistent hypogonadotropic hypogonadism remained as a sequelae. This case underscores the diagnostic challenges of sellar involvement by PCNSL and highlights the importance of including lymphoma in the differential diagnosis of hypothalamic-pituitary masses. Acute pituitary failure with severe electrolyte disturbances may precede oncologic diagnosis, and early multidisciplinary management combined with aggressive therapy can result in long-term remission.",
+      "journal": "Endocrinologia, diabetes y nutricion",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
       "pmid": "42788126",
       "doi": "10.4103/ijem.ijem_1001_25",
       "title": "Prevalence and Predictors of Remission in Patients with Acromegaly Undergoing Microscopic or Endoscopic Transsphenoidal Surgery: Long-Term Outcomes from a Tertiary Care Centre.",
       "abstract": "Transsphenoidal surgery (TSS) is the primary treatment of choice for growth hormone (GH)-secreting pituitary adenomas. However, surgical cure rates vary. We aimed to investigate factors determining remission and the need for adjuvant therapy after TSS in patients with acromegaly managed at a tertiary care centre. In this retrospective single-centre study, data on patients who underwent TSS at a tertiary care centre were collected from 2010 to 2022. Multivariate regression models were used to identify predictors of endocrine remission according to the 2014 consensus criteria (random GH <1 \u03bcg/L and insulin-like growth factor 1 normalised for age) and of the requirement for adjuvant therapy. This study included 169 patients (56% female, mean age 37.8 \u00b1 4.9 years), with a mean time from symptom onset to diagnosis of 4.9 \u00b1 3.9 years. Fifty-three (31.3%) achieved remission with a mean follow-up of 5.2 \u00b1 3.4 years. Adjuvant therapy was required in 78 patients, and redo surgery was performed in eight patients. Baseline GH levels were the only significant predictor of disease activity at the last follow-up. Baseline tumour size (P = 0.003) and nadir GH levels (P = 0.02) were the only independent factors associated with endocrine remission and the need for adjuvant therapy. Long-term remission in acromegaly following TSS is achieved in 31.3% of patients. Baseline tumour size and pretreatment nadir GH levels are the primary factors associated with achieving endocrine remission and the need for adjuvant therapy.",
       "journal": "Indian journal of endocrinology and metabolism",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42801329",
+      "doi": "10.1093/dote/doag109",
+      "title": "Automated detection of gastroesophageal adenocarcinoma recurrence from electronic health records.",
+      "abstract": "In gastroesophageal adenocarcinoma (GEA), recurrence following curative-intent resection represents one of the most clinically important outcomes. However, recurrence information is not consistently captured in structured fields within electronic health records (EHRs), and retrospective identification typically relies on labor-intensive manual chart review. We conducted a retrospective, single-center cohort study of patients with GEA who underwent R0 gastrectomy or esophagectomy from July 2020 to October 2024. A fully automated, rule-based natural language processing recurrence detection algorithm was developed using pathology and radiology reports extracted from the EHR. Definitive diagnostic statements in pathology reports were prioritized, while imaging-based recurrence required definitive diagnostic statements at \u22652 time points 14-120\u00a0days apart. Algorithm performance was evaluated against manual chart review, which served as the reference standard for recurrence identification. Among 414 eligible patients, 126 (30.4%) experienced recurrence, with 3-year overall survival of 80.3% and recurrence-free survival of 59.3%. The most frequent sites of recurrence were distant lymph nodes, liver, and peritoneum. The algorithm demonstrated high discrimination, with a sensitivity of 90.5%, specificity of 95.1%, positive predictive value of 89.1%, negative predictive value of 95.8%, and accuracy of 93.7%. The median absolute difference in recurrence timing was 0\u00a0days, and site classification concordance was 91.2%. This proof-of-concept study demonstrates that postoperative recurrence in GEA can be identified with reasonable reliability using an automated, interpretable algorithm based solely on pathology and radiology reports. Automated recurrence detection may substantially reduce reliance on manual chart review and facilitate scalable real-world effectiveness research and long-term outcome evaluation.",
+      "journal": "Diseases of the esophagus : official journal of the International Society for Diseases of the Esophagus",
       "year": "2026",
       "publication_types": [
         "Journal Article"
@@ -500,14 +445,38 @@
       ]
     },
     {
-      "pmid": "42774794",
-      "doi": "10.1093/jscr/rjag807",
-      "title": "Adrenal myelolipoma with severe hemorrhage: a case report.",
-      "abstract": "Adrenal masses are identified with abdominal imaging, most of them are benign and nonfunctioning. They are typically managed conservatively; however, large lesions may present with complications requiring urgent intervention. We present a case of a 65-year-old male with right flank pain found to have a rapidly enlarging hemorrhagic right adrenal mass measuring 15.4\u2009\u00d7\u200913.1\u2009\u00d7\u200917.9\u00a0cm with mixed fat and soft tissue components. Hormonal evaluation was negative for a functional adrenal tumor, though malignancy could not be excluded due to ongoing hemorrhage and lesion size. The patient required blood transfusion and open adrenalectomy with en bloc right colectomy. The mass was densely adherent to surrounding structures with significant clot burden. Final pathology confirmed an adrenal myelolipoma composed of mature adipose tissue and tri-lineage hematopoietic elements with extensive intra-tumoral hemorrhage and necrosis. This case highlights the importance of prompt surgical management of large hemorrhagic adrenal masses.",
-      "journal": "Journal of surgical case reports",
+      "pmid": "42620427",
+      "doi": "10.1097/GOX.0000000000008034",
+      "title": "Successful Management of Postoperative Galactorrhea after Reduction Mammaplasty.",
+      "abstract": "Galactorrhea after reduction mammoplasty is a rare postoperative complication, usually associated with hormonal dysregulation or pituitary abnormalities. A 43-year-old woman with symptomatic macromastia underwent bilateral superomedial pedicle reduction mammoplasty. Three days postoperatively, she developed high-volume bilateral milky drainage through her surgical drains. Laboratory evaluation revealed elevated prolactin (96\u2009ng/mL; reference value 5-23\u2009ng/mL). Imaging demonstrated a partially empty sella without pituitary mass. Endocrinology initiated cabergoline therapy, resulting in suppression of prolactin and resolution of the galactorrhea. The patient's drains were maintained until the galactorrhea ceased, and she went on to heal well without complication. Galactorrhea after breast reduction surgery secondary to transient hyperprolactinemia is a rare but clinically significant complication. Prompt recognition and multidisciplinary management including drain maintenance, lactation suppression, and exclusion of prolactinoma are important steps in preventing wound healing complications and achieving optimal outcomes.",
+      "journal": "Plastic and reconstructive surgery. Global open",
       "year": "2026",
       "publication_types": [
         "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42771567",
+      "doi": "10.1159/hrp/adaag029",
+      "title": "A Century of Growth Hormone from Pierre Marie (1886) to Creutzfeldt-Jakob Disease (1985).",
+      "abstract": "The century from1886 to 1985 was auspicious for those with an interest in growth. A clinically recognized overgrowth syndrome was named acromegaly. It explained some earlier described patients and even distant historical figures. Quickly this clinical syndrome was tied to a pituitary tumor and therapy from a group of innovative neurosurgeons. Contemporaneously, failure of the pituitary was recognized and noted to be a cause of severe growth failure and infantilism. Experimentally, new techniques were developed to hypophysectomize animals from tadpoles to rats as well as to learn to extract, purify and replace the missing pituitary hormones with increasingly pure and potent extracts from bovine pituitaries. These developments led to the concept of species specificity for growth hormone (GH), that is, only primate GH was biologically effective in primates, as well as the active core hypothesis which postulated that all species had GH molecules with active centers for their pleotropic effects and that unmasking them might make portions of the animal GH molecules active in man. In the end that has not proven correct, but became moot given the explosion of the molecular biology era with its virtually unlimited supply of recombinant hGH. Human (primate) GH is species specific and to date the active core hypothesis which might have provided biologically effective peptides, derived from animal or human GHs, and likely to be synthesized with the techniques available at that time (mid-1960s) were never required given that rhGH was approved for clinical use in those with hypopituitarism.",
+      "journal": "Hormone research in paediatrics",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42766020",
+      "doi": "10.1007/s00393-026-01867-5",
+      "title": "[Management of emergencies in rheumatology].",
+      "abstract": "Emergencies in rheumatology can present with a\u00a0wide range of symptoms and findings, often requiring rapid diagnostics and treatment to prevent permanent damage or avert life-threatening conditions. This article aims to provide an overview of important differential diagnoses that should be considered in rheumatologic and/or immunosuppressed patients presenting in an emergency setting. It covers conditions such as septic arthritis, giant cell arteritis, acute adrenal insufficiency, the differential diagnosis of respiratory symptoms and acute kidney injury, macrophage activation syndrome, and catastrophic antiphospholipid syndrome. In this article, the clinical presentation, diagnostic approach, and acute management of these conditions are discussed and explained. Notfallsituationen in der Rheumatologie k\u00f6nnen sich mit einem breiten Spektrum an Symptomen und Befunden \u00e4u\u00dfern und bed\u00fcrfen h\u00e4ufig einer raschen Diagnostik und Therapie, um bleibende Sch\u00e4den zu vermeiden oder eine vitale Bedrohung abzuwenden. Dieser Artikel gibt einen \u00dcberblick \u00fcber wichtige Differenzialdiagnosen, an die bei rheumatologischen und/oder immunsupprimierten Patient:innen bei einer notfallm\u00e4\u00dfigen Vorstellung gedacht werden muss. Es werden Erkrankungen, wie die septische Arthritis, Riesenzellarteritis, akute Nebennierenrindeninsuffizienz, die Differenzialdiagnostik von respiratorischen Symptomen und einer akuten Nierensch\u00e4digung, das Makrophagenaktivierungssyndrom und das katastrophale Antiphospholipidsyndrom beleuchtet. Hierbei werden die Symptomatik, Diagnostik und akute Therapie behandelt und erl\u00e4utert.",
+      "journal": "Zeitschrift fur Rheumatologie",
+      "year": "2026",
+      "publication_types": [
+        "English Abstract",
         "Journal Article"
       ]
     }

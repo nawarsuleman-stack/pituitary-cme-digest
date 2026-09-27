@@ -74,12 +74,15 @@
     "42771820",
     "42773730",
     "42774339",
+    "42776131",
     "42776342",
+    "42777813",
     "42778805",
     "42780339",
     "42783215",
     "42786607",
     "42787106",
+    "42788126",
     "42791427"
   ],
   "sessions": [
@@ -1238,6 +1241,49 @@
           "quiz_question": "A 55-year-old man has a 3.2 cm adrenal mass with non-contrast attenuation of 25 HU (lipid-poor). Multi-phase CT shows no cystic degeneration and moderate enhancement with an absolute percentage washout of 45% (non-washout criteria). According to this study's decision-tree model, which CT feature is the single most important discriminator between lipid-poor adenoma and pheochromocytoma, and what is its significance in this case?",
           "quiz_answer": "Cystic degeneration was identified as the most influential discriminator in the model. Its absence in this case slightly favors adenoma, but enhancement potential and baseline attenuation are the next key variables in the decision tree. Critically, biochemical testing for catecholamine excess must be performed before any biopsy or invasive procedure regardless of imaging findings.",
           "journal": "Frontiers in artificial intelligence",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-17",
+      "items": [
+        {
+          "pmid": "42777813",
+          "doi": "10.1016/j.wneu.2026.125362",
+          "title": "The value of the modified Knosp grade in pituitary adenoma surgery.",
+          "category": "notable",
+          "summary": "In a prospectively collected single-center cohort of 482 patients undergoing pure endoscopic transsphenoidal surgery, the modified Knosp grade was the strongest independent predictor of gross total resection (GTR). GTR rates ranged from 97% at grade 0 to just 7% at grade 4, with the 3A/3B subdivision proving particularly informative: grade 3B carried significantly higher rates of incomplete resection than 3A. These findings provide robust external validation of the modified Knosp grading system across a large contemporary cohort.",
+          "caveat": "Single-institution retrospective-prospective hybrid study spanning 2011\u20132024; interrater reliability of the modified Knosp grading is acknowledged as a limitation for interinstitutional reproducibility, though that was explicitly the aim of validation.",
+          "quiz_question": "A 45-year-old man with acromegaly has a macroadenoma encasing the internal carotid artery and extending beyond the lateral tangent of the cavernous sinus on both sides, meeting modified Knosp grade 3B criteria on MRI. How should this grading influence your preoperative counseling regarding surgical cure?",
+          "quiz_answer": "Modified Knosp grade 3B is associated with a significantly lower GTR rate compared to grade 3A (35% vs 45% overall in this cohort), and is the strongest independent predictor of incomplete resection. The patient and referring neurosurgeon should be counseled that biochemical remission from surgery alone is unlikely, and multimodal planning\u2014including adjuvant somatostatin receptor ligand therapy or stereotactic radiosurgery\u2014should be discussed preoperatively.",
+          "journal": "World neurosurgery",
+          "year": "2026"
+        },
+        {
+          "pmid": "42788126",
+          "doi": "10.4103/ijem.ijem_1001_25",
+          "title": "Prevalence and Predictors of Remission in Patients with Acromegaly Undergoing Microscopic or Endoscopic Transsphenoidal Surgery: Long-Term Outcomes from a Tertiary Care Centre.",
+          "category": "notable",
+          "summary": "In this retrospective single-center series of 169 acromegaly patients followed for a mean of 5.2 years after transsphenoidal surgery, only 31.3% achieved endocrine remission by 2014 consensus criteria (random GH <1 \u00b5g/L and age-normalized IGF-1). Baseline tumor size and pretreatment nadir GH were the only independent predictors of both remission and need for adjuvant therapy, while baseline GH alone predicted disease activity at last follow-up. Adjuvant therapy was ultimately required in 46% of the cohort, underscoring the high rate of surgical non-cure even at a dedicated center.",
+          "caveat": "Retrospective single-center design from a tertiary referral center in India; mean diagnostic delay of ~5 years suggests a more advanced disease population at presentation, which may limit generalizability to centers with earlier detection. Mixed microscopic and endoscopic cases could introduce surgical heterogeneity.",
+          "quiz_question": "A 40-year-old woman presents with acromegaly. Her preoperative IGF-1 is 3\u00d7 ULN, random GH is 22 \u00b5g/L, and MRI shows a 2.8 cm macroadenoma with modified Knosp grade 2 cavernous sinus involvement. Based on findings from this study, what preoperative factors best predict her likelihood of achieving remission, and what should she be told about the probability of needing adjuvant therapy?",
+          "quiz_answer": "Baseline tumor size and pretreatment nadir GH were the strongest independent predictors of remission and adjuvant therapy need. A large macroadenoma with elevated nadir GH portends a lower chance of surgical cure; in this cohort overall remission was only 31.3%. She should be counseled that adjuvant therapy (somatostatin receptor ligands, pegvisomant, or radiosurgery) is statistically more likely than not, and treatment planning should incorporate this expectation from the outset.",
+          "journal": "Indian journal of endocrinology and metabolism",
+          "year": "2026"
+        },
+        {
+          "pmid": "42776131",
+          "doi": "10.20945/2359-4292-2026-0115",
+          "title": "Beyond insulin-like growth factor-1 (IGF-1) normalization: portal insulin and hepatic growth hormone (GH) sensitivity across metabolic disease.",
+          "category": "preliminary",
+          "summary": "This review proposes 'liver sensitivity to GH' (LSG)\u2014operationally defined by portal-insulin-determined hepatic GH receptor availability\u2014as a unifying mechanistic framework linking GH deficiency, acromegaly, obesity, type 1 and 2 diabetes, and cirrhosis on a single continuum. The authors argue that subcutaneous insulin in T1D corrects glycemia but leaves hepatic GH resistance intact due to the absence of physiologic portal insulin delivery, explaining persistent low IGF-1 despite systemic euglycemia. They also re-examine why GLP-1 receptor agonists produce discordant GH/IGF-1 signatures and argue that current acromegaly treatment targets (IGF-1 normalization alone) may be metabolically insufficient when viewed through this portal-insulin lens.",
+          "caveat": "This is a mechanistic review/opinion piece without original clinical trial data; the LSG framework is hypothesis-generating and not yet validated prospectively. The proposed clinical implications for acromegaly management targets await empirical testing.",
+          "quiz_question": "A 28-year-old woman with type 1 diabetes and GH deficiency receives subcutaneous insulin and GH replacement. Despite apparently adequate GH dosing, her IGF-1 remains persistently below normal. Using the portal-insulin/LSG framework described in this review, what is the most likely mechanistic explanation?",
+          "quiz_answer": "Subcutaneous insulin delivery bypasses the portal vein, resulting in peripheral hyperinsulinism relative to portal delivery. Hepatic GH receptor expression and signaling depend on adequate portal insulin concentration; without physiologic portal insulinization, hepatic GH sensitivity (LSG) remains impaired, so exogenous GH fails to generate normal IGF-1 output despite systemic insulin adequacy. This is distinct from true GH dose insufficiency.",
+          "journal": "Archives of endocrinology and metabolism",
           "year": "2026"
         }
       ],
