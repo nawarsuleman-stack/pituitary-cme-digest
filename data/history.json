@@ -74,8 +74,10 @@
     "42771820",
     "42773730",
     "42774339",
+    "42774755",
     "42776131",
     "42776342",
+    "42777437",
     "42777813",
     "42778805",
     "42780339",
@@ -83,7 +85,8 @@
     "42786607",
     "42787106",
     "42788126",
-    "42791427"
+    "42791427",
+    "42801380"
   ],
   "sessions": [
     {
@@ -1284,6 +1287,49 @@
           "quiz_question": "A 28-year-old woman with type 1 diabetes and GH deficiency receives subcutaneous insulin and GH replacement. Despite apparently adequate GH dosing, her IGF-1 remains persistently below normal. Using the portal-insulin/LSG framework described in this review, what is the most likely mechanistic explanation?",
           "quiz_answer": "Subcutaneous insulin delivery bypasses the portal vein, resulting in peripheral hyperinsulinism relative to portal delivery. Hepatic GH receptor expression and signaling depend on adequate portal insulin concentration; without physiologic portal insulinization, hepatic GH sensitivity (LSG) remains impaired, so exogenous GH fails to generate normal IGF-1 output despite systemic insulin adequacy. This is distinct from true GH dose insufficiency.",
           "journal": "Archives of endocrinology and metabolism",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-16",
+      "items": [
+        {
+          "pmid": "42801380",
+          "doi": "10.1007/s11102-026-01760-z",
+          "title": "Hypothalamic obesity in pediatric vs. adult craniopharyngioma: mechanisms, management, and cardiometabolic outcomes.",
+          "category": "notable",
+          "summary": "This scoping review systematically compares hypothalamic obesity (HO) in pediatric versus adult craniopharyngioma survivors, finding a far steeper post-treatment obesity rise in children (5.7% \u2192 57%) than adults (19.2% \u2192 29.2%). Key shared mechanisms include disrupted melanocortin signaling and central leptin/insulin resistance, with neuroinflammatory pathways (resistin-TLR4, NLRP3) also implicated. GLP-1 receptor agonists showed promising weight loss in small case series (up to 17% over 6 months with semaglutide), though randomized trials did not meet their primary weight endpoints. Long-term cardiometabolic burden is substantial in both cohorts, with adults carrying a 2.2-fold higher all-cause mortality and 9.3-fold higher diabetes risk.",
+          "caveat": "Scoping review design limits causal inference; head-to-head pediatric vs. adult therapeutic trials are lacking, and GLP-1 agonist data derive from small, uncontrolled case series only.",
+          "quiz_question": "A 10-year-old boy undergoes gross-total resection of a craniopharyngioma with significant hypothalamic involvement. His parents ask about long-term weight risk. Based on current evidence, approximately what proportion of pediatric craniopharyngioma survivors develop obesity post-treatment, and what mechanism primarily drives it?",
+          "quiz_answer": "Approximately 57% of pediatric craniopharyngioma survivors develop obesity post-treatment (up from ~6% pre-treatment). The primary driver is hypothalamic damage disrupting melanocortin signaling and inducing central leptin and insulin resistance, leading to hyperphagia and profoundly reduced energy expenditure \u2014 the hallmarks of hypothalamic obesity.",
+          "journal": "Pituitary",
+          "year": "2026"
+        },
+        {
+          "pmid": "42777437",
+          "doi": "10.1016/j.jss.2026.08.021",
+          "title": "Adrenal Tumors Identified on Abdominal Imaging in Breast Cancer Patients: Benign Incidentalomas or Metastatic Disease?",
+          "category": "notable",
+          "summary": "In this single-institution review of 2,745 breast cancer patients, 3.8% had adrenal tumors detected on abdominal imaging; 77% were benign, 11% metastatic, and 13% indeterminate. Multivariate analysis identified three independent predictors of adrenal metastasis: presence of other metastatic sites on the same scan (OR 7.73), larger initial tumor size (OR 1.90 per cm), and detection on a surveillance scan (OR 8.60). Mean tumor size was significantly larger in metastases (2.4 vs. 1.7 cm), though there was considerable overlap. These findings provide a practical risk-stratification framework for deciding when to pursue biopsy in breast cancer patients with adrenal lesions.",
+          "caveat": "Single-institution retrospective study with a relatively small number of confirmed metastases (n=11), limiting statistical power; radiologic criteria for classification were predetermined but may not align with all institutional protocols. Functional adrenal evaluation details are not described.",
+          "quiz_question": "A 58-year-old woman with stage IV breast cancer (known bone metastases) is found to have a new 2.8 cm right adrenal mass on surveillance CT. The lesion has an unenhanced HU of 18. What clinical and imaging features most strongly predict this represents metastatic rather than benign disease, and what is the appropriate next step?",
+          "quiz_answer": "The strongest independent predictors of adrenal metastasis in breast cancer patients are: concurrent other metastatic sites (OR 7.73), larger tumor size (OR 1.90/cm), and detection on surveillance imaging (OR 8.60). This patient has all three risk factors. The indeterminate Hounsfield unit (18 HU) rules out a lipid-rich adenoma. Given high metastatic probability, percutaneous biopsy (after biochemical exclusion of pheochromocytoma) is appropriate to confirm diagnosis and guide systemic therapy.",
+          "journal": "The Journal of surgical research",
+          "year": "2026"
+        },
+        {
+          "pmid": "42774755",
+          "doi": "10.1016/j.jcte.2026.100458",
+          "title": "Growth hormone-releasing hormone, growth hormone, and neuroendocrine tumors.",
+          "category": "notable",
+          "summary": "This review summarizes the clinical presentation and diagnostic challenges of ectopic acromegaly due to GHRH- or GH-secreting neuroendocrine tumors (NETs), which are rare but frequently misdiagnosed as pituitary-origin acromegaly because clinical features are indistinguishable. Serum GHRH measurement is highlighted as a critical diagnostic tool when ectopic production is suspected \u2014 particularly when pituitary imaging is non-confirmatory or when somatostatin analog response is atypical. Surgical resection of the offending NET remains first-line therapy; somatostatin receptor analogs and chemo/immunotherapy serve as adjuncts in refractory cases. Advanced molecular imaging is increasingly important in localizing the ectopic source.",
+          "caveat": "Evidence base is limited by extreme rarity of these tumors; no prospective trials exist, and recommendations derive largely from case series and expert opinion. Comprehensive guidelines are explicitly noted as lacking.",
+          "quiz_question": "A 45-year-old woman presents with classic acromegalic features: acral enlargement, prognathism, and elevated IGF-1. Pituitary MRI shows only a 4 mm questionable microadenoma. She has a known pulmonary carcinoid on prior imaging. What diagnostic step should be prioritized to distinguish ectopic from pituitary-origin acromegaly, and what does the treatment algorithm look like if ectopic GHRH secretion is confirmed?",
+          "quiz_answer": "Serum GHRH measurement should be prioritized \u2014 an elevated level strongly supports ectopic GHRH secretion rather than a primary GH-secreting pituitary adenoma. If elevated, advanced functional imaging (e.g., somatostatin receptor scintigraphy or DOTATATE PET-CT) should localize the NET. First-line treatment is surgical resection of the offending carcinoid; somatostatin receptor analogs can control GH/IGF-1 hypersecretion pre- or post-operatively, with chemo/immunotherapy reserved for refractory disease.",
+          "journal": "Journal of clinical & translational endocrinology",
           "year": "2026"
         }
       ],
