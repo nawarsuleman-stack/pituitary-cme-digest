@@ -86,7 +86,10 @@
     "42787106",
     "42788126",
     "42791427",
-    "42801380"
+    "42801380",
+    "42804108",
+    "42805264",
+    "42806332"
   ],
   "sessions": [
     {
@@ -1330,6 +1333,49 @@
           "quiz_question": "A 45-year-old woman presents with classic acromegalic features: acral enlargement, prognathism, and elevated IGF-1. Pituitary MRI shows only a 4 mm questionable microadenoma. She has a known pulmonary carcinoid on prior imaging. What diagnostic step should be prioritized to distinguish ectopic from pituitary-origin acromegaly, and what does the treatment algorithm look like if ectopic GHRH secretion is confirmed?",
           "quiz_answer": "Serum GHRH measurement should be prioritized \u2014 an elevated level strongly supports ectopic GHRH secretion rather than a primary GH-secreting pituitary adenoma. If elevated, advanced functional imaging (e.g., somatostatin receptor scintigraphy or DOTATATE PET-CT) should localize the NET. First-line treatment is surgical resection of the offending carcinoid; somatostatin receptor analogs can control GH/IGF-1 hypersecretion pre- or post-operatively, with chemo/immunotherapy reserved for refractory disease.",
           "journal": "Journal of clinical & translational endocrinology",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-18",
+      "items": [
+        {
+          "pmid": "42806332",
+          "doi": "10.1186/s12933-026-03360-4",
+          "title": "Mild autonomous cortisol secretion (MACS) is associated with increased mortality in patients with adrenal adenomas only in the presence of type 2 diabetes: a retrospective cohort study.",
+          "category": "notable",
+          "summary": "In this retrospective cohort of 668 patients with adrenal adenomas followed over two decades at a single tertiary center, MACS (post-1 mg DST cortisol >1.8 \u00b5g/dL) was associated with a significantly increased mortality hazard only in those who also carried a diagnosis of type 2 diabetes (HR 2.51, 95% CI 1.41\u20134.48), but not in patients without T2D. The T2D+MACS subgroup had higher HbA1c and a three-fold elevation in prevalent cardiovascular disease compared to T2D patients with non-functioning adenomas. These data suggest that T2D may act as an effect modifier that unmasks the lethal cardiometabolic consequences of even mild cortisol excess, and argue for heightened vigilance\u2014and potentially earlier intervention\u2014in this overlap population.",
+          "caveat": "Retrospective single-center design with inherent selection bias; causality cannot be established, and residual confounding from diabetes severity, duration, and medications is possible. Sample sizes in subgroups are modest, and the authors themselves call for confirmatory prospective studies.",
+          "quiz_question": "A 62-year-old woman with long-standing type 2 diabetes is found to have a 2.3 cm left adrenal adenoma. Her post-1 mg DST cortisol is 2.4 \u00b5g/dL without overt Cushing's stigmata, meeting criteria for MACS. She has well-controlled hypertension and dyslipidemia. Based on this study's findings, how should her MACS status influence your management approach compared to a similar patient without T2D?",
+          "quiz_answer": "This study found that MACS was associated with a >2.5-fold increased mortality specifically in patients with T2D, but not in those without T2D. Accordingly, her concurrent T2D substantially elevates the clinical significance of the MACS diagnosis, warranting more active cardiometabolic risk reduction, closer follow-up, and serious consideration of adrenalectomy if she is a surgical candidate\u2014a conversation that might be deferred in an otherwise identical patient without diabetes.",
+          "journal": "Cardiovascular diabetology",
+          "year": "2026"
+        },
+        {
+          "pmid": "42804108",
+          "doi": "10.1007/s12020-026-04794-2",
+          "title": "The cardiometabolic significance of post-dexamethasone cortisol levels below the MACS threshold in adrenal incidentaloma.",
+          "category": "notable",
+          "summary": "This retrospective cross-sectional study of 156 patients with adrenal incidentalomas stratified by post-1 mg DST cortisol into three tiers (\u22640.9, 0.91\u20131.79, and \u22651.8 \u00b5g/dL) found a graded cardiometabolic risk pattern across all groups. Importantly, patients in the intermediate 'below-MACS-threshold' group (0.91\u20131.79 \u00b5g/dL) already showed significantly higher blood pressure, hypertension prevalence, HbA1c, and LDL cholesterol compared to those with complete cortisol suppression (\u22640.9 \u00b5g/dL), suggesting they are not metabolically benign. These findings challenge the implicit assumption that any post-DST cortisol \u22641.8 \u00b5g/dL represents a uniform 'no-risk' category.",
+          "caveat": "Cross-sectional design precludes causal inference or outcome data; sample sizes per group are small (n=48\u201360), and the study is retrospective with potential for unmeasured confounders. Prospective longitudinal validation with hard cardiovascular endpoints is needed before any threshold revision is justified.",
+          "quiz_question": "A 55-year-old man with hypertension and dyslipidemia has a 1.8 cm right adrenal incidentaloma. His post-1 mg DST cortisol returns at 1.4 \u00b5g/dL\u2014below the conventional MACS cutoff. His internist asks if he needs any additional evaluation given 'normal' cortisol suppression. How do you respond based on current data?",
+          "quiz_answer": "According to this study, patients with post-DST cortisol in the 0.91\u20131.79 \u00b5g/dL range display an intermediate cardiometabolic phenotype\u2014with meaningfully higher blood pressure, HbA1c, and LDL than patients with cortisol \u22640.9 \u00b5g/dL\u2014despite falling below the MACS diagnostic threshold. This patient should not be reassured that his cardiometabolic risk is equivalent to complete suppressors; aggressive risk factor management is warranted, and the findings support ongoing clinical vigilance rather than dismissal.",
+          "journal": "Endocrine",
+          "year": "2026"
+        },
+        {
+          "pmid": "42805264",
+          "doi": "10.1055/a-2970-2015",
+          "title": "Predictors of overall mortality in pituitary adenomas.",
+          "category": "notable",
+          "summary": "This retrospective analysis of 699 patients across four major pituitary adenoma subtypes (acromegaly, Cushing's disease, macroprolactinoma, non-functioning macroadenoma) found that age at diagnosis was the single most consistent predictor of overall mortality, with a hazard ratio of 1.07\u20131.11 per year across all subtypes. Cushing's disease carried independent mortality risk. Notably, hypopituitarism predicted increased mortality only in non-functioning macroadenomas (HR 2.71), but was paradoxically associated with reduced mortality in acromegaly\u2014possibly reflecting ascertainment bias or more intensive follow-up in hypopituitary acromegaly patients. Sex, tumor size, and radiotherapy were not independently associated with mortality.",
+          "caveat": "Retrospective single-center design with relatively small numbers in the Cushing's disease subgroup (n=42), limiting power for subgroup analyses. Causality of hypopituitarism's divergent effects across subtypes is speculative; confounding by indication (e.g., more aggressive tumors receiving radiotherapy) cannot be excluded.",
+          "quiz_question": "You are counseling a 68-year-old man newly diagnosed with a non-functioning pituitary macroadenoma. He asks about his long-term prognosis. Endocrine workup reveals partial hypopituitarism affecting the GH and gonadal axes. Based on this study, does his hypopituitarism status alter his mortality risk, and what is the dominant overall mortality predictor across all pituitary adenoma subtypes?",
+          "quiz_answer": "According to this study, hypopituitarism in the setting of non-functioning macroadenomas was associated with a significantly increased mortality risk (HR 2.71), making it an important prognostic factor in this specific subtype\u2014unlike in acromegaly, where the association was inverse. Across all subtypes, however, age at diagnosis was the dominant and most consistent predictor of mortality (HR 1.07\u20131.11 per year), underscoring the importance of close long-term follow-up and complete hormone replacement in older patients with NFMA and hypopituitarism.",
+          "journal": "Experimental and clinical endocrinology & diabetes : official journal, German Society of Endocrinology [and] German Diabetes Association",
           "year": "2026"
         }
       ],
