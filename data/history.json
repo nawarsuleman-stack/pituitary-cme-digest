@@ -89,7 +89,10 @@
     "42801380",
     "42804108",
     "42805264",
-    "42806332"
+    "42806085",
+    "42806332",
+    "42812268",
+    "42813006"
   ],
   "sessions": [
     {
@@ -1376,6 +1379,49 @@
           "quiz_question": "You are counseling a 68-year-old man newly diagnosed with a non-functioning pituitary macroadenoma. He asks about his long-term prognosis. Endocrine workup reveals partial hypopituitarism affecting the GH and gonadal axes. Based on this study, does his hypopituitarism status alter his mortality risk, and what is the dominant overall mortality predictor across all pituitary adenoma subtypes?",
           "quiz_answer": "According to this study, hypopituitarism in the setting of non-functioning macroadenomas was associated with a significantly increased mortality risk (HR 2.71), making it an important prognostic factor in this specific subtype\u2014unlike in acromegaly, where the association was inverse. Across all subtypes, however, age at diagnosis was the dominant and most consistent predictor of mortality (HR 1.07\u20131.11 per year), underscoring the importance of close long-term follow-up and complete hormone replacement in older patients with NFMA and hypopituitarism.",
           "journal": "Experimental and clinical endocrinology & diabetes : official journal, German Society of Endocrinology [and] German Diabetes Association",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-09-18",
+      "items": [
+        {
+          "pmid": "42812268",
+          "doi": "10.3389/fendo.2026.1933467",
+          "title": "Prevalence and clinical relevance of negative histology after transsphenoidal surgery for pituitary neuroendocrine tumors.",
+          "category": "notable",
+          "summary": "In a retrospective series of 651 patients undergoing transsphenoidal surgery, negative histology (NH) \u2014 normal pituitary tissue on pathology despite clinical/biochemical/radiological evidence of tumor \u2014 occurred in 28.1% of ACTH- and PRL-secreting microadenomas and 11.4% of GH tumors. Early remission rates were significantly lower in NH versus positive-histology cases for both ACTH (60% vs. 93.2%) and PRL (50% vs. 79.3%) tumors, but not for GH tumors. Mislocalization of the tumor at surgery accounted for two-thirds of unfavorable ACTH-NH outcomes, underscoring that NH is not a uniform entity but arises from distinct mechanisms \u2014 mislocalization, technical sampling error, or histological limitations \u2014 that vary by tumor subtype. For GH-secreting tumors, NH appears to carry a favorable prognosis, likely reflecting sampling limitations rather than true surgical failure.",
+          "caveat": "Single-center retrospective design spanning nearly three decades, with possible evolution in surgical technique and immunohistochemistry protocols over time. ACTH microadenoma cohort sizes for the NH subgroup were not specified numerically beyond percentages, limiting precision of remission rate comparisons.",
+          "quiz_question": "A 32-year-old woman undergoes transsphenoidal surgery for biochemically confirmed Cushing's disease (elevated UFC, abnormal DST, IPSS lateralization to the right). Intraoperative exploration reveals no discrete adenoma; pathology returns normal corticotroph tissue. What does the literature suggest about her likelihood of early remission compared with a patient whose pathology shows an ACTH-positive adenoma, and what mechanism most likely explains her negative histology?",
+          "quiz_answer": "Based on this study, early remission rates in ACTH-negative histology cases are approximately 60%, compared with ~93% when an adenoma is confirmed on pathology. The predominant mechanism \u2014 accounting for roughly two-thirds of unfavorable NH outcomes in ACTH tumors \u2014 is surgical mislocalization: the tumor exists but was not correctly identified or resected during exploration. This is distinct from GH-NH, where negative histology more often reflects technical or sampling limitations and carries a favorable prognosis.",
+          "journal": "Frontiers in endocrinology",
+          "year": "2026"
+        },
+        {
+          "pmid": "42806085",
+          "doi": "10.1007/s00464-026-13395-z",
+          "title": "A two-centre experience with hand-assisted laparoscopic, transperitoneal laparoscopic and retroperitoneoscopic adrenalectomy.",
+          "category": "notable",
+          "summary": "In one of the largest comparative series to date (444 patients across two tertiary centers, 2009\u20132025), hand-assisted laparoscopic (HAL) adrenalectomy was used selectively for larger, more complex tumors (median 6.5 cm) and malignancies, achieving shorter operative times than transperitoneal laparoscopic (TL) despite greater lesion complexity, but at the cost of higher postoperative complication rates (16.5% vs. 7.6% TL vs. 8.8% RP). Retroperitoneoscopic (RP) adrenalectomy demonstrated the lowest complication rate and shortest hospital stay for smaller benign lesions, consistent with current guideline preference. Pheochromocytomas were managed predominantly by HAL and TL, with conversion rates of ~5\u20136% across approaches due to hemorrhage and difficult dissection.",
+          "caveat": "Retrospective two-center design with inherent selection bias \u2014 HAL cases were systematically selected for larger and more malignant lesions, making complication rate comparisons across techniques confounded by case complexity. Robotic adrenalectomy was not included, limiting contemporary relevance.",
+          "quiz_question": "You are planning adrenalectomy for a 58-year-old with a 7 cm right adrenal mass that is biochemically consistent with pheochromocytoma and appears confined on imaging. Which surgical approach does this two-center series suggest was most commonly employed for pheochromocytomas, and what is the approximate conversion-to-open rate you should counsel the patient about?",
+          "quiz_answer": "According to this series, pheochromocytomas were most commonly managed using hand-assisted laparoscopic (HAL, 31.8%) and transperitoneal laparoscopic (TL, 27.5%) approaches. The conversion rate to open surgery was approximately 5.9% for HAL (primarily due to hemorrhage and local invasion) and 5.8% for TL (hemorrhage, difficult dissection, unclear anatomy) \u2014 both figures the patient should be counseled about preoperatively.",
+          "journal": "Surgical endoscopy",
+          "year": "2026"
+        },
+        {
+          "pmid": "42813006",
+          "doi": "10.15605/jafes.041.02.6383",
+          "title": "Prevalence of Adrenal Insufficiency in Clinically Stable Adults Living with HIV Attending Outpatient Clinics in Malaysia.",
+          "category": "preliminary",
+          "summary": "In a cross-sectional study of 110 clinically stable HIV-positive outpatients on HAART, adrenal insufficiency (AI) identified by cosyntropin stimulation test was found in only 1.8% (95% CI 0.2\u20136.4%), lower than many prior estimates. Both patients with AI had negative adrenal antibodies and ACTH levels suggesting primary adrenal origin; they were significantly more likely to have lower nadir CD4 counts, a history of treatment failure, and symptoms suggestive of AI. These findings suggest routine AI screening in all stable HIV patients on effective HAART may not be warranted, but targeted evaluation in those with relevant risk factors remains prudent.",
+          "caveat": "Small sample size (n=110) yields very wide confidence intervals around the 1.8% prevalence estimate, limiting generalizability. Cross-sectional design, single-country population, and the use of a single cosyntropin stimulation test without cortisol day-curve or insulin tolerance testing may miss subtle secondary AI. Possible selection bias toward healthier patients attending stable outpatient clinics.",
+          "quiz_question": "A 44-year-old man with well-controlled HIV (viral load undetectable, current CD4 800 cells/mm\u00b3) is referred for fatigue and mild hyperpigmentation. His nadir CD4 was 45 cells/mm\u00b3 and he had two prior treatment failures before achieving viral suppression. Based on this Malaysian study, which clinical features would most support proceeding with cosyntropin stimulation testing in this patient?",
+          "quiz_answer": "The study identified three significant predictors of AI in stable HIV patients: lower nadir CD4 count, a history of antiretroviral treatment failure, and symptoms suggestive of adrenal insufficiency (e.g., fatigue, hyperpigmentation, weight loss). This patient has all three risk factors \u2014 a very low nadir CD4 (45 cells/mm\u00b3), two prior treatment failures, and clinical symptoms \u2014 making him an appropriate candidate for cosyntropin stimulation testing despite his current viral suppression.",
+          "journal": "Journal of the ASEAN Federation of Endocrine Societies",
           "year": "2026"
         }
       ],
