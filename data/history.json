@@ -3,6 +3,7 @@
     "41730814",
     "41760839",
     "41852294",
+    "41949969",
     "42088331",
     "42258068",
     "42489804",
@@ -82,6 +83,7 @@
     "42778805",
     "42780339",
     "42783215",
+    "42785810",
     "42786607",
     "42787106",
     "42788126",
@@ -92,7 +94,8 @@
     "42806085",
     "42806332",
     "42812268",
-    "42813006"
+    "42813006",
+    "42817666"
   ],
   "sessions": [
     {
@@ -1423,6 +1426,49 @@
           "quiz_answer": "The study identified three significant predictors of AI in stable HIV patients: lower nadir CD4 count, a history of antiretroviral treatment failure, and symptoms suggestive of adrenal insufficiency (e.g., fatigue, hyperpigmentation, weight loss). This patient has all three risk factors \u2014 a very low nadir CD4 (45 cells/mm\u00b3), two prior treatment failures, and clinical symptoms \u2014 making him an appropriate candidate for cosyntropin stimulation testing despite his current viral suppression.",
           "journal": "Journal of the ASEAN Federation of Endocrine Societies",
           "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-14",
+      "items": [
+        {
+          "pmid": "42785810",
+          "doi": "10.1111/jne.70272",
+          "title": "Predictors of in vitro response to somatostatin and dopamine receptor-targeted treatments are lacking in clinically non-functioning pituitary tumors.",
+          "category": "notable",
+          "summary": "In a series of 44 NF-PitNET primary cultures, overall cell-proliferation inhibition with somatostatin receptor ligands (octreotide, pasireotide) and dopamine agonists was negligible (median reduction 4\u20137%), though roughly 30% of individual cultures qualified as responders to at least one agent. SSTR2 expression correlated with octreotide and pasireotide efficacy, and both D2R and SSTR2 expression discriminated responders to the chimeric SSTR2/SSTR5/D2R ligand BIM-23B065 with acceptable AUC (~0.74\u20130.78). However, no standard clinical or pathological parameter\u2014including tumor grade, Ki67, invasiveness, or receptor expression in aggregate\u2014reliably predicted which tumors would respond, underscoring the absence of a clinically actionable biomarker for medical therapy in this setting.",
+          "caveat": "In vitro proliferation assays may not faithfully reflect in vivo drug behavior; sample size is modest (n=44) and the work is single-center, limiting generalizability. The 20% inhibition threshold defining 'responder' is somewhat arbitrary.",
+          "quiz_question": "A 62-year-old man has a residual non-functioning pituitary macroadenoma after transsphenoidal surgery. Immunohistochemistry shows high D2R (IRS 8) and moderate SSTR2 (IRS 4) expression. Based on this study's findings, which medical agent shows the most promise as a rational candidate, and what is the key limitation of relying on receptor expression to guide that choice?",
+          "quiz_answer": "The chimeric ligand BIM-23B065 (targeting SSTR2, SSTR5, and D2R) showed the most discriminating response based on D2R and SSTR2 expression (AUC ~0.74\u20130.78). However, the study found that no standard tumor parameter\u2014including receptor expression\u2014robustly predicted response across the whole cohort, meaning receptor staining alone is insufficient to guarantee clinical benefit; overall in vitro inhibition even for 'responders' averaged only ~20\u201328%.",
+          "journal": "Journal of neuroendocrinology",
+          "year": "2026"
+        },
+        {
+          "pmid": "42817666",
+          "doi": "10.47391/JPMA-7ANOS-ABS-3",
+          "title": "Endoscopic Endonasal Versus Endoscopic Supraorbital Keyhole Surgery for Craniopharyngioma Resection: A 15-Year Single-Center Retrospective Cohort Study.",
+          "category": "notable",
+          "summary": "In this 15-year retrospective cohort of 60 patients with craniopharyngioma, the endoscopic endonasal approach (EEA) achieved gross-total resection in 83% versus 60% for the supraorbital keyhole approach (SOK), with visual improvement in 87% versus 63%\u2014both statistically significant differences. CSF leak was more frequent with EEA (13% vs. 3%), while endocrine deficit rates and recurrence did not differ significantly between groups. The authors emphasize that case allocation was not random: midline suprasellar/intrasellar tumors were preferentially assigned to EEA, which substantially confounds the comparison.",
+          "caveat": "This is a non-randomized, single-center retrospective study with significant selection bias\u2014tumor anatomy drove approach selection, making direct outcome comparisons between groups inherently confounded. Endocrine deficit data were reported only descriptively without statistical comparison, which is a meaningful gap for endocrinologists tracking postoperative pituitary function.",
+          "quiz_question": "A 45-year-old woman with a suprasellar craniopharyngioma (intrasellar extension, no retrochiasmatic involvement) is being counseled on surgical approach. Based on this study, what are the relative advantages of the endoscopic endonasal approach over the supraorbital keyhole route, and what is the main complication trade-off to communicate?",
+          "quiz_answer": "The EEA was associated with higher gross-total resection rates (83% vs. 60%) and better visual improvement (87% vs. 63%) for midline tumors. The main trade-off is a higher CSF leak rate with EEA (13% vs. 3%), which requires reconstruction strategies and carries risk of meningitis. Endocrine deficits did not significantly differ, though these data were not statistically analyzed in detail.",
+          "journal": "JPMA. The Journal of the Pakistan Medical Association",
+          "year": "2026"
+        },
+        {
+          "pmid": "41949969",
+          "doi": "10.62438/tunismed.v103i11.5677",
+          "title": "Management of Adrenal Incidentalomas: A Survey of Physicians from the Middle East and Africa.",
+          "category": "notable",
+          "summary": "This survey of 171 physicians (71% endocrinologists) from the Middle East and Africa reveals two persistent practice gaps: underappreciation of malignancy risk for adrenal masses >4 cm (only 64% flagged size >4 cm as a malignancy signal, and only 20% recognized that a confirmed benign-appearing mass on unenhanced CT requires no further imaging), and over-investigation of biochemically and radiologically confirmed benign tumors (56% recommended repeated biochemical testing and 43% favored 4\u20135 years of follow-up regardless of imaging features). Screening for the three major functional syndromes (hypercortisolism, pheochromocytoma, primary aldosteronism) was near-universal, which aligns with guideline recommendations.",
+          "caveat": "Survey-based study with inherent response and selection bias; 171 respondents from a large and heterogeneous geographic region may not represent actual practice patterns. Guideline adherence questions used simplified vignette framing that may not capture real-world clinical complexity.",
+          "quiz_question": "You are reviewing adrenal incidentaloma management at a quality-improvement meeting. Based on this regional survey, which two guideline-discordant behaviors are most prevalent among endocrinologists in this region, and what is the correct guideline-concordant approach for each?",
+          "quiz_answer": "The two main gaps are: (1) underestimating malignancy risk for masses >4 cm\u2014guidelines recommend surgical referral for adrenal masses >4 cm even without overt hormonal activity due to elevated malignancy risk; and (2) over-investigating confirmed benign, nonfunctioning incidentalomas with repeated biochemical and imaging follow-up\u2014current guidelines (e.g., ESE/ENSAT 2023) support limiting or discontinuing surveillance after establishing a benign radiological phenotype (e.g., homogeneous, <10 HU on unenhanced CT, <4 cm) with a single normal biochemical evaluation.",
+          "journal": "La Tunisie medicale",
+          "year": "2025"
         }
       ],
       "refresher_needed": false,
