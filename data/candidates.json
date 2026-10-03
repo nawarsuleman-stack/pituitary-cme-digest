@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-10-02",
+  "fetched_at": "2026-10-03",
   "date_window": {
-    "from": "2016/10/04",
-    "to": "2026/10/02"
+    "from": "2016/10/05",
+    "to": "2026/10/03"
   },
   "already_covered_pmids": [
     "41730814",
@@ -100,295 +100,18 @@
     "42806332",
     "42812268",
     "42813006",
-    "42817666"
+    "42817666",
+    "42820462",
+    "42822597",
+    "42823747"
   ],
   "candidates": [
-    {
-      "pmid": "42787715",
-      "doi": "10.1016/j.tcr.2026.101435",
-      "title": "Pertrochanteric fracture in case of Sheehan syndrome: A rare case report.",
-      "abstract": "Sheehan's syndrome is caused by ischemic necrosis of the pituitary gland following hypo-perfusion to the pituitary gland. The prevalence is around 3.2% in women <40\u00a0years of age and is relatively common in developing countries. The diagnosis is made with the help of a suggestive obstetric history, clinical manifestations, laboratory findings of reduced hormone levels, and pertinent radiological features. The treatment is to replace the patient with deficient hormones and prevent the complications associated with it. We present the management of a patient with Sheehan's syndrome with pertrochanteric fracture due to the rarity of its presentation. The patient underwent the insertion of a proximal femur nail under closed reduction and achieved optimum results post operatively. As such no case reports with these findings have been documented in the literature or online sources.",
-      "journal": "Trauma case reports",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42823960",
-      "doi": "10.1016/j.isci.2026.117578",
-      "title": "Metabolic reprogramming in diabetic panvascular disease: Molecular mechanism and therapeutic strategies.",
-      "abstract": "Diabetes mellitus substantially increases the risk of cardiovascular, cerebrovascular, renal, retinal and peripheral vascular complications. These are collectively referred to as diabetic panvascular disease. A traditional approach that treats each complication separately is no longer sufficient. An emerging framework places metabolic reprogramming at its center. This review examines how the diabetic environment, including hyperglycemia, insulin resistance, and dyslipidemia, rewires core metabolic pathways in vascular cells. Major changes include the diversion of glucose through the polyol, hexosamine and AGE-PKC axes, lipotoxicity resulting from excessive fatty acids, disruption of amino acid networks such as BCAA and one-carbon metabolism, mitochondrial dysfunction with increased mtROS production, and epigenetic modifications that drive metabolic memory. These interconnected abnormalities promote oxidative stress and chronic inflammation, which in turn lead to endothelial dysfunction, atherosclerosis, microvascular rarefaction, and end-organ damage in the heart, brain, kidney, retina, and peripheral nerves. We also describe the current therapeutic landscape, ranging from established agents such as metformin, SGLT2 inhibitors, GLP-1 receptor agonists, RAAS blockers, and anti-VEGF therapies to emerging mechanism-based strategies including aldose reductase inhibitors, glucokinase activators, PKC, RAGE, NOX, and NLRP3 inhibitors, miRNA modulators, and exosome therapy. Finally, we highlight unmet needs and future directions. These may include multi-omics guided precision phenotyping, cross-organ causal inference, single-cell metabolic flux technologies, and adaptive clinical trial designs. By shifting from a glucose-centric to a metabolic reprogramming-centric paradigm, this review aims to provide a roadmap for developing more targeted therapies for diabetic panvascular disease.",
-      "journal": "iScience",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "42823963",
-      "doi": "10.3389/fphar.2026.1746514",
-      "title": "Dimethyl malonate suppresses succinate dehydrogenase to alleviate ischemia/reperfusion-induced acute lung injury.",
-      "abstract": "Ischemia/reperfusion (IR) injury is a pivotal contributor to acute lung injury (ALI) for which effective treatment options are currently lacking. Following ischemia, succinate accumulation and reoxidation by succinate dehydrogenase (SDH) during reperfusion induce excessive reactive oxygen species production, causing significant tissue damage. Dimethyl malonate (DMM), a competitive SDH inhibitor, has shown promise in treating various forms of IR-induced damage, but its effects on IR-induced ALI remain unexplored. To our knowledge, this is the first study to demonstrate in an ex vivo lung perfusion model that pharmacological inhibition of SDH via DMM alleviates IR-induced ALI. Isolated rat lungs subjected to ischemia (40\u00a0min) followed by reperfusion (60\u00a0min) were treated with various DMM concentrations (2\u00a0mM, 4\u00a0mM, and 8\u00a0mM) and 8\u00a0mM dimethyl succinate (DMS, a cell-permeable derivative of succinate). At the end of the experiment, bronchoalveolar lavage fluid and lung tissues were collected and analyzed. Target engagement was verified by measuring SDH enzymatic activity. Additionally, mouse lung epithelial (MLE)-12 cells underwent hypoxia-reoxygenation (HR) to investigate the cellular impact of DMM. Metabolomic analysis revealed that succinate accumulated significantly in lung tissue after IR injury. DMM treatment effectively suppressed the IR-induced elevation of SDH enzymatic activity in both lung tissues and MLE-12 cells. Consequently, DMM dose-dependently reduced pulmonary edema and protein levels in bronchoalveolar lavage fluid. DMM also improved lung injury scores and attenuated proinflammatory cytokine production, apoptosis, and oxidative stress. These protective effects were associated with upregulated Nrf2/HO-1 activity and inhibited NF-\u03baB signaling, all of which were reversed by DMS supplementation. Similar results were observed in MLE-12 cells following HR. These findings suggest that inhibiting SDH with DMM has considerable potential for mitigating IR-induced ALI. The therapeutic application of DMM could be a promising approach for alleviating IR-induced ALI severity.",
-      "journal": "Frontiers in pharmacology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42812240",
-      "doi": "10.3389/fonc.2026.1899311",
-      "title": "Von Hippel-Lindau syndrome presenting as a lateral ventricular space-occupying lesion: a case report.",
-      "abstract": "Von Hippel-Lindau disease is a rare autosomal dominant genetic disorder caused by mutations in the VHL tumor suppressor gene located on chromosome 3. Its core feature is the development of vascular-rich tumors or cysts in multiple organ systems at different ages, mainly manifesting as cerebellar hemangioblastoma, retinal hemangioblastoma, renal cell carcinoma and/or multiple renal cysts, and adrenal pheochromocytoma, among others. The disease is rare and involves multiple systems, making diagnosis challenging. Genetic testing has gradually become the gold standard for its diagnosis. This case report describes a 54-year-old male patient who presented with an intracranial space-occupying lesion detected during a health check-up three years earlier, as well as headache, dizziness, and decreased vision for more than four months. Imaging and pathological examinations ultimately confirmed a diagnosis of VHL syndrome, complicated by a rare \"collision tumor\" composed of an intracranial (lateral ventricular) hemangioblastoma and metastatic clear cell renal cell carcinoma. After resection of the lateral ventricular tumor, the patient developed extensive intracranial hemorrhage and fatal brainstem hemorrhage due to the inherently high vascularity of the hemangioblastoma, and eventually died. Through this complex and high-risk case, we discuss the diagnostic difficulties of VHL syndrome, the surgical risks of central nervous system lesions, and multidisciplinary management strategies, aiming to provide practical guidance for clinical practice.",
-      "journal": "Frontiers in oncology",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42771567",
-      "doi": "10.1159/hrp/adaag029",
-      "title": "A Century of Growth Hormone from Pierre Marie (1886) to Creutzfeldt-Jakob Disease (1985).",
-      "abstract": "The century from1886 to 1985 was auspicious for those with an interest in growth. A clinically recognized overgrowth syndrome was named acromegaly. It explained some earlier described patients and even distant historical figures. Quickly this clinical syndrome was tied to a pituitary tumor and therapy from a group of innovative neurosurgeons. Contemporaneously, failure of the pituitary was recognized and noted to be a cause of severe growth failure and infantilism. Experimentally, new techniques were developed to hypophysectomize animals from tadpoles to rats as well as to learn to extract, purify and replace the missing pituitary hormones with increasingly pure and potent extracts from bovine pituitaries. These developments led to the concept of species specificity for growth hormone (GH), that is, only primate GH was biologically effective in primates, as well as the active core hypothesis which postulated that all species had GH molecules with active centers for their pleotropic effects and that unmasking them might make portions of the animal GH molecules active in man. In the end that has not proven correct, but became moot given the explosion of the molecular biology era with its virtually unlimited supply of recombinant hGH. Human (primate) GH is species specific and to date the active core hypothesis which might have provided biologically effective peptides, derived from animal or human GHs, and likely to be synthesized with the techniques available at that time (mid-1960s) were never required given that rhGH was approved for clinical use in those with hypopituitarism.",
-      "journal": "Hormone research in paediatrics",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "42819666",
-      "doi": "10.1155/anrp/4406992",
-      "title": "Pheochromocytoma Across the Perioperative Course: Current Concepts and Clinical Management.",
-      "abstract": "Pheochromocytoma is an uncommon neuroendocrine tumor with myriad nonspecific clinical presentations. If not recognized and treated, it is associated with the development of target organ damage and complications such as myocarditis, cardiomyopathy, cerebrovascular accidents, and diabetes mellitus, among numerous others. The pheochromocytoma diagnosis is based on biochemical proof of catecholamine excess followed by imaging localization of the tumor. Patients with newly diagnosed pheochromocytoma should be seen by a multidisciplinary perioperative team, including the anesthesiologist, operating surgeon, endocrinologist, and cardiologist. Perioperative antihypertensive therapy should be instituted prior to adrenal resection to allow for cardiovascular recovery and to hopefully mitigate the hypertensive response to laryngoscopy and tumor manipulation. The anesthesiologist must be prepared to manage both intraoperative hypertension, hypotension, and glycemic disturbances, among other possible complications. Patients with previously undiagnosed pheochromocytoma who present for unrelated surgery represent a high-risk group. Once intraoperatively suspected, priority should be given to immediate stabilization, cessation of surgery when feasible, and close communication with the surgical team regarding whether the procedure should be aborted, limited, or continued based on the urgency of the operation and the patient's clinical status. In most cases, nonessential surgery should be aborted. The postoperative level of care should be based on intraoperative patient courses and institutional protocols and guidelines to monitor and manage postresection hypoglycemia and vasoplegia, when they occur. This narrative review aims to provide practicing anesthesiologists with an updated, practical framework for the perioperative recognition and management of pheochromocytoma. We integrate contemporary evidence with anesthesia-specific decision-making, including the management of catecholamine-induced cardiovascular dysfunction, perioperative fluid and vasoactive therapy, medication-triggered crises, and a dedicated approach to previously undiagnosed pheochromocytoma presenting during unrelated surgery.",
-      "journal": "Anesthesiology research and practice",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "42822597",
-      "doi": "10.1016/j.eprac.2026.09.014",
-      "title": "Association of Post-Dexamethasone Cortisol With Cardiovascular and Metabolic Comorbidities in Patients With Nonfunctioning Adrenal Adenomas.",
-      "abstract": "To determine whether post-dexamethasone suppression test (DST) cortisol within the conventionally suppressed range is associated with documented atherosclerotic cardiovascular disease (ASCVD) and cardiometabolic comorbidities in nonfunctioning adrenal adenomas (NFAAs). This retrospective single-center study included 444 adults with homogeneous adrenal lesions smaller than 4 cm, unenhanced computed tomography attenuation of 10 Hounsfield units or less, no adrenal hormone excess, and post-1 mg DST cortisol of 1.8 \u03bcg/dL or less. Documented ASCVD was the primary outcome; metabolic syndrome and other cardiometabolic conditions were secondary outcomes. ROC analysis and multivariable logistic regression were performed, with cortisol modeled per 0.1 \u03bcg/dL increase. Women comprised 69.6% of the cohort; median age was 57 years and median post-DST cortisol was 0.96 \u03bcg/dL. Each 0.1 \u03bcg/dL increase was independently associated with 21% higher odds of documented ASCVD (adjusted odds ratio, 1.21; 95% CI, 1.09-1.34; P<.001). The ROC area under the curve was 0.820 (95% CI, 0.781-0.860). The exploratory Youden-optimal value was 0.985 \u03bcg/dL, with 87% sensitivity, 71% specificity, 59% positive predictive value, and 92% negative predictive value. Post-DST cortisol was also independently associated with metabolic syndrome (adjusted odds ratio, 1.24; 95% CI, 1.13-1.35; P<.001). Higher post-DST cortisol within the suppressed range was independently associated with documented ASCVD and showed substantial discrimination. These findings support a cardiometabolic gradient below the mild autonomous cortisol secretion threshold but do not establish a diagnostic cutoff.",
-      "journal": "Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
     {
       "pmid": "42795710",
       "doi": "10.3390/jcm15186938",
       "title": "Pheochromocytoma Presenting as Spontaneous Adrenal Hemorrhage in a Normotensive Patient: A Case Report.",
       "abstract": "Background: Pheochromocytoma is a rare tumor of the adrenal medulla, often associated with hypertension, headache, diaphoresis, and palpitations, but presentations vary; some are silent until incidentally found or when complications develop. One rare complication is spontaneous adrenal hemorrhage, previously mainly found at autopsy, which can extend into the retroperitoneum, causing acute pain and mimicking emergencies. Imaging modalities like computed tomography are vital for detection, especially in acute cases, while magnetic resonance imaging provides greater tissue detail to identify tumors such as pheochromocytomas. If a functional adrenal tumor is suspected, biochemical tests for catecholamine excess are crucial for diagnosis and management. In this report, we present a case of pheochromocytoma that initially manifested with spontaneous adrenal hemorrhage without hypertension, thereby complicating and prolonging the diagnostic process. Case presentation: A previously healthy 34-year-old man presented with sudden, severe right-sided abdominal and flank pain, nausea, vomiting, and headache. He was normotensive but anemic and required a red blood cell transfusion. Initial computed tomography revealed a large hemorrhagic lesion in the right retroperitoneal space. The hematoma was managed conservatively. Magnetic resonance imaging confirmed subacute hematoma. Follow-up computed tomography showed gradual regression of the hematoma but persistence of an enhancing right adrenal lesion. Elevated plasma metanephrine and normetanephrine levels, together with positive iodine-123 metaiodobenzylguanidine imaging and preoperative computed tomography, supported the diagnosis of pheochromocytoma. After preoperative alpha-adrenergic blockade, laparoscopic right adrenalectomy was performed without complications. Histopathology confirmed a pheochromocytoma classified as moderately differentiated (GAPP), with a Ki-67index of 1-3%. Genetic testing showed no pathogenic variants in the analyzed genes associated with hereditary pheochromocytoma or paraganglioma syndromes. Conclusions: Spontaneous adrenal hemorrhage may be the first sign of pheochromocytoma, even in normotensive patients. Acute bleeding can obscure the tumor. Persistent adrenal lesions after hematoma regression should be monitored with computed tomography or magnetic resonance imaging, along with biochemical and functional evaluation, to avoid serious complications or death.",
       "journal": "Journal of clinical medicine",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42823975",
-      "doi": "10.1016/j.adro.2026.102165",
-      "title": "Predicting Intolerance to Deep-Inspiration Breath-Hold for Abdominal Cancer Radiation Therapy.",
-      "abstract": "This study aimed to predict deep-inspiration breath-hold (DIBH) intolerance during abdominal cancer radiation therapy and its impact on residual motion, based on patient characteristics and DIBH performance at simulation. We retrospectively studied 82 patients on voluntary DIBH for abdominal cancers between January and July 2022. DIBH was performed using infrared markers to track abdominal wall motion. The anteroposterior motion during simulation was recorded as a reference trace based on which a gate window was set. DIBH intolerance was defined as modification of the gate window or conversion to free breathing during the treatment course. Predictive features included reference trace characteristics (breath-hold level [BHL], DIBH stability and reproducibility, free-breathing amplitude, period, baseline drift) and baseline clinical characteristics (age, performance status, comorbidities, anxiety, preferred language). Univariate tests and random forest multivariate modeling were used for analysis, with model performance assessed using 10-fold cross-validation. The association between predicted intolerance and residual fiducial motion during treatment in a subset of 15 patients, was also investigated. A statistically significant association was found between BHL at simulation and DIBH intolerance (4% false discover rate). A 1-mm increase in BHL increased intolerance risk by 7%. The multivariate model, combining trace and clinical characteristics, predicted DIBH intolerance with a median area under the curve of 0.63. Reference trace characteristics showed higher predictive importance than clinical characteristics. The predicted intolerance risk increased sharply for BHL >25 mm. Residual motion was significantly higher for the patient intolerant of DIBH (P = .02). A moderate positive correlation (r = 0.46, P = .08) was observed between the model prediction and residual motion during treatment. Coaching patients to reach appropriate BHL is critical to DIBH tolerability and to reduce residual motion. The multivariate model suggests a limited but potential framework for predicting intolerance risk.",
-      "journal": "Advances in radiation oncology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42819789",
-      "doi": "10.3389/fendo.2026.1935980",
-      "title": "Immune checkpoint inhibitor-related endocrinopathies: from immune crosstalk to predictive biomarkers and precision management.",
-      "abstract": "Immune checkpoint inhibitors (ICIs) have significantly prolonged patient survival in cancer therapy; however, overactivated immune responses can lead to endocrine immune-related adverse events (irAEs), primarily manifesting as thyroid dysfunction, hypophysitis, adrenal insufficiency, and insulin-dependent diabetes mellitus. Some of these endocrine injuries are irreversible and lack early warning indicators. This narrative review summarizes current evidence regarding the mechanisms underlying ICI-induced endocrine toxicities, including immune checkpoint pathways, organ-specific autoimmune responses, host-related factors, predictive biomarkers, and emerging precision management strategies. It summarizes potential predictive biomarkers, including thyroid autoantibodies, cytokine profiles, and single-cell sequencing, and discusses emerging approaches, including imaging-based assessment, liquid biopsy, and multidimensional prediction models, while emphasizing their current limitations and the need for prospective validation. Finally, by integrating organ-specific mechanistic evidence, biomarker-based prediction, and risk-stratified monitoring, this review frames these advances within the concept of \"proactive endocrine protection,\" emphasizing the transition from passive toxicity management toward earlier identification and individualized surveillance.",
-      "journal": "Frontiers in endocrinology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "42822599",
-      "doi": "10.1016/j.eprac.2026.08.027",
-      "title": "Analysis of the clinical profile of multiple endocrine neoplasia syndromes and the association with other tumors.",
-      "abstract": "To examine the clinical profile of patients with MEN syndromes and possible associations with tumors less commonly identified in these conditions. We present data from a chart review of 182 patients from our MEN registry. We identified 106 patients with MEN1 and 76 with MEN2 defined by clinical criteria. 45 patients with MEN1 and 69 with MEN2 were genetically confirmed cases. Among all patients with clinical MEN1, commonly associated tumors included parathyroid (89.6%), pituitary (61.3%), and gastroenteropancreatic neuroendocrine tumors (65.1%). Other tumors included papillary thyroid cancer (5.7%), renal cell carcinoma (4.7%), breast cancer, melanoma, lymphoma (1.9% each), lung cancer, bladder cancer, multiple myeloma and liposarcoma (0.9% each). Among patients with clinical MEN2, commonly associated tumors included medullary thyroid cancer (60.5%), pheochromocytoma (31.6%), and hyperparathyroidism due to parathyroid adenoma or hyperplasia (14.5%). Other tumors included breast cancer (6.6%), lymphoma (2.6%), papillary thyroid cancer (5.3%), non-small cell lung cancer, melanoma, multiple myeloma and glioblastoma multiforme (1.3% each). The study found many tumors not commonly associated with MEN1 and MEN2 syndromes in patients with these conditions. Further investigations are needed to clarify the role of MEN1 and RET mutations in tumorigenesis to aid in early diagnosis, management, and better outcomes.",
-      "journal": "Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42788146",
-      "doi": "10.7759/cureus.115173",
-      "title": "A Giant Adenomatoid Tumor of the Adrenal Gland: A Report of a Rare and Interesting Case.",
-      "abstract": "Adenomatoid tumor (AT) is a rare benign mesothelial neoplasm that typically arises in the genital tract. Adrenal involvement is exceptionally uncommon, with fewer than 50 cases reported in the literature. Because of its nonspecific clinical and radiological features, preoperative diagnosis is challenging and malignancy is often suspected. We report the case of a 48-year-old man in whom a left adrenal mass was incidentally discovered during evaluation for renal colic. Hormonal assessment demonstrated a non-functioning adrenal lesion. Computed tomography and magnetic resonance imaging revealed a large, well-circumscribed 12-cm heterogeneous mass with predominant cystic degeneration, thick septations, and intralesional calcifications, raising suspicion of a malignant adrenal neoplasm. The patient underwent open left adrenalectomy. Gross examination showed a well-defined yellowish tumor with extensive cystic changes and calcifications. Histologically, the lesion consisted of anastomosing cystic spaces lined by bland flattened to cuboidal cells, associated with lymphoid aggregates, fibrosis, calcifications, and focal ossification. Immunohistochemistry demonstrated strong positivity for CK7, calretinin, WT1, and D2-40, confirming mesothelial differentiation, while CD31 and CD34 were negative. These findings established the diagnosis of adrenal AT. The postoperative course was uneventful, and no recurrence has been observed during follow-up. Adrenal AT is a rare benign lesion that may mimic malignant adrenal neoplasms, particularly when large and cystic. Histopathological and immunohistochemical examination remains essential for definitive diagnosis. Complete surgical excision is curative and associated with an excellent prognosis.",
-      "journal": "Cureus",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42794576",
-      "doi": "10.3390/ijms27188146",
-      "title": "Integrating Molecular and Imaging Insights: Ryanodine Receptor 2 (RyR2) Expression, CK18 Status, and Conventional MRI Findings in Pituitary Neuroendocrine Tumors.",
-      "abstract": "Ryanodine receptor 2 (RyR2) has been increasingly recognized as an important regulator in cancer biology. Previous studies demonstrate that RyR2 expression is associated with patient survival, although its precise role in tumorigenesis remains unclear. Elevated RyR2 expression has been linked to poorer survival outcomes, while gene silencing or pharmacological inhibition (e.g., with S107) has been shown to reduce cancer cell metastasis in both in vitro and in vivo models. Cytokeratin 18 (CK18), a key epithelial marker, is associated with tumor differentiation, hormonal phenotype, and clinical behavior in pituitary neuroendocrine tumors (PitNETs), reflecting underlying cytoskeletal organization. Variations in CK18 expression have been linked to distinct adenoma subtypes and may provide insight into tumor aggressiveness. This exploratory study investigated associations between RyR2 expression, CK18 status, and conventional MRI findings of pituitary tumors. Quantitative T2-weighted signal intensity and radiomic features were not assessed. This exploratory observational study used prospective patient recruitment between January 2017 and January 2026, after ethics approval was obtained in December 2016. RyR2 expression in immunohistological samples was quantified using QuPath v0.6.0. CK18 immunostaining was performed with the Dako Omnis system according to the manufacturer's protocols. Conventional MRI findings were available for 24 patients and were retrospectively reviewed. Statistical analysis was conducted using SPSS/W 31.0. No statistically significant associations were observed between RyR2 expression and sex, hormonal activity, tumor size, invasiveness, recurrence, or the evaluated conventional MRI findings (all p > 0.05). The only statistically significant finding was higher RyR2 expression in CK18-negative than in CK18-positive tumors (median (IQR): 2.49% (18.36%) vs. 0.06% (0.39%); p = 0.006; r = 0.47). Higher RyR2 expression was observed in CK18-negative tumors. Given the exploratory design and limited sample size, this association should be considered hypothesis-generating and requires validation in larger independent cohorts.",
-      "journal": "International journal of molecular sciences",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42823964",
-      "doi": "10.1016/j.isci.2026.117554",
-      "title": "A biomaterials roadmap from retinoic acid biology to kidney regenerative therapy.",
-      "abstract": "The mammalian kidney cannot generate new nephrons after birth, a key driver of chronic kidney disease progression toward end-stage renal disease. Retinoic acid (RA) is an evolutionarily conserved morphogen essential for kidney development, and its signaling is reactivated after injury to coordinate repair-yet this endogenous repair program is transient and insufficient to guide the kidney along the regenerative continuum toward de novo nephron formation. Despite its regenerative potential, RA's clinical translation is limited by systemic toxicity, a narrow therapeutic window, and poor pharmacokinetics. Here, we synthesize evidence from developmental biology and injury models showing that RA can activate endogenous renal progenitor programs. We then analyze its pharmacological and toxicity barriers and introduce a developmental bioinspiration framework using renal-targeted nanocarriers and multifunctional scaffolds to overcome these obstacles. By recapitulating native RA signaling dynamics, these platforms aim to steer the adult kidney away from maladaptive fibrosis and toward functional restoration.",
-      "journal": "iScience",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "42823649",
-      "doi": "10.1111/jne.70269",
-      "title": "Patient-reported measures in hypothalamic-pituitary diseases.",
-      "abstract": "Modern medicine centres its focus on the central stakeholder, the patient, to deliver a more patient-centred and holistic care and improve quality of care, emphasizing the importance of communication between healthcare providers and patients. To learn how the patient experiences and evaluates outcome of any health intervention, different tools have been developed, known as PREMs (Patient-Reported Experience Measures) and PROMs (Patient-Reported Outcome Measures). PREMs reflect the patient's personal experience when being cared for, like whether the professionals explained things clearly, or if they felt they were treated with dignity and are indicators of the care process, i.e., communication, access, environment, coordination, etc. and are used to improve service quality and patient-centredness. PROMs are linked to clinical outcomes and reflect the patient's feelings about their health and may include, among others, pain scales, mobility questionnaires or psychosocial inventories. They are used to assess the effectiveness of treatment, like before and after surgery and focus on symptoms, functioning, and health-related quality of life (HRQoL). This review summarizes available information on PREMs, PROMs and HRQoL in patients with hypothalamic-pituitary diseases, specifically, Cushing disease, acromegaly, prolactinoma, non-functioning pituitary adenoma, hypopituitarism (including adult growth hormone and arginine vasopressin deficiencies) and craniopharyngioma. On the whole, hormone dysfunction and mass control after medical or surgical treatment improves HRQoL, but it often remains worse than in healthy control population. Additionally, it is important to ask the patients what affects them most, since the identification and relevance of complaints and experiences are often different among pituitary patients and healthcare providers.",
-      "journal": "Journal of neuroendocrinology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "42620427",
-      "doi": "10.1097/GOX.0000000000008034",
-      "title": "Successful Management of Postoperative Galactorrhea after Reduction Mammaplasty.",
-      "abstract": "Galactorrhea after reduction mammoplasty is a rare postoperative complication, usually associated with hormonal dysregulation or pituitary abnormalities. A 43-year-old woman with symptomatic macromastia underwent bilateral superomedial pedicle reduction mammoplasty. Three days postoperatively, she developed high-volume bilateral milky drainage through her surgical drains. Laboratory evaluation revealed elevated prolactin (96\u2009ng/mL; reference value 5-23\u2009ng/mL). Imaging demonstrated a partially empty sella without pituitary mass. Endocrinology initiated cabergoline therapy, resulting in suppression of prolactin and resolution of the galactorrhea. The patient's drains were maintained until the galactorrhea ceased, and she went on to heal well without complication. Galactorrhea after breast reduction surgery secondary to transient hyperprolactinemia is a rare but clinically significant complication. Prompt recognition and multidisciplinary management including drain maintenance, lactation suppression, and exclusion of prolactinoma are important steps in preventing wound healing complications and achieving optimal outcomes.",
-      "journal": "Plastic and reconstructive surgery. Global open",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42244465",
-      "doi": "10.1111/dom.70928",
-      "title": "Clinical Implications and Research Progress of Salivary Biomarkers for Endocrine and Metabolic Disorders.",
-      "abstract": "Similar to blood, saliva contains a broad range of biomarkers and may offer a non-invasive, repeatable specimen for endocrine and metabolic assessment. This review aims to synthesise and evaluate recent advances in the clinical translation of salivary biomarkers, while providing a critical assessment of the diagnostic reliability and clinical potential of key salivary biomarkers. PubMed, Web of Science and ScienceDirect were searched for English-language articles published up to July 2025, with emphasis on studies from 2020 to 2025. We included articles with a focus on the clinical translation of salivary biomarkers for endocrine and metabolic disorders. The relevant studies on the physiology underlying the synthesis and transport of salivary biomarkers were also identified. Late-night salivary cortisol is the most clinically established marker and is guideline-endorsed for Cushing's syndrome, while salivary cortisone may improve the diagnostic accuracy. Salivary glycaemic biomarkers, such as glucose, 1,5-anhydroglucitol, fructosamine, glycated albumin and \u03b1-amylase, show potential for diabetes screening or monitoring. Salivary uric acid, inflammatory factors and adipokines may reflect hyperuricaemia, obesity and metabolic inflammation. However, most biomarkers remain exploratory and their clinical translation is limited by inconsistent collection procedures, oral disease, medication effects and analytical platforms. Salivary biomarkers offer a promising non-invasive approach for assessment of endocrine and metabolic disorders. Standardised procedures and large-scale multicentre validation are needed to define reliable clinical cutoffs and perform comparisons with blood-based reference standards. Applications for machine learning and wearable sensing technology can further promote clinical translation.",
-      "journal": "Diabetes, obesity & metabolism",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "42768234",
-      "doi": "10.1208/s12248-026-01294-z",
-      "title": "Immunogenicity Profile of Lonapegsomatropin During Long-Term Treatment in Children With Growth Hormone Deficiency.",
-      "abstract": "Monitoring and evaluation of immunogenicity is important for biological therapeutics due to the potential impact of antibodies on safety and efficacy. A comprehensive immunogenicity assessment was conducted to support clinical development of lonapegsomatropin, a prodrug of somatropin, administered once weekly. Lonapegsomatropin is approved in the United States for pediatric and adult growth hormone deficiency (GHD), and in other countries for pediatric GHD. Lonapegsomatropin consists of somatropin, an inert methoxy polyethylene glycol carrier (mPEG), and a proprietary TransCon\u00ae linker that transiently binds somatropin to the carrier. Four dedicated immunoassays were developed, validated, and applied in a risk-based tiered approach to rigorously assess the immunogenicity of lonapegsomatropin in children with GHD. Samples collected from 298 children with GHD treated with lonapegsomatropin for up to six years were analyzed for anti-drug antibodies (ADAs) against lonapegsomatropin (intact prodrug), released somatropin, and mPEG. Treatment-emergent anti-lonapegsomatropin, anti-somatropin, and anti-mPEG binding antibodies were detected in 4.7%, 5.4%, and 0.7% of treated children, respectively. ADA responses were low titer, transiently detected, and primarily observed within the first year of treatment, and no neutralizing antibodies were detected. These findings support the long-term low immunogenicity of lonapegsomatropin in children with GHD, consistent with somatropin. Importantly, the multi-assay tiered strategy applied here was robust and reproducible, enabling sensitive detection of ADAs against the intact prodrug, mPEG, and released somatropin across trials, and demonstrated its clinical applicability for evaluating a complex long-acting growth hormone like lonapegsomatropin.",
-      "journal": "The AAPS journal",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42823982",
-      "doi": "10.3389/fneur.2026.1940068",
-      "title": "Flow diversion versus conventional endovascular treatment for ruptured basilar artery dissecting aneurysms: a single-center cohort study.",
-      "abstract": "Ruptured basilar artery dissecting aneurysms (BADAs) are rare and associated with high risks of rebleeding, brainstem ischemia, and death. Evidence specific to the basilar artery remains limited, and experience derived from vertebral artery dissections may not be directly transferable because the basilar trunk supplies numerous critical pontine perforators and generally cannot be sacrificed. To describe the real-world management of a consecutive cohort of ruptured BADA and compare long-term clinical outcomes after primary flow diverter (FD)-based versus conventional endovascular treatment. This retrospective single-center cohort study included consecutive patients with angiographically confirmed ruptured BADA who underwent endovascular treatment between February 2015 and April 2024. Patients were classified according to the index endovascular treatment as the FD group or the conventional endovascular treatment group. The primary outcome was favorable functional outcome (mRS 0-2) at the last follow-up. Secondary outcomes included mortality, retreatment, complications, and descriptive radiological outcomes. Twenty-two patients were included: 5 received FD-based treatment as the index strategy and 17 received conventional endovascular treatment. Fusiform morphology was more frequent in the FD group (80.0% vs. 23.5%, p =\u202f0.039), while aneurysm maximum diameter was numerically larger (median 19.0 vs. 6.0\u202fmm, p =\u202f0.078). At the last follow-up, 4 of 5 patients (80.0%) in the FD group and 9 of 17 patients (52.9%) in the conventional group had a favorable outcome (p\u202f=\u202f0.360). Mortality was 20.0 and 47.1%, respectively (p\u202f=\u202f0.360). Primary FD-based reconstruction was feasible in selected ruptured BADA, particularly in anatomically complex or fusiform lesions. Given the small sample, non-randomized treatment selection, and absence of statistically significant between-group differences, these findings support individualized treatment and do not establish superiority of either strategy.",
-      "journal": "Frontiers in neurology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Comparative Study"
-      ]
-    },
-    {
-      "pmid": "42774794",
-      "doi": "10.1093/jscr/rjag807",
-      "title": "Adrenal myelolipoma with severe hemorrhage: a case report.",
-      "abstract": "Adrenal masses are identified with abdominal imaging, most of them are benign and nonfunctioning. They are typically managed conservatively; however, large lesions may present with complications requiring urgent intervention. We present a case of a 65-year-old male with right flank pain found to have a rapidly enlarging hemorrhagic right adrenal mass measuring 15.4\u2009\u00d7\u200913.1\u2009\u00d7\u200917.9\u00a0cm with mixed fat and soft tissue components. Hormonal evaluation was negative for a functional adrenal tumor, though malignancy could not be excluded due to ongoing hemorrhage and lesion size. The patient required blood transfusion and open adrenalectomy with en bloc right colectomy. The mass was densely adherent to surrounding structures with significant clot burden. Final pathology confirmed an adrenal myelolipoma composed of mature adipose tissue and tri-lineage hematopoietic elements with extensive intra-tumoral hemorrhage and necrosis. This case highlights the importance of prompt surgical management of large hemorrhagic adrenal masses.",
-      "journal": "Journal of surgical case reports",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42820462",
-      "doi": "10.1530/ERC-26-0310",
-      "title": "'Paraganglioma and pheochromocytoma: a review of current guidelines, new diagnostic and therapeutic approaches'.",
-      "abstract": "Paragangliomas and pheochromocytomas, recently reclassified to unify the disease as extra-adrenal and intra-adrenal paragangliomas, are rare neuroendocrine tumours. These tumours have an exceptionally strong hereditary component, with up to 40% of cases being driven by germline mutations in susceptibility genes and therefore a cornerstone of modern PPGL care is the genotype-first approach, which heavily dictates initial assessment, surgical strategy, and follow-up. In recent years, the clinical landscape has evolved rapidly, leading to the publication of more than ten new consensus statements since 2022 alone. This review article highlights some of these major paradigm shifts including i) a transition towards genotype-tailored clinical management, ii) specialised paediatric diagnostic and management protocols, iii) updated histopathological criteria, iv) the use of advanced targeted therapeutics, and v) the integration of novel predictive tools.",
-      "journal": "Endocrine-related cancer",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42794158",
-      "doi": "10.3390/children13091138",
-      "title": "Acute Neurological Deterioration in a Child with Shunt-Dependent Post-Hemorrhagic Hydrocephalus: A Case Report.",
-      "abstract": "Post-hemorrhagic hydrocephalus (PHH) is a serious neurological sequela of severe intraventricular hemorrhage (IVH) in premature infants and remains one of the leading indications for ventriculoperitoneal (VP) shunt placement. Evaluating possible VP shunt-related complications can be challenging because clinical manifestations are often nonspecific, neuroimaging may initially appear unchanged, and microbiological cultures may remain negative. We report the case of a 19-month-old male born at 28 weeks' gestation who developed Grade IV germinal matrix/intraventricular hemorrhage with bilateral intraparenchymal extension, early periventricular cystic leukomalacia, and post-hemorrhagic communicating hydrocephalus requiring multiple cerebrospinal fluid diversion procedures culminating in long-term VP shunt dependence. His medical history was notable for recurrent neonatal meningitis, secondary epilepsy with previous episodes of status epilepticus, secondary adrenal insufficiency, and severe global developmental delay. He presented with fever, recurrent coffee-ground vomiting, abdominal distension, progressive lethargy, reduced responsiveness, and localized erythematous swelling over the cranial VP shunt reservoir, raising concern for possible shunt-related pathology. During hospitalization, he deteriorated with status epilepticus and respiratory failure, with clinical concern for increased intracranial pressure, requiring admission to the Pediatric Intensive Care Unit (PICU). Laboratory investigations demonstrated leukocytosis, elevated C-reactive protein, cerebrospinal fluid pleocytosis, markedly elevated CSF protein, and CSF glucose of 2.0 mmol/L, for which a paired serum glucose value was unavailable, while repeated blood, urine, wound, and CSF cultures remained negative. Initial computed tomography (CT) demonstrated no significant interval change in the chronic hydrocephalus despite progressive neurological deterioration; however, serial neuroimaging later revealed progressive bilateral extra-axial fluid collections with radiological features suggestive of an evolving subacute subdural hemorrhage. The patient was managed with empirical broad-spectrum intravenous antibiotics, aggressive seizure control, stress-dose corticosteroids, respiratory support, and continuous multidisciplinary monitoring. His neurological and respiratory status subsequently improved, and he returned to his pre-admission neurological baseline before discharge with planned further evaluation at a tertiary pediatric neurosurgical center. This case highlights the diagnostic uncertainty surrounding acute neurological deterioration in a child with shunt-dependent PHH. VP shunt-related infection or malfunction remained important but unconfirmed diagnostic considerations, alongside competing or potentially overlapping contributors including status epilepticus, evolving extra-axial collections, respiratory infection, and endocrine or metabolic decompensation. No single etiology was definitively established. The case emphasizes the importance of serial neurological assessment, consideration of alternative diagnoses, repeat neuroimaging, and multidisciplinary evaluation when initial investigations do not establish the cause of deterioration.",
-      "journal": "Children (Basel, Switzerland)",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42788628",
-      "doi": "10.1002/ppul.71833",
-      "title": "A Multidisciplinary Approach to the Anesthetic Management of Patients With Duchenne Muscular Dystrophy.",
-      "abstract": "Duchenne muscular dystrophy (DMD) is an inherited neuromuscular disorder with multisystem involvement that causes progressive muscular weakness and cardiorespiratory dysfunction. The first comprehensive recommendations regarding anesthetic management are now almost 20 years old and, in the interval, DMD care has evolved. Patients with DMD are experiencing prolongation of survival and, with widespread use of assisted ventilation, cardiac function has become the main determinant of their survival. Newer procedures, such as advanced cardiac interventions, are now performed, in a population of older, medically fragile individuals. Regional anesthetic techniques have advanced, allowing more patients to avoid the risks of inhalational anesthesia, and newer techniques for reversing neuromuscular blockade and minimizing cardiorespiratory depression have become available. Additionally, new medications are being used that have anesthetic implications, including newer guideline-directed heart failure medications. Overall, it has become increasingly important for perioperative management to be addressed in a multidisciplinary way, with coordination between medical, surgical, and anesthetic clinicians. In this narrative review, we provide information on how DMD's multi-system involvement impacts perioperative assessment and management, and we advocate for a multidisciplinary approach to perioperative care.",
-      "journal": "Pediatric pulmonology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "42823747",
-      "doi": "10.1186/s13287-026-05098-y",
-      "title": "Functional analysis of adrenocorticotropic-hormone-producing pituitary cells derived from human pluripotent stem cells in murine and primate models of hypopituitarism.",
-      "abstract": "Hypopituitarism has a prevalence of approximately 45.5 cases per 100,000 population, is therefore not a rare condition. Hypopituitarism does not resolve spontaneously and is designated as an intractable disease. In particular, deficiency of adrenocorticotropic hormone (ACTH) can result in adrenal insufficiency and life-threatening crises. The current standard of care is hormone replacement therapy; however, precise adjustment to match the physiological variations of hormone demand, such as circadian rhythm and stress responses, is often difficult. Consequently, hypopituitarism patients face a risk of sudden death higher than that in healthy individuals. Our goal is to generate pituitary hormone-producing cells capable of responding to environmental cues, and thereby to provide a novel therapy with physiological responsiveness and assured safety. We previously established a clinically relevant protocol for efficiently generating pituitary-hypothalamus organoids, containing ACTH-producing cells, from human pluripotent stem cells (hPSCs). To provide proof of concept for their therapeutic use as pituitary cell preparations, we transplanted human embryonic-stem-cell-derived pituitary-hypothalamus organoids beneath the subcutaneous tissue of hypopituitary severe combined immunodeficiency mice and evaluated their effects. We next created a hypopituitary cynomolgus monkey model and performed subcutaneous transplantation of pituitary-hypothalamus organoids under an immunosuppressive regimen adapted from human clinical islet-transplantation protocols. In mice, transplanted pituitary-hypothalamus organoids survived for more than 6 mo, significantly improved circulating ACTH concentrations, and prolonged survival beyond that of sham-operated mice. In a cynomolgus monkey, transplanted organoids functioned for 6 w and increased circulating ACTH concentrations. To our knowledge, no previous study in primates has demonstrated efficacious pituitary cell transplantation, whether derived from fetal pituitary, xenogeneic pituitary, or PSCs. Future priorities include the acquisition of comprehensive non-clinical data to inform design of first-in-human clinical trials; optimisation of transplantation techniques; evaluation of immunosuppressive and adjunctive therapies; and assessment of safety and efficacy parameters. In parallel, the development of scalable manufacturing platforms utilising clinical-grade induced PSCs will be essential to establish the foundation for the eventual clinical application of pituitary cell transplantation therapy.",
-      "journal": "Stem cell research & therapy",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42823980",
-      "doi": "10.3389/fonc.2026.1943838",
-      "title": "Case Report: Triple-negative metaplastic breast carcinoma with primary resistance to neoadjuvant chemoimmunotherapy, refractory tumor necrosis-related fever, and rapid postoperative disease progression.",
-      "abstract": "Metaplastic breast carcinoma (MpBC) is a rare and highly heterogeneous breast malignancy. Although most cases exhibit a triple-negative phenotype, MpBC differs from conventional triple-negative breast cancer in its biological behavior, treatment response, and metastatic pattern. Neoadjuvant chemoimmunotherapy has become an important strategy for high-risk early-stage triple-negative breast cancer; however, the evidence supporting its use in MpBC remains limited. A 54-year-old woman was initially diagnosed with locally advanced triple-negative breast cancer of the left breast with ipsilateral axillary lymph node metastasis. A pembrolizumab-containing neoadjuvant regimen was initiated, with paclitaxel plus carboplatin as the initial chemotherapy backbone and planned sequential doxorubicin plus cyclophosphamide. After two cycles of initial neoadjuvant therapy, she developed recurrent high-grade fever, with extensive negative infectious workup and poor response to broad-spectrum antibiotics. Incision of the breast lesion revealed extensive gray-white necrotic tissue rather than typical purulent discharge. Multidisciplinary evaluation suggested tumor necrosis-related fever, and a modified radical mastectomy was performed. Fever resolved rapidly after surgery, and inflammatory markers decreased. Postoperative pathology confirmed high-grade triple-negative metaplastic breast carcinoma with Miller-Payne grade 1 response, a Ki-67 index of approximately 75%, and no definite axillary lymph node metastasis. Despite postoperative systemic treatment adjustment, the patient developed lumbar and hip symptoms with suspicious bone and soft-tissue lesions and rapidly progressed to cachexia. She died of systemic failure 5 months after surgery. This case highlights that persistent fever during neoadjuvant chemoimmunotherapy in MpBC should prompt careful exclusion of infection, while tumor necrosis-related fever and immune-inflammatory amplification should also be considered. In patients with suspected or confirmed MpBC who develop early tumor progression, necrosis, ulceration, fever, or deterioration in performance status, timely pathological review, reassessment of treatment response, and multidisciplinary decision-making are essential. Earlier surgery may be necessary to establish definitive pathology, control the local inflammatory source, and preserve subsequent treatment opportunities.",
-      "journal": "Frontiers in oncology",
       "year": "2026",
       "publication_types": [
         "Case Reports",
@@ -407,21 +130,80 @@
       ]
     },
     {
-      "pmid": "42823962",
-      "doi": "10.1016/j.jtocrr.2026.101038",
-      "title": "Living With ALK Fusion-Positive NSCLC: A French Nationwide Survey of the Psychosocial Impact Among Patients, Caregivers, and Health Care Professionals.",
-      "abstract": "The development of ALK inhibitors has transformed the management of ALK fusion-positive (ALK+) NSCLC from a high-mortality disease to a more manageable chronic condition. This quantitative, nationwide French survey collated information via online questionnaires from patients (n = 85), caregivers (n = 27), and health care professionals (HCPs; n = 50) on the impact of ALK+ NSCLC on daily lives and psychosocial issues. Overall, 46 patients (54%) had received first-line and 39 patients (46%) second-line or later targeted therapy for a mean of 2.4 years. The most common disease-related challenges reported by patients and HCPs were psychological issues (56.5% and 78.0%), life-planning difficulties (50.6% and 64.0%), and limitations in physical activities of daily life (40.0% and 48.0%), respectively. HCPs consistently underestimated the impact of ALK+ NSCLC on patients' daily lives, especially regarding psychological difficulties, issues with relationships and intimacy, and financial struggles. ALK+ NSCLC had a major impact on caregivers' psychological problems, difficulties in realizing life plans, and professional difficulties. The most important patient-rated support and guidance needs were to establish a separate clinic dedicated to nonmedical problems, improve the systematic provision of wellness activities (e.g., yoga), make it easier to report adverse events to the medical team, provide psychological support, and enable exchanges with other patients (e.g., via discussion groups). Our study highlights several measures that can be introduced to reduce disease burden and improve quality of life and, besides routine medical follow-up, markedly improve the overall patient journey through ALK+ NSCLC.",
-      "journal": "JTO clinical and research reports",
+      "pmid": "42793791",
+      "doi": "10.3390/diagnostics16183006",
+      "title": "Adrenocortical Carcinoma: An Exceptional Survival Span Across a Tailored Management.",
+      "abstract": "Adrenocortical carcinoma (ACC) represents a very rare (an incidence of 1-2 cases per million) and aggressive malignancy (an overall 5-year survival of 15%). Less than 15-20% of cases involve a single metastatic disease. In this presentation, we documented a most exceptional survival span in a case of ACC, between the female patient's age of 50 and the current age of 66. The subject underwent an open right adrenalectomy three times (at first diagnosis, after recurrence 2 years later, and, most recently, 15 years after the initial diagnosis amid a multi-visceral resection). She initially displayed Cushing syndrome, which remitted post-surgery. While the first pathological report established an adrenocortical adenoma, after relapse, low-grade ACC was confirmed and the first tumor mass was re-assessed as ACC based on a similar pathological profile. Following the second surgery and ACC recognition, she started mitotane therapy for 5 years (which she tolerated well, although she developed primary adrenal insufficiency). During this period, a single metastatic disease was detected at the pulmonary level, and she underwent a successful thoracic surgical resection of a 2.5 cm metastasis in the left inferior lobe (2 years after the second adrenalectomy). After this 5-year course of mitotane, the disease was stable, and a 4-year withdrawal period was followed by a relapse with local adrenal recurrence and growth of several lung nodules. Mitotane was re-started, and the en bloc resection included the right adrenal tumor (of 12 cm), right kidney, three liver segments, retro-hepatic inferior vena cava, and (partial) left renal vein. The reconstruction of the inferior vena cava required a Dacron graft of 12 cm in addition to a synthetic graft, which was placed between the left renal vein and the first graft. During surgery and in the following weeks, she presented with several episodes of acute adrenal insufficiency despite continued prompt replacement. A peak ACTH of 369 (Normal: 7.2-63.3) pg/mL was reached at one point. Renal function remained stable. In the meantime, she continued levothyroxine replacement (50 to 75 \u00b5g/day) for mitotane-induced primary hypothyroidism. Postoperative, low-grade ACC was confirmed with a Ki67 of 15%, as previously found. She re-started mitotane in month 3 and completely recovered following 9 months, while an abdominal CT scan confirmed no adrenal remnants. Further close surveillance was mandatory. A particular aspect involves the patient's options (personalized management), as she declined chemotherapy, immunotherapy or radiotherapy at any point in life and delayed the third adrenalectomy during the COVID-19 pandemic and early post-pandemic years. This case highlights an exceptional survival span across two decades with an ailment with a generally poor prognosis. Another particular aspect involves a complex multi-segmental resection, which requires a highly skilled surgical team; only a limited number of cases have previously been published, and, to the best of our knowledge, there is no previous data with respect to a third intervention after 15 years of surviving with ACC.",
+      "journal": "Diagnostics (Basel, Switzerland)",
       "year": "2026",
       "publication_types": [
         "Journal Article"
       ]
     },
     {
-      "pmid": "42823955",
-      "doi": "10.3389/fonc.2026.1883637",
-      "title": "Case Report: Metachronous bilateral primary and secondary angiosarcoma of the breast.",
-      "abstract": "Breast angiosarcoma (AS) is an extremely rare and aggressive malignancy with no standardized treatment guidelines. We report an exceptional case of metachronous bilateral primary and secondary AS in a single patient, highlighting the diagnostic and therapeutic challenges posed by this disease. A patient underwent surgical dissection for primary AS of the right breast. Seven months later, a primary AS was identified in the left breast. Four months after that, a secondary angiosarcoma also developed within the previously irradiated left chest wall and axilla. Postoperative pathology confirmed angiosarcoma in all resected specimens. Following multidisciplinary team discussion, the patient received simple mastectomy, adjuvant chemotherapy, and radiotherapy. Despite this multimodal approach, contrast-enhanced CT follow-up revealed rapid disease progression with distant metastases to the lungs, liver, spleen, bilateral adnexa, and bones. The patient ultimately died of respiratory failure secondary to severe pulmonary infection and atelectasis 22 months after the initial diagnosis. This extraordinarily rare case of sequential bilateral primary and secondary breast AS underscores the aggressive biological behavior of this malignancy and the limitations of current therapeutic strategies. It highlights the urgent need for identifying specific diagnostic biomarkers and novel therapeutic targets to enable early detection and improve the dismal prognosis associated with this disease.",
+      "pmid": "42827467",
+      "doi": "10.3389/falgy.2026.1929466",
+      "title": "Case Report: Multisystem response to dupilumab in a child with atopic dermatitis, asthma, eosinophilic esophagitis, and other gastrointestinal manifestations.",
+      "abstract": "Atopic dermatitis (AD), asthma, and eosinophilic esophagitis (EoE) may coexist because they share type 2 inflammatory pathways. Evidence for dupilumab in children with EoE and other gastrointestinal manifestations remains limited. A 7-year-old girl had poorly controlled AD, recurrent asthma, EoE (>100 eosinophils/high-power field), and lower-density eosinophilic infiltration in gastric, ileal, and colonic biopsies. These extraesophageal findings did not uniformly satisfy proposed thresholds for definite non-EoE eosinophilic gastrointestinal disease. Severe AD despite topical therapy was the primary indication for dupilumab; the coexisting type 2 inflammatory disorders supported selection of a pathway-directed systemic treatment. Dupilumab was administered as a 600-mg loading dose followed by 300\u2005mg subcutaneously every 4 weeks. Over 48 weeks, pruritus resolved, skin lesions markedly improved, wheezing did not recur, inhaled salmeterol/fluticasone was reduced, appetite improved, and vomiting ceased. Follow-up endoscopy showed a smooth esophagus and no obvious duodenal abnormality, although gastric inflammation and small ulcers persisted and repeat histology was unavailable. Total IgE decreased from >2,000 to 211.2 IU/mL; peripheral eosinophils decreased from 0.64 to 0.30\u2009\u00d7\u200910\u2079/L. No treatment-related adverse events occurred. This case suggests that IL-4/IL-13 blockade may provide coordinated clinical benefit across multiple type 2 inflammatory organs. The gastrointestinal findings should be interpreted cautiously because symptom improvement was not confirmed by repeat biopsy.",
+      "journal": "Frontiers in allergy",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42827470",
+      "doi": "10.3389/ti.2026.16959",
+      "title": "European society for organ transplantation clinical practice guideline on prevention and treatment of chronic lung allograft dysfunction.",
+      "abstract": "Chronic lung allograft dysfunction (CLAD) is the primary cause of late graft loss after lung transplantation, affecting up to half of lung transplant recipients within 5\u00a0years and presenting with heterogeneous phenotypes, most commonly bronchiolitis obliterans syndrome (BOS) and restrictive allograft syndrome. Prevention and treatment of CLAD are challenging. This European Society for Organ Transplantation (ESOT) clinical practice guideline was developed by a multidisciplinary Task Force, including patient and allied healthcare representation, using systematic reviews and GRADE methodology. Eight key PICO questions addressing prevention and treatment of CLAD were evaluated. In terms of prevention, recommendations are in favor of using tacrolimus over cyclosporine, either mycophenolate or azathioprine, and azithromycin to reduce the risk of CLAD. Regarding treatment, montelukast could be considered in early-stage BOS. Current data are inconclusive in demonstrating benefits of anti-thymocyte globulin, alemtuzumab or extracorporeal photopheresis compared with standard of care, and do not support the use of antifibrotics in BOS. The Task Force emphasizes the urgent need for high-quality clinical trials and standardized care pathways in CLAD management.",
+      "journal": "Transplant international : official journal of the European Society for Organ Transplantation",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42827466",
+      "doi": "10.3389/fmed.2026.1948167",
+      "title": "Sacituzumab govitecan in metastatic breast cancer: a systematic review and meta-analysis of its clinical benefit and safety.",
+      "abstract": "Trophoblast cell surface antigen 2 (Trop-2), a transmembrane glycoprotein abundantly expressed in breast cancer tissues, has become a prominent target in precision cancer therapy, with Sacituzumab govitecan (SG) being the first antibody-drug conjugate (ADC) designed against it. Breast cancer, the most common malignancy in women, has a prognosis severely compromised by recurrence and metastasis. This meta-analysis of randomized controlled trials (RCTs) aims to systematically evaluate the clinical benefits and safety of SG in treating metastatic breast cancer (mBC). (https://www.crd.york.ac.uk/PROSPERO/view/CRD420261347978). A systematic search was carried out in PubMed, Embase, the Cochrane Library, and ClinicalTrials.gov, with a search period extending up to December 1, 2025, for RCTs examining the therapeutic efficacy and safety of SG for mBC. All statistical analyses were conducted using Review Manager (version 5.4), with pooled effect sizes computed using a fixed-effect or random-effects model depending on the degree of heterogeneity. A total of four phase III, multicenter, open-label RCTs were included in this systematic review. The experimental arm received sacituzumab govitecan (SG), and the control arm received chemotherapy. The efficacy analysis included 1,900 patients with metastatic breast cancer (mBC) (SG arm, n\u2009=\u2009952; control arm, n\u2009=\u2009948), and the safety analysis included 1,879 patients (SG arm, n\u2009=\u2009966; control arm, n\u2009=\u2009913). Compared with chemotherapy, SG significantly prolonged progression-free survival (PFS) (HR 0.58, 95% CI 0.46-0.72) and overall survival (OS) (HR 0.62, 95% CI 0.45-0.86). In addition, SG showed a trend toward higher objective response rate (ORR) and partial response (PR) rate, though neither difference was statistically significant; however, the complete response (CR) rate was significantly higher with SG (RR 1.94, 95% CI 1.11-3.38). The any-grade adverse events (AEs) with the highest reported incidence were neutropenia, followed by nausea, diarrhea, alopecia, anemia, and fatigue. Notably, treatment with SG was linked to a significantly elevated rate of grade \u22653 neutropenia (RR 1.24, 95% CI 1.06-1.46) and diarrhea (RR 8.46, 95% CI 1.48-48.51). SG may provide clinical benefit and favorable effects on HRQoL in mBC; however, its more definitive clinical advantages and the magnitude of benefit still require further validation. In addition, SG is associated with toxicities including neutropenia and diarrhea, warranting appropriate prophylactic measures in clinical practice. https://www.crd.york.ac.uk/PROSPERO/view/CRD420261347978, PROSPERO CRD420261347978.",
+      "journal": "Frontiers in medicine",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ]
+    },
+    {
+      "pmid": "42819789",
+      "doi": "10.3389/fendo.2026.1935980",
+      "title": "Immune checkpoint inhibitor-related endocrinopathies: from immune crosstalk to predictive biomarkers and precision management.",
+      "abstract": "Immune checkpoint inhibitors (ICIs) have significantly prolonged patient survival in cancer therapy; however, overactivated immune responses can lead to endocrine immune-related adverse events (irAEs), primarily manifesting as thyroid dysfunction, hypophysitis, adrenal insufficiency, and insulin-dependent diabetes mellitus. Some of these endocrine injuries are irreversible and lack early warning indicators. This narrative review summarizes current evidence regarding the mechanisms underlying ICI-induced endocrine toxicities, including immune checkpoint pathways, organ-specific autoimmune responses, host-related factors, predictive biomarkers, and emerging precision management strategies. It summarizes potential predictive biomarkers, including thyroid autoantibodies, cytokine profiles, and single-cell sequencing, and discusses emerging approaches, including imaging-based assessment, liquid biopsy, and multidimensional prediction models, while emphasizing their current limitations and the need for prospective validation. Finally, by integrating organ-specific mechanistic evidence, biomarker-based prediction, and risk-stratified monitoring, this review frames these advances within the concept of \"proactive endocrine protection,\" emphasizing the transition from passive toxicity management toward earlier identification and individualized surveillance.",
+      "journal": "Frontiers in endocrinology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42788146",
+      "doi": "10.7759/cureus.115173",
+      "title": "A Giant Adenomatoid Tumor of the Adrenal Gland: A Report of a Rare and Interesting Case.",
+      "abstract": "Adenomatoid tumor (AT) is a rare benign mesothelial neoplasm that typically arises in the genital tract. Adrenal involvement is exceptionally uncommon, with fewer than 50 cases reported in the literature. Because of its nonspecific clinical and radiological features, preoperative diagnosis is challenging and malignancy is often suspected. We report the case of a 48-year-old man in whom a left adrenal mass was incidentally discovered during evaluation for renal colic. Hormonal assessment demonstrated a non-functioning adrenal lesion. Computed tomography and magnetic resonance imaging revealed a large, well-circumscribed 12-cm heterogeneous mass with predominant cystic degeneration, thick septations, and intralesional calcifications, raising suspicion of a malignant adrenal neoplasm. The patient underwent open left adrenalectomy. Gross examination showed a well-defined yellowish tumor with extensive cystic changes and calcifications. Histologically, the lesion consisted of anastomosing cystic spaces lined by bland flattened to cuboidal cells, associated with lymphoid aggregates, fibrosis, calcifications, and focal ossification. Immunohistochemistry demonstrated strong positivity for CK7, calretinin, WT1, and D2-40, confirming mesothelial differentiation, while CD31 and CD34 were negative. These findings established the diagnosis of adrenal AT. The postoperative course was uneventful, and no recurrence has been observed during follow-up. Adrenal AT is a rare benign lesion that may mimic malignant adrenal neoplasms, particularly when large and cystic. Histopathological and immunohistochemical examination remains essential for definitive diagnosis. Complete surgical excision is curative and associated with an excellent prognosis.",
+      "journal": "Cureus",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42812240",
+      "doi": "10.3389/fonc.2026.1899311",
+      "title": "Von Hippel-Lindau syndrome presenting as a lateral ventricular space-occupying lesion: a case report.",
+      "abstract": "Von Hippel-Lindau disease is a rare autosomal dominant genetic disorder caused by mutations in the VHL tumor suppressor gene located on chromosome 3. Its core feature is the development of vascular-rich tumors or cysts in multiple organ systems at different ages, mainly manifesting as cerebellar hemangioblastoma, retinal hemangioblastoma, renal cell carcinoma and/or multiple renal cysts, and adrenal pheochromocytoma, among others. The disease is rare and involves multiple systems, making diagnosis challenging. Genetic testing has gradually become the gold standard for its diagnosis. This case report describes a 54-year-old male patient who presented with an intracranial space-occupying lesion detected during a health check-up three years earlier, as well as headache, dizziness, and decreased vision for more than four months. Imaging and pathological examinations ultimately confirmed a diagnosis of VHL syndrome, complicated by a rare \"collision tumor\" composed of an intracranial (lateral ventricular) hemangioblastoma and metastatic clear cell renal cell carcinoma. After resection of the lateral ventricular tumor, the patient developed extensive intracranial hemorrhage and fatal brainstem hemorrhage due to the inherently high vascularity of the hemangioblastoma, and eventually died. Through this complex and high-risk case, we discuss the diagnostic difficulties of VHL syndrome, the surgical risks of central nervous system lesions, and multidisciplinary management strategies, aiming to provide practical guidance for clinical practice.",
       "journal": "Frontiers in oncology",
       "year": "2026",
       "publication_types": [
@@ -430,13 +212,153 @@
       ]
     },
     {
-      "pmid": "42771717",
-      "doi": "10.1080/08998280.2026.2719087",
-      "title": "PTHrP-mediated hypercalcemia in metastatic adrenocortical carcinoma mimicking pheochromocytoma: a\u00a0diagnostic challenge.",
-      "abstract": "Humoral hypercalcemia of malignancy is a paraneoplastic syndrome mediated by parathyroid hormone-related peptide (PTHrP). Adrenal masses may present a diagnostic challenge when clinical, biochemical, and imaging findings overlap with endocrine tumors such as pheochromocytoma. We report an 80-year-old man presenting with severe hypercalcemia, normal phosphate levels, elevated PTHrP, and suppressed intact parathyroid hormone. Imaging revealed an 8.8\u2009cm heterogeneous left adrenal mass with hepatic and osseous lesions along with enlarged preauricular lymph nodes, suggestive of metastatic disease. Discordant catecholamine testing raised concern for pheochromocytoma; however, biopsy confirmed adrenocortical carcinoma. This case highlights the importance of integrating biochemical, radiological, and histopathological data in evaluating adrenal masses with atypical presentations. PTHrP-mediated hypercalcemia is a rare presentation of adrenocortical carcinoma.Large heterogeneous adrenal masses with metastasis should raise suspicion of malignancy.Normal plasma metanephrine levels effectively exclude pheochromocytoma despite abnormal urine results.Pheochromocytoma must be ruled out before adrenal biopsy to avoid catecholamine-crisis.Definitive management of hypercalcemia of malignancy requires treatment of underlying tumors.",
-      "journal": "Proceedings (Baylor University. Medical Center)",
+      "pmid": "42794158",
+      "doi": "10.3390/children13091138",
+      "title": "Acute Neurological Deterioration in a Child with Shunt-Dependent Post-Hemorrhagic Hydrocephalus: A Case Report.",
+      "abstract": "Post-hemorrhagic hydrocephalus (PHH) is a serious neurological sequela of severe intraventricular hemorrhage (IVH) in premature infants and remains one of the leading indications for ventriculoperitoneal (VP) shunt placement. Evaluating possible VP shunt-related complications can be challenging because clinical manifestations are often nonspecific, neuroimaging may initially appear unchanged, and microbiological cultures may remain negative. We report the case of a 19-month-old male born at 28 weeks' gestation who developed Grade IV germinal matrix/intraventricular hemorrhage with bilateral intraparenchymal extension, early periventricular cystic leukomalacia, and post-hemorrhagic communicating hydrocephalus requiring multiple cerebrospinal fluid diversion procedures culminating in long-term VP shunt dependence. His medical history was notable for recurrent neonatal meningitis, secondary epilepsy with previous episodes of status epilepticus, secondary adrenal insufficiency, and severe global developmental delay. He presented with fever, recurrent coffee-ground vomiting, abdominal distension, progressive lethargy, reduced responsiveness, and localized erythematous swelling over the cranial VP shunt reservoir, raising concern for possible shunt-related pathology. During hospitalization, he deteriorated with status epilepticus and respiratory failure, with clinical concern for increased intracranial pressure, requiring admission to the Pediatric Intensive Care Unit (PICU). Laboratory investigations demonstrated leukocytosis, elevated C-reactive protein, cerebrospinal fluid pleocytosis, markedly elevated CSF protein, and CSF glucose of 2.0 mmol/L, for which a paired serum glucose value was unavailable, while repeated blood, urine, wound, and CSF cultures remained negative. Initial computed tomography (CT) demonstrated no significant interval change in the chronic hydrocephalus despite progressive neurological deterioration; however, serial neuroimaging later revealed progressive bilateral extra-axial fluid collections with radiological features suggestive of an evolving subacute subdural hemorrhage. The patient was managed with empirical broad-spectrum intravenous antibiotics, aggressive seizure control, stress-dose corticosteroids, respiratory support, and continuous multidisciplinary monitoring. His neurological and respiratory status subsequently improved, and he returned to his pre-admission neurological baseline before discharge with planned further evaluation at a tertiary pediatric neurosurgical center. This case highlights the diagnostic uncertainty surrounding acute neurological deterioration in a child with shunt-dependent PHH. VP shunt-related infection or malfunction remained important but unconfirmed diagnostic considerations, alongside competing or potentially overlapping contributors including status epilepticus, evolving extra-axial collections, respiratory infection, and endocrine or metabolic decompensation. No single etiology was definitively established. The case emphasizes the importance of serial neurological assessment, consideration of alternative diagnoses, repeat neuroimaging, and multidisciplinary evaluation when initial investigations do not establish the cause of deterioration.",
+      "journal": "Children (Basel, Switzerland)",
       "year": "2026",
       "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42827469",
+      "doi": "10.7759/cureus.115620",
+      "title": "Evaluation of the Efficacy and Tolerability of Bedaquiline in Drug-Resistant Tuberculosis.",
+      "abstract": "Multidrug-resistant tuberculosis (TB) poses a serious threat to public health globally because of limited treatment options and high levels of antimicrobial resistance. Bedaquiline is an important component of contemporary multidrug treatment regimens for drug-resistant TB. This study aimed to evaluate treatment outcomes and tolerability among patients receiving a bedaquiline-containing regimen, including sputum conversion, laboratory parameters, adverse drug reactions (ADRs), and treatment compliance. The study was a hospital-based prospective observational study\u00a0conducted among 64 patients with drug-resistant TB who attended the drug-resistant TB clinic at Zydus Medical College and Hospital, Dahod, from April 2024 to September 2025. Patients on\u00a0a bedaquiline-based regimen were followed up monthly to assess sputum conversion, laboratory tests, ADRs, and treatment compliance. Among 64 patients with drug-resistant TB, sputum conversion was achieved in 61 (95.3%), with no significant association between conversion and baseline demographic or clinical characteristics (all p > 0.05).\u00a0Universal rifampicin resistance (100%) and high levels of isoniazid resistance were observed, whereas susceptibility was observed in 98.4% of isolates to injectable anti-TB drugs and in 64.1% to moxifloxacin. These in vitro drug susceptibility findings should not be interpreted as evidence of comparative clinical efficacy. Follow-up demonstrated preserved renal function, with mild but significant changes in liver function and electrolytes, whereas nausea (13, 20.3%) and electrolyte abnormalities (15, 23.4%) were the most frequent ADRs. A high sputum conversion rate of 95.3% (61/64) was observed during follow-up among patients receiving a bedaquiline-containing multidrug regimen. Most reported adverse events were mild; however, biochemical changes and QT prolongation were observed and require continued clinical monitoring. Given the prospective observational design, the absence of a comparator group, the concomitant use of multiple anti-TB drugs, and the limited follow-up duration, the independent contribution of bedaquiline to the observed treatment outcomes, as well as its long-term efficacy and safety, cannot be determined from the present study.",
+      "journal": "Cureus",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42794576",
+      "doi": "10.3390/ijms27188146",
+      "title": "Integrating Molecular and Imaging Insights: Ryanodine Receptor 2 (RyR2) Expression, CK18 Status, and Conventional MRI Findings in Pituitary Neuroendocrine Tumors.",
+      "abstract": "Ryanodine receptor 2 (RyR2) has been increasingly recognized as an important regulator in cancer biology. Previous studies demonstrate that RyR2 expression is associated with patient survival, although its precise role in tumorigenesis remains unclear. Elevated RyR2 expression has been linked to poorer survival outcomes, while gene silencing or pharmacological inhibition (e.g., with S107) has been shown to reduce cancer cell metastasis in both in vitro and in vivo models. Cytokeratin 18 (CK18), a key epithelial marker, is associated with tumor differentiation, hormonal phenotype, and clinical behavior in pituitary neuroendocrine tumors (PitNETs), reflecting underlying cytoskeletal organization. Variations in CK18 expression have been linked to distinct adenoma subtypes and may provide insight into tumor aggressiveness. This exploratory study investigated associations between RyR2 expression, CK18 status, and conventional MRI findings of pituitary tumors. Quantitative T2-weighted signal intensity and radiomic features were not assessed. This exploratory observational study used prospective patient recruitment between January 2017 and January 2026, after ethics approval was obtained in December 2016. RyR2 expression in immunohistological samples was quantified using QuPath v0.6.0. CK18 immunostaining was performed with the Dako Omnis system according to the manufacturer's protocols. Conventional MRI findings were available for 24 patients and were retrospectively reviewed. Statistical analysis was conducted using SPSS/W 31.0. No statistically significant associations were observed between RyR2 expression and sex, hormonal activity, tumor size, invasiveness, recurrence, or the evaluated conventional MRI findings (all p > 0.05). The only statistically significant finding was higher RyR2 expression in CK18-negative than in CK18-positive tumors (median (IQR): 2.49% (18.36%) vs. 0.06% (0.39%); p = 0.006; r = 0.47). Higher RyR2 expression was observed in CK18-negative tumors. Given the exploratory design and limited sample size, this association should be considered hypothesis-generating and requires validation in larger independent cohorts.",
+      "journal": "International journal of molecular sciences",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42819666",
+      "doi": "10.1155/anrp/4406992",
+      "title": "Pheochromocytoma Across the Perioperative Course: Current Concepts and Clinical Management.",
+      "abstract": "Pheochromocytoma is an uncommon neuroendocrine tumor with myriad nonspecific clinical presentations. If not recognized and treated, it is associated with the development of target organ damage and complications such as myocarditis, cardiomyopathy, cerebrovascular accidents, and diabetes mellitus, among numerous others. The pheochromocytoma diagnosis is based on biochemical proof of catecholamine excess followed by imaging localization of the tumor. Patients with newly diagnosed pheochromocytoma should be seen by a multidisciplinary perioperative team, including the anesthesiologist, operating surgeon, endocrinologist, and cardiologist. Perioperative antihypertensive therapy should be instituted prior to adrenal resection to allow for cardiovascular recovery and to hopefully mitigate the hypertensive response to laryngoscopy and tumor manipulation. The anesthesiologist must be prepared to manage both intraoperative hypertension, hypotension, and glycemic disturbances, among other possible complications. Patients with previously undiagnosed pheochromocytoma who present for unrelated surgery represent a high-risk group. Once intraoperatively suspected, priority should be given to immediate stabilization, cessation of surgery when feasible, and close communication with the surgical team regarding whether the procedure should be aborted, limited, or continued based on the urgency of the operation and the patient's clinical status. In most cases, nonessential surgery should be aborted. The postoperative level of care should be based on intraoperative patient courses and institutional protocols and guidelines to monitor and manage postresection hypoglycemia and vasoplegia, when they occur. This narrative review aims to provide practicing anesthesiologists with an updated, practical framework for the perioperative recognition and management of pheochromocytoma. We integrate contemporary evidence with anesthesia-specific decision-making, including the management of catecholamine-induced cardiovascular dysfunction, perioperative fluid and vasoactive therapy, medication-triggered crises, and a dedicated approach to previously undiagnosed pheochromocytoma presenting during unrelated surgery.",
+      "journal": "Anesthesiology research and practice",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42827471",
+      "doi": "10.3389/fpls.2026.1946405",
+      "title": "ZmEIL2 positively regulates drought tolerance in maize by modulating stomatal movement, hormonal homeostasis, and antioxidant defense.",
+      "abstract": "Drought stress severely constrains global maize productivity. Although ethylene (ETH)-responsive transcription factors play key roles in plant stress adaptation, the functional mechanism of ZmEIL2 in drought tolerance remains poorly understood. Here, transgenic maize lines with ZmEIL2 overexpressing (OE) and ZmEIL2 knockout (KO) were generated and subjected to progressive drought stress followed by rehydration. Phenotypic analysis indicated that ZmEIL2 OE lines exhibited improved plant survival and reduced leaf water loss, while KO lines exhibited displayed enhanced drought sensitivity. Physiological assessments demonstrated that ZmEIL2 preserves leaf relative water content by regulating stomatal movement and mitigates drought-induced membrane damage and lipid peroxidation, which correlated with increased proline (Pro) accumulation. Furthermore, ZmEIL2 modulated endogenous ETH and abscisic acid (ABA) levels under drought stress and enhanced the antioxidant defense system by increasing the activities of superoxide dismutase (SOD), peroxidase (POD) and ascorbate peroxidase (APX), thereby diminishing reactive oxygen species (ROS) accumulation, as evidenced by 3,3'-diaminobenzidine (DAB) and nitro blue tetrazolium (NBT) staining. We performed RNA sequencing (RNA-seq)on wild-type (WT), OE, and KO plants sampled at 0, 10, and 13 days of drought treatment and identified 120 core drought-responsive genes involved in stress perception, oxidoreductase activity, and metabolic reprogramming. Notably, 11 candidate genes, including ZmSOD16, ZmPAL7, ZmHSP101, ZmHSP70, ZmGA2ox3, and ZmSMT1, exhibited strictly opposite expression trends between OE and KO under normal conditions, suggesting their roles in antioxidant defense, protein protection, and hormone and carbohydrate metabolism. Collectively, these results demonstrate that ZmEIL2 as a positive regulator of drought tolerance in maize via a multi-layered regulatory mechanism encompassing stomatal regulation, hormonal balance, membrane integrity, osmotic adjustment, and ROS scavenging. This work provides valuable candidate genes for the breeding of drought-resilient maize varieties.",
+      "journal": "Frontiers in plant science",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42774794",
+      "doi": "10.1093/jscr/rjag807",
+      "title": "Adrenal myelolipoma with severe hemorrhage: a case report.",
+      "abstract": "Adrenal masses are identified with abdominal imaging, most of them are benign and nonfunctioning. They are typically managed conservatively; however, large lesions may present with complications requiring urgent intervention. We present a case of a 65-year-old male with right flank pain found to have a rapidly enlarging hemorrhagic right adrenal mass measuring 15.4\u2009\u00d7\u200913.1\u2009\u00d7\u200917.9\u00a0cm with mixed fat and soft tissue components. Hormonal evaluation was negative for a functional adrenal tumor, though malignancy could not be excluded due to ongoing hemorrhage and lesion size. The patient required blood transfusion and open adrenalectomy with en bloc right colectomy. The mass was densely adherent to surrounding structures with significant clot burden. Final pathology confirmed an adrenal myelolipoma composed of mature adipose tissue and tri-lineage hematopoietic elements with extensive intra-tumoral hemorrhage and necrosis. This case highlights the importance of prompt surgical management of large hemorrhagic adrenal masses.",
+      "journal": "Journal of surgical case reports",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42827477",
+      "doi": "10.3389/abp.2026.17270",
+      "title": "Cyclotorsion as a structural and functional biomarker of ocular and neuroophthalmic diseases.",
+      "abstract": "Cyclotorsion, defined as rotation of the eye around its anteroposterior axis, is an important but often underrecognized component of ocular motility. This review summarizes the physiological basis of cyclotorsion, methods of subjective and objective assessment, and the clinical relevance of torsional deviations in ocular and neuro-ophthalmic disorders. Particular emphasis is placed on objective measurement using the disc-foveal angle and its role in diagnosing and monitoring conditions such as trochlear nerve palsy, skew deviation, pulley disorders, inferior oblique overaction, thyroid eye disease, heavy eye syndrome, and sagging eye syndrome. Quantitative assessment of cyclotorsion may improve diagnostic accuracy, support surgical planning, and provide an objective marker of treatment outcome.",
+      "journal": "Acta biochimica Polonica",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42827465",
+      "doi": "10.3389/fpubh.2026.1920632",
+      "title": "Same ICD-10 code, different estimands: four Polish National Health Fund obesity series, 2015-2025.",
+      "abstract": "Poland's National Health Fund (NFZ) publishes four national series indexed by ICD-10 code E66. Although their labels suggest related measures of obesity, differences in analytical unit, entry rule, look-back period, and temporal structure may alter both the reported level and the apparent response to healthcare-system disruption. We examined whether selecting an official NFZ E66 series materially changes the level, trend, and permissible public-health interpretation of recorded obesity-related activity. This retrospective, descriptive ecological time-series study audited 44 annual resources covering registered morbidity, first-recorded patients, annual E66 patients, and E66-coded services in 2015-2025. We analyzed counts and population-scaled administrative rates, summarized long-term change using log-linear annual percentage change (APC), and used a one-year 2020 indicator as a descriptive pandemic-era stress test. An endpoint sensitivity analysis excluded 2025. Independent BMI sources provided cross-sectional contextual triangulation for 2025. In 2025, two official person-based series yielded 1,534,022 persons with a current or earlier principal E66 record and 325,769 persons with qualifying current-year E66 activity, a 4.7-fold difference arising from construction rather than alternative estimates of a single quantity. From 2015 to 2025, endpoint increases ranged from 178.1 to 332.5%, and population-scaled APCs from 10.5 to 14.5%. During 2020, the first year of the COVID-19 pandemic, deviations from the fitted trend were modest for registered morbidity (-3.5%) but substantially larger for the three series requiring current-year activity (-39.4 to -44.3%). The same E66 code supports four distinct administrative trajectories. Their growth may reflect a genuine rise in clinical obesity together with changes in recognition, access, recording, and service delivery; the aggregates cannot separate these contributions. Explicit estimand definitions are therefore essential when NFZ indicators are used for surveillance or policy.",
+      "journal": "Frontiers in public health",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42822599",
+      "doi": "10.1016/j.eprac.2026.08.027",
+      "title": "Analysis of the clinical profile of multiple endocrine neoplasia syndromes and the association with other tumors.",
+      "abstract": "To examine the clinical profile of patients with MEN syndromes and possible associations with tumors less commonly identified in these conditions. We present data from a chart review of 182 patients from our MEN registry. We identified 106 patients with MEN1 and 76 with MEN2 defined by clinical criteria. 45 patients with MEN1 and 69 with MEN2 were genetically confirmed cases. Among all patients with clinical MEN1, commonly associated tumors included parathyroid (89.6%), pituitary (61.3%), and gastroenteropancreatic neuroendocrine tumors (65.1%). Other tumors included papillary thyroid cancer (5.7%), renal cell carcinoma (4.7%), breast cancer, melanoma, lymphoma (1.9% each), lung cancer, bladder cancer, multiple myeloma and liposarcoma (0.9% each). Among patients with clinical MEN2, commonly associated tumors included medullary thyroid cancer (60.5%), pheochromocytoma (31.6%), and hyperparathyroidism due to parathyroid adenoma or hyperplasia (14.5%). Other tumors included breast cancer (6.6%), lymphoma (2.6%), papillary thyroid cancer (5.3%), non-small cell lung cancer, melanoma, multiple myeloma and glioblastoma multiforme (1.3% each). The study found many tumors not commonly associated with MEN1 and MEN2 syndromes in patients with these conditions. Further investigations are needed to clarify the role of MEN1 and RET mutations in tumorigenesis to aid in early diagnosis, management, and better outcomes.",
+      "journal": "Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42771567",
+      "doi": "10.1159/hrp/adaag029",
+      "title": "A Century of Growth Hormone from Pierre Marie (1886) to Creutzfeldt-Jakob Disease (1985).",
+      "abstract": "The century from1886 to 1985 was auspicious for those with an interest in growth. A clinically recognized overgrowth syndrome was named acromegaly. It explained some earlier described patients and even distant historical figures. Quickly this clinical syndrome was tied to a pituitary tumor and therapy from a group of innovative neurosurgeons. Contemporaneously, failure of the pituitary was recognized and noted to be a cause of severe growth failure and infantilism. Experimentally, new techniques were developed to hypophysectomize animals from tadpoles to rats as well as to learn to extract, purify and replace the missing pituitary hormones with increasingly pure and potent extracts from bovine pituitaries. These developments led to the concept of species specificity for growth hormone (GH), that is, only primate GH was biologically effective in primates, as well as the active core hypothesis which postulated that all species had GH molecules with active centers for their pleotropic effects and that unmasking them might make portions of the animal GH molecules active in man. In the end that has not proven correct, but became moot given the explosion of the molecular biology era with its virtually unlimited supply of recombinant hGH. Human (primate) GH is species specific and to date the active core hypothesis which might have provided biologically effective peptides, derived from animal or human GHs, and likely to be synthesized with the techniques available at that time (mid-1960s) were never required given that rhGH was approved for clinical use in those with hypopituitarism.",
+      "journal": "Hormone research in paediatrics",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42788628",
+      "doi": "10.1002/ppul.71833",
+      "title": "A Multidisciplinary Approach to the Anesthetic Management of Patients With Duchenne Muscular Dystrophy.",
+      "abstract": "Duchenne muscular dystrophy (DMD) is an inherited neuromuscular disorder with multisystem involvement that causes progressive muscular weakness and cardiorespiratory dysfunction. The first comprehensive recommendations regarding anesthetic management are now almost 20 years old and, in the interval, DMD care has evolved. Patients with DMD are experiencing prolongation of survival and, with widespread use of assisted ventilation, cardiac function has become the main determinant of their survival. Newer procedures, such as advanced cardiac interventions, are now performed, in a population of older, medically fragile individuals. Regional anesthetic techniques have advanced, allowing more patients to avoid the risks of inhalational anesthesia, and newer techniques for reversing neuromuscular blockade and minimizing cardiorespiratory depression have become available. Additionally, new medications are being used that have anesthetic implications, including newer guideline-directed heart failure medications. Overall, it has become increasingly important for perioperative management to be addressed in a multidisciplinary way, with coordination between medical, surgical, and anesthetic clinicians. In this narrative review, we provide information on how DMD's multi-system involvement impacts perioperative assessment and management, and we advocate for a multidisciplinary approach to perioperative care.",
+      "journal": "Pediatric pulmonology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42244465",
+      "doi": "10.1111/dom.70928",
+      "title": "Clinical Implications and Research Progress of Salivary Biomarkers for Endocrine and Metabolic Disorders.",
+      "abstract": "Similar to blood, saliva contains a broad range of biomarkers and may offer a non-invasive, repeatable specimen for endocrine and metabolic assessment. This review aims to synthesise and evaluate recent advances in the clinical translation of salivary biomarkers, while providing a critical assessment of the diagnostic reliability and clinical potential of key salivary biomarkers. PubMed, Web of Science and ScienceDirect were searched for English-language articles published up to July 2025, with emphasis on studies from 2020 to 2025. We included articles with a focus on the clinical translation of salivary biomarkers for endocrine and metabolic disorders. The relevant studies on the physiology underlying the synthesis and transport of salivary biomarkers were also identified. Late-night salivary cortisol is the most clinically established marker and is guideline-endorsed for Cushing's syndrome, while salivary cortisone may improve the diagnostic accuracy. Salivary glycaemic biomarkers, such as glucose, 1,5-anhydroglucitol, fructosamine, glycated albumin and \u03b1-amylase, show potential for diabetes screening or monitoring. Salivary uric acid, inflammatory factors and adipokines may reflect hyperuricaemia, obesity and metabolic inflammation. However, most biomarkers remain exploratory and their clinical translation is limited by inconsistent collection procedures, oral disease, medication effects and analytical platforms. Salivary biomarkers offer a promising non-invasive approach for assessment of endocrine and metabolic disorders. Standardised procedures and large-scale multicentre validation are needed to define reliable clinical cutoffs and perform comparisons with blood-based reference standards. Applications for machine learning and wearable sensing technology can further promote clinical translation.",
+      "journal": "Diabetes, obesity & metabolism",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42787715",
+      "doi": "10.1016/j.tcr.2026.101435",
+      "title": "Pertrochanteric fracture in case of Sheehan syndrome: A rare case report.",
+      "abstract": "Sheehan's syndrome is caused by ischemic necrosis of the pituitary gland following hypo-perfusion to the pituitary gland. The prevalence is around 3.2% in women <40\u00a0years of age and is relatively common in developing countries. The diagnosis is made with the help of a suggestive obstetric history, clinical manifestations, laboratory findings of reduced hormone levels, and pertinent radiological features. The treatment is to replace the patient with deficient hormones and prevent the complications associated with it. We present the management of a patient with Sheehan's syndrome with pertrochanteric fracture due to the rarity of its presentation. The patient underwent the insertion of a proximal femur nail under closed reduction and achieved optimum results post operatively. As such no case reports with these findings have been documented in the literature or online sources.",
+      "journal": "Trauma case reports",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
         "Journal Article"
       ]
     },
@@ -463,14 +385,72 @@
       ]
     },
     {
-      "pmid": "42793791",
-      "doi": "10.3390/diagnostics16183006",
-      "title": "Adrenocortical Carcinoma: An Exceptional Survival Span Across a Tailored Management.",
-      "abstract": "Adrenocortical carcinoma (ACC) represents a very rare (an incidence of 1-2 cases per million) and aggressive malignancy (an overall 5-year survival of 15%). Less than 15-20% of cases involve a single metastatic disease. In this presentation, we documented a most exceptional survival span in a case of ACC, between the female patient's age of 50 and the current age of 66. The subject underwent an open right adrenalectomy three times (at first diagnosis, after recurrence 2 years later, and, most recently, 15 years after the initial diagnosis amid a multi-visceral resection). She initially displayed Cushing syndrome, which remitted post-surgery. While the first pathological report established an adrenocortical adenoma, after relapse, low-grade ACC was confirmed and the first tumor mass was re-assessed as ACC based on a similar pathological profile. Following the second surgery and ACC recognition, she started mitotane therapy for 5 years (which she tolerated well, although she developed primary adrenal insufficiency). During this period, a single metastatic disease was detected at the pulmonary level, and she underwent a successful thoracic surgical resection of a 2.5 cm metastasis in the left inferior lobe (2 years after the second adrenalectomy). After this 5-year course of mitotane, the disease was stable, and a 4-year withdrawal period was followed by a relapse with local adrenal recurrence and growth of several lung nodules. Mitotane was re-started, and the en bloc resection included the right adrenal tumor (of 12 cm), right kidney, three liver segments, retro-hepatic inferior vena cava, and (partial) left renal vein. The reconstruction of the inferior vena cava required a Dacron graft of 12 cm in addition to a synthetic graft, which was placed between the left renal vein and the first graft. During surgery and in the following weeks, she presented with several episodes of acute adrenal insufficiency despite continued prompt replacement. A peak ACTH of 369 (Normal: 7.2-63.3) pg/mL was reached at one point. Renal function remained stable. In the meantime, she continued levothyroxine replacement (50 to 75 \u00b5g/day) for mitotane-induced primary hypothyroidism. Postoperative, low-grade ACC was confirmed with a Ki67 of 15%, as previously found. She re-started mitotane in month 3 and completely recovered following 9 months, while an abdominal CT scan confirmed no adrenal remnants. Further close surveillance was mandatory. A particular aspect involves the patient's options (personalized management), as she declined chemotherapy, immunotherapy or radiotherapy at any point in life and delayed the third adrenalectomy during the COVID-19 pandemic and early post-pandemic years. This case highlights an exceptional survival span across two decades with an ailment with a generally poor prognosis. Another particular aspect involves a complex multi-segmental resection, which requires a highly skilled surgical team; only a limited number of cases have previously been published, and, to the best of our knowledge, there is no previous data with respect to a third intervention after 15 years of surviving with ACC.",
-      "journal": "Diagnostics (Basel, Switzerland)",
+      "pmid": "42620427",
+      "doi": "10.1097/GOX.0000000000008034",
+      "title": "Successful Management of Postoperative Galactorrhea after Reduction Mammaplasty.",
+      "abstract": "Galactorrhea after reduction mammoplasty is a rare postoperative complication, usually associated with hormonal dysregulation or pituitary abnormalities. A 43-year-old woman with symptomatic macromastia underwent bilateral superomedial pedicle reduction mammoplasty. Three days postoperatively, she developed high-volume bilateral milky drainage through her surgical drains. Laboratory evaluation revealed elevated prolactin (96\u2009ng/mL; reference value 5-23\u2009ng/mL). Imaging demonstrated a partially empty sella without pituitary mass. Endocrinology initiated cabergoline therapy, resulting in suppression of prolactin and resolution of the galactorrhea. The patient's drains were maintained until the galactorrhea ceased, and she went on to heal well without complication. Galactorrhea after breast reduction surgery secondary to transient hyperprolactinemia is a rare but clinically significant complication. Prompt recognition and multidisciplinary management including drain maintenance, lactation suppression, and exclusion of prolactinoma are important steps in preventing wound healing complications and achieving optimal outcomes.",
+      "journal": "Plastic and reconstructive surgery. Global open",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42827468",
+      "doi": "10.3389/fruro.2026.1928982",
+      "title": "Radiomic model versus R.E.N.A.L. nephrometry score for predicting the likelihood of undergoing partial nephrectomy in clear cell renal cell carcinoma.",
+      "abstract": "To develop a CT-based radiomic model for predicting partial nephrectomy (PN) in clear cell renal cell carcinoma (ccRCC) and compare it with the R.E.N.A.L. Nephrometry Score (RNS). This retrospective study included 413 ccRCC patients who underwent PN or radical nephrectomy. The RNS was calculated from preoperative CT. Radiomic features were extracted from corticomedullary-phase CT. Reproducibility was assessed using intraclass correlation coefficients (ICCs). LASSO regression was used for feature selection and Rad-score construction. Multivariable logistic regression models were built based on the total RNS sum and the Rad-score. Performance was evaluated by AUC, calibration, and decision curve analysis. Of 1210 extracted features (after excluding general_info fields), 851 showed good to excellent reproducibility (ICC > 0.75). The radiomic model (6 selected features) achieved an AUC of 0.886 (95% CI: 0.81-0.91) in the internal validation cohort, significantly outperforming the RNS model (AUC\u00a0=\u00a00.793, 95% CI: 0.72-0.85; DeLong test, P\u00a0=\u00a00.015). The radiomic model also demonstrated better calibration (Brier score: 0.11 vs. 0.16) and higher clinical net benefit. SHAP analysis identified tumor size and texture heterogeneity as the strongest predictors. A CT-based radiomic model provides superior accuracy over the RNS for preoperatively predicting PN likelihood in ccRCC and holds significant potential to augment surgical decision-making and personalize treatment planning. Prospective multi-center validation is warranted before routine clinical adoption.",
+      "journal": "Frontiers in urology",
       "year": "2026",
       "publication_types": [
         "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42771717",
+      "doi": "10.1080/08998280.2026.2719087",
+      "title": "PTHrP-mediated hypercalcemia in metastatic adrenocortical carcinoma mimicking pheochromocytoma: a\u00a0diagnostic challenge.",
+      "abstract": "Humoral hypercalcemia of malignancy is a paraneoplastic syndrome mediated by parathyroid hormone-related peptide (PTHrP). Adrenal masses may present a diagnostic challenge when clinical, biochemical, and imaging findings overlap with endocrine tumors such as pheochromocytoma. We report an 80-year-old man presenting with severe hypercalcemia, normal phosphate levels, elevated PTHrP, and suppressed intact parathyroid hormone. Imaging revealed an 8.8\u2009cm heterogeneous left adrenal mass with hepatic and osseous lesions along with enlarged preauricular lymph nodes, suggestive of metastatic disease. Discordant catecholamine testing raised concern for pheochromocytoma; however, biopsy confirmed adrenocortical carcinoma. This case highlights the importance of integrating biochemical, radiological, and histopathological data in evaluating adrenal masses with atypical presentations. PTHrP-mediated hypercalcemia is a rare presentation of adrenocortical carcinoma.Large heterogeneous adrenal masses with metastasis should raise suspicion of malignancy.Normal plasma metanephrine levels effectively exclude pheochromocytoma despite abnormal urine results.Pheochromocytoma must be ruled out before adrenal biopsy to avoid catecholamine-crisis.Definitive management of hypercalcemia of malignancy requires treatment of underlying tumors.",
+      "journal": "Proceedings (Baylor University. Medical Center)",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42823649",
+      "doi": "10.1111/jne.70269",
+      "title": "Patient-reported measures in hypothalamic-pituitary diseases.",
+      "abstract": "Modern medicine centres its focus on the central stakeholder, the patient, to deliver a more patient-centred and holistic care and improve quality of care, emphasizing the importance of communication between healthcare providers and patients. To learn how the patient experiences and evaluates outcome of any health intervention, different tools have been developed, known as PREMs (Patient-Reported Experience Measures) and PROMs (Patient-Reported Outcome Measures). PREMs reflect the patient's personal experience when being cared for, like whether the professionals explained things clearly, or if they felt they were treated with dignity and are indicators of the care process, i.e., communication, access, environment, coordination, etc. and are used to improve service quality and patient-centredness. PROMs are linked to clinical outcomes and reflect the patient's feelings about their health and may include, among others, pain scales, mobility questionnaires or psychosocial inventories. They are used to assess the effectiveness of treatment, like before and after surgery and focus on symptoms, functioning, and health-related quality of life (HRQoL). This review summarizes available information on PREMs, PROMs and HRQoL in patients with hypothalamic-pituitary diseases, specifically, Cushing disease, acromegaly, prolactinoma, non-functioning pituitary adenoma, hypopituitarism (including adult growth hormone and arginine vasopressin deficiencies) and craniopharyngioma. On the whole, hormone dysfunction and mass control after medical or surgical treatment improves HRQoL, but it often remains worse than in healthy control population. Additionally, it is important to ask the patients what affects them most, since the identification and relevance of complaints and experiences are often different among pituitary patients and healthcare providers.",
+      "journal": "Journal of neuroendocrinology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42768234",
+      "doi": "10.1208/s12248-026-01294-z",
+      "title": "Immunogenicity Profile of Lonapegsomatropin During Long-Term Treatment in Children With Growth Hormone Deficiency.",
+      "abstract": "Monitoring and evaluation of immunogenicity is important for biological therapeutics due to the potential impact of antibodies on safety and efficacy. A comprehensive immunogenicity assessment was conducted to support clinical development of lonapegsomatropin, a prodrug of somatropin, administered once weekly. Lonapegsomatropin is approved in the United States for pediatric and adult growth hormone deficiency (GHD), and in other countries for pediatric GHD. Lonapegsomatropin consists of somatropin, an inert methoxy polyethylene glycol carrier (mPEG), and a proprietary TransCon\u00ae linker that transiently binds somatropin to the carrier. Four dedicated immunoassays were developed, validated, and applied in a risk-based tiered approach to rigorously assess the immunogenicity of lonapegsomatropin in children with GHD. Samples collected from 298 children with GHD treated with lonapegsomatropin for up to six years were analyzed for anti-drug antibodies (ADAs) against lonapegsomatropin (intact prodrug), released somatropin, and mPEG. Treatment-emergent anti-lonapegsomatropin, anti-somatropin, and anti-mPEG binding antibodies were detected in 4.7%, 5.4%, and 0.7% of treated children, respectively. ADA responses were low titer, transiently detected, and primarily observed within the first year of treatment, and no neutralizing antibodies were detected. These findings support the long-term low immunogenicity of lonapegsomatropin in children with GHD, consistent with somatropin. Importantly, the multi-assay tiered strategy applied here was robust and reproducible, enabling sensitive detection of ADAs against the intact prodrug, mPEG, and released somatropin across trials, and demonstrated its clinical applicability for evaluating a complex long-acting growth hormone like lonapegsomatropin.",
+      "journal": "The AAPS journal",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42824860",
+      "doi": "10.7759/cureus.115604",
+      "title": "Oral Pigmentation in Children: A Narrative Review and Practical Diagnostic Framework.",
+      "abstract": "Oral pigmentation in childhood ranges from common constitutional variants to less frequent reactive, local, medication-related, vascular, genetic, endocrine, and neoplastic disorders. Overlapping clinical appearances can create diagnostic uncertainty, especially when adult-oriented approaches are applied to children. This narrative review presents a pediatric-focused framework for initial evaluation based on five domains: onset and evolution; focal, multifocal, or diffuse distribution; color and surface morphology; blanching or compressibility; and medication, dental, family, environmental, and systemic clues. Longstanding, symmetric, diffuse brown pigmentation without symptoms usually favors constitutional melanin pigmentation. Multifocal lentigines with gastrointestinal, endocrine, skeletal, or family-history findings should prompt targeted evaluation for an underlying syndrome. Blue-gray lesions adjacent to a restoration or trauma site suggest exogenous pigment, whereas red-blue compressible lesions raise concern for a vascular process and should not undergo blind biopsy. Oral melanoacanthoma is an important benign mimic because it may enlarge rapidly and appear clinically alarming. New or changing focal lesions, particularly those showing nodularity, ulceration, spontaneous bleeding, marked asymmetry, irregular borders, color variegation, or diagnostic uncertainty, warrant prompt specialist assessment and histopathologic evaluation when indicated. Pediatric evidence remains limited and consists largely of observational studies, case reports or series, and extrapolation from adult literature; accordingly, the proposed pathway is an evidence-informed clinical aid rather than a validated prediction rule. A structured history-first approach can support appropriate reassurance, targeted referral, and timely biopsy while minimizing unnecessary intervention for convincingly benign pigmentation.",
+      "journal": "Cureus",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
       ]
     }
   ]

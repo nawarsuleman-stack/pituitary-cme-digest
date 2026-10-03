@@ -1,40 +1,40 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-09-19",
   "items": [
     {
-      "pmid": "42822597",
-      "doi": "10.1016/j.eprac.2026.09.014",
-      "title": "Association of Post-Dexamethasone Cortisol With Cardiovascular and Metabolic Comorbidities in Patients With Nonfunctioning Adrenal Adenomas.",
+      "pmid": "42820268",
+      "doi": "10.1530/EO-26-0092",
+      "title": "Pituitary metastases: a real-world single-center surgical cohort.",
       "category": "notable",
-      "summary": "In a retrospective single-center study of 444 adults with radiographically confirmed nonfunctioning adrenal adenomas (post-1mg DST cortisol \u22641.8 \u00b5g/dL), each 0.1 \u00b5g/dL increment in post-DST cortisol within the 'suppressed' range was independently associated with 21% higher odds of documented ASCVD and 24% higher odds of metabolic syndrome. The exploratory Youden-optimal threshold was ~0.985 \u00b5g/dL, with 87% sensitivity and 92% NPV for ASCVD, and the ROC AUC was 0.820. These findings suggest a continuous cardiometabolic gradient exists even below conventional MACS thresholds, challenging the binary 'suppressed vs. not suppressed' framing clinicians currently apply to NFAAs.",
-      "caveat": "Retrospective single-center design with potential referral bias; the Youden-optimal cutoff is exploratory and the authors explicitly caution against its use as a diagnostic threshold without prospective validation. Causality cannot be established from this design.",
-      "quiz_question": "A 60-year-old woman with a 2.8 cm left adrenal adenoma (HU \u226410, no hormonal excess on standard workup) has a post-1mg DST cortisol of 1.1 \u00b5g/dL \u2014 well within the 'suppressed' range. Based on this study, how should you counsel her regarding cardiometabolic risk?",
-      "quiz_answer": "Even within the conventionally suppressed range, higher post-DST cortisol values carry independently higher odds of ASCVD and metabolic syndrome. A cortisol of 1.1 \u00b5g/dL sits above the exploratory threshold of ~0.985 \u00b5g/dL identified in this study. Clinicians should ensure aggressive cardiometabolic risk factor screening and management in such patients, recognizing a potential subclinical cortisol-driven gradient rather than assuming reassurance from a 'normal' suppression result.",
+      "summary": "This retrospective single-center series of 19 histologically confirmed pituitary metastases (2000\u20132025) found that neuro-ophthalmological symptoms were the dominant presentation (84%), while AVP deficiency (diabetes insipidus) occurred in 37% and isolated ACTH deficiency in 33% of those with hormonal compromise. Lung and breast primaries predominated, and in 21% of cases the pituitary was the index site identifying the underlying malignancy. Median overall survival after surgery was only 23.5 months, and 87.5% of patients with available data had residual or recurrent disease post-resection, underscoring the palliative intent of surgery in most cases.",
+      "caveat": "Single-center retrospective cohort of only 19 patients spanning 25 years; selection bias toward surgically managed cases means the true epidemiology of pituitary metastases is likely underrepresented. No control group or outcome comparison with non-surgical management.",
+      "quiz_question": "A 62-year-old woman with a known history of breast cancer presents with sudden-onset diabetes insipidus and bitemporal hemianopia. MRI shows a sellar mass with involvement of the pituitary stalk. Based on this series, what is the most likely diagnosis, and what additional hormonal deficiency pattern should you actively screen for?",
+      "quiz_answer": "Pituitary metastasis should be the leading diagnosis given the known primary malignancy, stalk involvement, and DI (AVP deficiency occurred in 37% of cases in this series). You should screen for isolated ACTH deficiency, which was the single most common anterior pituitary hormone deficiency identified (6/12 patients with any deficiency), as well as full anterior pituitary axis evaluation given that pan-hypopituitarism occurred in ~17%.",
+      "journal": "Endocrine oncology (Bristol, England)",
+      "year": "2026"
+    },
+    {
+      "pmid": "42819789",
+      "doi": "10.3389/fendo.2026.1935980",
+      "title": "Immune checkpoint inhibitor-related endocrinopathies: from immune crosstalk to predictive biomarkers and precision management.",
+      "category": "notable",
+      "summary": "This narrative review synthesizes current mechanistic understanding of ICI-induced endocrine toxicities, with particular focus on hypophysitis and adrenal insufficiency as the pituitary/adrenal manifestations. It highlights that adrenal insufficiency from ICI therapy is often irreversible and may lack early warning signs, making it particularly dangerous in ambulatory cancer patients. The review discusses emerging predictive biomarkers\u2014including thyroid autoantibodies, cytokine profiles, and single-cell sequencing\u2014as well as liquid biopsy and imaging-based tools, framing these within a 'proactive endocrine protection' paradigm that emphasizes moving from reactive toxicity management to earlier individualized surveillance.",
+      "caveat": "Narrative review design with inherent selection bias; most cited biomarkers are exploratory and lack prospective validation. The authors explicitly acknowledge the need for large-scale prospective studies before clinical implementation of any predictive model.",
+      "quiz_question": "A 58-year-old man receiving combination ipilimumab/nivolumab for metastatic melanoma develops fatigue, hyponatremia, and a morning cortisol of 4 \u00b5g/dL at week 8. He has no headache or visual symptoms. Based on current evidence reviewed in this paper, what is the key distinction you must make before initiating corticosteroid replacement, and why does it matter prognostically?",
+      "quiz_answer": "You must distinguish primary adrenal insufficiency (ICI-induced adrenalitis, typically irreversible) from secondary adrenal insufficiency due to ICI-induced hypophysitis (which may partially recover with corticosteroid treatment of the hypophysitis itself). This distinction matters because hypophysitis-related secondary AI may show partial pituitary recovery, whereas primary adrenal insufficiency from ICI therapy is typically permanent and requires lifelong glucocorticoid (and often mineralocorticoid) replacement. ACTH level and full anterior pituitary axis testing, along with adrenal imaging, are needed to differentiate these.",
+      "journal": "Frontiers in endocrinology",
+      "year": "2026"
+    },
+    {
+      "pmid": "42822599",
+      "doi": "10.1016/j.eprac.2026.08.027",
+      "title": "Analysis of the clinical profile of multiple endocrine neoplasia syndromes and the association with other tumors.",
+      "category": "notable",
+      "summary": "In this registry-based chart review of 182 MEN patients (106 MEN1, 76 MEN2), the classical tumor associations were confirmed\u2014parathyroid (90%), pituitary (61%), and GEP-NETs (65%) in MEN1; MTC (61%), pheochromocytoma (32%), and hyperparathyroidism (15%) in MEN2. Notably, a substantial proportion of patients in both groups harbored tumors not classically associated with their syndrome, including papillary thyroid cancer in MEN1 (5.7%), renal cell carcinoma in MEN1 (4.7%), and breast cancer and lymphoma in both syndromes, raising questions about whether MEN1 and RET mutations may contribute more broadly to tumorigenesis than currently recognized.",
+      "caveat": "Retrospective chart review from a single institution with only clinical (not uniformly genetic) criteria for syndrome classification; association does not establish causation, and concurrent sporadic malignancies cannot be excluded. Genetically confirmed cases were a subset (45 MEN1, 69 MEN2), limiting mechanistic conclusions.",
+      "quiz_question": "A 45-year-old woman with genetically confirmed MEN1 (MEN1 mutation) presents for routine surveillance. She has known parathyroid disease and a small non-functioning pituitary adenoma. She mentions a recent breast lump. Based on this registry analysis, how should you counsel her regarding breast cancer risk in MEN1?",
+      "quiz_answer": "This series found breast cancer in 1.9% of MEN1 patients, a rate that may exceed what would be expected by chance, though causality is unproven. The authors conclude that further investigation is needed to clarify whether MEN1 mutations contribute to breast tumorigenesis. While current guidelines do not mandate enhanced breast cancer screening specifically for MEN1, this finding supports a low threshold for prompt evaluation of any breast mass and warrants discussion in the context of her overall surveillance plan.",
       "journal": "Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists",
-      "year": "2026"
-    },
-    {
-      "pmid": "42820462",
-      "doi": "10.1530/ERC-26-0310",
-      "title": "'Paraganglioma and pheochromocytoma: a review of current guidelines, new diagnostic and therapeutic approaches'.",
-      "category": "notable",
-      "summary": "This review synthesizes more than ten new consensus statements on pheochromocytoma/paraganglioma (PPGL) published since 2022, reflecting a rapidly evolving field. Key paradigm shifts highlighted include the adoption of a genotype-first clinical approach (given up to 40% hereditary cases), dedicated pediatric protocols, updated histopathological classification criteria, advanced targeted therapeutics, and novel predictive tools. The unified reclassification of pheochromocytomas as intra-adrenal paragangliomas is also discussed as framing all PPGLs within a single disease spectrum.",
-      "caveat": "This is a narrative review article without systematic methodology, so evidence weighting across the cited consensus statements is not explicitly graded. Readers should consult primary guidelines for strength-of-evidence ratings on specific recommendations.",
-      "quiz_question": "A 28-year-old woman is found to have a right adrenal pheochromocytoma on workup for hypertension. Her plasma metanephrines are elevated. She has no family history of endocrine tumors. Per current genotype-first guidelines, what is the recommended next step beyond standard biochemical confirmation and imaging localization?",
-      "quiz_answer": "Germline genetic testing should be offered to all patients with confirmed PPGL regardless of family history, as up to 40% of cases are driven by hereditary germline mutations. Identifying the specific susceptibility gene (e.g., SDHB, SDHD, VHL, RET, NF1) directly dictates surgical strategy, surveillance intervals, screening of at-risk relatives, and risk of malignancy.",
-      "journal": "Endocrine-related cancer",
-      "year": "2026"
-    },
-    {
-      "pmid": "42823747",
-      "doi": "10.1186/s13287-026-05098-y",
-      "title": "Functional analysis of adrenocorticotropic-hormone-producing pituitary cells derived from human pluripotent stem cells in murine and primate models of hypopituitarism.",
-      "category": "preliminary",
-      "summary": "This study transplanted human embryonic stem cell-derived pituitary-hypothalamus organoids subcutaneously into hypopituitary SCID mice and a hypopituitary cynomolgus monkey, demonstrating that the organoids survived >6 months in mice, significantly improved circulating ACTH levels, and prolonged survival compared to sham controls. In the non-human primate model, organoids remained functional for 6 weeks and raised ACTH concentrations under immunosuppression modeled on clinical islet transplantation protocols. The authors describe this as the first demonstration of efficacious pituitary cell transplantation in a primate, offering a potential path toward physiologically responsive ACTH replacement that could mitigate crisis risk in hypopituitarism.",
-      "caveat": "This is a small-scale proof-of-concept study \u2014 only a single non-human primate was used for the primate model, and durability beyond 6 weeks in primates is unknown. Human clinical translation requires extensive additional safety, immunosuppression optimization, and manufacturing scale-up data. Results should be interpreted as hypothesis-generating only.",
-      "quiz_question": "A 35-year-old man with panhypopituitarism from a prior craniopharyngioma resection struggles with recurrent adrenal crises despite education and sick-day dosing. He asks about emerging therapies beyond hydrocortisone replacement. How would you contextualize the potential of pituitary cell transplantation based on current evidence?",
-      "quiz_answer": "Pituitary-hypothalamus organoids derived from pluripotent stem cells have shown proof-of-concept in rodent and, very preliminarily, primate models, restoring ACTH production and improving survival. However, this remains far from clinical application \u2014 no human trials exist, primate data come from a single animal with only 6 weeks of follow-up, and challenges including immunosuppression, manufacturing scale-up, and long-term safety remain unresolved. This should be framed to the patient as an exciting but distant future direction, not an imminent option.",
-      "journal": "Stem cell research & therapy",
       "year": "2026"
     }
   ],

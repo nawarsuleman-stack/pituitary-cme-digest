@@ -96,8 +96,11 @@
     "42812268",
     "42813006",
     "42817666",
+    "42819789",
+    "42820268",
     "42820462",
     "42822597",
+    "42822599",
     "42823747"
   ],
   "sessions": [
@@ -1514,6 +1517,49 @@
           "quiz_question": "A 35-year-old man with panhypopituitarism from a prior craniopharyngioma resection struggles with recurrent adrenal crises despite education and sick-day dosing. He asks about emerging therapies beyond hydrocortisone replacement. How would you contextualize the potential of pituitary cell transplantation based on current evidence?",
           "quiz_answer": "Pituitary-hypothalamus organoids derived from pluripotent stem cells have shown proof-of-concept in rodent and, very preliminarily, primate models, restoring ACTH production and improving survival. However, this remains far from clinical application \u2014 no human trials exist, primate data come from a single animal with only 6 weeks of follow-up, and challenges including immunosuppression, manufacturing scale-up, and long-term safety remain unresolved. This should be framed to the patient as an exciting but distant future direction, not an imminent option.",
           "journal": "Stem cell research & therapy",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-09-19",
+      "items": [
+        {
+          "pmid": "42820268",
+          "doi": "10.1530/EO-26-0092",
+          "title": "Pituitary metastases: a real-world single-center surgical cohort.",
+          "category": "notable",
+          "summary": "This retrospective single-center series of 19 histologically confirmed pituitary metastases (2000\u20132025) found that neuro-ophthalmological symptoms were the dominant presentation (84%), while AVP deficiency (diabetes insipidus) occurred in 37% and isolated ACTH deficiency in 33% of those with hormonal compromise. Lung and breast primaries predominated, and in 21% of cases the pituitary was the index site identifying the underlying malignancy. Median overall survival after surgery was only 23.5 months, and 87.5% of patients with available data had residual or recurrent disease post-resection, underscoring the palliative intent of surgery in most cases.",
+          "caveat": "Single-center retrospective cohort of only 19 patients spanning 25 years; selection bias toward surgically managed cases means the true epidemiology of pituitary metastases is likely underrepresented. No control group or outcome comparison with non-surgical management.",
+          "quiz_question": "A 62-year-old woman with a known history of breast cancer presents with sudden-onset diabetes insipidus and bitemporal hemianopia. MRI shows a sellar mass with involvement of the pituitary stalk. Based on this series, what is the most likely diagnosis, and what additional hormonal deficiency pattern should you actively screen for?",
+          "quiz_answer": "Pituitary metastasis should be the leading diagnosis given the known primary malignancy, stalk involvement, and DI (AVP deficiency occurred in 37% of cases in this series). You should screen for isolated ACTH deficiency, which was the single most common anterior pituitary hormone deficiency identified (6/12 patients with any deficiency), as well as full anterior pituitary axis evaluation given that pan-hypopituitarism occurred in ~17%.",
+          "journal": "Endocrine oncology (Bristol, England)",
+          "year": "2026"
+        },
+        {
+          "pmid": "42819789",
+          "doi": "10.3389/fendo.2026.1935980",
+          "title": "Immune checkpoint inhibitor-related endocrinopathies: from immune crosstalk to predictive biomarkers and precision management.",
+          "category": "notable",
+          "summary": "This narrative review synthesizes current mechanistic understanding of ICI-induced endocrine toxicities, with particular focus on hypophysitis and adrenal insufficiency as the pituitary/adrenal manifestations. It highlights that adrenal insufficiency from ICI therapy is often irreversible and may lack early warning signs, making it particularly dangerous in ambulatory cancer patients. The review discusses emerging predictive biomarkers\u2014including thyroid autoantibodies, cytokine profiles, and single-cell sequencing\u2014as well as liquid biopsy and imaging-based tools, framing these within a 'proactive endocrine protection' paradigm that emphasizes moving from reactive toxicity management to earlier individualized surveillance.",
+          "caveat": "Narrative review design with inherent selection bias; most cited biomarkers are exploratory and lack prospective validation. The authors explicitly acknowledge the need for large-scale prospective studies before clinical implementation of any predictive model.",
+          "quiz_question": "A 58-year-old man receiving combination ipilimumab/nivolumab for metastatic melanoma develops fatigue, hyponatremia, and a morning cortisol of 4 \u00b5g/dL at week 8. He has no headache or visual symptoms. Based on current evidence reviewed in this paper, what is the key distinction you must make before initiating corticosteroid replacement, and why does it matter prognostically?",
+          "quiz_answer": "You must distinguish primary adrenal insufficiency (ICI-induced adrenalitis, typically irreversible) from secondary adrenal insufficiency due to ICI-induced hypophysitis (which may partially recover with corticosteroid treatment of the hypophysitis itself). This distinction matters because hypophysitis-related secondary AI may show partial pituitary recovery, whereas primary adrenal insufficiency from ICI therapy is typically permanent and requires lifelong glucocorticoid (and often mineralocorticoid) replacement. ACTH level and full anterior pituitary axis testing, along with adrenal imaging, are needed to differentiate these.",
+          "journal": "Frontiers in endocrinology",
+          "year": "2026"
+        },
+        {
+          "pmid": "42822599",
+          "doi": "10.1016/j.eprac.2026.08.027",
+          "title": "Analysis of the clinical profile of multiple endocrine neoplasia syndromes and the association with other tumors.",
+          "category": "notable",
+          "summary": "In this registry-based chart review of 182 MEN patients (106 MEN1, 76 MEN2), the classical tumor associations were confirmed\u2014parathyroid (90%), pituitary (61%), and GEP-NETs (65%) in MEN1; MTC (61%), pheochromocytoma (32%), and hyperparathyroidism (15%) in MEN2. Notably, a substantial proportion of patients in both groups harbored tumors not classically associated with their syndrome, including papillary thyroid cancer in MEN1 (5.7%), renal cell carcinoma in MEN1 (4.7%), and breast cancer and lymphoma in both syndromes, raising questions about whether MEN1 and RET mutations may contribute more broadly to tumorigenesis than currently recognized.",
+          "caveat": "Retrospective chart review from a single institution with only clinical (not uniformly genetic) criteria for syndrome classification; association does not establish causation, and concurrent sporadic malignancies cannot be excluded. Genetically confirmed cases were a subset (45 MEN1, 69 MEN2), limiting mechanistic conclusions.",
+          "quiz_question": "A 45-year-old woman with genetically confirmed MEN1 (MEN1 mutation) presents for routine surveillance. She has known parathyroid disease and a small non-functioning pituitary adenoma. She mentions a recent breast lump. Based on this registry analysis, how should you counsel her regarding breast cancer risk in MEN1?",
+          "quiz_answer": "This series found breast cancer in 1.9% of MEN1 patients, a rate that may exceed what would be expected by chance, though causality is unproven. The authors conclude that further investigation is needed to clarify whether MEN1 mutations contribute to breast tumorigenesis. While current guidelines do not mandate enhanced breast cancer screening specifically for MEN1, this finding supports a low threshold for prompt evaluation of any breast mass and warrants discussion in the context of her overall surveillance plan.",
+          "journal": "Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists",
           "year": "2026"
         }
       ],
