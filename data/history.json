@@ -101,7 +101,10 @@
     "42820462",
     "42822597",
     "42822599",
-    "42823747"
+    "42823747",
+    "42828437",
+    "42829396",
+    "42829457"
   ],
   "sessions": [
     {
@@ -1560,6 +1563,49 @@
           "quiz_question": "A 45-year-old woman with genetically confirmed MEN1 (MEN1 mutation) presents for routine surveillance. She has known parathyroid disease and a small non-functioning pituitary adenoma. She mentions a recent breast lump. Based on this registry analysis, how should you counsel her regarding breast cancer risk in MEN1?",
           "quiz_answer": "This series found breast cancer in 1.9% of MEN1 patients, a rate that may exceed what would be expected by chance, though causality is unproven. The authors conclude that further investigation is needed to clarify whether MEN1 mutations contribute to breast tumorigenesis. While current guidelines do not mandate enhanced breast cancer screening specifically for MEN1, this finding supports a low threshold for prompt evaluation of any breast mass and warrants discussion in the context of her overall surveillance plan.",
           "journal": "Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-23",
+      "items": [
+        {
+          "pmid": "42829396",
+          "doi": "10.1007/s11102-026-01764-9",
+          "title": "GATA3-positive silent corticotroph adenomas are characterized by large size and massive infrasellar invasion.",
+          "category": "notable",
+          "summary": "In a cohort of 45 silent corticotroph adenomas (SCAs), roughly one quarter (11/45) were GATA3-positive, and this subgroup was significantly more likely to be male, to present as giant adenomas (82% vs. 24%), and to demonstrate massive sphenoid/infrasellar invasion. Despite their more locally aggressive radiological phenotype, GATA3-positive SCAs did not show higher Ki-67, more mitoses, or worse post-surgical outcomes compared to GATA3-negative tumors. Importantly, gross total resection was achieved in none of the GATA3-positive cases versus about one-third of the GATA3-negative cases, underscoring a surgically challenging profile. These findings suggest GATA3 immunostaining may help risk-stratify SCAs preoperatively and set expectations for surgical completeness.",
+          "caveat": "Single-center retrospective study with only 11 GATA3-positive cases; the lack of a statistically significant difference in post-surgical outcomes may reflect insufficient power rather than true equivalence. Long-term recurrence data are limited.",
+          "quiz_question": "A 52-year-old man undergoes transsphenoidal resection of a large sellar mass found to be a silent corticotroph adenoma on pathology. Immunostaining returns GATA3-positive. Which preoperative radiological feature and surgical outcome would you most expect based on this molecular subtype?",
+          "quiz_answer": "GATA3-positive silent corticotroph adenomas are disproportionately associated with giant tumor size and massive infrasellar (sphenoid sinus) invasion. Gross total resection is significantly less likely in this subgroup (0% in this series vs. ~32% in GATA3-negative tumors), so the patient and surgical team should be counseled about a higher likelihood of residual disease and the potential need for adjuvant therapy.",
+          "journal": "Pituitary",
+          "year": "2026"
+        },
+        {
+          "pmid": "42828437",
+          "doi": "10.1210/clinem/dgag408",
+          "title": "Approach to the pregnant patient with prolactinoma.",
+          "category": "notable",
+          "summary": "This clinical review provides a practical framework for managing prolactinoma across the preconception, pregnancy, and postpartum continuum. Key points include that cabergoline is increasingly preferred over bromocriptine for its superior efficacy and tolerability, and that either agent can be safely restarted if symptomatic tumor enlargement occurs during pregnancy. Pituitary apoplexy, though rare, may require glucocorticoid replacement or transsphenoidal surgery depending on neuro-ophthalmological severity. Breastfeeding is generally permitted, and dopamine agonists should be withheld during lactation unless clinically necessary.",
+          "caveat": "This is a narrative review without a formal systematic methodology; recommendations reflect expert consensus and existing observational data rather than randomized trial evidence. Individual risk-benefit assessment remains essential, particularly for macroadenomas.",
+          "quiz_question": "A 29-year-old woman with a known macroprolactinoma on cabergoline achieves pregnancy after stopping the drug. At 22 weeks, she develops worsening headaches and bitemporal visual field constriction on confrontation testing. What is your next management step?",
+          "quiz_answer": "Symptomatic tumor enlargement during pregnancy warrants prompt formal visual field testing and MRI (without gadolinium). If clinically significant growth is confirmed, dopamine agonist therapy\u2014preferably cabergoline given its efficacy and tolerability profile\u2014should be restarted. Transsphenoidal surgery is reserved for cases refractory to medical therapy or with severe, rapidly progressive neuro-ophthalmological compromise.",
+          "journal": "The Journal of clinical endocrinology and metabolism",
+          "year": "2026"
+        },
+        {
+          "pmid": "42829457",
+          "doi": "10.5144/0256-4947.2026.368",
+          "title": "Malignancy in patients with acromegaly: a multicenter study across the Gulf region.",
+          "category": "preliminary",
+          "summary": "This multicenter retrospective study of 157 acromegaly patients across five Gulf tertiary centers found a 6.4% overall malignancy rate, with papillary thyroid carcinoma comprising 8 of 10 cases. Patients with malignancy were significantly older (mean 56.6 vs. 46.5 years), and all ultimately achieved remission or excellent response at last follow-up. The authors conclude that findings support individualized, symptom- and risk-factor-driven cancer surveillance rather than an acromegaly-specific screening program.",
+          "caveat": "Critically limited by only 10 malignancy events, retrospective design, no population comparator, and nonstandardized cancer testing across centers\u2014making detection and selection bias highly plausible. The predominance of papillary thyroid carcinoma may partly reflect incidental detection bias given co-incident thyroid imaging. No firm conclusions about excess malignancy risk can be drawn.",
+          "quiz_question": "A 58-year-old man with well-controlled acromegaly asks whether he needs routine cancer screening beyond standard population guidelines. Based on available multicenter regional data, what is the most evidence-supported approach to malignancy surveillance in acromegaly?",
+          "quiz_answer": "Current evidence\u2014including this Gulf multicenter cohort\u2014does not support a disease-specific blanket cancer screening protocol for acromegaly. Surveillance should be individualized based on age, family history, symptoms, and adherence to population-level guidelines (e.g., colonoscopy per standard colorectal screening recommendations). The predominant associated malignancy observed was papillary thyroid carcinoma, often incidentally detected, but routine thyroid screening beyond what is clinically indicated is not yet evidence-supported.",
+          "journal": "Annals of Saudi medicine",
           "year": "2026"
         }
       ],
