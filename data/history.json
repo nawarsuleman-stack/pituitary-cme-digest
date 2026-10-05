@@ -96,15 +96,18 @@
     "42812268",
     "42813006",
     "42817666",
+    "42819666",
     "42819789",
     "42820268",
     "42820462",
     "42822597",
     "42822599",
+    "42823649",
     "42823747",
     "42828437",
     "42829396",
-    "42829457"
+    "42829457",
+    "42831231"
   ],
   "sessions": [
     {
@@ -1606,6 +1609,49 @@
           "quiz_question": "A 58-year-old man with well-controlled acromegaly asks whether he needs routine cancer screening beyond standard population guidelines. Based on available multicenter regional data, what is the most evidence-supported approach to malignancy surveillance in acromegaly?",
           "quiz_answer": "Current evidence\u2014including this Gulf multicenter cohort\u2014does not support a disease-specific blanket cancer screening protocol for acromegaly. Surveillance should be individualized based on age, family history, symptoms, and adherence to population-level guidelines (e.g., colonoscopy per standard colorectal screening recommendations). The predominant associated malignancy observed was papillary thyroid carcinoma, often incidentally detected, but routine thyroid screening beyond what is clinically indicated is not yet evidence-supported.",
           "journal": "Annals of Saudi medicine",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-18",
+      "items": [
+        {
+          "pmid": "42823649",
+          "doi": "10.1111/jne.70269",
+          "title": "Patient-reported measures in hypothalamic-pituitary diseases.",
+          "category": "notable",
+          "summary": "This comprehensive review synthesizes available PREMs (Patient-Reported Experience Measures) and PROMs (Patient-Reported Outcome Measures) across the major hypothalamic-pituitary conditions, including Cushing's disease, acromegaly, prolactinoma, non-functioning pituitary adenoma, hypopituitarism (including GH and AVP deficiencies), and craniopharyngioma. A consistent finding is that biochemical and hormonal control after medical or surgical treatment improves health-related quality of life (HRQoL), but HRQoL often remains below that of healthy controls even after successful treatment. Notably, the review highlights a systematic mismatch between what patients report as most burdensome and what clinicians prioritize, underscoring the value of formally integrating patient-reported tools into routine pituitary disease follow-up.",
+          "caveat": "This is a narrative review without a formal systematic review methodology or meta-analysis; heterogeneity across included studies and instruments limits definitive conclusions about which PROM best captures disease burden for any given pituitary condition.",
+          "quiz_question": "A 38-year-old woman with biochemically remitted Cushing's disease (post-transsphenoidal surgery, UFC normal for 2 years) continues to report significant fatigue, cognitive difficulties, and reduced quality of life. Based on the literature reviewed in this paper, how should her care team interpret and address this?",
+          "quiz_answer": "This presentation is consistent with the review's finding that HRQoL often remains impaired below healthy-control levels even after successful hormonal remission in Cushing's disease. Clinicians should not equate biochemical remission with patient recovery; formal PROM assessment should be incorporated to identify and address residual domains of impairment (e.g., fatigue, mood, cognitive function), which patients and providers frequently weight differently.",
+          "journal": "Journal of neuroendocrinology",
+          "year": "2026"
+        },
+        {
+          "pmid": "42819666",
+          "doi": "10.1155/anrp/4406992",
+          "title": "Pheochromocytoma Across the Perioperative Course: Current Concepts and Clinical Management.",
+          "category": "notable",
+          "summary": "This narrative review provides an updated, anesthesia-focused framework for perioperative pheochromocytoma management, integrating contemporary evidence on catecholamine-induced cardiovascular dysfunction, intraoperative hemodynamic crises, fluid and vasoactive therapy, and post-resection complications including hypoglycemia and vasoplegia. A dedicated section addresses the high-risk scenario of previously undiagnosed pheochromocytoma presenting during unrelated surgery, recommending that nonessential procedures be aborted once intraoperative suspicion arises and immediate stabilization prioritized. The review also covers medication-triggered crises and the importance of multidisciplinary perioperative coordination involving the endocrinologist, anesthesiologist, surgeon, and cardiologist.",
+          "caveat": "As a narrative review, this paper does not provide new primary data or a systematic literature search; recommendations are synthesized from existing evidence of varying quality and should be contextualized against individual institutional protocols and patient-specific factors.",
+          "quiz_question": "A 52-year-old man with an undiagnosed right adrenal pheochromocytoma undergoes elective laparoscopic cholecystectomy. Shortly after insufflation, he develops severe hypertension (220/130 mmHg) with tachycardia. According to the perioperative management framework described in this review, what should be the immediate priority?",
+          "quiz_answer": "Immediate hemodynamic stabilization is the priority. The review recommends that once intraoperative pheochromocytoma is suspected, the surgical team should be notified promptly, and the decision to abort versus continue should be based on the urgency of the operation and the patient's clinical status\u2014in most cases, nonessential surgery should be aborted. Intraoperative hypertension should be managed with short-acting antihypertensives (e.g., phentolamine, nicardipine, or sodium nitroprusside), and the patient should be transitioned to a monitored setting for further evaluation and planned definitive resection after appropriate alpha-blockade.",
+          "journal": "Anesthesiology research and practice",
+          "year": "2026"
+        },
+        {
+          "pmid": "42831231",
+          "doi": "10.1210/jcemcr/luag214",
+          "title": "Arginine vasopressin deficiency revealing a disseminated human chorionic gonadotropin-secreting germinoma.",
+          "category": "notable",
+          "summary": "This case report describes a 20-year-old male presenting with AVP deficiency (central diabetes insipidus) in whom initial pituitary MRI showed a small enhancing lesion with pituitary stalk thickening, but extensive workup for inflammatory and infiltrative etiologies was unrevealing. Transsphenoidal biopsy ultimately confirmed an hCG-secreting germinoma, and subsequent staging revealed disseminated disease requiring craniospinal irradiation. The case reinforces that pituitary stalk thickening with AVP-D in a young patient mandates a low threshold for biopsy and tumor marker assessment (serum/CSF beta-hCG and AFP) even when initial workup is negative, as germinoma can present with deceptively subtle or inconclusive imaging.",
+          "caveat": "Single case report; no generalizability data. However, it illustrates a well-recognized but frequently delayed diagnostic pitfall in the evaluation of central AVP deficiency with stalk thickening, consistent with existing guideline-level guidance on this workup.",
+          "quiz_question": "A 19-year-old male presents with 6 months of polyuria and polydipsia. Water deprivation test and desmopressin response confirm AVP deficiency. MRI shows pituitary stalk thickening and a small enhancing sellar lesion. Autoimmune panel and ACE level are negative. What is the most appropriate next diagnostic step according to the approach illustrated in this case?",
+          "quiz_answer": "Serum and CSF beta-hCG and AFP should be measured to evaluate for a secreting germinoma, and if inconclusive, pituitary/stalk biopsy should be strongly considered. As illustrated in this case, germinomas can present with subtle imaging findings and negative initial inflammatory workup; biopsy provided the definitive diagnosis of an hCG-secreting germinoma with disseminated disease, enabling appropriate craniospinal irradiation.",
+          "journal": "JCEM case reports",
           "year": "2026"
         }
       ],
