@@ -89,6 +89,7 @@
     "42787106",
     "42788126",
     "42791427",
+    "42793791",
     "42801380",
     "42804108",
     "42805264",
@@ -110,7 +111,9 @@
     "42829396",
     "42829457",
     "42831231",
-    "42833837"
+    "42833837",
+    "42840435",
+    "42840608"
   ],
   "sessions": [
     {
@@ -1698,6 +1701,49 @@
           "quiz_question": "A 32-year-old patient undergoes gross total resection of a craniopharyngioma. You are counseling about recurrence risk and surveillance strategy. What imaging features from this radiomics study were most strongly associated with early recurrence, and how might this type of modeling eventually influence post-operative management?",
           "quiz_answer": "T1C-derived (contrast-enhanced T1) and H3-related habitat features \u2014 radiomics signatures capturing intratumoral spatial heterogeneity in the peripheral tumor subregion \u2014 were the strongest predictors of early recurrence in this model. If validated in multicenter cohorts, such models could identify high-risk patients who might benefit from more aggressive adjuvant therapy (e.g., radiotherapy) or shorter surveillance imaging intervals, rather than applying a uniform post-operative strategy to all craniopharyngioma patients.",
           "journal": "Neurosurgical review",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-19",
+      "items": [
+        {
+          "pmid": "42840608",
+          "doi": "10.3389/fendo.2026.1946204",
+          "title": "Prolactinomas in women of reproductive age: a proposed reproductive-intent-based framework for diagnosis and management.",
+          "category": "notable",
+          "summary": "This narrative mini-review proposes a reproductive-intent-based framework for managing prolactinomas in women of reproductive age, organizing care into three dynamic states: fertility-driven, endocrine-stabilization, and surveillance-dominant. It emphasizes that tumor-related risk factors\u2014optic apparatus proximity, documented growth, apoplexy, and dopamine agonist resistance\u2014serve as cross-cutting safety modifiers that can shift a patient between states. The authors reinforce that persistent hyperprolactinemia alone, without clinically meaningful hypogonadism, symptoms, or tumor progression, does not necessarily justify therapy. Dopamine agonists remain first-line; surgery is reserved for anatomically favorable tumors or medical treatment failure.",
+          "caveat": "This is a narrative review proposing a clinical framework, not a validated prediction rule or guideline; the authors explicitly note it requires prospective validation and does not replace existing guideline-based recommendations.",
+          "quiz_question": "A 29-year-old woman with a 6 mm microprolactinoma is incidentally found to have a serum prolactin of 68 ng/mL. She has regular menses, no galactorrhea, and is not currently seeking pregnancy. She asks whether she needs treatment. Based on the framework described in this review, how should you approach this decision?",
+          "quiz_answer": "According to this framework, persistent hyperprolactinemia alone without clinically meaningful hypogonadism, symptoms, or tumor progression does not necessarily justify therapy. This patient, with regular menses and no symptoms, could reasonably be managed with surveillance rather than immediate dopamine agonist initiation\u2014she would likely fall into the 'surveillance-dominant' management state pending reassessment of reproductive intent and tumor behavior.",
+          "journal": "Frontiers in endocrinology",
+          "year": "2026"
+        },
+        {
+          "pmid": "42840435",
+          "doi": "10.31662/jmaj.2026-0113",
+          "title": "Risk of Suboptimal Serum Sodium Correction According to Etiology in Severe Hyponatremia.",
+          "category": "notable",
+          "summary": "In this retrospective study of 876 patients with severe hyponatremia (Na \u2264120 mEq/L), the etiology powerfully predicted the risk of overcorrection within 24 hours. Compared to SIAD, adrenal insufficiency carried a strikingly elevated odds ratio of 5.32 (95% CI 2.29\u201312.4) for rapid correction (\u226510 mEq/L/24h), second only to polydipsia. This has direct relevance for endocrinologists: patients presenting with hyponatremia from adrenal insufficiency are at particularly high risk of osmotic demyelination if hormone replacement is initiated without anticipatory sodium re-lowering strategies. The authors suggest that etiological assessment should inform individualized monitoring intensity and correction targets from the outset.",
+          "caveat": "Retrospective, two-center design with inherent selection bias; etiological classification relied on chart review and may not have captured mixed etiologies consistently. The median correction rate overall was 4.8 mEq/L/24h, suggesting many patients were managed conservatively, but the rapid-corrector subgroups driving the OR estimates are smaller.",
+          "quiz_question": "A 58-year-old woman with known primary adrenal insufficiency presents with a serum sodium of 117 mEq/L and is started on IV hydrocortisone. Six hours later, her sodium has risen to 124 mEq/L. What does this study suggest about her risk profile, and what management step should be considered?",
+          "quiz_answer": "This study identifies adrenal insufficiency as one of the highest-risk etiologies for rapid overcorrection (OR 5.32 vs. SIAD). A 7 mEq/L rise in 6 hours places her on trajectory to exceed the safe 10 mEq/L/24h threshold. The clinician should consider proactive re-lowering with hypotonic fluids (e.g., D5W) or desmopressin to slow further correction, and increase monitoring frequency\u2014hourly sodium checks are warranted at this stage.",
+          "journal": "JMA journal",
+          "year": "2026"
+        },
+        {
+          "pmid": "42793791",
+          "doi": "10.3390/diagnostics16183006",
+          "title": "Adrenocortical Carcinoma: An Exceptional Survival Span Across a Tailored Management.",
+          "category": "preliminary",
+          "summary": "This case report documents a woman with low-grade adrenocortical carcinoma (Ki-67 15%) who survived 16 years through three open adrenalectomies, two courses of mitotane, and a pulmonary metastasectomy\u2014declining chemotherapy, immunotherapy, and radiotherapy throughout. The case illustrates that prolonged mitotane therapy can induce primary adrenal insufficiency requiring vigilant perioperative stress-dosing, and that radical re-resection including multi-visceral en bloc resection (right adrenal, kidney, three liver segments, IVC) can be attempted in highly selected patients at experienced centers. A peak ACTH of 369 pg/mL during postoperative adrenal crisis underscores the physiological stakes of adrenal insufficiency management in this setting.",
+          "caveat": "Single case report with no generalizability; the exceptional outcome likely reflects tumor biology (low-grade, low Ki-67) and patient selection as much as management strategy. This should not be interpreted as evidence favoring surgical re-resection over systemic therapy for most ACC patients.",
+          "quiz_question": "A patient with recurrent ACC on long-term mitotane develops a ACTH of 369 pg/mL in the postoperative period after a third adrenalectomy. She is hemodynamically unstable despite what you believe is adequate hydrocortisone dosing. What physiological mechanism underlies this scenario, and what does it imply for perioperative management?",
+          "quiz_answer": "Long-term mitotane induces primary adrenal insufficiency by its adrenolytic effect on the adrenal cortex, and also accelerates cortisol metabolism via CYP3A4 induction\u2014meaning standard stress-dose hydrocortisone replacement may be insufficient. The markedly elevated ACTH reflects complete loss of adrenal reserve. Perioperative management requires higher-than-usual hydrocortisone doses, close hemodynamic monitoring, and anticipation of prolonged vasopressor needs post-tumor removal, as seen in this case where stabilization required days of vasoactive support.",
+          "journal": "Diagnostics (Basel, Switzerland)",
           "year": "2026"
         }
       ],
