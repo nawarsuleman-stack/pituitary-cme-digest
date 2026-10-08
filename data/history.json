@@ -90,6 +90,7 @@
     "42788126",
     "42791427",
     "42793791",
+    "42795710",
     "42801380",
     "42804108",
     "42805264",
@@ -113,7 +114,9 @@
     "42831231",
     "42833837",
     "42840435",
-    "42840608"
+    "42840608",
+    "42842140",
+    "42842154"
   ],
   "sessions": [
     {
@@ -1744,6 +1747,49 @@
           "quiz_question": "A patient with recurrent ACC on long-term mitotane develops a ACTH of 369 pg/mL in the postoperative period after a third adrenalectomy. She is hemodynamically unstable despite what you believe is adequate hydrocortisone dosing. What physiological mechanism underlies this scenario, and what does it imply for perioperative management?",
           "quiz_answer": "Long-term mitotane induces primary adrenal insufficiency by its adrenolytic effect on the adrenal cortex, and also accelerates cortisol metabolism via CYP3A4 induction\u2014meaning standard stress-dose hydrocortisone replacement may be insufficient. The markedly elevated ACTH reflects complete loss of adrenal reserve. Perioperative management requires higher-than-usual hydrocortisone doses, close hemodynamic monitoring, and anticipation of prolonged vasopressor needs post-tumor removal, as seen in this case where stabilization required days of vasoactive support.",
           "journal": "Diagnostics (Basel, Switzerland)",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-17",
+      "items": [
+        {
+          "pmid": "42842140",
+          "doi": "10.1007/s12020-026-04807-0",
+          "title": "A post-operative fluid restriction protocol reduces the incidence of delayed hyponatremia following trans-sphenoidal pituitary surgery.",
+          "category": "notable",
+          "summary": "This prospective interventional study of 78 patients undergoing transsphenoidal surgery for pituitary neuroendocrine tumors tested a structured fluid restriction of \u22641.5 L/day from postoperative day 5 through day 14. Delayed hyponatremia occurred in 14.1% of the fluid-restricted cohort versus 36% in a historical control cohort managed without restriction (p=0.001), with no readmissions for hyponatremia in the prospective group. Mild, self-resolving hypernatremia developed in 7 patients, manageable by relaxing fluid limits. The protocol appears safe and meaningfully reduces a common, morbid post-TSS complication.",
+          "caveat": "This is a single-center study from a tropical setting (which may affect baseline fluid dynamics and AVP physiology), and the comparator is a historical retrospective cohort rather than a concurrent randomized control group\u2014confounding by changes in practice over time cannot be excluded. Sample size is modest at 78 patients.",
+          "quiz_question": "A 52-year-old woman undergoes uncomplicated endoscopic transsphenoidal resection of a non-functioning pituitary macroadenoma. On postoperative day 7 she is ambulatory and eating normally. Which postoperative management strategy, supported by this study's findings, would most reduce her risk of delayed symptomatic hyponatremia over the following week?",
+          "quiz_answer": "Implementing a structured fluid restriction of \u22641.5 L/day from postoperative day 5 through day 14, with daily intake/output monitoring and serial serum sodium checks, reduced delayed hyponatremia incidence from 36% to 14.1% and eliminated readmissions for hyponatremia in the prospective cohort.",
+          "journal": "Endocrine",
+          "year": "2026"
+        },
+        {
+          "pmid": "42842154",
+          "doi": "10.1007/s12020-026-04823-0",
+          "title": "Clinical characteristics of 28 cases of primary adrenal lymphoma.",
+          "category": "notable",
+          "summary": "This retrospective cohort of 28 patients with primary adrenal diffuse large B-cell lymphoma (DLBCL) found that the disease predominantly affects older males (median age 62, 64% male) and typically presents with bilateral adrenal masses >4 cm, weight loss, and early primary adrenal insufficiency (PAI). Of 19 patients with ACTH/cortisol measurements, 6 (approximately 32%) demonstrated biochemical evidence of early PAI, underscoring that adrenal function is often already compromised at diagnosis. The authors emphasize that high clinical suspicion, prompt biopsy, and adrenal function testing are essential to avoid delayed diagnosis and treatment.",
+          "caveat": "Small single-center retrospective cohort (n=28) over 11 years limits generalizability and statistical power. Endocrine evaluation was not uniformly performed in all patients, so the true prevalence of adrenal insufficiency in this population may be underestimated.",
+          "quiz_question": "A 65-year-old man presents with 3 months of weight loss, lumbar pain, and fatigue. CT abdomen reveals bilateral adrenal masses measuring 5 and 6 cm, with no other lymphadenopathy. Morning cortisol is low at 4 \u00b5g/dL with an elevated ACTH. What diagnosis should be high on your differential, and what next step is most critical?",
+          "quiz_answer": "Primary adrenal lymphoma (diffuse large B-cell lymphoma) should be strongly considered, as this series shows it frequently presents with bilateral large adrenal masses and early primary adrenal insufficiency in older men. Prompt adrenal biopsy for histopathology is essential to confirm the diagnosis and initiate chemotherapy, alongside glucocorticoid replacement for PAI.",
+          "journal": "Endocrine",
+          "year": "2026"
+        },
+        {
+          "pmid": "42795710",
+          "doi": "10.3390/jcm15186938",
+          "title": "Pheochromocytoma Presenting as Spontaneous Adrenal Hemorrhage in a Normotensive Patient: A Case Report.",
+          "category": "preliminary",
+          "summary": "This case report describes a 34-year-old normotensive man who presented with acute retroperitoneal hemorrhage from a right adrenal pheochromocytoma, initially obscuring the underlying tumor on CT. The hematoma was managed conservatively, and follow-up imaging after its regression revealed a persistent enhancing adrenal lesion; biochemical evaluation then confirmed elevated plasma metanephrines, leading to the correct diagnosis and successful laparoscopic adrenalectomy. The case reinforces that spontaneous adrenal hemorrhage can be the sentinel event of pheochromocytoma even in the absence of hypertension, and that any residual adrenal lesion after hematoma resolution warrants biochemical and functional workup.",
+          "caveat": "Single case report; no systematic data on frequency of pheochromocytoma as the underlying etiology of spontaneous adrenal hemorrhage. Clinical guidance must be extrapolated with caution.",
+          "quiz_question": "A 34-year-old normotensive man presents to the ED with sudden severe right flank pain. CT shows a large right retroperitoneal hemorrhage involving the adrenal gland. He is managed conservatively and repeat CT at 8 weeks shows hematoma regression but a persistent 3-cm enhancing right adrenal nodule. What is the next essential diagnostic step?",
+          "quiz_answer": "Biochemical screening for catecholamine excess\u2014specifically plasma free metanephrines or 24-hour urine fractionated metanephrines\u2014is essential. As illustrated in this case, pheochromocytoma can present as spontaneous adrenal hemorrhage even without hypertension, and the underlying tumor may only become apparent after the hematoma resolves. Functional evaluation must not be skipped before any planned surgical intervention.",
+          "journal": "Journal of clinical medicine",
           "year": "2026"
         }
       ],
