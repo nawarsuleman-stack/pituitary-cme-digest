@@ -112,6 +112,7 @@
     "42828437",
     "42829396",
     "42829457",
+    "42829526",
     "42831231",
     "42833837",
     "42840435",
@@ -128,7 +129,9 @@
     "42859344",
     "42859398",
     "42860641",
-    "42861275"
+    "42861275",
+    "42862271",
+    "42865698"
   ],
   "sessions": [
     {
@@ -1974,6 +1977,49 @@
           "quiz_question": "A 34-year-old woman presents with enlarging hands, jaw prominence, and elevated IGF-1 confirmed on MRI as a pituitary macroadenoma. Routine labs show serum calcium of 11.4 mg/dL. What syndrome should be actively investigated, and what initial steps would confirm it?",
           "quiz_answer": "MEN-1 should be suspected given the combination of a GH-secreting pituitary adenoma and hypercalcemia (suggesting primary hyperparathyroidism). Evaluation should include parathyroid hormone level, neck imaging to identify parathyroid adenoma(s), pancreatic imaging/hormonal assessment for islet cell involvement, and germline MEN-1 gene mutation testing \u2014 even in the absence of a family history, as demonstrated in this case.",
           "journal": "The American journal of case reports",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-17",
+      "items": [
+        {
+          "pmid": "42862271",
+          "doi": "10.1007/s10067-026-08471-7",
+          "title": "Unilateral adrenal haemorrhage during bridging anticoagulation in primary antiphospholipid syndrome: a case-based review.",
+          "category": "notable",
+          "summary": "This case report and literature review describes a 42-year-old man with primary antiphospholipid syndrome (APS) who developed acute unilateral adrenal hemorrhage during peri-procedural bridging anticoagulation with enoxaparin. The patient remained hemodynamically stable and did not develop adrenal insufficiency, and was managed conservatively with careful reintroduction of anticoagulation. The accompanying review highlights that bridging anticoagulation represents a particularly vulnerable window for adrenal hemorrhage in high-risk APS patients, and emphasizes that early CT/MRI and formal adrenal function assessment are essential when APS patients present with abdominal pain during anticoagulation transitions.",
+          "caveat": "Single case report with a narrative review of prior cases; evidence base is limited to case-level data and cannot establish incidence or guide protocol-level recommendations. Adrenal insufficiency did not develop here, so the review may underrepresent cases with more severe adrenal compromise.",
+          "quiz_question": "A 38-year-old woman with primary antiphospholipid syndrome on long-term warfarin develops acute right upper-quadrant pain during a peri-procedural switch to bridging enoxaparin. What diagnosis should be actively excluded, what imaging is most appropriate, and what adrenal function assessment should be performed?",
+          "quiz_answer": "Adrenal hemorrhage should be actively excluded. CT (or MRI) of the abdomen is the appropriate initial imaging. Adrenal function should be assessed with a morning cortisol and, if borderline, a cosyntropin stimulation test to rule out acute adrenal insufficiency, which would require immediate glucocorticoid replacement. Conservative management with careful reintroduction of anticoagulation may be appropriate if the patient is hemodynamically stable and adrenal function is preserved.",
+          "journal": "Clinical rheumatology",
+          "year": "2026"
+        },
+        {
+          "pmid": "42865698",
+          "doi": "10.1155/criu/2760597",
+          "title": "Catecholamine-Secreting Retroperitoneal Paraganglioma: A Case Report and Literature Review.",
+          "category": "notable",
+          "summary": "This case describes a 75-year-old man with an incidentally discovered 5 cm retroperitoneal paraganglioma confirmed by marked catecholamine hypersecretion and 18F-FDOPA PET/CT. Preoperative alpha-blockade with doxazosin followed by beta-blockade was employed, but intraoperative renal artery injury necessitated en bloc resection including the kidney and ipsilateral adrenal gland. Despite microscopically involved margins, the patient achieved biochemical remission at 6 months; germline testing of a 14-gene PPGL panel was negative, underscoring that a negative panel does not eliminate malignant potential and that lifelong surveillance remains mandatory.",
+          "caveat": "Single case report; microscopically positive margins with only 6-month follow-up means long-term outcomes are unknown. The 14-gene germline panel used may not capture all known susceptibility variants, and Ki-67 <1% does not reliably exclude malignant behavior in paraganglioma.",
+          "quiz_question": "A 68-year-old man has a biochemically active 4.5 cm perihilar retroperitoneal paraganglioma. Germline testing using a 14-gene PPGL panel returns negative. How should this result alter his long-term surveillance plan, and what functional imaging modality is most appropriate for staging?",
+          "quiz_answer": "A negative 14-gene germline panel does not eliminate the risk of malignant behavior or metastatic disease in paraganglioma; lifelong annual clinical and biochemical surveillance (plasma/urinary metanephrines) remains mandatory regardless of genetic results. 18F-FDOPA PET/CT (or 68Ga-DOTATATE PET/CT depending on tumor biochemistry) is appropriate for functional staging to exclude occult metastatic disease.",
+          "journal": "Case reports in urology",
+          "year": "2026"
+        },
+        {
+          "pmid": "42829526",
+          "doi": "10.1002/ccr3.73583",
+          "title": "Pediatric Pheochromocytoma With Rapid Cyclic Blood Pressure Fluctuations: A Case Report.",
+          "category": "notable",
+          "summary": "This report documents cyclic blood pressure fluctuations \u2014 previously described only in adult pheochromocytoma \u2014 in a 5-year-old boy with VHL disease and a left adrenal pheochromocytoma. Despite 27 days of titrated doxazosin preoperatively, systolic BP oscillated between 50 and 150 mmHg at ~7-minute intervals immediately after intubation and was refractory to both phenylephrine and phentolamine. Following tumor resection, profound vasoplegic hypotension required triple vasopressor support (norepinephrine, epinephrine, vasopressin) for three days, illustrating the severity of catecholamine withdrawal even with apparently adequate preoperative preparation.",
+          "caveat": "Single pediatric case report; the cyclic pattern's mechanism is not established, and the optimal preoperative alpha-blockade regimen for young children with VHL-associated pheo remains undefined. Generalizability from one case is inherently limited.",
+          "quiz_question": "A 6-year-old girl with confirmed VHL disease is found to have a 2.5 cm left adrenal pheochromocytoma with markedly elevated plasma normetanephrines. She undergoes 4 weeks of doxazosin preoperatively. In the operating room shortly after intubation, her blood pressure begins oscillating between 60 and 160 mmHg every 5\u20138 minutes independent of surgical stimulation. What is the likely mechanism, and what management challenges should the team anticipate post-resection?",
+          "quiz_answer": "The cyclic BP fluctuations likely reflect episodic autonomous catecholamine release from the tumor, which can be triggered by intubation and is independent of surgical manipulation. These oscillations may be refractory to standard vasopressors and alpha-blockers. After tumor resection, profound vasoplegic hypotension due to abrupt catecholamine withdrawal is expected and may require high-dose multi-agent vasopressor support (norepinephrine, epinephrine, vasopressin) for several days. Anticipatory planning with ICU-level hemodynamic monitoring and vasopressor availability is essential.",
+          "journal": "Clinical case reports",
           "year": "2026"
         }
       ],
