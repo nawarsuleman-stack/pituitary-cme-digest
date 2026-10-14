@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-10-13",
+  "fetched_at": "2026-10-14",
   "date_window": {
-    "from": "2016/10/15",
-    "to": "2026/10/13"
+    "from": "2016/10/16",
+    "to": "2026/10/14"
   },
   "already_covered_pmids": [
     "41730814",
@@ -117,6 +117,7 @@
     "42828437",
     "42829396",
     "42829457",
+    "42829526",
     "42831231",
     "42833837",
     "42840435",
@@ -133,60 +134,27 @@
     "42859344",
     "42859398",
     "42860641",
-    "42861275"
+    "42861275",
+    "42862271",
+    "42865698"
   ],
   "candidates": [
     {
-      "pmid": "42812240",
-      "doi": "10.3389/fonc.2026.1899311",
-      "title": "Von Hippel-Lindau syndrome presenting as a lateral ventricular space-occupying lesion: a case report.",
-      "abstract": "Von Hippel-Lindau disease is a rare autosomal dominant genetic disorder caused by mutations in the VHL tumor suppressor gene located on chromosome 3. Its core feature is the development of vascular-rich tumors or cysts in multiple organ systems at different ages, mainly manifesting as cerebellar hemangioblastoma, retinal hemangioblastoma, renal cell carcinoma and/or multiple renal cysts, and adrenal pheochromocytoma, among others. The disease is rare and involves multiple systems, making diagnosis challenging. Genetic testing has gradually become the gold standard for its diagnosis. This case report describes a 54-year-old male patient who presented with an intracranial space-occupying lesion detected during a health check-up three years earlier, as well as headache, dizziness, and decreased vision for more than four months. Imaging and pathological examinations ultimately confirmed a diagnosis of VHL syndrome, complicated by a rare \"collision tumor\" composed of an intracranial (lateral ventricular) hemangioblastoma and metastatic clear cell renal cell carcinoma. After resection of the lateral ventricular tumor, the patient developed extensive intracranial hemorrhage and fatal brainstem hemorrhage due to the inherently high vascularity of the hemangioblastoma, and eventually died. Through this complex and high-risk case, we discuss the diagnostic difficulties of VHL syndrome, the surgical risks of central nervous system lesions, and multidisciplinary management strategies, aiming to provide practical guidance for clinical practice.",
-      "journal": "Frontiers in oncology",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42865803",
-      "doi": "10.21037/jtd-2026-1487",
-      "title": "Symptoms improvement and lung function benefits of fixed triple therapy with beclomethasone/formoterol/glycopyrronium inhalation powder in patients with moderate-to-severe COPD: outcomes of the Bulgarian arm of the RESPONSE study.",
-      "abstract": "The fixed triple beclomethasone dipropionate/formoterol fumarate/glycopyrronium (BDP/FF/GB) therapy is available in both pressurized metered-dose inhaler (pMDI) and dry powder inhaler (DPI) formulations for chronic obstructive pulmonary disease (COPD) treatment. While the pMDI form has been extensively investigated in pivotal trials and real-world studies, real-world data on the DPI (88/5/9 \u03bcg) formulation remain limited. The RESPONSE study assessed the real-world effectiveness of BDP/FF/GB inhalation powder in a cohort of moderate-to-severe COPD patients uncontrolled with dual combinations. This non-interventional, prospective, multicenter study was conducted across 21 Bulgarian sites. COPD patients (\u226535 years) with persistent symptoms [COPD Assessment Tool (CAT) \u226510 and/or modified Medical Research Council (mMRC) \u22652] and moderate or severe pulmonary obstruction [30%\u2264 forced expiratory volume in 1 second as a percentage of predicted value (FEV1%) <80%] despite dual therapies were switched to BDP/FF/GB DPI and followed for 6 months. The primary endpoint was improvement in CAT scores. Secondary endpoints included lung function, treatment adherence, dyspnea and the percentage of patients achieving CAT score reduction \u22652 from baseline. A total of 363 patients completed the study. Mean CAT scores improved significantly from 23.0 at baseline to 16.9 (P<0.001), regardless of prior dual therapy or inhaler type. Mean (\u00b1 SD) FEV1% increased from 47.6%\u00b111.9% to 53.2%\u00b115.75% (P<0.001). Treatment adherence and dyspnea also showed significant improvement. Notably, 87.9% of participants achieved a CAT score reduction \u22652 points. The RESPONSE study showed that switching to BDP/FF/GB DPI was associated with clinically meaningful improvements in symptoms, lung function, and adherence in COPD patients inadequately controlled on dual therapy, supporting its role as a practical escalation option in routine care.",
-      "journal": "Journal of thoracic disease",
+      "pmid": "42871617",
+      "doi": "10.26599/1671-5411.2026.09.001",
+      "title": "Temporal dynamics of left atrial reverse remodeling predicts atrial fibrillation ablation outcome: A 3-year longitudinal study.",
+      "abstract": "Long-term dynamic changes in the left atrium (LA) following radiofrequency catheter ablation (RFCA) for atrial fibrillation (AF) remain unclear. We aimed to unveil the temporary dynamics of LA reverse remodeling and the optimal echocardiographic indicator and timing for evaluating RFCA outcomes in this 3-year longitudinal study. Data were retrospectively collected from 400 consecutive patients undergoing RFCA for AF (paroxysmal 71%). Echocardiographic examinations were performed at 1 day, and 1, 3, 6, 12, 18, 24, 30, and 36 months after RFCA. Patients were classified into three groups based on RFCA outcomes. We constructed mean response curves to visualize the tendency between echocardiographic indicators and time across groups. Proportional odds models were built to determine the optimal echocardiographic indicator and follow-up time point for distinguishing the outcome group. After a mean follow-up duration of 81 \u00b1 24 months, free of AF was achieved in 357 patients. Mean response curves of echocardiographic indicators differed between patients with and without AF recurrence. A flat slope of mean response curves in the first 3 months and deterioration of echocardiographic indices starting 18 months after RFCA indicated higher risks of AF recurrence. LA linear ablation didn't affect the longitudinal trend of echocardiographic indicators in paroxysmal AF, but retarded LA reverse remodeling process in persistent AF. LAEF at 36 months had the highest c-index for predicting AF recurrence during a median follow-up period of 80 months. The longitudinal trend of echocardiographic indicators reflects long-term LA remodeling and can provide important information for individualized treatment strategies.",
+      "journal": "Journal of geriatric cardiology : JGC",
       "year": "2026",
       "publication_types": [
         "Journal Article"
       ]
     },
     {
-      "pmid": "42865812",
-      "doi": "10.3389/fcell.2026.1868137",
-      "title": "Senomorphic miR-3155b suppresses the senescence-associated secretory phenotype in therapy-induced senescence.",
-      "abstract": "Senomorphic microRNAs (miRNAs) are a class of small regulatory RNAs that selectively suppress the senescence-associated secretory phenotype (SASP) without eliminating senescent cells, thereby offering a targeted approach to counteract the pro-tumorigenic consequences of therapy-induced senescence (TIS). Despite their therapeutic potential, senomorphic miRNAs in luminal breast cancer remain poorly characterized. Here, we performed small RNA sequencing to profile miRNA expression changes in a doxorubicin-induced TIS model using the luminal breast cancer line MCF7. We identified miR-3155b as a previously uncharacterized miRNA significantly downregulated during TIS. Functional studies revealed that miR-3155b overexpression suppressed the mRNA and protein levels of multiple SASP factors, including IL6, IL8 (CXCL8), MMP13, TNF, IL1B, and IFNB1, whereas its knockdown enhanced their expression. Critically, these effects occurred without affecting core senescence phenotypes such as proliferation arrest, SA-\u03b2-gal activity, or DNA damage foci formation. This senomorphic function was further confirmed in an ionizing radiation (IR)-induced TIS model and in T47D luminal breast cancer cells. miR-3155b was confirmed to target the CXCL8 mRNA by luciferase reporter assays, and RNA pull-down assays indicated that miR-3155b physically associates with IFNB1, IL6, TNF, and MMP13 mRNAs. Collectively, our findings identify miR-3155b as a senomorphic miRNA in Luminal A breast cancer TIS and provide a potential target for optimizing chemoradiotherapy strategies aimed at mitigating SASP-driven adverse effects.",
-      "journal": "Frontiers in cell and developmental biology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42862271",
-      "doi": "10.1007/s10067-026-08471-7",
-      "title": "Unilateral adrenal haemorrhage during bridging anticoagulation in primary antiphospholipid syndrome: a case-based review.",
-      "abstract": "Antiphospholipid syndrome (APS) is a major cause of acquired thrombophilia and is frequently associated with recurrent venous thromboembolism requiring long-term anticoagulation. We report a 42-year-old man with primary APS and recurrent pulmonary embolism and deep vein thrombosis who developed acute right upper-quadrant abdominal pain during peri-procedural bridging anticoagulation with enoxaparin. Computed tomography (CT) and magnetic resonance imaging demonstrated acute-to-subacute unilateral right adrenal haemorrhage without evidence of abdominal trauma, malignancy or infection. The patient remained haemodynamically stable and did not develop adrenal insufficiency. This case highlights the complexity of anticoagulation management in high-risk APS patients and emphasises the importance of considering adrenal haemorrhage in APS patients presenting with abdominal pain during anticoagulation modification. A review of previously reported unilateral APS-associated adrenal haemorrhage cases is also presented. Key Points \u2022 Unilateral adrenal haemorrhage is a rare manifestation of primary antiphospholipid syndrome. \u2022 Bridging anticoagulation may represent a vulnerable period for adrenal haemorrhage in high-risk APS. \u2022 Early CT/MRI imaging and assessment of adrenal function are essential. \u2022 Conservative management with careful reintroduction of anticoagulation may lead to favourable outcomes.",
-      "journal": "Clinical rheumatology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "42829547",
-      "doi": "10.7759/cureus.115707",
-      "title": "Acinetobacter baumannii Nosocomial Meningitis Secondary to Neurosurgical Intervention: A Case Report.",
-      "abstract": "Nosocomial meningitis is a serious complication of neurosurgical procedures, associated with high morbidity and mortality, as well as significant diagnostic and therapeutic challenges. Among the causative pathogens, Acinetobacter baumannii (A. baumannii) is particularly concerning due to its ability to survive for prolonged periods in the hospital environment, its opportunistic virulence, and, especially, its tendency to develop multidrug resistance to antimicrobial agents. Diagnosis is often difficult in the postoperative setting, particularly when the cerebrospinal fluid (CSF) is altered as a result of the surgical procedure. Rapid identification of the causative agent and early initiation of appropriate antibiotic therapy are essential to limit complications and improve patient prognosis. We report the case of a 27-year-old patient with a history of surgically treated craniopharyngioma complicated by anterior hypopituitarism. Three weeks after surgery, he was admitted to the ICU with suspected postoperative meningitis due to the onset of behavioral disturbances associated with nasal discharge, without a fever. Brain CT was normal. CSF analysis, obtained by lumbar puncture under strict aseptic conditions, revealed a turbid fluid with leukocytosis of 5,760 cells/mm\u00b3, predominantly composed of neutrophils,\u00a0along with elevated protein levels\u00a0(5.7 g/L) and low glucose levels (0.05 g/L). Direct examination after Gram staining showed Gram-negative coccobacilli with a marked inflammatory reaction. CSF culture\u00a0grew\u00a0a multidrug-resistant (MDR) strain of\u00a0A. baumannii,\u00a0which was\u00a0sensitive only to colistin. The patient received antibiotic therapy\u00a0with colistin, administered intravenously and intrathecally for 18 days, with initial neurological improvement and sterilization of the CSF by the\u00a015th day\u00a0of treatment. The subsequent course was unfavorable, marked by the development of acute respiratory distress syndrome (ARDS) secondary to ventilator-associated pneumonia caused by methicillin-resistant\u00a0Staphylococcus aureus\u00a0(MRSA), complicated by refractory septic shock,\u00a0which ultimately led to his death\u00a0after one month of hospitalization in the ICU. This report highlights the severity of nosocomial meningitis caused by MDR\u00a0A. baumannii\u00a0and underscores the importance of\u00a0implementing\u00a0infection prevention measures in healthcare settings.",
+      "pmid": "42871612",
+      "doi": "10.7759/cureus.116181",
+      "title": "Beyond Primary Epilepsy: Fahr's Syndrome Secondary to Congenital Parathyroid Agenesis Presenting With Generalised Seizures in a Young Adult.",
+      "abstract": "Symmetrical, bilateral intracranial calcifications, commonly involving the basal ganglia, constitute the characteristic features of Fahr's syndrome, which is an uncommon neurometabolic condition. Its incidence in conjunction with congenital parathyroid agenesis, however, has rarely been reported. The present case emphasises how crucial it is to identify the metabolic origins of intracranial calcification and differentiate Fahr's syndrome from primary familial brain calcification to prevent repeated neurological consequences through adequate therapy. A 26-year-old man with congenital absence of the parathyroid gland presented to the emergency department after a 10-minute generalised tonic-clonic seizure, preceded by twitching of the perioral muscles. Examination revealed continuous perioral twitching, drowsiness in the postictal state\u00a0and a positive Chvostek sign. Although the serum 25-hydroxyvitamin D (25-OH vitamin D) level remained within the normal range (88 nmol/L), laboratory tests revealed severe hypocalcaemia (1.44 mmol/L), hyperphosphatemia (1.95 mmol/L)\u00a0and undetectable parathyroid hormone (<0.1 pmol/L), supporting hypoparathyroidism as the underlying cause of his symptoms. Non-contrast computed tomography (CT) of the head demonstrated\u00a0typical bilateral symmetric basal ganglia calcifications, consistent with Fahr's syndrome, and an electrocardiogram (ECG) revealed QT interval prolongation. Intravenous calcium, oral calcium supplements, and alfacalcidol were used to treat the patient; this led to the correction of hypocalcaemia, full resolution of neuromuscular symptoms\u00a0and no more seizures while the patient was in the hospital. This case demonstrates the rare correlation between Fahr's syndrome and congenital parathyroid agenesis that manifests in early adulthood. It highlights how crucial it is to take reversible metabolic factors into account when young adults exhibit new-onset seizures. Adequate vitamin D stores alone cannot maintain calcium homeostasis in individuals with congenital hypoparathyroidism, as evidenced by the significant hypocalcaemia that developed despite normal vitamin D status due to lacking parathyroid hormone.",
       "journal": "Cureus",
       "year": "2026",
       "publication_types": [
@@ -195,56 +163,11 @@
       ]
     },
     {
-      "pmid": "42865809",
-      "doi": "10.21037/tp-2026-0593",
-      "title": "Factors associated with drug-resistant epilepsy in children with epilepsy: a retrospective cohort study.",
-      "abstract": "Drug\u2011resistant epilepsy (DRE) remains a major clinical challenge in children. Understanding clinical factors associated with drug resistance is important for guiding management. We aimed to investigate factors independently associated with DRE in a large cohort of children with epilepsy. A retrospective cohort study was conducted on children with confirmed epilepsy who received regular follow\u2011up at two tertiary pediatric epilepsy centers. Patients were classified into DRE [failure of \u22652 adequate anti-seizure medications (ASMs) trials] and non\u2011DRE groups according to ILAE criteria. Baseline demographic, clinical, electroencephalographic, neuroimaging, and treatment\u2011related variables were collected. Univariate and multivariate logistic regression analyses were performed to identify factors independently associated with DRE. Treatment\u2011related variables (number of ASMs tried, maximum concurrent ASMs, and polytherapy at last follow\u2011up) were excluded from the multivariable model due to their intrinsic relationship with the definition and clinical consequences of DRE. Model discrimination was evaluated using the area under the receiver operating characteristic (ROC) curve (AUC), and calibration was assessed by the Hosmer\u2011Lemeshow test. The 95% confidence intervals (CIs) for performance metrics were obtained via bootstrap resampling. A total of 412 children were enrolled, including 100 (24.3%) with DRE. Children with DRE had significantly younger age at onset (4.30\u00b13.40 vs. 6.01\u00b13.50 years, P<0.001), higher baseline seizure frequency, more frequent status epilepticus, neurodevelopmental disorders, and psychiatric comorbidities (all P<0.05). In multivariable analysis excluding treatment\u2011related variables, generalized seizure type (vs. focal) [adjusted odds ratio (OR) =0.20; 95% CI: 0.04-0.62; P=0.01), history of status epilepticus (adjusted OR =4.86; 95% CI: 2.15-11.13; P<0.001), neurodevelopmental disorder (adjusted OR =3.40; 95% CI: 1.49-7.85; P=0.004), structural etiology (vs. genetic) (adjusted OR =0.25; 95% CI: 0.07-0.92; P=0.040), and older age at onset (adjusted OR =0.91; 95% CI: 0.82-1.00; P=0.046) were independently associated with DRE. The model showed moderate discriminative ability (AUC =0.802; 95% CI: 0.751-0.872). In this retrospective cohort, seizure type, history of status epilepticus, neurodevelopmental disorder, structural etiology, and older age at onset were independently associated with DRE after excluding treatment\u2011related variables. These findings suggest that true baseline independently associated variables of DRE are limited, and the diagnosis of DRE itself-failure of two adequate ASM trials-remains the most practical indicator for considering non\u2011pharmacological therapies. External validation is needed before clinical application.",
-      "journal": "Translational pediatrics",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42865801",
-      "doi": "10.21037/jtd-2026-1720",
-      "title": "Single-lumen tube cuff tamponade and dynamic positioning for bronchoscopy-associated massive airway hemorrhage: a case series.",
-      "abstract": "Bronchoscopy-associated acute massive airway hemorrhage (BAMAH) is an uncommon but life-threatening emergency, as rapid airway flooding can compromise bronchoscopic visualization, ventilation, oxygenation, and circulation. Conventional bronchoscopic and lung-isolation methods may be difficult to deploy when visualization is lost, whereas bronchial artery embolization and surgery cannot provide immediate airway stabilization. This brief report describes a rescue strategy guided by a simplified ABCDE framework that combines a cuffed single-lumen endotracheal tube with cuff tamponade, lung isolation, and dynamic positioning. We retrospectively reviewed eight patients who developed BAMAH during therapeutic rigid bronchoscopy under general anesthesia at a tertiary hospital between January 2004 and December 2021. The framework utilized airway and bleeding assessments, concurrent oxygenation and circulatory resuscitation, direct bronchoscopic control, and escalation to endotracheal rescue when visualization was lost, bronchoscopic hemostasis was no longer feasible, or when rapid physiological deterioration occurred. Depending on the bleeding site, the tube was advanced beyond a tracheal lesion or into the contralateral non-bleeding main bronchus, and the cuff was positioned to provide temporary tamponade and lung isolation. Trendelenburg positioning and lateral tilt were adjusted according to bleeding control and oxygenation. All eight patients developed severe hypoxemia during hemorrhage, and five patients experienced cardiac arrest. After intubation, immediate airway stabilization was achieved in all patients, with temporary compression hemostasis, lung isolation, and recovery of monitor-displayed peripheral oxygen saturation (SpO2) to at least 90%. No intraoperative death occurred during the rescue procedure. Three patients subsequently underwent emergency bronchial artery embolization. Four patients died within 48 hours from disseminated intravascular coagulation and multiple organ failure. As a result, this strategy should be viewed as a practical temporizing rescue method that provides patients with time for further treatment, rather than a definitive therapy.",
-      "journal": "Journal of thoracic disease",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42787715",
-      "doi": "10.1016/j.tcr.2026.101435",
-      "title": "Pertrochanteric fracture in case of Sheehan syndrome: A rare case report.",
-      "abstract": "Sheehan's syndrome is caused by ischemic necrosis of the pituitary gland following hypo-perfusion to the pituitary gland. The prevalence is around 3.2% in women <40\u00a0years of age and is relatively common in developing countries. The diagnosis is made with the help of a suggestive obstetric history, clinical manifestations, laboratory findings of reduced hormone levels, and pertinent radiological features. The treatment is to replace the patient with deficient hormones and prevent the complications associated with it. We present the management of a patient with Sheehan's syndrome with pertrochanteric fracture due to the rarity of its presentation. The patient underwent the insertion of a proximal femur nail under closed reduction and achieved optimum results post operatively. As such no case reports with these findings have been documented in the literature or online sources.",
-      "journal": "Trauma case reports",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42865698",
-      "doi": "10.1155/criu/2760597",
-      "title": "Catecholamine-Secreting Retroperitoneal Paraganglioma: A Case Report and Literature Review.",
-      "abstract": "Paragangliomas are rare neuroendocrine tumors arising from autonomic paraganglia. These tumors have metastatic potential, and histopathological findings alone cannot reliably predict their biological behavior. Clinical manifestations range from the classic triad of headache, diaphoresis, and palpitations to incidental findings in asymptomatic patients. A 75-year-old man was incidentally found to have a 5\u2009cm retroperitoneal mass adjacent to the right renal hilum. Biochemical testing confirmed marked catecholamine hypersecretion, and 18F-FDOPA PET/CT demonstrated isolated uptake within the lesion without additional disease. Preoperative preparation included progressive alpha-adrenergic blockade with doxazosin for approximately 1 month, followed by atenolol for heart rate control. An open approach through a right subcostal hemichevron incision was selected because the tumor was located between the right renal artery and vein and lateral to the inferior vena cava. During dissection, an iatrogenic renal artery injury with intraoperative hemorrhage occurred, necessitating en bloc removal of the tumor, right kidney, and right adrenal gland. Histopathological examination confirmed a paraganglioma with a Ki-67 proliferation index below 1%, focal nuclear atypia, no mitotic figures, no tumor necrosis, no vascular invasion, and microscopic margin involvement. Immunohistochemistry was positive for Chromogranin A, synaptophysin, GATA-3, and S100. Germline testing using a 14-gene pheochromocytoma-paraganglioma panel identified no reported pathogenic or likely pathogenic variants. At 6 months, contrast-enhanced thoracoabdominopelvic computed tomography showed no evidence of local recurrence or metastatic disease, and plasma and urinary metanephrines had normalized, consistent with postoperative biochemical remission. The patient remains under joint endocrinology and urology follow-up with lifelong annual clinical and biochemical surveillance. This case highlights the diagnostic and surgical challenges of a functioning perihilar retroperitoneal paraganglioma. Careful endocrine preparation, vascular planning, multidisciplinary management, and lifelong surveillance are essential, particularly when the surgical margin is microscopically involved.",
-      "journal": "Case reports in urology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42865798",
-      "doi": "10.1002/jgh3.70483",
-      "title": "Halitosis and Helicobacter pylori Infection: A Systematic Review and Meta-Analysis.",
-      "abstract": "Halitosis, a common clinical condition, is frequently associated with Helicobacter pylori infection. Numerous studies have highlighted a significant reduction in halitosis following successful H. pylori eradication. This meta-analysis aimed to investigate the association between H. pylori infection and halitosis, as well as the effect of H.\u00a0pylori eradication on halitosis resolution. We searched major databases, including PubMed, EMBASE, the Cochrane Library, and the Science Citation Index, up to March 2025. Literature screening and data extraction were conducted according to strict inclusion and exclusion criteria. Study quality was assessed using appropriate tools according to study design. Heterogeneity and risk of bias were analyzed using Stata 12.0. Subgroup analyses were performed to examine the relationship between H. pylori infection and halitosis, including infection prevalence, symptom incidence, and treatment outcomes. Of the 154 articles screened, 24 met the inclusion criteria, involving 5872 patients. The analysis revealed a significantly higher H. pylori infection rate in the halitosis group compared with the non-halitosis group (OR\u2009=\u20093.42; 95% CI: 1.13-10.33). The prevalence of halitosis was higher in H. pylori-positive individuals than in H. pylori-negative individuals (OR\u2009=\u20091.91; 95% CI: 1.28-2.86). The prevalence of halitosis was lower in the successful eradication group compared with the unsuccessful eradication group (OR\u2009=\u20090.17; 95% CI: 0.04-0.73). Moreover, pre-eradication halitosis rates were higher than post-eradication rates (OR\u2009=\u20094.39; 95% CI: 1.99-9.68). The findings suggest a significant observational association between H. pylori infection and halitosis, and eradication therapy may be associated with alleviation of halitosis.",
-      "journal": "JGH open : an open access journal of gastroenterology and hepatology",
+      "pmid": "42834406",
+      "doi": "10.1186/s13023-026-04601-1",
+      "title": "Hyperphagia in Prader-Willi syndrome: linking hypothalamic dysfunction to clinical assessment and management across the lifespan.",
+      "abstract": "Prader-Willi syndrome (PWS) is a rare genetic neurodevelopmental disorder characterised by hypothalamic dysfunction and profound dysregulation in hunger and appetite regulation, endocrine function, metabolism and behaviour. Hyperphagia is a defining clinical feature and a major contributor to morbidity, mortality and caregiver burden. Increasing evidence suggests that hyperphagia in PWS represents a multidimensional disorder rather than excessive appetite alone. In December 2024, an international meeting of clinical and scientific experts was convened in Toulouse, France, to explore current understanding of hyperphagia in PWS, challenges in assessment, and evolving approaches to management across the lifespan. Although not a formal consensus process, several consistent themes emerged. These included limitations of existing assessment tools, the need for multidimensional evaluation (including use of instruments such as the Hyperphagia Questionnaire and Hyperphagia Questionnaire for Clinical Trials (HQ-CT). The central role of structured food environments, and vulnerabilities during transition to adult care were also identified as key themes. Experts emphasised that hyperphagia reflects interactions between impaired satiety signalling, activation in reward neurocircuitry, autonomic dysfunction and environmental factors. Management therefore requires integrated biological, behavioural and environmental approaches. While food security and structured support remain foundational, emerging pharmacological therapies may complement multidisciplinary care and reduce caregiver burden. Hyperphagia in PWS should be conceptualised as a complex, multidimensional disorder requiring comprehensive assessment and integrated management. Future priorities include development of additional validated outcome measures, identification of biomarkers, and care models that better align mechanistic insights with real-world clinical practice.",
+      "journal": "Orphanet journal of rare diseases",
       "year": "2026",
       "publication_types": [
         "Journal Article",
@@ -252,11 +175,11 @@
       ]
     },
     {
-      "pmid": "42788146",
-      "doi": "10.7759/cureus.115173",
-      "title": "A Giant Adenomatoid Tumor of the Adrenal Gland: A Report of a Rare and Interesting Case.",
-      "abstract": "Adenomatoid tumor (AT) is a rare benign mesothelial neoplasm that typically arises in the genital tract. Adrenal involvement is exceptionally uncommon, with fewer than 50 cases reported in the literature. Because of its nonspecific clinical and radiological features, preoperative diagnosis is challenging and malignancy is often suspected. We report the case of a 48-year-old man in whom a left adrenal mass was incidentally discovered during evaluation for renal colic. Hormonal assessment demonstrated a non-functioning adrenal lesion. Computed tomography and magnetic resonance imaging revealed a large, well-circumscribed 12-cm heterogeneous mass with predominant cystic degeneration, thick septations, and intralesional calcifications, raising suspicion of a malignant adrenal neoplasm. The patient underwent open left adrenalectomy. Gross examination showed a well-defined yellowish tumor with extensive cystic changes and calcifications. Histologically, the lesion consisted of anastomosing cystic spaces lined by bland flattened to cuboidal cells, associated with lymphoid aggregates, fibrosis, calcifications, and focal ossification. Immunohistochemistry demonstrated strong positivity for CK7, calretinin, WT1, and D2-40, confirming mesothelial differentiation, while CD31 and CD34 were negative. These findings established the diagnosis of adrenal AT. The postoperative course was uneventful, and no recurrence has been observed during follow-up. Adrenal AT is a rare benign lesion that may mimic malignant adrenal neoplasms, particularly when large and cystic. Histopathological and immunohistochemical examination remains essential for definitive diagnosis. Complete surgical excision is curative and associated with an excellent prognosis.",
-      "journal": "Cureus",
+      "pmid": "42829594",
+      "doi": "10.25259/SNI_840_2026",
+      "title": "Endoscopic transsphenoidal surgery for a somatotroph pituitary neuroendocrine tumor associated with an infraoptic course of the anterior cerebral artery: A case report.",
+      "abstract": "Identifying cerebrovascular anomalies before neurosurgical procedures is essential to avoid intraoperative complications. An infraoptic course of the anterior cerebral artery (IOA) is a rare variant in which the anterior cerebral artery (ACA) arises near the ophthalmic artery and passes beneath the optic nerve. Despite numerous reports of cerebral aneurysms coexisting with IOA, reports of coexistence with brain tumors are extremely rare, and no studies have reported endoscopic transsphenoidal surgery (eTSS) performed for pituitary tumors. Failure to recognize this IOA anomaly preoperatively is critical owing to the risk of vascular injury. A 47-year-old man presented with acromegaly caused by a somatotroph pituitary neuroendocrine tumor. Magnetic resonance imaging (MRI) revealed a sellar-suprasellar mass, and biochemical testing confirmed excess growth hormone production. After lanreotide-induced tumor shrinkage, surgical treatment was planned. Preoperative MRI, computed tomography angiography, and three-dimensional (3D) fusion imaging demonstrated bilateral IOA and duplication of the left A1 segment. These images enabled a detailed assessment of the tumor, pituitary gland, and vascular anatomy, suggesting that extracapsular resection via eTSS can be safely performed. Intraoperatively, the IOA adhered to the dura as predicted. Total tumor resection was achieved without vascular injury. Postoperative MRI confirmed complete removal, and hormone levels were normalized. IOA is an exceptionally rare vascular anomaly, and unrecognized cases may lead to severe intraoperative complications. This case highlights the importance of meticulous preoperative imaging, particularly 3D fusion techniques, for IOA identification and safe eTSS planning for functional pituitary tumors.",
+      "journal": "Surgical neurology international",
       "year": "2026",
       "publication_types": [
         "Case Reports",
@@ -264,11 +187,11 @@
       ]
     },
     {
-      "pmid": "42829526",
-      "doi": "10.1002/ccr3.73583",
-      "title": "Pediatric Pheochromocytoma With Rapid Cyclic Blood Pressure Fluctuations: A Case Report.",
-      "abstract": "Cyclic blood pressure fluctuations in pheochromocytoma are extremely rare, and previously reported cases have been limited to adults. We report a 5-year-old boy with von Hippel-Lindau disease and a left adrenal pheochromocytoma who developed rapid cyclic blood pressure fluctuations immediately after tracheal intubation. Despite preoperative doxazosin (titrated from 0.5 to 3\u2009mg/day over 27\u2009days) and fluid loading, systolic blood pressure oscillated between 50 and 150\u2009mmHg at approximately 7-min intervals after tracheal intubation. The fluctuations were independent of surgical manipulation and refractory to phenylephrine and phentolamine. Plasma norepinephrine was markedly elevated before tumor manipulation. After tumor resection, profound vasoplegic hypotension required high-dose norepinephrine, epinephrine, and vasopressin; hemodynamics gradually stabilized, and all vasoactive agents were discontinued on postoperative Day 3. This case demonstrates that pediatric pheochromocytoma can develop cyclic blood pressure fluctuations similar to those in adults and underscores the importance of individualized preoperative \u03b1-blockade and strict postoperative hemodynamic management after tumor resection.",
-      "journal": "Clinical case reports",
+      "pmid": "42845280",
+      "doi": "10.12688/f1000research.182800.2",
+      "title": "Endocrine dysfunctions in patients with beta thalassemia major: a single-center retrospective study from Basrah.",
+      "abstract": "The management of patients with beta thalassemia major (BTH) involves regular blood transfusions which are associated with iron overload. This may result in various endocrine dysfunctions (EDs). This study aimed to assess the obesrved frequency of different EDs in patients with transfusion-dependent BTH. A retrospective study that included 496 patients with BTH who were referred from the Basra Center for hereditary blood diseases to Faiha Specialized Diabetes, Endocrine and Metabolsim Center for endocrine-related complaints and underwent detailed endocrine assessments from Jan 2010 to Dec 2023. The mean presentation age for endocrine evaluation was 13.6\u00a0\u00b1\u00a06.5\u00a0years with no difference between male and female. The commonest clinical presentations of BTH patients in our center were short stature 65.5%, amenorrhea 16.4, hyperglycemia 13.7%, delayed puberty 13.3, and hypocalcemia 5.2%. The proportion patients with ED was 16.8%. The most frequent EDs were growth hormone deficiency (GHD) 6.0%, diabetes mellitus (DM) 4.9%, hypogonadism 4.5%, hypothyroidism 3.2%. Within those patients, 78.7% had single ED, 16.5% had two EDs and 4.8% had three or more EDs. EDs were observed among patients with BTH. The commonest EDs were GHD, DM, and hypogonadism. We recommend regular and timely surveillance using both clinical and hormonal assessment in patients with BTH.",
+      "journal": "F1000Research",
       "year": "2026",
       "publication_types": [
         "Journal Article"
@@ -287,11 +210,22 @@
       ]
     },
     {
-      "pmid": "42829594",
-      "doi": "10.25259/SNI_840_2026",
-      "title": "Endoscopic transsphenoidal surgery for a somatotroph pituitary neuroendocrine tumor associated with an infraoptic course of the anterior cerebral artery: A case report.",
-      "abstract": "Identifying cerebrovascular anomalies before neurosurgical procedures is essential to avoid intraoperative complications. An infraoptic course of the anterior cerebral artery (IOA) is a rare variant in which the anterior cerebral artery (ACA) arises near the ophthalmic artery and passes beneath the optic nerve. Despite numerous reports of cerebral aneurysms coexisting with IOA, reports of coexistence with brain tumors are extremely rare, and no studies have reported endoscopic transsphenoidal surgery (eTSS) performed for pituitary tumors. Failure to recognize this IOA anomaly preoperatively is critical owing to the risk of vascular injury. A 47-year-old man presented with acromegaly caused by a somatotroph pituitary neuroendocrine tumor. Magnetic resonance imaging (MRI) revealed a sellar-suprasellar mass, and biochemical testing confirmed excess growth hormone production. After lanreotide-induced tumor shrinkage, surgical treatment was planned. Preoperative MRI, computed tomography angiography, and three-dimensional (3D) fusion imaging demonstrated bilateral IOA and duplication of the left A1 segment. These images enabled a detailed assessment of the tumor, pituitary gland, and vascular anatomy, suggesting that extracapsular resection via eTSS can be safely performed. Intraoperatively, the IOA adhered to the dura as predicted. Total tumor resection was achieved without vascular injury. Postoperative MRI confirmed complete removal, and hormone levels were normalized. IOA is an exceptionally rare vascular anomaly, and unrecognized cases may lead to severe intraoperative complications. This case highlights the importance of meticulous preoperative imaging, particularly 3D fusion techniques, for IOA identification and safe eTSS planning for functional pituitary tumors.",
-      "journal": "Surgical neurology international",
+      "pmid": "42871616",
+      "doi": "10.21037/acr-20262-03",
+      "title": "Erratum: Mitoxantrone liposome-based MEA regimen for treatment mixed lineage leukemia-rearranged acute myeloid leukemia: a case series.",
+      "abstract": "[This corrects the article DOI: 10.21037/acr-25-19.].",
+      "journal": "AME case reports",
+      "year": "2026",
+      "publication_types": [
+        "Published Erratum"
+      ]
+    },
+    {
+      "pmid": "42871030",
+      "doi": "10.1210/jcemcr/luag292",
+      "title": "Coexisting adrenal hemangioma and aldosterone-producing micronodule presented as adrenal incidentaloma.",
+      "abstract": "Adrenal hemangiomas are rare benign vascular tumors, an uncommon cause of adrenal incidentalomas. We report a patient with coexisting adrenal hemangioma and aldosterone-producing micronodules within the same adrenal gland. A 67-year-old man was referred for an incidental left adrenal mass. Noncontrast computed tomography revealed a 1.6 \u00d7 1.4\u2005cm lesion with an unenhanced attenuation value of 40 Hounsfield units. Initial hormonal evaluation was unremarkable except for an elevated aldosterone-to-renin ratio (ARR) of 115.6. On follow-up evaluation, the ARR decreased to 52.8, with a relatively low aldosterone concentration of 9.5\u2005ng/dL (264\u2005pmol/L; reference range, 2.52-39.2\u2005ng/dL [69-1087\u2005pmol/L]), yielding equivocal findings for primary aldosteronism. Serial imaging revealed growth to 3.4 \u00d7 2.8\u2005cm over 3 years. Magnetic resonance imaging revealed a T2-hyperintense lesion with peripheral nodular enhancement and delayed centripetal filling, suggestive of adrenal hemangioma. Owing to continued growth, laparoscopic adrenalectomy was performed. Histopathological examination confirmed cavernous hemangioma. Given the marked postoperative reduction in ARR to 9.7, additional pathological review identified an adjacent CYP11B2-positive aldosterone-producing micronodule. This report illustrates that adrenal incidentalomas may have dual pathologies. An integrated assessment of imaging, biochemical findings, clinical course, and histopathology, together with close clinicopathological collaboration, is essential for accurate diagnosis and management.",
+      "journal": "JCEM case reports",
       "year": "2026",
       "publication_types": [
         "Case Reports",
@@ -299,37 +233,109 @@
       ]
     },
     {
-      "pmid": "42841067",
-      "doi": "10.2147/CCID.S638098",
-      "title": "Associations Between Psoriasis and Endocrine Diagnoses in a Tertiary-Center Electronic Health Record Database: A Cross-Sectional Study.",
-      "abstract": "Psoriasis is associated with systemic comorbidities such as cardiovascular disease. The purpose of this study is to assess whether patients with psoriasis are more likely to also have endocrine disorders. Using the Vanderbilt University Medical Center Synthetic Derivative, a de-identified database of more than 3.4 million patients, a cross-sectional study was conducted. PheWAS codes were used to identify patients with specific diagnoses. The control cohort consisted of 3389683 patients (54.9% female) and the psoriasis cohort consisted of 10855 patients (55.5% female). The prevalence of several endocrine disorders was found to be higher in those with psoriasis than without, including Cushing's disease (0.322% vs 0.056%, age-adjusted odds ratio = 5.078, 95% CI = 3.650-7.066, p < 0.001), adrenal insufficiency (1.179% vs 0.225%, age-adjusted odds ratio = 4.388, 95% CI = 3.680-5.232, p < 0.001), hypothyroidism (10.567% vs 2.373%, age-adjusted odds ratio = 3.839, 95% CI = 3.607-4.085, p < 0.001), hyperthyroidism (1.704% vs 0.422%, age-adjusted odds ratio = 3.378, 95% CI = 2.919-3.910, p < 0.001), etc. These results suggest that patients with psoriasis may also be at risk for endocrine dysfunction. The consequences of systemic inflammation in patients with psoriasis may extend beyond metabolic disorders such as cardiovascular disease, and further investigation into the association between endocrine disorders and psoriasis may lead to improvements in the clinical management of the latter.",
-      "journal": "Clinical, cosmetic and investigational dermatology",
+      "pmid": "42866309",
+      "doi": "10.1097/MS9.0000000000005688",
+      "title": "Medullary thyroid carcinoma with pheochromocytoma and cystic parathyroid degeneration in a ret-negative patient: a case report.",
+      "abstract": "Multiple endocrine neoplasia type 2A (MEN2A) is a rare autosomal dominant hereditary cancer syndrome, predominantly caused by mutations of the RET proto-oncogene on chromosome 10q11.2. It typically presents with medullary thyroid carcinoma (MTC), pheochromocytoma, and primary hyperparathyroidism. Cases with a MEN2A phenotype but negative RET testing are uncommon, posing challenges for diagnosis and patient management. We report the case of a 63-year-old female who was diagnosed with MTC and pheochromocytoma. and cystic parathyroid gland. Genetic workup was negative for RET proto-oncogene mutations but positive for a heterozygous variant in the TMEM127 tumor suppressor gene. MEN2A is associated with pathogenic germline variants in the RET proto-oncogene in approximately 95-99% of cases. Our patient, however, exhibited a MEN2A-like clinical phenotype in the absence of an identifiable RET mutation, with a pathogenic TMEM127 variant instead. Although TMEM127 is an established susceptibility gene for pheochromocytoma and paraganglioma, its association with the broader MEN2A phenotype remains unclear. This unusual genotype-phenotype discordance raises important questions regarding the potential role of alternative genetic pathways in MEN2-like syndromes and creates uncertainty regarding postoperative surveillance and the appropriate extent of screening and genetic counseling for family members. Our case represents an unusual scenario where the patient presents with a clinical phenotype of MEN2A but is RET negative and positive heterozygous for a variant in the TMEM127. This atypical genetic finding introduces complexities in determining the appropriate follow-up protocol and the scope of familial screening necessary.",
+      "journal": "Annals of medicine and surgery (2012)",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42787715",
+      "doi": "10.1016/j.tcr.2026.101435",
+      "title": "Pertrochanteric fracture in case of Sheehan syndrome: A rare case report.",
+      "abstract": "Sheehan's syndrome is caused by ischemic necrosis of the pituitary gland following hypo-perfusion to the pituitary gland. The prevalence is around 3.2% in women <40\u00a0years of age and is relatively common in developing countries. The diagnosis is made with the help of a suggestive obstetric history, clinical manifestations, laboratory findings of reduced hormone levels, and pertinent radiological features. The treatment is to replace the patient with deficient hormones and prevent the complications associated with it. We present the management of a patient with Sheehan's syndrome with pertrochanteric fracture due to the rarity of its presentation. The patient underwent the insertion of a proximal femur nail under closed reduction and achieved optimum results post operatively. As such no case reports with these findings have been documented in the literature or online sources.",
+      "journal": "Trauma case reports",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42871183",
+      "doi": "10.3389/fonc.2026.1934901",
+      "title": "Case Report: Immune checkpoint inhibitor-induced hypophysitis presenting as acute paralytic ileus mimicking mechanical bowel obstruction in a patient affected by advanced non-small cell lung cancer.",
+      "abstract": "Immune checkpoint inhibitors (ICIs) have significantly improved outcomes in advanced non-small cell lung cancer (NSCLC) but may induce immune-related adverse events (irAEs), including hypophysitis. Although endocrine irAEs usually present with nonspecific constitutional symptoms, atypical manifestations may delay diagnosis and expose patients to unnecessary invasive procedures. We report the case of a 76-year-old man with metastatic NSCLC receiving first-line nivolumab, ipilimumab, carboplatin, and pemetrexed who developed profound asthenia, altered mental status, bilious vomiting, and severe gastrointestinal dilation suggestive of acute mechanical bowel obstruction after two treatment cycles. Computed tomography demonstrated marked gastric and intestinal distension, and surgical management was initially considered. Endocrine evaluation subsequently revealed central hypothyroidism and secondary adrenal insufficiency, consistent with ICI-induced hypophysitis. Prompt initiation of physiological hormone replacement with intravenous hydrocortisone followed by thyroid hormone supplementation resulted in rapid neurological and systemic recovery, complete restoration of gastrointestinal motility, radiological resolution of bowel dilatation, and avoidance of surgery. Follow-up imaging also demonstrated a partial tumor response, which has remained durable for more than two years without additional anticancer treatment while the patient continues long-term endocrine replacement therapy. This case expands the clinical spectrum of ICI-induced hypophysitis by describing an unusual presentation as acute paralytic ileus mimicking mechanical bowel obstruction. It underscores the importance of maintaining a high index of suspicion for endocrine irAEs in patients receiving ICIs who develop unexplained multisystem deterioration or apparent surgical abdomen. Early hormonal assessment and timely replacement therapy can be lifesaving, prevent unnecessary surgical interventions, and allow optimal multidisciplinary management without compromising oncologic outcomes.",
+      "journal": "Frontiers in oncology",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42866373",
+      "doi": "10.1097/MS9.0000000000005621",
+      "title": "Left ventricular thrombus formation in paraganglioma: a rare but serious complication - a case report.",
+      "abstract": "The incidence rate of paraganglioma stands at approximately 1 case per 300\u00a0000 person-years. Symptoms resembling anxiety and panic attacks are prevalent within the general populace, rendering the identification of individuals afflicted with pheochromocytoma or paraganglioma a formidable task for healthcare practitioners. A 43-year-old presented with ischemic signs that turned into necrosis at his left foot due to diffused thrombosis in his main arteries, furthermore Echodiagram indicated the presence of left ventricular thrombosis, through which the diagnosis of paraganglioma was made and confirmed through histological examination. Paragangliomas are rare tumors originating from extra-adrenal chromaffin cells, typically found in areas such as the carotid body and aortic arch. These tumors can cause cardiovascular issues like hypertension, tachycardia, and thrombus formation. In this case, a paraganglioma was detected below the renal arteries, an uncommon location, with extensive arterial and left ventricular thrombi. Paragangliomas induce a hypercoagulable state due to catecholamine excess, vasospasm, and vascular compression, as seen in this patient, who had thrombi in the lower extremities and aortic artery, increasing embolization risks. Diagnosis involves clinical evaluation, biochemical testing, and imaging studies, with surgical resection as the primary treatment. Preoperative management focuses on controlling blood pressure and glucose, while postoperative care includes anticoagulation therapy. This case highlights the multifaceted vascular complications of paragangliomas, emphasizing the need for a comprehensive diagnostic and treatment approach. Increasing follow-up sessions with this patient to prevent recurring issues, including the consideration of coronary vascular imaging and administrating anti-coagulant drugs.",
+      "journal": "Annals of medicine and surgery (2012)",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42871306",
+      "doi": "10.1210/jcemcr/luag313",
+      "title": "Primary adrenal small cell neuroendocrine carcinoma in a patient with sarcoidosis and synchronous colon adenocarcinoma.",
+      "abstract": "Primary adrenal neuroendocrine carcinoma (NEC), particularly the small cell subtype, is exceptionally rare. In patients with sarcoidosis, inflammatory lymphadenopathy may mimic a metastatic disease, making disease detection difficult. A 76-year-old man with sarcoidosis was referred for an enlarging left adrenal incidentaloma that had increased in size from 7\u2005mm to 19 \u00d7 14\u2005mm over 3 years. Hormonal evaluation revealed unremarkable findings; laparoscopic adrenalectomy was performed because malignancy could not be excluded. Histopathological examination revealed small cell NEC with positive synaptophysin and chromogranin A staining, and a Ki-67 labeling index of 80%. One month after surgery, para-aortic lymphadenopathy was detected. Fluorodeoxyglucose positron emission tomography/computed tomography (CT) showed uptake in the para-aortic lymph nodes and ascending colon, where colonoscopy identified synchronous adenocarcinoma. The cause of the lymphadenopathy was uncertain because of coexisting sarcoidosis and colon cancer. Cisplatin plus irinotecan induced a partial response; however, disease progression was observed. CT-guided lymph node biopsy confirmed metastatic NEC. Second-line amrubicin therapy reduced tumor size; comprehensive genomic profiling revealed a tumor mutation-burden-high phenotype. This case highlights diagnostic challenges in the evaluation of lymphadenopathy in patients with sarcoidosis and synchronous malignancy, emphasizing the importance of pathological confirmation for guiding appropriate management.",
+      "journal": "JCEM case reports",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42866793",
+      "doi": "10.4103/ijnmr.ijnmr_183_24",
+      "title": "The Effect of Digital Storytelling on the Anxiety of Patients with Pituitary Adenoma Undergoing Transsphenoidal Surgery: A Randomized Controlled Clinical Trial.",
+      "abstract": "Patients with pituitary adenoma often experience anxiety due to hormonal changes and the stress associated with transsphenoidal surgery. Digital storytelling, as an innovative multimedia-based training method, has recently been used in patient education. This study investigated the effect of digital storytelling on the anxiety of patients with pituitary adenoma undergoing transsphenoidal surgery. This randomized controlled trial was conducted on 70 patients with pituitary adenoma scheduled for transsphenoidal surgery at a teaching hospital affiliated with Tehran University of Medical Sciences. Participants were randomly assigned to an intervention or a control group. The intervention group received a 15-20-minute digital storytelling program that included experiences shared by patients and nurses regarding preoperative and postoperative care, while the control group received routine hospital education. Anxiety levels were measured a day before surgery, a day after surgery, and three weeks later using Spielberger's State Anxiety Scale. Data were analyzed by SPSS-25 software using descriptive and inferential statistics. The mean score of anxiety in the intervention group decreased by 12.45 (1.24) units a day after the surgery and by 24.82 (1.32) units three weeks after the surgery compared to baseline (p < 0.001). A significantly lower anxiety level was observed in the intervention group at both post-intervention time periods compared to the pre-intervention time (F = 17.05, p < 0.001). Repeated measures Analysis of Variance confirmed a significant interaction between time and group (F = 25.31, p < 0.001). Digital storytelling was effective in reducing anxiety among patients with pituitary adenoma undergoing transsphenoidal surgery and may serve as a valuable educational intervention.",
+      "journal": "Iranian journal of nursing and midwifery research",
       "year": "2026",
       "publication_types": [
         "Journal Article"
       ]
     },
     {
-      "pmid": "42834406",
-      "doi": "10.1186/s13023-026-04601-1",
-      "title": "Hyperphagia in Prader-Willi syndrome: linking hypothalamic dysfunction to clinical assessment and management across the lifespan.",
-      "abstract": "Prader-Willi syndrome (PWS) is a rare genetic neurodevelopmental disorder characterised by hypothalamic dysfunction and profound dysregulation in hunger and appetite regulation, endocrine function, metabolism and behaviour. Hyperphagia is a defining clinical feature and a major contributor to morbidity, mortality and caregiver burden. Increasing evidence suggests that hyperphagia in PWS represents a multidimensional disorder rather than excessive appetite alone. In December 2024, an international meeting of clinical and scientific experts was convened in Toulouse, France, to explore current understanding of hyperphagia in PWS, challenges in assessment, and evolving approaches to management across the lifespan. Although not a formal consensus process, several consistent themes emerged. These included limitations of existing assessment tools, the need for multidimensional evaluation (including use of instruments such as the Hyperphagia Questionnaire and Hyperphagia Questionnaire for Clinical Trials (HQ-CT). The central role of structured food environments, and vulnerabilities during transition to adult care were also identified as key themes. Experts emphasised that hyperphagia reflects interactions between impaired satiety signalling, activation in reward neurocircuitry, autonomic dysfunction and environmental factors. Management therefore requires integrated biological, behavioural and environmental approaches. While food security and structured support remain foundational, emerging pharmacological therapies may complement multidisciplinary care and reduce caregiver burden. Hyperphagia in PWS should be conceptualised as a complex, multidimensional disorder requiring comprehensive assessment and integrated management. Future priorities include development of additional validated outcome measures, identification of biomarkers, and care models that better align mechanistic insights with real-world clinical practice.",
-      "journal": "Orphanet journal of rare diseases",
+      "pmid": "42829547",
+      "doi": "10.7759/cureus.115707",
+      "title": "Acinetobacter baumannii Nosocomial Meningitis Secondary to Neurosurgical Intervention: A Case Report.",
+      "abstract": "Nosocomial meningitis is a serious complication of neurosurgical procedures, associated with high morbidity and mortality, as well as significant diagnostic and therapeutic challenges. Among the causative pathogens, Acinetobacter baumannii (A. baumannii) is particularly concerning due to its ability to survive for prolonged periods in the hospital environment, its opportunistic virulence, and, especially, its tendency to develop multidrug resistance to antimicrobial agents. Diagnosis is often difficult in the postoperative setting, particularly when the cerebrospinal fluid (CSF) is altered as a result of the surgical procedure. Rapid identification of the causative agent and early initiation of appropriate antibiotic therapy are essential to limit complications and improve patient prognosis. We report the case of a 27-year-old patient with a history of surgically treated craniopharyngioma complicated by anterior hypopituitarism. Three weeks after surgery, he was admitted to the ICU with suspected postoperative meningitis due to the onset of behavioral disturbances associated with nasal discharge, without a fever. Brain CT was normal. CSF analysis, obtained by lumbar puncture under strict aseptic conditions, revealed a turbid fluid with leukocytosis of 5,760 cells/mm\u00b3, predominantly composed of neutrophils,\u00a0along with elevated protein levels\u00a0(5.7 g/L) and low glucose levels (0.05 g/L). Direct examination after Gram staining showed Gram-negative coccobacilli with a marked inflammatory reaction. CSF culture\u00a0grew\u00a0a multidrug-resistant (MDR) strain of\u00a0A. baumannii,\u00a0which was\u00a0sensitive only to colistin. The patient received antibiotic therapy\u00a0with colistin, administered intravenously and intrathecally for 18 days, with initial neurological improvement and sterilization of the CSF by the\u00a015th day\u00a0of treatment. The subsequent course was unfavorable, marked by the development of acute respiratory distress syndrome (ARDS) secondary to ventilator-associated pneumonia caused by methicillin-resistant\u00a0Staphylococcus aureus\u00a0(MRSA), complicated by refractory septic shock,\u00a0which ultimately led to his death\u00a0after one month of hospitalization in the ICU. This report highlights the severity of nosocomial meningitis caused by MDR\u00a0A. baumannii\u00a0and underscores the importance of\u00a0implementing\u00a0infection prevention measures in healthcare settings.",
+      "journal": "Cureus",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42871619",
+      "doi": "10.47176/mjiri.40.78",
+      "title": "Introducing Prostaglandin Endoperoxide Synthase-2 as a Remarkable Player in the Development of Gastroesophageal Reflux Disease.",
+      "abstract": "Gastroesophageal reflux disease (GERD), a common disorder of the upper gastrointestinal tract, is associated with abdominal pain and acid regurgitation. GERD is considered a risk factor for esophageal adenocarcinoma. In this study, the key genes associated with GERD are determined and discussed. Gene expression profiles of GERD samples and controls were obtained from the Gene Expression Omnibus (GEO) database and assessed via PPI network analysis to find crucial genes. These crucial genes were validated using the GeneCards database by comparison with the top GERD-related genes. The crucial genes are evaluated via directed PPI network analysis, and the key genes are determined. A total number of 104 central significantly differentially expressed genes (DEGs) were identified as separators of GERD samples of controlled individuals. GeneCards analysis demonstrated that ACE, COL5A1, IL1A, IL1B, NGF, POSTN, and PTGS2 are the crucial genes. Findings showed PTGS2 and IL1B are two key genes that promote GERD development. The results of the current study suggest that PTGS2 inhibition may represent a potential therapeutic strategy that requires further experimental validation.",
+      "journal": "Medical journal of the Islamic Republic of Iran",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42871614",
+      "doi": "10.3389/fphar.2026.1961846",
+      "title": "A review of protective effects of Withania somnifera and its bioactive component withaferin A in organ ischemia-reperfusion injury.",
+      "abstract": "Withania somnifera (WS) is an Ayurvedic botanical which has been extensively studied for thousands of years. Withanolides are the main pharmacologically active ingredients isolated from WS and withaferin A (WA) is the most extensively studied and therapeutically effective withanolide compound. WS and WA have anti-ischemia-reperfusion injury effects. To summarize and investigate the protective roles of WS and WA and their underlying mechanisms in organ ischemia-reperfusion injury, a comprehensive literature search was conducted using databases including PubMed and Web of Science. Relevant in vitro and preclinical regarding WS and WA in the treatment of organ ischemia-reperfusion injury. By analyzing the existing research advances, we found that the anti-organ ischemia-reperfusion injury effects of WS and WA, primarily mediated through anti-apoptosis, anti-oxidative stress, anti-inflammatory, anti-mitochondrial dysfunctions, induction of neuronal regeneration and inhibition of migration. This review systematically summarizes the different roles and mechanisms of WS and WA in organ ischemia-reperfusion injury and provides a basis for future therapeutic investigation of organ ischemia/reperfusion injury.",
+      "journal": "Frontiers in pharmacology",
       "year": "2026",
       "publication_types": [
         "Journal Article",
         "Review"
-      ]
-    },
-    {
-      "pmid": "42845280",
-      "doi": "10.12688/f1000research.182800.2",
-      "title": "Endocrine dysfunctions in patients with beta thalassemia major: a single-center retrospective study from Basrah.",
-      "abstract": "The management of patients with beta thalassemia major (BTH) involves regular blood transfusions which are associated with iron overload. This may result in various endocrine dysfunctions (EDs). This study aimed to assess the obesrved frequency of different EDs in patients with transfusion-dependent BTH. A retrospective study that included 496 patients with BTH who were referred from the Basra Center for hereditary blood diseases to Faiha Specialized Diabetes, Endocrine and Metabolsim Center for endocrine-related complaints and underwent detailed endocrine assessments from Jan 2010 to Dec 2023. The mean presentation age for endocrine evaluation was 13.6\u00a0\u00b1\u00a06.5\u00a0years with no difference between male and female. The commonest clinical presentations of BTH patients in our center were short stature 65.5%, amenorrhea 16.4, hyperglycemia 13.7%, delayed puberty 13.3, and hypocalcemia 5.2%. The proportion patients with ED was 16.8%. The most frequent EDs were growth hormone deficiency (GHD) 6.0%, diabetes mellitus (DM) 4.9%, hypogonadism 4.5%, hypothyroidism 3.2%. Within those patients, 78.7% had single ED, 16.5% had two EDs and 4.8% had three or more EDs. EDs were observed among patients with BTH. The commonest EDs were GHD, DM, and hypogonadism. We recommend regular and timely surveillance using both clinical and hormonal assessment in patients with BTH.",
-      "journal": "F1000Research",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
       ]
     },
     {
@@ -344,11 +350,11 @@
       ]
     },
     {
-      "pmid": "42865810",
-      "doi": "10.3389/fcell.2026.1927031",
-      "title": "Cancer-associated fibroblasts in head and neck tumours: signalling networks and therapeutic implications with insights from vestibular schwannoma.",
-      "abstract": "Cancer-associated fibroblasts (CAFs) are heterogeneous stromal cells that influence extracellular matrix (ECM) organisation, tumour-cell state, immunity, and treatment response in head and neck squamous cell carcinoma (HNSCC). This review synthesises evidence on CAF origins and states and on the transforming growth factor beta (TGF-\u03b2), Wnt/\u03b2-catenin, PI3K/AKT/mTOR, and Hippo-YAP/TAZ networks that mediate fibroblast interactions with tumour and immune cells. Vestibular schwannoma (VS) is considered only as a hypothesis-generating benign stromal reference: both tumours contain fibroblast and ECM-remodelling compartments, but differ fundamentally in cell of origin, anatomy, oncogenic drivers, immune context, and invasive behaviour. VS stromal fibroblasts are not designated as CAFs unless a study has explicitly applied that term, and cross-tumour observations are not treated as evidence of biological equivalence. Single-cell and spatial studies reveal multiple HNSCC fibroblast states, including myofibroblastic, inflammatory, antigen-presenting and fibroblastic reticular cell (FRC)-like, and immune-regulatory populations, but nomenclature and marker sets remain inconsistent and most inferred functions require perturbational validation. Translational evidence is similarly uneven: broad CAF depletion can be harmful in some non-HNSCC models, whereas pathway- or state-selective modulation is supported mainly by preclinical studies. Early HNSCC trials of TGF-\u03b2/programmed death-ligand 1 (PD-L1) blockade and NADPH oxidase 1/4 (NOX1/4) inhibition provide feasibility signals but not definitive efficacy. Current evidence supports biomarker-guided investigation of functionally defined CAF states; stromal observations in VS remain hypothesis-generating and require direct experimental validation.",
-      "journal": "Frontiers in cell and developmental biology",
+      "pmid": "42871624",
+      "doi": "10.3389/fimmu.2026.1870091",
+      "title": "Muscle-lung crosstalk in COPD: how exercise training modulates protein metabolism and inflammation in experimental COPD models.",
+      "abstract": "Chronic obstructive pulmonary disease (COPD) is a multisystem inflammatory disease in which skeletal muscle dysfunction contributes substantially to exercise intolerance, reduced functional capacity, and poor clinical outcomes. Increasing evidence suggests that bidirectional communication between skeletal muscle and the lung plays an important role in disease progression and in mediating the beneficial effects of exercise training. This review summarizes current knowledge of muscle-lung crosstalk in cigarette smoke (CS)-induced experimental models of COPD, while incorporating complementary evidence from other experimental models where relevant to support mechanistic interpretation. We discuss the molecular pathways linking pulmonary inflammation to skeletal muscle dysfunction, including systemic inflammation, oxidative stress, mitochondrial dysfunction, impaired protein turnover, and metabolic dysregulation. We further examine how skeletal muscle may influence pulmonary biology through the release of myokines, metabolites, extracellular vesicles, and mitochondrial-derived signaling molecules, highlighting their potential roles in inter-organ communication. Particular emphasis is placed on the capacity of exercise training to modulate these pathways by improving muscle proteostasis, mitochondrial function, systemic inflammatory status, and pulmonary outcomes in experimental model of COPD. We also discuss important considerations for interpreting findings across experimental models, including differences in cigarette smoke exposure paradigms, exercise timing, and distinctions between locomotor and respiratory muscles. Finally, we identify key gaps in current knowledge and outline future experimental strategies needed to define the molecular mechanisms underlying muscle-lung crosstalk and to facilitate translation of these findings into exercise-based therapeutic approaches for COPD.",
+      "journal": "Frontiers in immunology",
       "year": "2026",
       "publication_types": [
         "Journal Article",
@@ -356,23 +362,11 @@
       ]
     },
     {
-      "pmid": "42865799",
-      "doi": "10.21037/jtd-2026-1375",
-      "title": "Clinical research advances in pulmonary infections in 2025: a narrative review of multipathogen assessment, precision diagnosis, and integrated management.",
-      "abstract": "The diagnosis and treatment of pulmonary infections have become increasingly complex owing to antimicrobial resistance, the growing population of immunocompromised patients, and the ongoing circulation of respiratory viruses. In this narrative review, the major clinical advances reported in 2025 are summarised, and evidence-based support for multipathogen assessment, precision diagnosis, individualized treatment, and integrated management of pulmonary infections is provided. PubMed, Web of Science, and the Chinese Medical Association Journal Database were searched for relevant English-language and Chinese-language publications. The search primarily focused on studies published in 2025 and was supplemented by the manual retrieval of relevant clinical studies and guidelines. Medical Subject Headings (MeSH) and free-text terms were used in PubMed, with corresponding free-text terms applied in the other databases. Clinically relevant publications were screened according to predefined criteria by two independent reviewers, and expert adjudication was used in the event of disagreements. Metagenomic next-generation sequencing (mNGS), integrated biomarker assessment, and artificial intelligence (AI) have exhibited increasing clinical value in pathogen identification, differential diagnosis, and prognostic assessment. Therapeutic advances have been reported for drug-resistant bacterial and fungal infections, as well as for coronavirus disease 2019 (COVID-19) and influenza, supporting more precise and individualized treatment. Studies on the gut-lung axis and immune modulation have further clarified the potential role of host-directed approaches, although clinical evidence for microbiota-targeted interventions remains limited. The risks associated with coinfection received increasing attention, while improved identification of risk factors and stratified management supported more individualized care for high-risk populations. In 2025, the clinical management of pulmonary infections continued to transition towards precision-oriented and host-directed models. However, because a quantitative evidence synthesis was not included in this narrative review, pooled effect size estimates or formally graded clinical recommendations are not provided. The heterogeneity of the available studies also limits the overall strength and generalisability of the evidence. Future high-quality, multicentre studies are needed to further standardise clinical diagnosis and treatment strategies.",
-      "journal": "Journal of thoracic disease",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "42865797",
-      "doi": "10.21037/jtd-2026-1627",
-      "title": "Prognostic impact of surgical-side pulmonary artery diameter in patients with non-small cell lung cancer undergoing lobectomy.",
-      "abstract": "A surgical-side pulmonary artery diameter (ssPAD) \u226523 mm has been linked to postoperative complications after lobectomy for non-small cell lung cancer (NSCLC), but its prognostic significance remains unclear. This study evaluated whether ssPAD \u226523 mm serves as an independent prognostic factor and a useful indicator for preoperative risk assessment. We retrospectively analyzed 438 patients who underwent lobectomy for NSCLC between 2016 and 2017. Patients were classified by ssPAD: \u226523 mm (n=116) and <23 mm (n=322). Survival outcomes and clinicopathological variables were compared. The prognostic performance of ssPAD was assessed using C-statistics against main pulmonary artery diameter (MPAD) \u226528 mm and pulmonary artery-to-aorta (PA/A) ratio >1. The ssPAD \u226523 mm group showed lower 5-year recurrence-free survival (RFS; 61% vs. 71%, P=0.047) and overall survival (OS; 69% vs. 81%, P=0.001). Lung cancer-specific mortality (24% vs. 13%, P=0.03) and non-cancer mortality (15% vs. 7.1%, P=0.042) were higher, while adjuvant therapy was less frequent due to dyspnea. In multivariable analysis, ssPAD \u226523 mm remained an independent predictor of OS [hazard ratio (HR) 1.84, 95% confidence interval (CI): 1.22-2.79, P=0.004]. Preoperative ssPAD \u226523 mm may be an independent prognostic marker after lobectomy for NSCLC and a simple computed tomography (CT)-based tool for risk stratification.",
-      "journal": "Journal of thoracic disease",
+      "pmid": "42871613",
+      "doi": "10.1039/d6sc06374h",
+      "title": "Enantioselective synthesis of \u03b2-aryl-\u03b2-acyl esters as unsymmetrical 1,4-dicarbonyl compounds via oxidative aryl rearrangement using \u03bb3-perchrolate iodane.",
+      "abstract": "In synthetic chemistry, structurally diverse unsymmetrical 1,4-dicarbonyl compounds are important, and general strategies for their asymmetric synthesis, particularly for \u03b2-aryl-substituted \u03b2-acyl esters, are scarce. Therefore, this study presents an enantioselective oxidative aryl rearrangement of \u03b1-styryl esters using a combination of a hypervalent iodine(iii) reagent and Mg(ClO4)2 as a Lewis acid to provide chiral \u03b2-aryl-\u03b2-formyl and \u03b2-aryl-\u03b2-acyl esters in high yields with excellent enantioselectivities. Mechanistic studies and density functional theory (DFT) calculations revealed that a \u00b5-(oxo)diiodo-diphenyl diperchlorate species, generated in situ from ArI(OAc)2 and Mg(ClO4)2, promotes the aryl rearrangement with remarkable chemoselectivity toward the substrate functional groups. Divergent derivatizations of the resulting chiral unsymmetrical 1,4-dicarbonyl compounds, which furnished a variety of enantioenriched phenyl-substituted molecules, demonstrated the synthetic utility of the method.",
+      "journal": "Chemical science",
       "year": "2026",
       "publication_types": [
         "Journal Article"
