@@ -137,7 +137,10 @@
     "42871030",
     "42871183",
     "42871306",
-    "42874048"
+    "42874048",
+    "42878008",
+    "42878120",
+    "42878776"
   ],
   "sessions": [
     {
@@ -2112,6 +2115,49 @@
           "quiz_question": "A 38-year-old woman from a low-resource setting presents with a low-energy hip fracture. History reveals amenorrhea, failure to lactate, and progressive fatigue after a complicated delivery 5 years prior that required blood transfusions. What unifying diagnosis should be considered, and which hormonal deficiencies are most likely contributing to her skeletal fragility?",
           "quiz_answer": "Sheehan's syndrome (postpartum pituitary necrosis) should be strongly considered given the obstetric history and constellation of symptoms. The skeletal fragility in this setting is most likely multifactorial, driven by GH deficiency (reduced bone formation), hypogonadism (accelerated bone resorption), and secondary hypothyroidism, all compounded by delayed diagnosis and absent hormone replacement \u2014 as illustrated in this case report.",
           "journal": "Trauma case reports",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-23",
+      "items": [
+        {
+          "pmid": "42878776",
+          "doi": "10.1530/ERC-26-0317",
+          "title": "New Horizons in Pharmacotherapy for Cushing's Disease and Acromegaly.",
+          "category": "practice-changing",
+          "summary": "This review synthesizes the rapidly expanding medical treatment landscape for both Cushing's disease and acromegaly. For Cushing's disease, it highlights individualized selection among newer steroidogenesis inhibitors, pituitary-directed therapies, and glucocorticoid receptor antagonists based on adenoma characteristics, hypercortisolism severity, and patient priorities\u2014with targets extending beyond biochemical normalization to QoL, cardiovascular risk, and durable remission. For acromegaly, it covers newly approved and investigational agents including long-acting subcutaneous octreotide (CAM2029), oral somatostatin receptor agonist paltusotine, extended-interval pasireotide (Debio 4126), allosteric GH receptor antagonists, and direct GH-neutralizing antibodies, framing these within precision medicine and biomarker-guided algorithms.",
+          "caveat": "This is a narrative review without systematic methodology or meta-analysis; several agents discussed (e.g., MAR002, CAM4071) remain investigational, and efficacy and safety data from pivotal trials are still maturing.",
+          "quiz_question": "A 38-year-old woman with confirmed Cushing's disease has persistent hypercortisolism after transsphenoidal surgery. Her adenoma is ACTH-secreting with low somatostatin receptor expression. She has significant metabolic comorbidities including poorly controlled hypertension and glucose intolerance. According to the individualized approach described in this review, which factors should most directly guide selection among steroidogenesis inhibitors, pituitary-directed agents, and glucocorticoid receptor antagonists?",
+          "quiz_answer": "Per the review, therapy selection should be guided by corticotroph adenoma characteristics (e.g., somatostatin receptor expression, tumor size/invasiveness), severity of hypercortisolism, specific comorbidity profile (metabolic, cardiovascular), and patient-specific priorities including QoL and convenience. In this patient with significant metabolic burden and low somatostatin receptor expression, a steroidogenesis inhibitor or glucocorticoid receptor antagonist may be preferred over pituitary-directed somatostatin receptor ligand therapy.",
+          "journal": "Endocrine-related cancer",
+          "year": "2026"
+        },
+        {
+          "pmid": "42878008",
+          "doi": "10.1080/14656566.2026.2750961",
+          "title": "New and emerging pharmacological treatment options for acromegaly: a 2026 update.",
+          "category": "notable",
+          "summary": "This 2026 narrative review catalogs the emerging drug pipeline for acromegaly, detailing six distinct pharmacological classes beyond conventional monthly injectables: a long-acting subcutaneous octreotide depot (CAM2029), the oral selective SST2 agonist paltusotine, an extended-interval pasireotide formulation (Debio 4126), a subcutaneous pasireotide depot (CAM4071), an allosteric GH receptor antagonist (MAR002), and a direct GH-neutralizing antibody. The authors argue that integrating biomarker-guided precision medicine with these agents\u2014offering improved convenience, novel mechanisms, and distinct tolerability profiles\u2014holds significant promise for patients with persistent or uncontrolled disease.",
+          "caveat": "As a narrative review, it is subject to selection bias; several agents are still in early or mid-phase trials without published long-term efficacy or head-to-head comparative data. The precision medicine and biomarker-guided frameworks described remain largely aspirational at this stage.",
+          "quiz_question": "A 52-year-old man with acromegaly is biochemically uncontrolled on maximum-dose monthly octreotide LAR and is intolerant of pegvisomant due to injection-site reactions. He strongly prefers oral therapy. Based on this 2026 review, which emerging agent would be most appropriate to consider, and what is its mechanism?",
+          "quiz_answer": "Paltusotine, an oral selective somatostatin receptor type 2 (SST2) agonist, is the most relevant emerging option for a patient preferring oral administration. It mimics the mechanism of injectable somatostatin receptor ligands but is administered orally, potentially improving convenience and adherence. Its efficacy in patients with prior injectable SST-RL exposure is an area of ongoing evaluation.",
+          "journal": "Expert opinion on pharmacotherapy",
+          "year": "2026"
+        },
+        {
+          "pmid": "42878120",
+          "doi": "10.1515/jpem-2026-0379",
+          "title": "Pediatric prolactinoma-associated pituitary apoplexy presenting with acute visual loss: a case report, literature review, and management strategy.",
+          "category": "notable",
+          "summary": "This case report describes an 11-year-old girl who presented with acute complete right-eye visual loss due to hemorrhagic apoplexy of a prolactinoma (prolactin 987 \u00b5g/L). Emergency endoscopic transsphenoidal surgery was performed using a deliberate decompression-first strategy\u2014hematoma evacuation and optic decompression without aggressive capsular dissection\u2014to minimize hypopituitarism risk. Vision was fully restored at extubation, and cabergoline initiated on postoperative day 5 achieved a 93.7% prolactin reduction within 20 days, supporting residual tumor management medically rather than through radical resection.",
+          "caveat": "Single case report with inherent limitations; the 48\u201354% panhypopituitarism risk cited for gross total resection is drawn from prior literature rather than this series. Multicenter prospective data are explicitly acknowledged as lacking to validate this decompression-first strategy in the pediatric population.",
+          "quiz_question": "An 11-year-old girl presents with acute complete monocular visual loss; MRI shows a hemorrhagic sellar-suprasellar mass and serum prolactin is markedly elevated. Cabergoline is considered but she has acute complete visual loss. What surgical strategy is proposed in this report, and what is the rationale for avoiding gross total resection?",
+          "quiz_answer": "The authors advocate a decompression-first surgical strategy: hematoma evacuation and optic decompression with partial debulking, deliberately avoiding aggressive capsular dissection. The rationale is that gross total resection carries a 48\u201354% risk of panhypopituitarism in this setting, whereas residual prolactinoma can be effectively managed postoperatively with cabergoline\u2014as demonstrated by the 93.7% prolactin reduction achieved within 20 days in this case.",
+          "journal": "Journal of pediatric endocrinology & metabolism : JPEM",
           "year": "2026"
         }
       ],
