@@ -140,7 +140,10 @@
     "42874048",
     "42878008",
     "42878120",
-    "42878776"
+    "42878776",
+    "42887023",
+    "42888280",
+    "42888349"
   ],
   "sessions": [
     {
@@ -2158,6 +2161,49 @@
           "quiz_question": "An 11-year-old girl presents with acute complete monocular visual loss; MRI shows a hemorrhagic sellar-suprasellar mass and serum prolactin is markedly elevated. Cabergoline is considered but she has acute complete visual loss. What surgical strategy is proposed in this report, and what is the rationale for avoiding gross total resection?",
           "quiz_answer": "The authors advocate a decompression-first surgical strategy: hematoma evacuation and optic decompression with partial debulking, deliberately avoiding aggressive capsular dissection. The rationale is that gross total resection carries a 48\u201354% risk of panhypopituitarism in this setting, whereas residual prolactinoma can be effectively managed postoperatively with cabergoline\u2014as demonstrated by the 93.7% prolactin reduction achieved within 20 days in this case.",
           "journal": "Journal of pediatric endocrinology & metabolism : JPEM",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-22",
+      "items": [
+        {
+          "pmid": "42887023",
+          "doi": "10.3171/2026.5.JNS252620",
+          "title": "Spatial localization patterns in MRI-negative Cushing disease: a comparative pituitary heat map analysis.",
+          "category": "notable",
+          "summary": "This retrospective analysis of 153 histologically confirmed corticotroph adenomas (133 MRI-positive, 20 MRI-negative) from a single high-volume surgeon's experience used intraoperative sketches and heat-map spatial analysis to characterize tumor distribution. MRI-positive adenomas preferentially localized to the lateral and dorsal aspects of the anterior pituitary, while MRI-negative adenomas showed no consistent anatomical predilection. MRI-negative patients had significantly higher postoperative nadir cortisol levels, higher reoperation rates (20% vs 3.8%), and a trend toward lower remission (75% vs 91%), underscoring the ongoing surgical challenge in radiographically occult disease.",
+          "caveat": "Single-institution, retrospective series with only 20 MRI-negative cases; all procedures were performed by one highly experienced surgeon (Dr. Oldfield), limiting generalizability. Intraoperative sketch-based documentation introduces annotation subjectivity.",
+          "quiz_question": "A 38-year-old woman with biochemically confirmed Cushing disease has a negative pituitary MRI and bilateral IPSS lateralization. Based on this heat-map analysis, where in the gland are MRI-positive tumors more likely to cluster, and what does this imply for surgical exploration of MRI-negative cases?",
+          "quiz_answer": "MRI-positive corticotroph adenomas more frequently localize to the lateral and dorsal anterior pituitary. MRI-negative adenomas lack a consistent spatial predilection, so surgical exploration cannot be reliably directed by anatomical probability alone\u2014intraoperative findings and individual anatomy must guide the approach, and reoperation rates remain substantially higher in this group.",
+          "journal": "Journal of neurosurgery",
+          "year": "2026"
+        },
+        {
+          "pmid": "42888280",
+          "doi": "10.1007/s11102-026-01769-4",
+          "title": "Cabergoline for non-functioning pituitary adenomas: an update on an old clinical controversy.",
+          "category": "notable",
+          "summary": "This focused narrative review synthesizes evidence through September 2026 on off-label cabergoline use for NFPAs, concluding that the data remain inconsistent and insufficient to support routine use. The only randomized open-label trial showed a radiological signal (less growth, more shrinkage) but no established patient-centered benefit; a 2022 multicenter study found no clear advantage over observation, and a 2024 surgery-naive cohort showed shrinkage/stability/growth rates of 20%/48%/32%. The authors emphasize that contemporary natural-history data show untreated NFPAs can behave unpredictably, making it difficult to attribute radiological stability to drug effect.",
+          "caveat": "Evidence synthesis is narrative rather than meta-analytic, and the randomized trial reviewed was open-label. No validated molecular predictor of cabergoline response has emerged, so patient selection remains empirical. Authors' conclusion against routine use may evolve with ongoing prospective data.",
+          "quiz_question": "A 55-year-old man has a 12 mm incidental non-functioning pituitary adenoma with no mass effect. A colleague suggests starting cabergoline to prevent growth. How does the current evidence base support or refute this approach?",
+          "quiz_answer": "Current evidence does not support routine cabergoline for NFPAs. The only randomized trial showed primarily a radiological signal without established patient-centered benefit, a 2022 multicenter comparison found no clear advantage over observation alone, and no molecular predictor of response exists. Cabergoline remains off-label and should not displace standard surveillance, with neurosurgical or radiotherapy options reserved for lesions with mass effect or documented growth.",
+          "journal": "Pituitary",
+          "year": "2026"
+        },
+        {
+          "pmid": "42888349",
+          "doi": "10.1007/s11102-026-01770-x",
+          "title": "68Ga-Pentixafor PET/MRI for identifying corticotroph adenomas in Cushing disease: a pilot study.",
+          "category": "preliminary",
+          "summary": "This single-center pilot enrolled 10 patients with confirmed Cushing disease (5 newly diagnosed, 5 persistent/recurrent) to evaluate CXCR4-targeted 68Ga-Pentixafor PET/MRI. Only 2 of 10 scans showed focal pituitary uptake, one of which correlated with confirmed remission; the other had negative pathology and persistent postoperative disease despite IPSS centralization. Three patients with negative scans achieved remission after surgery, confirming false-negative imaging, and the overall performance was limited and variable.",
+          "caveat": "Extremely small sample (n=10) with heterogeneous disease states (newly diagnosed vs. persistent/recurrent); no head-to-head comparison with standard MRI protocols or other novel tracers. Results are insufficient to alter diagnostic algorithms or replace IPSS.",
+          "quiz_question": "A 44-year-old woman with ACTH-dependent Cushing syndrome has a negative 3T pituitary MRI. Her IPSS confirms central ACTH secretion. A colleague proposes 68Ga-Pentixafor PET/MRI before surgery. What does current evidence suggest about this approach?",
+          "quiz_answer": "Based on this pilot, 68Ga-Pentixafor PET/MRI showed limited and variable performance, with false-negative results even in surgically confirmed cases. It is not yet ready for incorporation into diagnostic algorithms and should not be considered an alternative to IPSS. It may provide complementary information in selected patients with equivocal MRI findings, but the evidence base is insufficient to justify routine use.",
+          "journal": "Pituitary",
           "year": "2026"
         }
       ],

@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-10-16",
+  "fetched_at": "2026-10-17",
   "date_window": {
-    "from": "2016/10/18",
-    "to": "2026/10/16"
+    "from": "2016/10/19",
+    "to": "2026/10/17"
   },
   "already_covered_pmids": [
     "41730814",
@@ -142,9 +142,174 @@
     "42871030",
     "42871183",
     "42871306",
-    "42874048"
+    "42874048",
+    "42878008",
+    "42878120",
+    "42878776"
   ],
   "candidates": [
+    {
+      "pmid": "42877869",
+      "doi": "10.7759/cureus.117583",
+      "title": "From Trauma to Tumour: Incidental Giant Left Adrenal Myelolipoma in Congenital Adrenal Hyperplasia.",
+      "abstract": "Adrenal myelolipomas are rare, benign tumours composed of mature adipose and haematopoietic tissue. Patients with congenital adrenal hyperplasia (CAH) are predisposed to their development, with chronic adrenocorticotropic hormone (ACTH) hypersecretion secondary to impaired cortisol synthesis thought to be the principal driver of myelolipoma formation in this population. A 49-year-old female with known CAH presented to the emergency department following a stab wound to the abdomen. Computed tomography (CT) incidentally identified a 12 cm encapsulated left adrenal lesion consistent with a giant myelolipoma. Despite reported adherence to hydrocortisone and fludrocortisone replacement therapy, persistently elevated adrenal steroid precursors and plasma renin levels suggested suboptimal glucocorticoid control. Following multidisciplinary team (MDT) review, the patient was offered a left adrenalectomy given the lesion size (>10 cm) and concerns regarding the risk of spontaneous haemorrhage. This case underscores the importance of systematic imaging review beyond the primary indication for scanning, and the value of optimising biochemical monitoring and considering adrenal imaging in selected high-risk CAH patients.",
+      "journal": "Cureus",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42888941",
+      "doi": "10.1111/iej.70270",
+      "title": "Revitalization Treatment in Endodontics: A State-Of-The-Art Review.",
+      "abstract": "Ten years after the European Society of Endodontology (ESE) issued its inaugural Position Statement in 2016, revitalization (BrE: revitalisation) treatment has progressed from an experimental approach to a cornerstone of contemporary endodontic practice. This state-of-the-art review provides a comprehensive synthesis of the biological and clinical advances that have redefined the treatment options for permanent teeth with incomplete root formation after loss of pulp vitality, as well as broader applications beyond these cases. The review refines case selection by integrating biological potential with clinical aetiology and extended applications for revitalization, while evaluating the role of modern diagnostic and operative aids in enhancing procedural precision. It details technical protocols ranging from evidence-based irrigation to the precise placement of barriers and definitive restorations, ensuring a seamless transition from disinfection to long-term structural stability. Beyond methodological refinements, there is growing awareness of prognosis in relation to specific case constellations, accompanied by clearer articulation of realistic treatment aims. These aims prioritize the absence of signs and symptoms of infection and long-term tooth survival, while increasingly emphasizing patient-centred outcomes. Furthermore, the review explores the practical intersection of revitalization and orthodontic management and presents a proactive framework for early recognition and management of complications and procedural failures. By delineating these clinical boundaries, it offers a contemporary basis for clinical decision-making and supports the upcoming update of the ESE Position Statement.",
+      "journal": "International endodontic journal",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42888277",
+      "doi": "10.1007/s11102-026-01776-5",
+      "title": "Higher ARNT expression is associated with the sparsely granulated phenotype in somatotroph pituitary adenomas: An immunohistochemical study.",
+      "abstract": "Somatotroph pituitary adenomas are a heterogeneous group comprising distinct histopathological subtypes, including the well-defined densely granulated (DG) and sparsely granulated (SG) phenotypes. While the aryl hydrocarbon receptor-interacting protein (AIP) pathway has been implicated in pituitary tumorigenesis, the role of aryl hydrocarbon receptor nuclear translocator (ARNT) in somatotroph tumors remains poorly characterized. We retrospectively analyzed 71 surgically treated somatotroph pituitary adenomas, clinically managed in a tertiary endocrinology center between 2020 and 2025. Immunohistochemical expression of AIP, AHR and ARNT was evaluated and correlated with clinicopathological characteristics, including cytokeratin pattern, hormonal expression and Ki-67 index. Moderate/strong ARNT expression was more frequent in SG than in DG adenomas (60% vs. 17.6%, p\u2009=\u20090.002). Patients with moderate/strong ARNT expression were younger than those with absent/weak expression (median 39 vs. 46 years, p\u2009=\u20090.044). In multivariable analysis, ARNT expression remained associated with the SG phenotype after adjustment for age and sex (adjusted OR 6.84, 95% CI 2.05-22.84; p\u2009=\u20090.002). No significant associations were observed between ARNT expression and Ki-67 index, baseline GH or IGF1 levels, AIP/AHR immunoexpression or the evaluated clinical outcomes, including biochemical control during first-generation somatostatin receptor ligand therapy. Increased ARNT expression is associated with the sparsely granulated phenotype in somatotroph pituitary adenomas, suggesting that ARNT expression may reflect tumor differentiation rather than proliferative activity. However, the present findings do not demonstrate additional prognostic or therapeutic utility beyond granulation pattern. Further molecular and transcriptomic studies are warranted to clarify the biological role of ARNT.",
+      "journal": "Pituitary",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42877914",
+      "doi": "10.7759/cureus.116229",
+      "title": "A Case of MEN 2A Syndrome With Bilateral Recurrent Pheochromocytoma: A Case Report and Literature Review.",
+      "abstract": "Pheochromocytoma is a neuroendocrine tumor arising from chromaffin cells and producing catecholamines. Due to the excessive release of catecholamines, these tumors can present with paroxysmal episodes of high blood pressure, headache, diaphoresis, and palpitations. We present the case of a 23-year-old female patient who presented to the clinic with a history of headache, palpitations, and vomiting for two months. She was admitted for further investigations and management. Laboratory studies revealed elevated urinary and plasma catecholamine levels. Further work-up revealed bilateral adrenal masses diagnosed as pheochromocytoma and medullary thyroid cancer. The patient was diagnosed with multiple endocrine neoplasia (MEN) type 2 and underwent bilateral laparoscopic adrenalectomy and total thyroidectomy with central and lateral neck dissection, and during surveillance, she was found to have recurrent pheochromocytoma. We also discuss the diagnosis and management of recurrent pheochromocytoma in MEN syndrome.",
+      "journal": "Cureus",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42831607",
+      "doi": "10.14712/23362936.2026.27",
+      "title": "A Clinical Insight into Von Hippel-Lindau Syndrome: Diagnostic Challenges.",
+      "abstract": "Von Hippel-Lindau (VHL) syndrome is a rare hereditary disorder characterised by the development of multiple benign and malignant tumours across various organs. Caused by mutations in the VHL tumour suppressor gene, it presents a wide range of clinical manifestations, including retinal haemangioblastomas, central nervous system tumours, renal cell carcinoma, pancreatic lesions, and phaeochromocytomas. This report describes the case of a 35-year-old woman who presented with visual impairment and abdominal masses. Imaging revealed typical VHL manifestations, including bilateral renal lesions and pancreatic involvement. Genetic testing confirmed the diagnosis. The patient underwent staged partial nephrectomies, with histopathology confirming clear cell renal cell carcinoma in both kidneys. This case highlights the importance of recognising the variable clinical and radiological presentations of VHL syndrome. Early diagnosis and multidisciplinary management are essential to reduce morbidity and mortality. Increased awareness and regular surveillance are critical for timely detection and intervention in patients with VHL syndrome.",
+      "journal": "Prague medical report",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    },
+    {
+      "pmid": "42888280",
+      "doi": "10.1007/s11102-026-01769-4",
+      "title": "Cabergoline for non-functioning pituitary adenomas: an update on an old clinical controversy.",
+      "abstract": "Cabergoline has been used off-label for non-functioning pituitary adenomas (NFPAs) for decades, yet its place in management remains controversial. We reappraised the evidence, emphasizing studies from the last 3-5 years and how contemporary natural-history data influence interpretation of radiological outcomes. We conducted a focused PubMed/MEDLINE search from database inception through 27 September 2026, prioritizing comparative studies, recent cohorts, systematic reviews, natural-history studies, translational research, and clinically relevant safety data. Evidence was synthesized narratively. Earlier studies suggested radiological activity, but the only randomized open-label trial showed primarily a radiological signal, with less growth and more shrinkage, rather than established patient-centered clinical benefit. A 2022 meta-analysis estimated at least 20% shrinkage in 19% and an outcome classified as prevention of progression in 50%. Recent data remain inconsistent: a 2022 multicenter comparison found no clear radiological advantage over observation, a 2024 surgery-naive cohort reported shrinkage/stability/growth in 20%/48%/32%, and 2026 real-world and radiotherapy cohorts have not resolved comparative efficacy. Contemporary natural-history studies show that untreated NFPAs may remain stable, regress, or grow unpredictably. No validated molecular or pathological predictor of cabergoline response has emerged. Recent evidence adds context but does not resolve this long-standing controversy or support routine cabergoline therapy for NFPAs. Cabergoline remains off-label and has no established routine role; it should not displace established surveillance, neurosurgical, or radiotherapy strategies. Prospective controlled studies using standardized volumetric imaging and patient-centered outcomes are needed.",
+      "journal": "Pituitary",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42834406",
+      "doi": "10.1186/s13023-026-04601-1",
+      "title": "Hyperphagia in Prader-Willi syndrome: linking hypothalamic dysfunction to clinical assessment and management across the lifespan.",
+      "abstract": "Prader-Willi syndrome (PWS) is a rare genetic neurodevelopmental disorder characterised by hypothalamic dysfunction and profound dysregulation in hunger and appetite regulation, endocrine function, metabolism and behaviour. Hyperphagia is a defining clinical feature and a major contributor to morbidity, mortality and caregiver burden. Increasing evidence suggests that hyperphagia in PWS represents a multidimensional disorder rather than excessive appetite alone. In December 2024, an international meeting of clinical and scientific experts was convened in Toulouse, France, to explore current understanding of hyperphagia in PWS, challenges in assessment, and evolving approaches to management across the lifespan. Although not a formal consensus process, several consistent themes emerged. These included limitations of existing assessment tools, the need for multidimensional evaluation (including use of instruments such as the Hyperphagia Questionnaire and Hyperphagia Questionnaire for Clinical Trials (HQ-CT). The central role of structured food environments, and vulnerabilities during transition to adult care were also identified as key themes. Experts emphasised that hyperphagia reflects interactions between impaired satiety signalling, activation in reward neurocircuitry, autonomic dysfunction and environmental factors. Management therefore requires integrated biological, behavioural and environmental approaches. While food security and structured support remain foundational, emerging pharmacological therapies may complement multidisciplinary care and reduce caregiver burden. Hyperphagia in PWS should be conceptualised as a complex, multidimensional disorder requiring comprehensive assessment and integrated management. Future priorities include development of additional validated outcome measures, identification of biomarkers, and care models that better align mechanistic insights with real-world clinical practice.",
+      "journal": "Orphanet journal of rare diseases",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42888349",
+      "doi": "10.1007/s11102-026-01770-x",
+      "title": "68Ga-Pentixafor PET/MRI for identifying corticotroph adenomas in Cushing disease: a pilot study.",
+      "abstract": "To assess whether C-X-C motif chemokine receptor 4-targeted 68Ga-Pentixafor PET/MRI can localize corticotroph adenomas in patients with Cushing disease (CD), particularly when MRI is negative or inconclusive, and explore performance in newly diagnosed versus persistent/recurrent disease. In this single-center pilot study, 10 patients with newly diagnosed or persistent/recurrent CD, confirmed by inferior petrosal sinus sampling (IPSS) and/or surgical pathology, underwent 68Ga-Pentixafor PET/MRI. Clinical, biochemical, radiologic, surgical, and postoperative data were reviewed. 68Ga-Pentixafor PET/MRI were classified as positive or negative using visual and quantitative assessment, including maximum standardized uptake values (SUVmax) and target-to-background (SUVmean of the blood pool in the cavernous sinus) ratio (TBR). Participants had a mean age of 46.7 years; 9 were female. Five had newly diagnosed and 5 had persistent/recurrent CD. Two scans showed focal pituitary 68Ga-Pentixafor uptake compared to background pituitary tissue. One was confirmed by an MRI-visible lesion, positive pathology, and postoperative remission. The second occurred with an inconclusive MRI, negative pathology, and persistent postoperative disease; however, IPSS centralized. Three patients with negative scans underwent surgery and achieved remission, indicating false-negative imaging. Among 5 patients with negative scans who did not undergo subsequent surgery, 4 had persistent/recurrent CD and 1 had newly diagnosed CD treated medically. In this pilot cohort, 68Ga-Pentixafor PET/MRI showed limited and variable performance for corticotroph adenoma localization. Although it may provide complementary information in selected patients with MRI-visible or equivocal lesions, further study is needed before it can be incorporated into diagnostic algorithms or considered an alternative to IPSS.",
+      "journal": "Pituitary",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42829547",
+      "doi": "10.7759/cureus.115707",
+      "title": "Acinetobacter baumannii Nosocomial Meningitis Secondary to Neurosurgical Intervention: A Case Report.",
+      "abstract": "Nosocomial meningitis is a serious complication of neurosurgical procedures, associated with high morbidity and mortality, as well as significant diagnostic and therapeutic challenges. Among the causative pathogens, Acinetobacter baumannii (A. baumannii) is particularly concerning due to its ability to survive for prolonged periods in the hospital environment, its opportunistic virulence, and, especially, its tendency to develop multidrug resistance to antimicrobial agents. Diagnosis is often difficult in the postoperative setting, particularly when the cerebrospinal fluid (CSF) is altered as a result of the surgical procedure. Rapid identification of the causative agent and early initiation of appropriate antibiotic therapy are essential to limit complications and improve patient prognosis. We report the case of a 27-year-old patient with a history of surgically treated craniopharyngioma complicated by anterior hypopituitarism. Three weeks after surgery, he was admitted to the ICU with suspected postoperative meningitis due to the onset of behavioral disturbances associated with nasal discharge, without a fever. Brain CT was normal. CSF analysis, obtained by lumbar puncture under strict aseptic conditions, revealed a turbid fluid with leukocytosis of 5,760 cells/mm\u00b3, predominantly composed of neutrophils,\u00a0along with elevated protein levels\u00a0(5.7 g/L) and low glucose levels (0.05 g/L). Direct examination after Gram staining showed Gram-negative coccobacilli with a marked inflammatory reaction. CSF culture\u00a0grew\u00a0a multidrug-resistant (MDR) strain of\u00a0A. baumannii,\u00a0which was\u00a0sensitive only to colistin. The patient received antibiotic therapy\u00a0with colistin, administered intravenously and intrathecally for 18 days, with initial neurological improvement and sterilization of the CSF by the\u00a015th day\u00a0of treatment. The subsequent course was unfavorable, marked by the development of acute respiratory distress syndrome (ARDS) secondary to ventilator-associated pneumonia caused by methicillin-resistant\u00a0Staphylococcus aureus\u00a0(MRSA), complicated by refractory septic shock,\u00a0which ultimately led to his death\u00a0after one month of hospitalization in the ICU. This report highlights the severity of nosocomial meningitis caused by MDR\u00a0A. baumannii\u00a0and underscores the importance of\u00a0implementing\u00a0infection prevention measures in healthcare settings.",
+      "journal": "Cureus",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42866793",
+      "doi": "10.4103/ijnmr.ijnmr_183_24",
+      "title": "The Effect of Digital Storytelling on the Anxiety of Patients with Pituitary Adenoma Undergoing Transsphenoidal Surgery: A Randomized Controlled Clinical Trial.",
+      "abstract": "Patients with pituitary adenoma often experience anxiety due to hormonal changes and the stress associated with transsphenoidal surgery. Digital storytelling, as an innovative multimedia-based training method, has recently been used in patient education. This study investigated the effect of digital storytelling on the anxiety of patients with pituitary adenoma undergoing transsphenoidal surgery. This randomized controlled trial was conducted on 70 patients with pituitary adenoma scheduled for transsphenoidal surgery at a teaching hospital affiliated with Tehran University of Medical Sciences. Participants were randomly assigned to an intervention or a control group. The intervention group received a 15-20-minute digital storytelling program that included experiences shared by patients and nurses regarding preoperative and postoperative care, while the control group received routine hospital education. Anxiety levels were measured a day before surgery, a day after surgery, and three weeks later using Spielberger's State Anxiety Scale. Data were analyzed by SPSS-25 software using descriptive and inferential statistics. The mean score of anxiety in the intervention group decreased by 12.45 (1.24) units a day after the surgery and by 24.82 (1.32) units three weeks after the surgery compared to baseline (p < 0.001). A significantly lower anxiety level was observed in the intervention group at both post-intervention time periods compared to the pre-intervention time (F = 17.05, p < 0.001). Repeated measures Analysis of Variance confirmed a significant interaction between time and group (F = 25.31, p < 0.001). Digital storytelling was effective in reducing anxiety among patients with pituitary adenoma undergoing transsphenoidal surgery and may serve as a valuable educational intervention.",
+      "journal": "Iranian journal of nursing and midwifery research",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42888930",
+      "doi": "10.1080/10503307.2026.2721647",
+      "title": "Efficacy of measurement-based care (MBC) in routine child and youth behavioral therapy: A pragmatic randomized controlled trial.",
+      "abstract": "Objective: This pragmatic randomized trial evaluated a low-frequency measurement-based care (MBC) approach in children and youth. Method: In the modified intention-to-treat sample (mITT), 317 children (6-10) and youth (11-17) were randomized to behavioral therapy with or without MBC; 169 completed the trial per protocol (PP). Outcomes were assessed by masked raters, therapists, caregivers, and youth. Results: Average MBC participation ranged from 69% to 87% across informants, while therapists discussed the report at least once in only 29.3% of cases. In the mITT analysis, masked ratings of total symptoms (SFSS-I) showed no effect, d\u2009=\u20090.00, 95% CI [-0.22, 0.22], while caregiver-rated externalizing symptoms (FBB-SCREEN) showed a small reduction, d\u2009=\u2009-0.17, [-0.33, -0.01]. In the PP analysis, masked ratings (SFSS-I) remained nonsignificant, d\u2009=\u2009-0.29, [-0.59, 0.01], but caregiver ratings showed significant reductions in externalizing (FBB-SCREEN), d\u2009=\u2009-0.29, [-0.53, -0.05], and internalizing symptoms (CBCL), d\u2009=\u2009-0.32, [-0.61, -0.03]. Conclusions: Low-frequency MBC may offer practical advantages for child and youth therapy, such as good participation, but its efficacy remained insufficient, likely reflecting implementation challenges. Differences between caregiver and masked outcomes may indicate a risk of overestimating treatment effects when assessments are unblinded.Trial registration: German Clinical Trials Register identifier: DRKS00016737.",
+      "journal": "Psychotherapy research : journal of the Society for Psychotherapy Research",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42829594",
+      "doi": "10.25259/SNI_840_2026",
+      "title": "Endoscopic transsphenoidal surgery for a somatotroph pituitary neuroendocrine tumor associated with an infraoptic course of the anterior cerebral artery: A case report.",
+      "abstract": "Identifying cerebrovascular anomalies before neurosurgical procedures is essential to avoid intraoperative complications. An infraoptic course of the anterior cerebral artery (IOA) is a rare variant in which the anterior cerebral artery (ACA) arises near the ophthalmic artery and passes beneath the optic nerve. Despite numerous reports of cerebral aneurysms coexisting with IOA, reports of coexistence with brain tumors are extremely rare, and no studies have reported endoscopic transsphenoidal surgery (eTSS) performed for pituitary tumors. Failure to recognize this IOA anomaly preoperatively is critical owing to the risk of vascular injury. A 47-year-old man presented with acromegaly caused by a somatotroph pituitary neuroendocrine tumor. Magnetic resonance imaging (MRI) revealed a sellar-suprasellar mass, and biochemical testing confirmed excess growth hormone production. After lanreotide-induced tumor shrinkage, surgical treatment was planned. Preoperative MRI, computed tomography angiography, and three-dimensional (3D) fusion imaging demonstrated bilateral IOA and duplication of the left A1 segment. These images enabled a detailed assessment of the tumor, pituitary gland, and vascular anatomy, suggesting that extracapsular resection via eTSS can be safely performed. Intraoperatively, the IOA adhered to the dura as predicted. Total tumor resection was achieved without vascular injury. Postoperative MRI confirmed complete removal, and hormone levels were normalized. IOA is an exceptionally rare vascular anomaly, and unrecognized cases may lead to severe intraoperative complications. This case highlights the importance of meticulous preoperative imaging, particularly 3D fusion techniques, for IOA identification and safe eTSS planning for functional pituitary tumors.",
+      "journal": "Surgical neurology international",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42888947",
+      "doi": "10.1080/19490976.2026.2739669",
+      "title": "Targeted intestinal ROS scavenging alleviated rheumatoid arthritis by microbial metabolite kynurenic acid mediated Treg/Th17 balance through AhR pathway activation.",
+      "abstract": "Rheumatoid arthritis (RA) is a chronic autoimmune disorder characterized by immune dysregulation, which is often closely related to impaired gut microbiota homeostasis. Excessive reactive oxygen species (ROS) are recognized as critical drivers of microecological immunity disturbance, contributing directly to the inflammatory cascade. However, the underlying mechanism remains unclear. Here, we have used ROS scavengers to alleviate RA progression via inhibiting intestinal ROS and modulating gut microbial kynurenic acid metabolism. Black phosphorus nanosheets (BPNSs), as effective ROS scavengers, significantly ameliorated disease severity in collagen-induced arthritis (CIA) mice by oral administration to eliminate intestinal excess ROS. BPNSs selectively reshaped the gut microbiota and altered its metabolic profile, elevating the relative abundance of the tryptophan-derived metabolite kynurenic acid (KYNA). Mechanistically, elevated KYNA activated the aryl hydrocarbon receptor (AhR) pathway in na\u00efve CD4+ T cells, promoting their differentiation into Treg cells through the inhibition of AKT/mTOR signaling pathway. The therapeutic effect of KYNA was further corroborated in CIA mice, where its administration maintained Treg/Th17 balance, attenuated arthritis progression, and enhanced intestinal barrier integrity. These findings elucidate novel gut-immune-bone axis wherein scavenging intestinal ROS drives KYNA mediated AhR-dependent Treg cell differentiation, thereby proposing a promising ROS scavenging-based strategy for RA treatment.",
+      "journal": "Gut microbes",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42888944",
+      "doi": "10.1177/19386400261495193",
+      "title": "Impact of Insurance Type on Timing of Diagnosis and Surgical Treatment of Acute Achilles Tendon Ruptures: A 2-Center Retrospective Cohort Study.",
+      "abstract": "Introduction/PurposeDelayed treatment of acute Achilles tendon rupture is associated with worse outcomes and higher complication rates. Prior studies suggest reduced access to care among Medicaid and uninsured patients. This study examines the effect of insurance status on the timing of diagnosis and surgical treatment among patients undergoing surgical repair of acute Achilles tendon rupture.MethodsA retrospective chart review was conducted of patients aged \u226518 years with acute traumatic Achilles tendon ruptures identified by Current Procedural Terminology codes 27650 and 27654 at 2 hospitals between January 2017 and December 2023. Dates of injury, emergency department presentation, initial outpatient orthopaedic evaluation, and surgical intervention were recorded. Only patients who ultimately underwent operative repair were eligible for inclusion; because case ascertainment relied on surgical procedure codes, the cohort does not capture patients managed nonoperatively or those who never reached surgical care. Insurance status was categorized as private or Medicaid/uninsured. Postoperative complications, including re-rupture, infection, venous thromboembolism, wound dehiscence, return to the operating room, and mortality, were documented. Between-group comparisons of continuous variables were performed using the Mann-Whitney U test, given non-normal distribution of the underlying data; independent 2-tailed t-tests were performed as a secondary, confirmatory analysis. Significance was set at P < .05.ResultsThirty-eight surgically treated patients met the inclusion criteria, including 23 with private insurance and 15 who were Medicaid or uninsured. Median age was 35.2 years, and 89.5% were male. All time intervals are reported as medians. Time from injury to emergency department presentation was longer in the Medicaid/uninsured group but not statistically significant (1.0 vs 0.0 days; Mann-Whitney U P = .079). Medicaid/uninsured patients experienced significantly longer delays from injury to initial outpatient orthopaedic evaluation (17.0 vs 4.0 days; Mann-Whitney U P = .024) and from injury to surgery (30.0 vs 10.0 days; Mann-Whitney U P = .045). Time from orthopaedic evaluation to surgery did not differ significantly between groups (11.0 vs 6.0 days; Mann-Whitney U P = .206). Postoperative complications were infrequent in both groups; the study was not powered for comparison of complication rates and none was performed.ConclusionAmong surgically treated patients, those with Medicaid or no insurance experienced significantly longer delays to initial orthopaedic evaluation and to surgical repair compared with privately insured patients, highlighting disparities in access to timely orthopaedic care within this surgically treated population.Level of Evidence:III.",
+      "journal": "Foot & ankle specialist",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
     {
       "pmid": "42880706",
       "doi": "10.1016/j.wneu.2026.125423",
@@ -157,11 +322,56 @@
       ]
     },
     {
-      "pmid": "42885475",
-      "doi": "10.1111/vde.70134",
-      "title": "Clinical Characteristics of Hair Cycle Arrest in Toy Poodles: A Retrospective Comparison With Pomeranians.",
-      "abstract": "Hair cycle arrest (HCA), known as alopecia X, is an alopecia disorder most commonly reported in Nordic breeds-particularly Pomeranians. Toy poodles (TPs) also are frequently affected, yet their clinical characteristics have not been reviewed systematically. The aim of this retrospective case series was to compare the clinical characteristics of HCA in TPs and Pomeranians. Medical records of client-owned dogs diagnosed with HCA between 2018 and 2024 were reviewed. Signalment, including age of onset and age at diagnosis, clinical features, skin barrier function (transepidermal water loss [TEWL], stratum corneum hydration [SCH]) and treatment outcomes were analysed. Fifty dogs (19 TPs, 31 Pomeranians) met the inclusion criteria. TPs were significantly older than Pomeranians both at disease onset and at the first presentation (p\u2009=\u20090.003 and p\u2009=\u20090.001, respectively). Both breeds exhibited similar bilateral symmetrical alopecia presentations; however, Pomeranians mainly presented with a single alopecic site, while nearly half of the TPs had multiple affected sites (p\u2009=\u20090.032). Pruritus and superficial pyoderma were common in both breeds. TEWL and SCH values frequently deviated from reference ranges (increased TEWL and decreased SCH), indicating impaired skin barrier function. TEWL was significantly higher in TPs with pyoderma than in those without (p\u2009=\u20090.025). Regarding outcomes, >\u200970% of patients showed partial or complete regrowth, despite various treatment regimens. HCA in TPs closely resembles that in Pomeranians, despite genetic divergence, suggesting a conserved pathogenesis across their breeds. Frequent pruritus and pyoderma, together with abnormal TEWL and SCH, indicate secondary skin barrier dysfunction. Clinical management should address both hair regrowth and restoration of skin barrier function.",
-      "journal": "Veterinary dermatology",
+      "pmid": "42845280",
+      "doi": "10.12688/f1000research.182800.2",
+      "title": "Endocrine dysfunctions in patients with beta thalassemia major: a single-center retrospective study from Basrah.",
+      "abstract": "The management of patients with beta thalassemia major (BTH) involves regular blood transfusions which are associated with iron overload. This may result in various endocrine dysfunctions (EDs). This study aimed to assess the obesrved frequency of different EDs in patients with transfusion-dependent BTH. A retrospective study that included 496 patients with BTH who were referred from the Basra Center for hereditary blood diseases to Faiha Specialized Diabetes, Endocrine and Metabolsim Center for endocrine-related complaints and underwent detailed endocrine assessments from Jan 2010 to Dec 2023. The mean presentation age for endocrine evaluation was 13.6\u00a0\u00b1\u00a06.5\u00a0years with no difference between male and female. The commonest clinical presentations of BTH patients in our center were short stature 65.5%, amenorrhea 16.4, hyperglycemia 13.7%, delayed puberty 13.3, and hypocalcemia 5.2%. The proportion patients with ED was 16.8%. The most frequent EDs were growth hormone deficiency (GHD) 6.0%, diabetes mellitus (DM) 4.9%, hypogonadism 4.5%, hypothyroidism 3.2%. Within those patients, 78.7% had single ED, 16.5% had two EDs and 4.8% had three or more EDs. EDs were observed among patients with BTH. The commonest EDs were GHD, DM, and hypogonadism. We recommend regular and timely surveillance using both clinical and hormonal assessment in patients with BTH.",
+      "journal": "F1000Research",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42888943",
+      "doi": "10.1080/14656566.2026.2752126",
+      "title": "Gedatolisib after CDK4/6 inhibition in HR-Positive/HER2-negative advanced breast cancer: pharmacology, phase iii evidence, and therapeutic positioning.",
+      "abstract": "Progression following CDK4/6 inhibition remains a therapeutic challenge in hormone receptor-positive, HER2-negative advanced breast cancer. Gedatolisib, an FDA-approved pan-class I PI3K/mTORC1/2 inhibitor, introduces a treatment strategy for disease without a detected PIK3CA mutation. This review critically evaluates gedatolisib pharmacology, clinical evidence, safety, biomarkers, and therapeutic positioning. PubMed/MEDLINE, publisher platforms, ClinicalTrials.gov, regulatory sources, and oncology conference records were searched through July 2026, with updates through September 2026. In phase III VIKTORIA-1, median progression-free survival was 9.3 versus 2.0\u2009months with gedatolisib-fulvestrant-palbociclib versus fulvestrant (hazard ratio 0.24) and 7.4 versus 2.0\u2009months with gedatolisib-fulvestrant versus fulvestrant (hazard ratio 0.33). Experimental regimens were not directly compared in a powered analysis. Stomatitis, metabolic toxicity, palbociclib-associated neutropenia, and weekly intravenous administration complicate treatment delivery. Gedatolisib expands post-CDK4/6 treatment options, but optimal positioning requires individualized patient selection without assuming triplet superiority. Mature survival outcomes, validated predictive biomarkers, comparative sequencing evidence, and VIKTORIA-2 findings will determine its long-term clinical value.",
+      "journal": "Expert opinion on pharmacotherapy",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42888936",
+      "doi": "10.1111/ajd.70221",
+      "title": "Real-World Outcomes of Rituximab in Pemphigus: An Australian Tertiary Cohort.",
+      "abstract": "Rituximab is endorsed internationally as first-line therapy for moderate-to-severe pemphigus, but Australian guidelines position it as a rescue agent and local outcome data are limited. In this single-centre retrospective cohort, 24 adults with pemphigus vulgaris (n\u2009=\u200916) or pemphigus foliaceus (n\u2009=\u20098) received rituximab as part of routine care; median follow-up from first infusion was 24.9\u2009months. Disease control was documented in all patients and complete remission in 20 (83%), of whom half subsequently relapsed despite most receiving more than one cycle. Adverse events occurred in eight patients (33%), predominantly mild infusion-related reactions, with one fatal pneumonia. These real-world data support planned maintenance after remission rather than single-course rescue use, and prospective multicentre study with standardised severity scoring.",
+      "journal": "The Australasian journal of dermatology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42888329",
+      "doi": "10.1007/s11102-026-01765-8",
+      "title": "Pediatric sellar and parasellar lesions: a population-based cohort study of presentation, management, and endocrine outcomes.",
+      "abstract": "Population-based studies describing the full clinical spectrum of pediatric sellar and parasellar lesions are scarce. Most available data derive from referral-based surgical or diagnosis-specific cohorts. We aimed to characterize presentation, lesion pathology, management, and long-term endocrine outcomes in a population-based cohort. We conducted a retrospective, population-based cohort study of patients aged 18 years or younger diagnosed with sellar or parasellar lesions between 1976 and 2021 in a multicounty region. Clinical presentation, lesion characteristics, management, and endocrine outcomes were abstracted from medical records. Associations were evaluated by lesion type, lesion size (<\u200910\u00a0mm vs. \u226510\u00a0mm), and management approach. Among 104 patients, endocrine abnormalities at diagnosis differed by lesion type (p\u2009=\u20090.0004) and were most frequent among patients with pituitary adenomas. Endocrine dysfunction at presentation was more common with lesions\u2009\u2265\u200910\u00a0mm than with lesions\u2009<\u200910\u00a0mm (74.2% vs. 49.2%; p\u2009=\u20090.0217). Post-treatment endocrine abnormalities were also more common with lesions\u2009\u2265\u200910\u00a0mm (64.5% vs. 13.1%; p\u2009<\u20090.0001). Associations with treatment modality were descriptive and subject to confounding by indication. This population-based cohort captured a broad spectrum of pediatric sellar and parasellar disease, including uncommon lesions and conservatively managed cases. Endocrine morbidity was associated with lesion type and size, but clinically relevant abnormalities also occurred in smaller lesions, supporting endocrine evaluation based on clinical context and longitudinal surveillance.",
+      "journal": "Pituitary",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42888932",
+      "doi": "10.1093/ehjcvp/pvag091",
+      "title": "Dapagliflozin in phenotypically stratified HFpEF without myocardial fibrosis: the STADIA-HFpEF randomized crossover trial.",
+      "abstract": "Heart failure with preserved ejection fraction(HFpEF) is characterized by increased diastolic left ventricular(LV) stiffness resulting from variable contributions of myocardial extracellular matrix(ECM) remodeling and titin-based cardiomyocyte stiffness. Sodium-glucose cotransporter-2 inhibitors(SGLT2i) improved cardiomyocyte distensibility, inflammation, and oxidative stress in experimental and human HFpEF myocardium. We investigated whether dapagliflozin improves LV distensibility in phenotypically stratified HFpEF patients without significant myocardial fibrosis. STADIA-HFpEF was a 34-week, randomized, double-blind, placebo-controlled crossover trial. HFpEF patients underwent multi-level phenotypic stratification including cardiac magnetic resonance imaging to exclude structural cardiomyopathies and significant myocardial ECM remodeling. Participants were randomized to dapagliflozin 10 mg or placebo for two 13-week treatment periods separated by an 8-week washout.The co-primary endpoints were changes in E/e'/LV end-diastolic volume index(LVEDVi) and mean LV e', reflecting LV distensibility and relaxation. Secondary endpoints included echocardiographic variables, quality of life, 6-minute walk distance, and inflammatory biomarkers. Between February 2020 and October 2022, 32 patients were randomized and 29 completed the study protocol. Median age was 73(68-76) years including 28 women(88%). Dapagliflozin did not significantly modify E/e'/LVEDVi compared with placebo 0.24 (0.20-0.32) to 0.26 (0.22-0.34) vs. 0.23 (0.22-0.29) to 0.25 (0.21-0.31); p=0.370 nor did it change mean LV e' 6.2 (5.6-7.5) to 6.2 (5.7-7.1) vs. 6.6 (5.6-7.4) to 6.7 (5.4-7.5); p=0.448. Most secondary outcomes were neutral. However, an isolated improvement in LA conduit strain and numerical reductions in inflammatory biomarkers were observed during dapagliflozin treatment. In phenotypically stratified HFpEF patients without significant myocardial fibrosis, dapagliflozin did not improve LV distensibility or relaxation. An isolated improvement in LA conduit strain and numerical reductions in inflammatory biomarkers were observed; however, these exploratory findings require confirmation in larger studies.",
+      "journal": "European heart journal. Cardiovascular pharmacotherapy",
       "year": "2026",
       "publication_types": [
         "Journal Article"
@@ -192,158 +402,6 @@
       ]
     },
     {
-      "pmid": "42845280",
-      "doi": "10.12688/f1000research.182800.2",
-      "title": "Endocrine dysfunctions in patients with beta thalassemia major: a single-center retrospective study from Basrah.",
-      "abstract": "The management of patients with beta thalassemia major (BTH) involves regular blood transfusions which are associated with iron overload. This may result in various endocrine dysfunctions (EDs). This study aimed to assess the obesrved frequency of different EDs in patients with transfusion-dependent BTH. A retrospective study that included 496 patients with BTH who were referred from the Basra Center for hereditary blood diseases to Faiha Specialized Diabetes, Endocrine and Metabolsim Center for endocrine-related complaints and underwent detailed endocrine assessments from Jan 2010 to Dec 2023. The mean presentation age for endocrine evaluation was 13.6\u00a0\u00b1\u00a06.5\u00a0years with no difference between male and female. The commonest clinical presentations of BTH patients in our center were short stature 65.5%, amenorrhea 16.4, hyperglycemia 13.7%, delayed puberty 13.3, and hypocalcemia 5.2%. The proportion patients with ED was 16.8%. The most frequent EDs were growth hormone deficiency (GHD) 6.0%, diabetes mellitus (DM) 4.9%, hypogonadism 4.5%, hypothyroidism 3.2%. Within those patients, 78.7% had single ED, 16.5% had two EDs and 4.8% had three or more EDs. EDs were observed among patients with BTH. The commonest EDs were GHD, DM, and hypogonadism. We recommend regular and timely surveillance using both clinical and hormonal assessment in patients with BTH.",
-      "journal": "F1000Research",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42885458",
-      "doi": "10.52628/92.3.15610",
-      "title": "Impact of Gefitinib on Traumatic Fracture Healing in Rats via the OPG/RANKL/RANK Signaling Pathway.",
-      "abstract": "This study investigates how gefitinib (Gef), an epidermal growth factor receptor (EGFR) inhibitor, affects traumatic fracture healing in rats, particularly through the OPG/RANKL/RANK signaling pathway, which regulates osteoclast and osteoblast activity. Sixty Sprague-Dawley rats were divided into different treatment groups, including fracture only, fracture plus gefitinib, fracture plus functional OPG antagonist (i.e., recombinant mouse RANKL protein), and combinations of both. After 28 days of treatment, bone healing was evaluated using techniques such as micro- CT, histological staining, and molecular analysis. Additionally, in vitro experiments on bone marrow mesenchymal stem cells (BMSCs) were conducted. The results showed that rats treated with gefitinib had significantly higher bone density and better bone structure compared to the fracture-only group. The effects were diminished when the functional OPG antagonist was added. Histological analysis revealed that gefitinib promoted better callus formation and more organized trabecular bone, effects that were reversed by the functional OPG antagonist. Further analysis indicated that gefitinib inhibited osteoclast activity and enhanced osteoblast function. At the molecular level, gefitinib increased the expression of OPG and bone-related proteins while reducing the levels of RANKL and osteoclast markers. In contrast, the functional OPG antagonist had the opposite effect.In vitro, gefitinib increased osteogenic activity and gene expression in BMSCs, but this was blocked by RANKL. The findings suggest that gefitinib promotes fracture healing by upregulating OPG and suppressing RANKL/RANK signaling, reducing inflammation, and this effect can be completely negated by exogenous RANKL.",
-      "journal": "Acta orthopaedica Belgica",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42834406",
-      "doi": "10.1186/s13023-026-04601-1",
-      "title": "Hyperphagia in Prader-Willi syndrome: linking hypothalamic dysfunction to clinical assessment and management across the lifespan.",
-      "abstract": "Prader-Willi syndrome (PWS) is a rare genetic neurodevelopmental disorder characterised by hypothalamic dysfunction and profound dysregulation in hunger and appetite regulation, endocrine function, metabolism and behaviour. Hyperphagia is a defining clinical feature and a major contributor to morbidity, mortality and caregiver burden. Increasing evidence suggests that hyperphagia in PWS represents a multidimensional disorder rather than excessive appetite alone. In December 2024, an international meeting of clinical and scientific experts was convened in Toulouse, France, to explore current understanding of hyperphagia in PWS, challenges in assessment, and evolving approaches to management across the lifespan. Although not a formal consensus process, several consistent themes emerged. These included limitations of existing assessment tools, the need for multidimensional evaluation (including use of instruments such as the Hyperphagia Questionnaire and Hyperphagia Questionnaire for Clinical Trials (HQ-CT). The central role of structured food environments, and vulnerabilities during transition to adult care were also identified as key themes. Experts emphasised that hyperphagia reflects interactions between impaired satiety signalling, activation in reward neurocircuitry, autonomic dysfunction and environmental factors. Management therefore requires integrated biological, behavioural and environmental approaches. While food security and structured support remain foundational, emerging pharmacological therapies may complement multidisciplinary care and reduce caregiver burden. Hyperphagia in PWS should be conceptualised as a complex, multidimensional disorder requiring comprehensive assessment and integrated management. Future priorities include development of additional validated outcome measures, identification of biomarkers, and care models that better align mechanistic insights with real-world clinical practice.",
-      "journal": "Orphanet journal of rare diseases",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "42877914",
-      "doi": "10.7759/cureus.116229",
-      "title": "A Case of MEN 2A Syndrome With Bilateral Recurrent Pheochromocytoma: A Case Report and Literature Review.",
-      "abstract": "Pheochromocytoma is a neuroendocrine tumor arising from chromaffin cells and producing catecholamines. Due to the excessive release of catecholamines, these tumors can present with paroxysmal episodes of high blood pressure, headache, diaphoresis, and palpitations. We present the case of a 23-year-old female patient who presented to the clinic with a history of headache, palpitations, and vomiting for two months. She was admitted for further investigations and management. Laboratory studies revealed elevated urinary and plasma catecholamine levels. Further work-up revealed bilateral adrenal masses diagnosed as pheochromocytoma and medullary thyroid cancer. The patient was diagnosed with multiple endocrine neoplasia (MEN) type 2 and underwent bilateral laparoscopic adrenalectomy and total thyroidectomy with central and lateral neck dissection, and during surveillance, she was found to have recurrent pheochromocytoma. We also discuss the diagnosis and management of recurrent pheochromocytoma in MEN syndrome.",
-      "journal": "Cureus",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42885453",
-      "doi": "10.52628/92.3.15682",
-      "title": "Overcoming Therapeutic Bottlenecks of Infected Bone Defects via 3D-Printed Scaffolds Integrated with Antibacterial, Osteogenic and Angiogenic Synergistic Functions.",
-      "abstract": "Infected bone defects (IBDs) triggered by open fractures, implant-related infections, chronic osteomyelitis and bone tumor resection remain intractable orthopedic complications, contributing to elevated disability rates, recurrent infection, prolonged treatment courses and heavy social-economic costs. Conventional treatments such as bone grafting and antibiotic-loaded bone cement are plagued by donor shortage, immune rejection, uncontrolled antibiotic leakage and poor anatomical matching, incapable of synchronously eradicating bacteria, inducing osteogenesis and reconstructing blood vessels. Benefiting from personalized shaping, accurate structural modulation, tunable porous structures and broad material adaptability, 3D printing has become an advanced manufacturing method for patient-specific bone scaffolds. The construction of triple-functional scaffolds integrating antibacterial, osteogenic and angiogenic effects is critical to overcome current IBD treatment limitations and facilitate the clinical transformation of bone engineering materials. This review first addresses clinical drawbacks of IBD management and the superiority of 3D printed scaffolds. We systematically recapitulate matching materials, prevailing printing techniques, biomimetic design schemes and biological assessment systems, compare various antibacterial modalities, summarize translational achievements and analyze existing clinical transformation obstacles. Future orientations covering responsive intelligent scaffolds, 4D printing and combined therapies are proposed. This work delivers theoretical guidance for basic research and clinical application of 3D printed antibacterial bone scaffolds.",
-      "journal": "Acta orthopaedica Belgica",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "42878776",
-      "doi": "10.1530/ERC-26-0317",
-      "title": "New Horizons in Pharmacotherapy for Cushing's Disease and Acromegaly.",
-      "abstract": "The recent development of new medical therapies has transformed Cushing's disease and acromegaly management, offering patients more individualized and effective treatment strategies beyond surgery and also addressing unmet clinical needs for persistent disease. In Cushing's disease, newer steroidogenesis inhibitors, pituitary-directed therapies, and glucocorticoid receptor antagonists coupled with increasing recognition of disease heterogeneity have highlighted the importance of individualized therapy selection based on corticotroph adenoma characteristics, severity of hypercortisolism, comorbidities, and patient-specific priorities. Management strategies increasingly focus on normalization of biochemical markers and on improvement in quality of life and metabolic outcomes, cardiovascular risk reduction, and prolongation of long-term remission. In acromegaly, the medical treatment landscape has expanded beyond monthly injectable and/or oral somatostatin receptor ligands and pegvisomant to include newer octreotide formulations, selective oral somatostatin receptor agonists, combination approaches, and a highly targeted growth hormone receptor antagonist. These developments have enabled improved biochemical control, patient convenience, and long-term disease management. Nevertheless, unmet challenges in enabling optimal management include delayed diagnosis, treatment resistance, adverse drug effects, adenoma recurrence, and the burden of chronic disease monitoring. For both disorders, ongoing clinical trials and emerging precision medicine approaches are refining therapeutic algorithms and offer optimism for further improved patient outcomes. This review focuses on newly approved and investigational medical treatments for acromegaly and Cushing's disease and their evolving role within pituitary care.",
-      "journal": "Endocrine-related cancer",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42877869",
-      "doi": "10.7759/cureus.117583",
-      "title": "From Trauma to Tumour: Incidental Giant Left Adrenal Myelolipoma in Congenital Adrenal Hyperplasia.",
-      "abstract": "Adrenal myelolipomas are rare, benign tumours composed of mature adipose and haematopoietic tissue. Patients with congenital adrenal hyperplasia (CAH) are predisposed to their development, with chronic adrenocorticotropic hormone (ACTH) hypersecretion secondary to impaired cortisol synthesis thought to be the principal driver of myelolipoma formation in this population. A 49-year-old female with known CAH presented to the emergency department following a stab wound to the abdomen. Computed tomography (CT) incidentally identified a 12 cm encapsulated left adrenal lesion consistent with a giant myelolipoma. Despite reported adherence to hydrocortisone and fludrocortisone replacement therapy, persistently elevated adrenal steroid precursors and plasma renin levels suggested suboptimal glucocorticoid control. Following multidisciplinary team (MDT) review, the patient was offered a left adrenalectomy given the lesion size (>10 cm) and concerns regarding the risk of spontaneous haemorrhage. This case underscores the importance of systematic imaging review beyond the primary indication for scanning, and the value of optimising biochemical monitoring and considering adrenal imaging in selected high-risk CAH patients.",
-      "journal": "Cureus",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42885462",
-      "doi": "10.52628/92.3.14104",
-      "title": "Weight-bearing impact after surgically treated proximal femur fracture in patients aged 65 years and older: systematic review.",
-      "abstract": "The incidence of proximal femur fractures is increasing among older adults. Although surgical treatment is often required to restore pre-fracture functional status, the optimal postoperative weight-bearing strategy remains controversial. This systematic review aimed to evaluate the impact of early weight-bearing after surgically treated proximal femur fractures in patients aged 65 years and older. A systematic search of Medline (via Ovid and PubMed), Embase, Scopus, Google Scholar, and the grey literature was conducted in accordance with the PRISMA 2020 guidelines for studies published between 1 January 2003 and 7 June 2024. Studies written in English or French including patients aged 65 years and older and comparing postoperative weight-bearing strategies following surgical treatment of proximal femur fractures were eligible for inclusion. The methodological quality of the included studies was assessed using the ROBINS-I and RoB tools. Of the 695 studies identified, seven met the inclusion criteria. The available evidence addressed functional outcomes, length of hospital stay, mortality, medical complications, and orthopaedic complications. Overall, early weight-bearing was associated with lower mortality, shorter hospital stay, fewer medical complications, and improvements in some functional outcomes, without an apparent increase in orthopaedic complications. However, the available evidence is limited, predominantly observational, and subject to substantial heterogeneity; therefore, causality cannot be established.",
-      "journal": "Acta orthopaedica Belgica",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Systematic Review"
-      ]
-    },
-    {
-      "pmid": "42829594",
-      "doi": "10.25259/SNI_840_2026",
-      "title": "Endoscopic transsphenoidal surgery for a somatotroph pituitary neuroendocrine tumor associated with an infraoptic course of the anterior cerebral artery: A case report.",
-      "abstract": "Identifying cerebrovascular anomalies before neurosurgical procedures is essential to avoid intraoperative complications. An infraoptic course of the anterior cerebral artery (IOA) is a rare variant in which the anterior cerebral artery (ACA) arises near the ophthalmic artery and passes beneath the optic nerve. Despite numerous reports of cerebral aneurysms coexisting with IOA, reports of coexistence with brain tumors are extremely rare, and no studies have reported endoscopic transsphenoidal surgery (eTSS) performed for pituitary tumors. Failure to recognize this IOA anomaly preoperatively is critical owing to the risk of vascular injury. A 47-year-old man presented with acromegaly caused by a somatotroph pituitary neuroendocrine tumor. Magnetic resonance imaging (MRI) revealed a sellar-suprasellar mass, and biochemical testing confirmed excess growth hormone production. After lanreotide-induced tumor shrinkage, surgical treatment was planned. Preoperative MRI, computed tomography angiography, and three-dimensional (3D) fusion imaging demonstrated bilateral IOA and duplication of the left A1 segment. These images enabled a detailed assessment of the tumor, pituitary gland, and vascular anatomy, suggesting that extracapsular resection via eTSS can be safely performed. Intraoperatively, the IOA adhered to the dura as predicted. Total tumor resection was achieved without vascular injury. Postoperative MRI confirmed complete removal, and hormone levels were normalized. IOA is an exceptionally rare vascular anomaly, and unrecognized cases may lead to severe intraoperative complications. This case highlights the importance of meticulous preoperative imaging, particularly 3D fusion techniques, for IOA identification and safe eTSS planning for functional pituitary tumors.",
-      "journal": "Surgical neurology international",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42829547",
-      "doi": "10.7759/cureus.115707",
-      "title": "Acinetobacter baumannii Nosocomial Meningitis Secondary to Neurosurgical Intervention: A Case Report.",
-      "abstract": "Nosocomial meningitis is a serious complication of neurosurgical procedures, associated with high morbidity and mortality, as well as significant diagnostic and therapeutic challenges. Among the causative pathogens, Acinetobacter baumannii (A. baumannii) is particularly concerning due to its ability to survive for prolonged periods in the hospital environment, its opportunistic virulence, and, especially, its tendency to develop multidrug resistance to antimicrobial agents. Diagnosis is often difficult in the postoperative setting, particularly when the cerebrospinal fluid (CSF) is altered as a result of the surgical procedure. Rapid identification of the causative agent and early initiation of appropriate antibiotic therapy are essential to limit complications and improve patient prognosis. We report the case of a 27-year-old patient with a history of surgically treated craniopharyngioma complicated by anterior hypopituitarism. Three weeks after surgery, he was admitted to the ICU with suspected postoperative meningitis due to the onset of behavioral disturbances associated with nasal discharge, without a fever. Brain CT was normal. CSF analysis, obtained by lumbar puncture under strict aseptic conditions, revealed a turbid fluid with leukocytosis of 5,760 cells/mm\u00b3, predominantly composed of neutrophils,\u00a0along with elevated protein levels\u00a0(5.7 g/L) and low glucose levels (0.05 g/L). Direct examination after Gram staining showed Gram-negative coccobacilli with a marked inflammatory reaction. CSF culture\u00a0grew\u00a0a multidrug-resistant (MDR) strain of\u00a0A. baumannii,\u00a0which was\u00a0sensitive only to colistin. The patient received antibiotic therapy\u00a0with colistin, administered intravenously and intrathecally for 18 days, with initial neurological improvement and sterilization of the CSF by the\u00a015th day\u00a0of treatment. The subsequent course was unfavorable, marked by the development of acute respiratory distress syndrome (ARDS) secondary to ventilator-associated pneumonia caused by methicillin-resistant\u00a0Staphylococcus aureus\u00a0(MRSA), complicated by refractory septic shock,\u00a0which ultimately led to his death\u00a0after one month of hospitalization in the ICU. This report highlights the severity of nosocomial meningitis caused by MDR\u00a0A. baumannii\u00a0and underscores the importance of\u00a0implementing\u00a0infection prevention measures in healthcare settings.",
-      "journal": "Cureus",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42831607",
-      "doi": "10.14712/23362936.2026.27",
-      "title": "A Clinical Insight into Von Hippel-Lindau Syndrome: Diagnostic Challenges.",
-      "abstract": "Von Hippel-Lindau (VHL) syndrome is a rare hereditary disorder characterised by the development of multiple benign and malignant tumours across various organs. Caused by mutations in the VHL tumour suppressor gene, it presents a wide range of clinical manifestations, including retinal haemangioblastomas, central nervous system tumours, renal cell carcinoma, pancreatic lesions, and phaeochromocytomas. This report describes the case of a 35-year-old woman who presented with visual impairment and abdominal masses. Imaging revealed typical VHL manifestations, including bilateral renal lesions and pancreatic involvement. Genetic testing confirmed the diagnosis. The patient underwent staged partial nephrectomies, with histopathology confirming clear cell renal cell carcinoma in both kidneys. This case highlights the importance of recognising the variable clinical and radiological presentations of VHL syndrome. Early diagnosis and multidisciplinary management are essential to reduce morbidity and mortality. Increased awareness and regular surveillance are critical for timely detection and intervention in patients with VHL syndrome.",
-      "journal": "Prague medical report",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Case Reports"
-      ]
-    },
-    {
-      "pmid": "42885454",
-      "doi": "10.52628/92.3.15617",
-      "title": "Ilizarov Circular Fixation for High-Velocity Firearm Injuries Causing High-Energy Tibial Fractures: A Prospective Cohort Study.",
-      "abstract": "High-velocity gunshot tibial fractures present major reconstructive challenges owing to extensive contamination, soft-tissue devitalisation, and segmental bone loss that render early internal fixation hazardous. We aimed to document outcomes of a structured Ilizarov-based protocol for this injury type and describe a reproducible treatment framework for resource-constrained settings. Between January 2019 and December 2023, we prospectively enrolled 20 adult male patients with open tibial fractures from high-velocity firearm injuries at three Cairo trauma centres; all were treated definitively with an Ilizarov circular external fixator, with distraction osteogenesis and fibular autografting were employed selectively for segmental bone loss. The primary outcome was fracture union rate; secondary outcomes included fixation duration, surgical burden, and complications. Mean age was 29.7 \u00b1 8.4 years. Fourteen fractures (70%) were Gustilo-Anderson type IIIA and six (30%) type IIIB; bone defects were present in 50% after debridement. Union was achieved in 19 of 20 patients (95%), and the single non-union resolved after frame revision and supplementary grafting. Mean fixation duration was 12.3 \u00b1 7.28 months. Superficial pin-tract infection (Checketts-Otterburn Grade 1 or 2) occurred in 17 patients (85%) and deep surgical site infection in one (5%); ankle stiffness, axial malalignment, and limb length discrepancy each affected a minority of patients. structured Ilizarov protocol can reliably achieve union in Gustilo type III gunshot tibial fractures with an acceptable complication profile; these findings are descriptive and do not establish superiority over alternative fixation strategies but support the Ilizarov circular frame as a suitable option for high-grade contaminated injuries in resource-limited environments.",
-      "journal": "Acta orthopaedica Belgica",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42878008",
-      "doi": "10.1080/14656566.2026.2750961",
-      "title": "New and emerging pharmacological treatment options for acromegaly: a 2026 update.",
-      "abstract": "Acromegaly is associated with significant morbidity, impaired quality of life (QoL), and increased mortality when uncontrolled. While current treatments achieve biochemical control in many patients, a substantial proportion remain uncontrolled or experience persistent treatment-related burdens, highlighting a need for safer, more effective, and convenient therapeutic alternatives. This narrative review examines current treatment modalities, the growing role of precision medicine and biomarker-guided algorithms, and newly approved or emerging pharmacological options. A comprehensive literature search was performed in Pubmed database for articles in English, including the following terms: 'acromegaly AND new treatments,' acromegaly AND new drugs,\" 'acromegaly AND CAM2029,' 'acromegaly AND paltusotine,' 'acromegaly AND debio4126,' 'acromegaly AND CAM4071,' 'acromegaly AND MAR002,' 'acromegaly AND HTL0030310,' 'acromegaly AND Hu-13H02m,' 'acromegaly AND biomarkers,' 'acromegaly AND precision medicine,' 'acromegaly AND personalized treatment.' This review highlights innovations such as long-acting subcutaneous octreotide depots (CAM2029), oral selective somatostatin receptor type 2 agonists (paltusotine), extended-interval formulations (Debio 4126), subcutaneous pasireotide depots (CAM4071), allosteric growth hormone receptor antagonists (MAR002), and direct growth hormone-neutralizing antibodies. Integrating personalized medicine approaches with novel pharmacological agents offering greater convenience and distinct mechanisms of action holds significant promise for overcoming current treatment limitations, optimize biochemical control, and enhance patient well-being.",
-      "journal": "Expert opinion on pharmacotherapy",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
       "pmid": "42850669",
       "doi": "10.1186/s40959-026-00587-8",
       "title": "Complex cardiac overlap: immune checkpoint inhibitor myocarditis in hypertrophic obstructive cardiomyopathy with subsequent NSTEMI.",
@@ -355,60 +413,14 @@
       ]
     },
     {
-      "pmid": "42866793",
-      "doi": "10.4103/ijnmr.ijnmr_183_24",
-      "title": "The Effect of Digital Storytelling on the Anxiety of Patients with Pituitary Adenoma Undergoing Transsphenoidal Surgery: A Randomized Controlled Clinical Trial.",
-      "abstract": "Patients with pituitary adenoma often experience anxiety due to hormonal changes and the stress associated with transsphenoidal surgery. Digital storytelling, as an innovative multimedia-based training method, has recently been used in patient education. This study investigated the effect of digital storytelling on the anxiety of patients with pituitary adenoma undergoing transsphenoidal surgery. This randomized controlled trial was conducted on 70 patients with pituitary adenoma scheduled for transsphenoidal surgery at a teaching hospital affiliated with Tehran University of Medical Sciences. Participants were randomly assigned to an intervention or a control group. The intervention group received a 15-20-minute digital storytelling program that included experiences shared by patients and nurses regarding preoperative and postoperative care, while the control group received routine hospital education. Anxiety levels were measured a day before surgery, a day after surgery, and three weeks later using Spielberger's State Anxiety Scale. Data were analyzed by SPSS-25 software using descriptive and inferential statistics. The mean score of anxiety in the intervention group decreased by 12.45 (1.24) units a day after the surgery and by 24.82 (1.32) units three weeks after the surgery compared to baseline (p < 0.001). A significantly lower anxiety level was observed in the intervention group at both post-intervention time periods compared to the pre-intervention time (F = 17.05, p < 0.001). Repeated measures Analysis of Variance confirmed a significant interaction between time and group (F = 25.31, p < 0.001). Digital storytelling was effective in reducing anxiety among patients with pituitary adenoma undergoing transsphenoidal surgery and may serve as a valuable educational intervention.",
-      "journal": "Iranian journal of nursing and midwifery research",
+      "pmid": "42887023",
+      "doi": "10.3171/2026.5.JNS252620",
+      "title": "Spatial localization patterns in MRI-negative Cushing disease: a comparative pituitary heat map analysis.",
+      "abstract": "MRI-negative Cushing disease is challenging to treat due to difficulty with tumor localization and lower biochemical remission rates. Surgeons primarily rely on visual and tactile feedback to identify abnormal pituitary tissue. In this study, the authors analyzed intraoperative sketches of histology-confirmed corticotroph adenomas to compare the spatial distributions of MRI-positive and MRI-negative tumors. By characterizing these distribution patterns, the authors aimed to improve the localization and surgical targeting of MRI-negative pathology. The authors retrospectively reviewed patients with Cushing disease who underwent microscopic transsphenoidal resection by the late Dr. Edward H. Oldfield at the authors' institution from December 2007 to March 2017. Patients were stratified into MRI-positive and MRI-negative cohorts. A standardized pituitary sketch visualizing both coronal and sagittal planes was used for postoperative documentation. For every patient, Dr. Oldfield annotated the anatomical location of the histologically confirmed corticotroph adenoma. Image acquisition, processing, and heat map-based spatial analysis were performed to assess cumulative tumor density. Spatial differences were evaluated with cluster-based correction for multiple comparisons. Surgical outcomes were then compared between the 2 cohorts. A total of 153 patients with Cushing disease and histologically confirmed pituitary corticotroph adenoma (133 MRI-positive and 20 MRI-negative adenomas) were analyzed. Baseline demographic and biochemical characteristics were similar across MRI status. Both cohorts demonstrated similar anatomical presentation, with over 50% of patients presenting with corticotroph adenomas in the anterior aspect of the pituitary gland. MRI-positive tumors were more likely to localize to the lateral and dorsal aspects of the anterior pituitary (p < 0.05). In contrast, MRI-negative adenomas showed no distinct area of increased prevalence. Postoperatively, the MRI-negative cohort had higher nadir cortisol levels (2.9 vs 1.5 \u03bcg/dl, p = 0.001) and increased reoperation rates (20% vs 3.8%, p = 0.027). Remission rates were lower in MRI-negative patients but not statistically significant (75.0% vs 91.0%, p = 0.050). MRI-negative corticotroph adenomas were less frequently localized in the lateral and dorsal aspects of the anterior pituitary compared to MRI-positive tumors, with no distinct region of increased prevalence. These findings support a unique surgical strategy that leverages the anatomical distribution of histologically confirmed adenomas to guide gland exploration and resection of hidden tumors. While these observations may provide anatomical context for surgical exploration in radiographically occult disease, operative decision-making should remain guided by intraoperative findings and individual patient anatomy.",
+      "journal": "Journal of neurosurgery",
       "year": "2026",
       "publication_types": [
         "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42885467",
-      "doi": "10.52628/92.3.15544",
-      "title": "3D bioprinted porous PLLA implants with dual gene modified BMSCs for osteoarthritis cartilage repair.",
-      "abstract": "This study evaluated whether three-dimensional (3D) bioprinted spherical, porous poly-L-lactic acid (PLLA) drug- loaded implants, combined with bone marrow mesenchymal stem cells (BMSCs) overexpressing transforming growth factor-\u03b21 (TGF-\u03b21) and interleukin-10 (IL-10), can enhance the repair of osteoarthritis (OA)-related cartilage defects. Rat BMSCs were transduced with lentiviral vectors to achieve dual overexpression of TGF-\u03b21 and IL-10, induced toward chondrogenic differentiation, and assessed for chondrogenic marker expression (COL2A1, SOX-9, and aggrecan). Spherical porous PLLA drug-loaded implants were fabricated by 3D bioprinting and characterized for drug loading, porosity, cytocompatibility, skin sensitization, biodegradation, and in vivo release behavior. Histology, micro-computed tomography (micro-CT), and molecular assays evaluated cartilage repair and subchondral bone remodeling. Dual-gene transduction markedly promoted BMSC chondrogenic differentiation with significant up-regulation of COL2A1, SOX-9, and aggrecan. The PLLA scaffolds exhibited high porosity (88.88 \u00b1 2.87%), meeting biomaterial requirements, showed no evident cytotoxicity or skin sensitization, and achieved a 12-week mass-loss (biodegradation) of 42.65%. In vivo, the combined treatment group displayed superior cartilage regeneration and subchondral bone repair compared with controls, accompanied by increased BMP2 and type II collagen (COL-2) expression. 3D-bioprinted porous PLLA drug-loaded implants combined with TGF-\u03b21/IL-10 dual-gene-transduced BMSCs effectively promote repair of OA cartilage defects, indicating satisfactory biocompatibility and potential for clinical translation.",
-      "journal": "Acta orthopaedica Belgica",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42885464",
-      "doi": "10.52628/92.3.15655",
-      "title": "Comparative Chondroprotective Effects of Curcumin, Resveratrol,and Eggshell Membrane in a Surgically Induced Rat Osteoarthritis Model.",
-      "abstract": "Natural compounds such as curcumin (C), resveratrol (R), and eggshell membrane (EM) have demonstrated anti- inflammatory and chondroprotective properties. This study aimed to evaluate the effects of these compounds, administered either individually or in combination, on cartilage and synovial tissues in a surgically induced rat osteoarthritis (OA) model. Forty-eight male Wistar rats were randomly assigned to eight groups (n = 6 per group). OA was induced by destabilization of the medial meniscus (DMM) in the right knee. After a 4-week postoperative period, C, R, EM, their pairwise combinations (CR, REM, CEM), and the triple combination (CREM) were administered daily via oral gavage for 4 weeks. A sham-operated group served as the healthy control. Histological evaluation was performed using H&E and Safranin O/Fast Green staining. OA severity was assessed using the OARSI scoring system and semiquantitative synovial parameters. All treatment groups demonstrated varying degrees of histopathological preservation within the experimental OA model. Among single-agent treatments, resveratrol demonstrated the most consistent protective profile. The triple combination group demonstrated favorable histopathological findings, including reduced cartilage degeneration and minimal synovial inflammatory changes. However, no statistically significant differences were observed between the triple combination and key monotherapy groups. The relatively small sample size may have limited the statistical power to detecting subtle intergroup differences. Resveratrol and eggshell membrane demonstrated consistent chondroprotective effects. The combination therapy was associated with favorable histological outcomes, suggesting possible additive rather than truly synergistic effects. Further studies incorporating molecular, biochemical, and functional analyses are warranted to confirm these findings.",
-      "journal": "Acta orthopaedica Belgica",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Comparative Study"
-      ]
-    },
-    {
-      "pmid": "42878120",
-      "doi": "10.1515/jpem-2026-0379",
-      "title": "Pediatric prolactinoma-associated pituitary apoplexy presenting with acute visual loss: a case report, literature review, and management strategy.",
-      "abstract": "Hemorrhagic pituitary apoplexy (PA) in children is exceedingly rare, with approximately 32 cases reported since 1980. Current guidelines recommend cabergoline as first-line therapy; however, acute complete visual loss mandates emergency surgical decompression. No guideline defines the optimal extent of resection, despite gross total resection carrying a 48-54\u202f% risk of panhypopituitarism. An 11-year-old prepubertal girl presented with a 2-day history of complete right-eye visual loss. Serum prolactin was 987\u202f\u03bcg/L, and MRI demonstrated a hemorrhagic sellar-suprasellar mass compressing the optic chiasm. Emergency endoscopic transsphenoidal surgery was performed with an intentionally limited strategy\u00a0-\u00a0hematoma evacuation, optic decompression, and partial debulking\u00a0-\u00a0deliberately avoiding aggressive capsular dissection. Histopathology confirmed prolactinoma. Vision was fully restored immediately after extubation, with near-complete visual field recovery on postoperative day 5 (VFI 98\u202f%). Adrenocortical function was preserved. Central hypothyroidism developed, and levothyroxine was initiated. Cabergoline (0.25\u202fmg/week) was started on postoperative day 5, achieving a 93.7\u202f% prolactin reduction by day 20 (987 \u2192 61.9\u202f\u03bcg/L). In pediatric prolactinoma-associated PA requiring emergency surgery, a decompression-first strategy prioritizing visual rescue and tissue diagnosis over gross total resection may reduce the risk of panhypopituitarism, with residual tumor subsequently managed with cabergoline. The rapid biochemical response documented here supports this approach, though multicenter prospective evaluation is required.",
-      "journal": "Journal of pediatric endocrinology & metabolism : JPEM",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42885465",
-      "doi": "10.52628/92.3.15562",
-      "title": "Compression therapy in the prevention of thromboembolic disease following total knee arthroplasty with a fast recovery protocol: A systematic review.",
-      "abstract": "Thromboembolic disease (TED), including deep vein thrombosis (DVT) and pulmonary embolism (PE), remains a serious postoperative risk after total knee arthroplasty (TKA). Enhanced recovery after surgery (ERAS) protocols emphasize early mobilization, warranting reassessment of mechanical prophylaxis, such as compression therapy. This systematic review evaluates the benefits of compression therapy in preventing TED in TKA patients under ERAS protocols combined with pharmacological prophylaxis. A systematic review was conducted, analyzing seven studies comparing combined mechanical and pharmacological prophylaxis with pharmacological prophylaxis alone. Primary outcomes included DVT and PE incidence, compliance, adverse events, and efficacy. Seven studies were included in this systematic review, including 871 patients. Combined mechanical and pharmacological prophylaxis reduced DVT rates. Continuous enhanced circulation therapy (CECT) with enoxaparin lowered DVT from 19.5% to 6.6% (relative risk reduction (RRR) 66.2%, p=0.018), while intermittent pneumatic compression (IPC) with rivaroxaban reduced rates from 18.3% to 8.3% (RRR 54.5%, p<0.01). Pneumatic plantar compression (PPC) decreased DVT from 67% to 27% in unilateral and 52% to 28% in bilateral TKA (combined RRR 54.2%, p<0.001). Graduated compression stockings (GCS) with anticoagulation reduced DVT from 13.0% to 6.0% (RRR 53.8%, p=0.0872). IPC with nadroparin lowered DVT from 3.9% to 2.6% (RRR 33.3%, p=0.65). PE incidence remained minimal across studies. When combined with anticoagulants, mechanical prophylaxis may have an additional role in diminishing DVT incidence while alleviating postoperative swelling and pain. However, optimizing compliance, standardizing protocols, and tailoring thromboprophylaxis to patient-specific risks remain key challenges. Future research should refine mechanical and pharmacological strategies to enhance safety, efficacy, and recovery in TKA patients.",
-      "journal": "Acta orthopaedica Belgica",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Systematic Review"
       ]
     }
   ]
