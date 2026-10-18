@@ -138,12 +138,15 @@
     "42871183",
     "42871306",
     "42874048",
+    "42877096",
     "42878008",
     "42878120",
     "42878776",
     "42887023",
     "42888280",
-    "42888349"
+    "42888349",
+    "42889554",
+    "42891093"
   ],
   "sessions": [
     {
@@ -2204,6 +2207,49 @@
           "quiz_question": "A 44-year-old woman with ACTH-dependent Cushing syndrome has a negative 3T pituitary MRI. Her IPSS confirms central ACTH secretion. A colleague proposes 68Ga-Pentixafor PET/MRI before surgery. What does current evidence suggest about this approach?",
           "quiz_answer": "Based on this pilot, 68Ga-Pentixafor PET/MRI showed limited and variable performance, with false-negative results even in surgically confirmed cases. It is not yet ready for incorporation into diagnostic algorithms and should not be considered an alternative to IPSS. It may provide complementary information in selected patients with equivocal MRI findings, but the evidence base is insufficient to justify routine use.",
           "journal": "Pituitary",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-23",
+      "items": [
+        {
+          "pmid": "42889554",
+          "doi": "10.7759/cureus.116264",
+          "title": "Prevalence of Mild Autonomous Cortisol Secretion Among Patients With Adrenal Incidentaloma and Its Association With Metabolic Abnormalities: A Hospital-Based, Analytical, Cross-Sectional Study.",
+          "category": "notable",
+          "summary": "In a cross-sectional study of 380 adults with adrenal incidentaloma at a Pakistani tertiary center, MACS (defined by 1-mg overnight DST) was identified in 25% of patients. After multivariable adjustment, MACS was independently associated with obesity (aOR 1.85), diabetes mellitus (aOR 1.68), and metabolic syndrome (aOR 1.82), with larger lesion size also independently predicting MACS (aOR 1.38 per cm). These findings reinforce current guidelines advocating routine cortisol secretion assessment in incidentaloma patients given the associated cardiometabolic burden.",
+          "caveat": "Single-center, cross-sectional design precludes causal inference; the Pakistani hospital-based sample may not be generalizable, and the study cannot determine whether MACS predates or drives the observed metabolic abnormalities.",
+          "quiz_question": "A 54-year-old woman is referred after a 3.2 cm right adrenal incidentaloma is found on CT for abdominal pain. She has hypertension and central obesity but no frank Cushingoid features. Based on findings from this study, what is the approximate prevalence of MACS in this clinical scenario, and what single screening test should you prioritize?",
+          "quiz_answer": "Approximately 25% of adrenal incidentaloma patients harbor MACS in this population. The 1-mg overnight dexamethasone suppression test (DST) is the recommended screening test; post-DST cortisol \u22651.8 \u00b5g/dL warrants further evaluation, particularly given her coexisting metabolic risk factors.",
+          "journal": "Cureus",
+          "year": "2026"
+        },
+        {
+          "pmid": "42891093",
+          "doi": "10.1210/jcemcr/luag318",
+          "title": "Diagnostic challenges of masked arginine vasopressin deficiency in neurosarcoidosis complicated by sodium-glucose cotransporter 2 inhibitor use.",
+          "category": "notable",
+          "summary": "This case report describes an 82-year-old man with hypothalamic-pituitary sarcoidosis who developed arginine vasopressin deficiency (AVP-D) whose hallmark hypotonic polyuria was masked by concurrent adrenal insufficiency, CKD, and SGLT2 inhibitor use \u2014 the latter independently driving glucosuria-related osmotic diuresis and urine output. The diagnosis was only appreciated after glucocorticoid replacement unmasked the AVP-D. As SGLT2 inhibitor prescribing grows broadly, this interaction represents a clinically underappreciated confounder when evaluating water balance in patients with hypothalamic-pituitary disease.",
+          "caveat": "Single case report; causal attribution of symptom masking to the SGLT2 inhibitor versus CKD versus adrenal insufficiency alone cannot be formally disentangled.",
+          "quiz_question": "A 75-year-old man with pituitary sarcoidosis, CKD stage 3, and type 2 diabetes on empagliflozin is started on hydrocortisone for newly confirmed secondary adrenal insufficiency. Two months later he reports increasing thirst and nocturia but no dramatic polyuria. Serum sodium is 143 mEq/L. What diagnostic pitfall does this case highlight, and how should you proceed?",
+          "quiz_answer": "SGLT2 inhibitors cause osmotic diuresis that can obscure the hypotonic polyuria characteristic of AVP-D, and CKD further limits maximal urine dilution. Despite the absence of florid polyuria, AVP-D should be actively considered. Temporarily discontinuing the SGLT2 inhibitor, checking urine and serum osmolality, and performing a careful water deprivation assessment (or copeptin-based testing) would be appropriate next steps.",
+          "journal": "JCEM case reports",
+          "year": "2026"
+        },
+        {
+          "pmid": "42877096",
+          "doi": "10.7759/cureus.117859",
+          "title": "Pituitary Apoplexy Presenting as a Transient Ischemic Attack: An Endocrine Emergency.",
+          "category": "notable",
+          "summary": "This case illustrates pituitary apoplexy presenting as apparent TIA (dysarthria, right upper limb weakness, NIHSS 3) in a 67-year-old man with significant carotid stenosis, where the focal deficits resolved with fluid resuscitation and hydrocortisone rather than with TIA management. Cortisol was <1 \u00b5g/dL with inappropriately low ACTH, confirming acute secondary adrenal insufficiency as the hemodynamic driver superimposed on fixed vascular disease. Antiplatelet therapy initiated empirically for presumed stroke was appropriately withdrawn once MRI confirmed hemorrhagic pituitary macroadenoma.",
+          "caveat": "Single case report; the co-presence of 90% carotid stenosis introduces genuine diagnostic ambiguity and limits generalizability, though the hemodynamic resolution with steroids is mechanistically compelling.",
+          "quiz_question": "A 64-year-old man with known carotid artery disease presents with sudden-onset left arm weakness and dysarthria that fully resolve within 30 minutes, along with persistent hypotension unresponsive to 2L IV saline. Random cortisol returns at 0.8 \u00b5g/dL. What is the critical next step before initiating antiplatelet therapy?",
+          "quiz_answer": "Administer empirical stress-dose hydrocortisone immediately without waiting for confirmatory testing, then obtain emergent pituitary MRI to evaluate for pituitary apoplexy. If hemorrhagic macroadenoma is confirmed, antiplatelet therapy should be withheld, as the neurological event was likely hemodynamic (apoplexy-driven adrenal insufficiency causing hypotension on background vascular disease) rather than thromboembolic.",
+          "journal": "Cureus",
           "year": "2026"
         }
       ],
