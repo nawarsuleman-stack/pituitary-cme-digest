@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-10-18",
+  "fetched_at": "2026-10-19",
   "date_window": {
-    "from": "2016/10/20",
-    "to": "2026/10/18"
+    "from": "2016/10/21",
+    "to": "2026/10/19"
   },
   "already_covered_pmids": [
     "41730814",
@@ -143,23 +143,37 @@
     "42871183",
     "42871306",
     "42874048",
+    "42877096",
     "42878008",
     "42878120",
     "42878776",
     "42887023",
     "42888280",
-    "42888349"
+    "42888349",
+    "42889554",
+    "42891093"
   ],
   "candidates": [
     {
-      "pmid": "42890916",
-      "doi": "10.7573/dic.2026-7-5",
-      "title": "Pegvisomant in severe, treatment-resistant thyroid eye disease: a case report.",
-      "abstract": "Teprotumumab, a monoclonal antibody against the IGF1 receptor, has proven effective in the treatment of thyroid eye disease (TED). Pegvisomant reduces IGF1 levels through selective inhibition of growth hormone receptors. Here, we present a hypothesis-generating case of a 69-year-old patient with progressive TED. Pegvisomant 20 mg was administered daily for 90 days. IGF1 levels declined and remained low-normal during treatment. Clinical activity scores and VISA (vision, inflammation, strabismus and appearance) scores improved rapidly. MRI assessment showed that water content of both extraocular muscles and orbital connective tissue decreased after treatment. 99mTc-DTPA SPECT confirmed the decrease in disease activity. Further studies may confirm the efficacy of pegvisomant in TED. A 69-year-old female patient with severe, active thyroid eye disease (TED) \u2013 a condition linked to Graves\u2019 disease where the body\u2019s immune system attacks tissues around the eyes \u2013 presented with bulging eyes (proptosis), double vision, eye redness, swelling and reduced visual sharpness.Prior treatments with standard therapies for TED, including intravenous steroid courses, radiation therapy targeting the orbit (eye socket) and the biological drug rituximab, failed to achieve improvement. TED progresses in part because proteins called IGF1 receptors on the surface of eye-socket tissues are overactivated. The researchers hypothesized that using pegvisomant, which is a medication typically used for acromegaly (hormone imbalance) that lowers insulin-like growth factor 1 (IGF1) levels in the blood, would reduce activation of these receptors and ease eye inflammation.The patient received a daily 20 mg injection of pegvisomant for 90 days. Symptom improvement The patient experienced a rapid reduction in eye pain, redness and swelling, alongside marked improvement in visual sharpness and colour vision within 8 weeks.MRI and imaging results Orbital MRI and nuclear imaging showed a distinct drop in tissue inflammation and fluid accumulation (oedema) in the muscles around the eye.Proptosis and double vision Eye bulging and double vision did not significantly change during the trial.Safety Pegvisomant was well tolerated with no reported side effects, and her blood sugar and liver function remained stable. Blood IGF1 levels dropped as expected and returned to normal after treatment ended. Pegvisomant rapidly reduced eye inflammation and improved vision in a patient whose TED had resisted standard therapies. However, because this was a single case study, the delayed effects from previous treatments cannot be entirely ruled out. Further clinical trials are needed to determine if pegvisomant is effective at higher doses or when given earlier in the disease course.",
-      "journal": "Drugs in context",
+      "pmid": "42877869",
+      "doi": "10.7759/cureus.117583",
+      "title": "From Trauma to Tumour: Incidental Giant Left Adrenal Myelolipoma in Congenital Adrenal Hyperplasia.",
+      "abstract": "Adrenal myelolipomas are rare, benign tumours composed of mature adipose and haematopoietic tissue. Patients with congenital adrenal hyperplasia (CAH) are predisposed to their development, with chronic adrenocorticotropic hormone (ACTH) hypersecretion secondary to impaired cortisol synthesis thought to be the principal driver of myelolipoma formation in this population. A 49-year-old female with known CAH presented to the emergency department following a stab wound to the abdomen. Computed tomography (CT) incidentally identified a 12 cm encapsulated left adrenal lesion consistent with a giant myelolipoma. Despite reported adherence to hydrocortisone and fludrocortisone replacement therapy, persistently elevated adrenal steroid precursors and plasma renin levels suggested suboptimal glucocorticoid control. Following multidisciplinary team (MDT) review, the patient was offered a left adrenalectomy given the lesion size (>10 cm) and concerns regarding the risk of spontaneous haemorrhage. This case underscores the importance of systematic imaging review beyond the primary indication for scanning, and the value of optimising biochemical monitoring and considering adrenal imaging in selected high-risk CAH patients.",
+      "journal": "Cureus",
       "year": "2026",
       "publication_types": [
         "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42895523",
+      "doi": "10.1097/JCP.0000000000002252",
+      "title": "Psychosis as an Adverse Effect of Antibiotics in Children and Adolescents.",
+      "abstract": "Adverse neuropsychiatric effects of antibiotics-ranging from insomnia to psychosis and delirium-have been documented in adults; however, there is less extensive research in children and adolescents. The tetracycline antibiotic minocycline has been investigated as an adjunctive treatment in autism and in adults with psychotic disorders. The present study investigated the prevalence of spontaneously reported adverse drug reactions (ADRs) of psychotic symptoms in children and adolescents for antibiotics and the odds of psychosis ADRs compared to minocycline for individual antibiotics and antibiotic classes. We searched the US FDA Adverse Event Reporting System (FAERS) from inception through August 2025 for which an antibiotic was the suspected agent of an adverse drug reaction (ADR). We investigated 24 different antibiotics, comprising 30,884 ADRs, including 417 psychosis ADRs (1.4% of all ADRs). For psychosis ADRs, the mean age was 10.5, 55% were male, and 38% were hospitalized. Compared to minocycline, exposure to any antibiotic was associated with a significant, more than 3-fold increased reported odds of a psychosis ADR (rOR=3.26, 99% CI=1.27-9.10). Ten individual antibiotics were associated with significantly increased reported odds of a psychosis ADR compared to minocycline (rORs=3.72 to 8.74), including sulfonamides, penicillins, fluoroquinolones, macrolides, and cephalosporins. Findings suggest that psychosis is a potential adverse effect of antibiotic treatment in children and adolescents, though risks vary by specific agents. Future studies in this area are needed to identify specific underlying biological mechanisms that contribute to these associations. Findings may also inform clinical decisions regarding the selection of antibiotic therapy in vulnerable patient populations.",
+      "journal": "Journal of clinical psychopharmacology",
+      "year": "2026",
+      "publication_types": [
         "Journal Article"
       ]
     },
@@ -176,97 +190,6 @@
       ]
     },
     {
-      "pmid": "42891093",
-      "doi": "10.1210/jcemcr/luag318",
-      "title": "Diagnostic challenges of masked arginine vasopressin deficiency in neurosarcoidosis complicated by sodium-glucose cotransporter 2 inhibitor use.",
-      "abstract": "A wide variety of endocrine disorders caused by sarcoidosis have been reported to date. We report the case of an 82-year-old male patient who presented with hypercalcemia and anterior pituitary hormone deficiency at the time of his sarcoidosis diagnosis and was subsequently diagnosed with arginine vasopressin deficiency (AVP-D) 6 months after the initiation of glucocorticoid therapy. Magnetic resonance imaging revealed an enlarged pituitary gland, thickened pituitary stalk, and loss of the posterior pituitary bright spot, raising the suspicion of hypothalamic-pituitary sarcoidosis. Despite improvement in hypercalcemia, anterior pituitary function, and pituitary enlargement and stalk thickening with glucocorticoid therapy, subjective symptoms of dry mouth and polyuria gradually became apparent several months after the start of treatment. While the characteristic hypotonic polyuria of AVP-D was not prominent, we surmised that these typical clinical features were masked by adrenal insufficiency, chronic kidney disease (CKD), and concurrent use of a sodium-glucose cotransporter 2 (SGLT2) inhibitor for type 2 diabetes. This case highlights the fact that the typical presentation of AVP-D can be masked by concurrent SGLT2 inhibitor use and CKD, emphasizing careful assessment of water balance in such patients.",
-      "journal": "JCEM case reports",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42893057",
-      "doi": "10.1016/j.jlb.2026.100672",
-      "title": "A novel multiplex digital PCR assay for simultaneous quantification of androgen receptor amplification, mutations, and splice variants in cell-free nucleic acids from metastatic castration-resistant prostate cancer.",
-      "abstract": "Somatic androgen receptor (AR) alterations including gene amplification, point mutations, and the AR-V7 splice variant occur in 50-70% of patients with metastatic castration-resistant prostate cancer (mCRPC) and drive resistance to AR-pathway inhibitors (ARPIs) in metastatic castration-resistant prostate cancer (mCRPC). However, current liquid biopsy approaches typically require separate cell-free DNA (cfDNA) and cfRNA workflows to evaluate these distinct alteration classes, increasing sample input requirements, assay complexity, and cost. Because plasma cell-free nucleic acid yield is often limited, an integrated assay capable of interrogating DNA and RNA-derived biomarkers from a single blood draw remain an unmet clinical need. Here we describe the development and proof-of-concept validation of a novel multiplex multimodal digital PCR (dPCR) assay that co-detects AR copy-number amplification, somatic point mutations (T878A), and the AR-V7 splice variant from plasma cell-free nucleic acids (cfNAs) in a single streamlined reaction. The assay employs RNase H-dependent PCR (rhPCR) primers with ultra-short amplicons (\u226468 bp) that simultaneously interrogate both cfDNA and cfRNA, enabling multimodal detection without separate DNA and RNA workflows. Using prostate cancer cell lines with defined AR alteration status, the assay detected AR amplification at 2% of tumor DNA, quantified T878A mutations at a mutant allele frequency as low as 0.024%, and AR-V7 splicing variant with a sensitivity of 0.096% tumor cell fraction. In two mCRPC patient plasma samples, the assay tracked dynamic changes of these AR variants during ARPI therapy, revealing distinct patterns of clonal evolution that are consistent with treatment pressure and clinical outcomes. This multimodal dPCR platform provides a cost-effective, highly sensitive liquid biopsy tool for detection of clinically significant AR alterations and represents a foundation for a laboratory-developed test (LDT) to guide personalized therapy in mCRPC.",
-      "journal": "The journal of liquid biopsy",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42877096",
-      "doi": "10.7759/cureus.117859",
-      "title": "Pituitary Apoplexy Presenting as a Transient Ischemic Attack: An Endocrine Emergency.",
-      "abstract": "Pituitary apoplexy (PA) is an endocrine emergency caused by hemorrhage or infarction of a pituitary adenoma and occurs more frequently in males and patients with macroadenomas. It typically presents acutely with headache, visual disturbances, or impaired consciousness. Focal neurological deficits are uncommon and may be mistaken for a primary cerebrovascular event. Acute secondary adrenal insufficiency is a major contributor to hemodynamic instability and mortality. A 67-year-old man with arterial hypertension, type 2 diabetes mellitus, dyslipidemia, and chronic obstructive pulmonary disease presented with sudden presyncope, followed by dysarthria and right upper limb weakness. He had a five-month history of headache that had worsened abruptly three days before presentation. On admission, he was febrile (38.5 \u00b0C), hypotensive (89/49 mmHg), and tachycardic, with dysarthria, mild right central facial palsy, and grade 4 motor strength in the right upper limb (National Institutes of Health Stroke Scale (NIHSS) score of 3). Computed tomography (CT) angiography revealed an enlarged pituitary gland and 90% calcified stenosis of the left internal carotid artery. The focal neurological deficits resolved completely within approximately 30 minutes of arrival, during fluid resuscitation. However, hypotension persisted despite the administration of 2 L of crystalloid. A 200 mg bolus of hydrocortisone was administered for suspected adrenal insufficiency, resulting in prompt hemodynamic recovery. Baseline cortisol was <1 \u00b5g/dL, with an inappropriately low adrenocorticotropic hormone (ACTH) concentration. Magnetic resonance imaging (MRI) confirmed a pituitary macroadenoma with recent hemorrhage, without evidence of infarction on diffusion-weighted imaging. The episode was interpreted as a hemodynamic transient ischemic attack precipitated by PA-associated acute secondary adrenal insufficiency. Antiplatelet therapy, initiated for a presumed primary cerebrovascular event, was discontinued, and the patient was managed conservatively. Follow-up confirmed persistent panhypopituitarism, including central diabetes insipidus, requiring long-term hormone replacement. PA may mimic a cerebrovascular event through direct vascular compromise or, as in this case, hypotension superimposed on pre-existing carotid artery disease. Empirical hydrocortisone treatment should not be delayed pending laboratory confirmation of adrenal insufficiency. Early MRI is essential to establish the diagnosis and guide management before antithrombotic or endovascular treatment is initiated when a sellar abnormality is identified.",
-      "journal": "Cureus",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42888277",
-      "doi": "10.1007/s11102-026-01776-5",
-      "title": "Higher ARNT expression is associated with the sparsely granulated phenotype in somatotroph pituitary adenomas: An immunohistochemical study.",
-      "abstract": "Somatotroph pituitary adenomas are a heterogeneous group comprising distinct histopathological subtypes, including the well-defined densely granulated (DG) and sparsely granulated (SG) phenotypes. While the aryl hydrocarbon receptor-interacting protein (AIP) pathway has been implicated in pituitary tumorigenesis, the role of aryl hydrocarbon receptor nuclear translocator (ARNT) in somatotroph tumors remains poorly characterized. We retrospectively analyzed 71 surgically treated somatotroph pituitary adenomas, clinically managed in a tertiary endocrinology center between 2020 and 2025. Immunohistochemical expression of AIP, AHR and ARNT was evaluated and correlated with clinicopathological characteristics, including cytokeratin pattern, hormonal expression and Ki-67 index. Moderate/strong ARNT expression was more frequent in SG than in DG adenomas (60% vs. 17.6%, p\u2009=\u20090.002). Patients with moderate/strong ARNT expression were younger than those with absent/weak expression (median 39 vs. 46 years, p\u2009=\u20090.044). In multivariable analysis, ARNT expression remained associated with the SG phenotype after adjustment for age and sex (adjusted OR 6.84, 95% CI 2.05-22.84; p\u2009=\u20090.002). No significant associations were observed between ARNT expression and Ki-67 index, baseline GH or IGF1 levels, AIP/AHR immunoexpression or the evaluated clinical outcomes, including biochemical control during first-generation somatostatin receptor ligand therapy. Increased ARNT expression is associated with the sparsely granulated phenotype in somatotroph pituitary adenomas, suggesting that ARNT expression may reflect tumor differentiation rather than proliferative activity. However, the present findings do not demonstrate additional prognostic or therapeutic utility beyond granulation pattern. Further molecular and transcriptomic studies are warranted to clarify the biological role of ARNT.",
-      "journal": "Pituitary",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42829547",
-      "doi": "10.7759/cureus.115707",
-      "title": "Acinetobacter baumannii Nosocomial Meningitis Secondary to Neurosurgical Intervention: A Case Report.",
-      "abstract": "Nosocomial meningitis is a serious complication of neurosurgical procedures, associated with high morbidity and mortality, as well as significant diagnostic and therapeutic challenges. Among the causative pathogens, Acinetobacter baumannii (A. baumannii) is particularly concerning due to its ability to survive for prolonged periods in the hospital environment, its opportunistic virulence, and, especially, its tendency to develop multidrug resistance to antimicrobial agents. Diagnosis is often difficult in the postoperative setting, particularly when the cerebrospinal fluid (CSF) is altered as a result of the surgical procedure. Rapid identification of the causative agent and early initiation of appropriate antibiotic therapy are essential to limit complications and improve patient prognosis. We report the case of a 27-year-old patient with a history of surgically treated craniopharyngioma complicated by anterior hypopituitarism. Three weeks after surgery, he was admitted to the ICU with suspected postoperative meningitis due to the onset of behavioral disturbances associated with nasal discharge, without a fever. Brain CT was normal. CSF analysis, obtained by lumbar puncture under strict aseptic conditions, revealed a turbid fluid with leukocytosis of 5,760 cells/mm\u00b3, predominantly composed of neutrophils,\u00a0along with elevated protein levels\u00a0(5.7 g/L) and low glucose levels (0.05 g/L). Direct examination after Gram staining showed Gram-negative coccobacilli with a marked inflammatory reaction. CSF culture\u00a0grew\u00a0a multidrug-resistant (MDR) strain of\u00a0A. baumannii,\u00a0which was\u00a0sensitive only to colistin. The patient received antibiotic therapy\u00a0with colistin, administered intravenously and intrathecally for 18 days, with initial neurological improvement and sterilization of the CSF by the\u00a015th day\u00a0of treatment. The subsequent course was unfavorable, marked by the development of acute respiratory distress syndrome (ARDS) secondary to ventilator-associated pneumonia caused by methicillin-resistant\u00a0Staphylococcus aureus\u00a0(MRSA), complicated by refractory septic shock,\u00a0which ultimately led to his death\u00a0after one month of hospitalization in the ICU. This report highlights the severity of nosocomial meningitis caused by MDR\u00a0A. baumannii\u00a0and underscores the importance of\u00a0implementing\u00a0infection prevention measures in healthcare settings.",
-      "journal": "Cureus",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42889554",
-      "doi": "10.7759/cureus.116264",
-      "title": "Prevalence of Mild Autonomous Cortisol Secretion Among Patients With Adrenal Incidentaloma and Its Association With Metabolic Abnormalities: A Hospital-Based, Analytical, Cross-Sectional Study.",
-      "abstract": "Background Mild autonomous cortisol secretion (MACS) is a common hormonal abnormality among patients with adrenal incidentaloma and has been associated with cardiometabolic abnormalities. However, evidence regarding its prevalence and metabolic associations in Pakistani populations remains limited. This study aimed to determine the prevalence of MACS among patients with adrenal incidentaloma and evaluate its association with metabolic abnormalities. Methodology A hospital-based, analytical, cross-sectional study was conducted among 380 adults with adrenal incidentaloma at Jinnah Hospital, Lahore, affiliated with Allama Iqbal Medical College, Pakistan.\u00a0Participants underwent clinical, anthropometric, biochemical, hormonal, and radiological assessment. MACS was evaluated using the 1-mg overnight dexamethasone suppression test, with assessment of morning adrenocorticotropic hormone (ACTH) and dehydroepiandrosterone sulfate to support ACTH-independent cortisol secretion. Metabolic abnormalities, including obesity, central obesity, hypertension, diabetes mellitus, dyslipidemia, and metabolic syndrome, were assessed. Multivariable logistic regression was performed to evaluate independent associations after adjustment for relevant demographic, lifestyle, clinical, medication-related, and radiological covariates. Results MACS was identified in 95 (25.0%) participants. Compared with patients without MACS, those with MACS had higher frequencies of obesity, central obesity, hypertension, diabetes mellitus, dyslipidemia, and metabolic syndrome, as well as a greater burden of multiple metabolic abnormalities. After multivariable adjustment, MACS was independently associated with obesity (adjusted odds ratio (aOR) = 1.85, 95% confidence interval (CI) = 1.09-3.14; p = 0.022), diabetes mellitus (aOR = 1.68, 95% CI = 1.01-2.80; p = 0.046), metabolic syndrome (aOR = 1.82, 95% CI = 1.11-2.98; p = 0.017), and the presence of \u22652 metabolic abnormalities (aOR = 1.92, 95% CI = 1.17-3.15; p = 0.010). Larger adrenal lesion size was independently associated with MACS (aOR = 1.38 per cm, 95% CI = 1.14-1.67; p = 0.001). Conclusions MACS was present in one-quarter of patients with adrenal incidentaloma and was associated with a greater cardiometabolic burden. These findings highlight the potential importance of assessing cortisol secretion and metabolic risk in patients with adrenal incidentaloma, while prospective multicenter studies are needed to clarify the clinical significance and temporal relationships of these associations.",
-      "journal": "Cureus",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42893059",
-      "doi": "10.1016/j.lansea.2026.100877",
-      "title": "Incidence and mortality of invasive fungal infections among patients admitted in intensive care units in India: findings from a multicentric registry-based study (2023-25).",
-      "abstract": "Invasive fungal infections (IFIs) are challenging to treat in critical care, particularly among patients treated in Intensive care units (ICUs). The existing evidence on IFIs from India remains fragmented. This study characterises IFI incidence, risk factors, resistance pattern, treatment and outcome among patients admitted to ICUs. This multicentre observational study leveraged registry data on IFIs among patients admitted to 63 ICUs in eight Advanced Mycology Diagnostic and Research centres in India between January 2023 and November 2025. Patients with proven and probable IFI according to European Organisation for Research and Treatment of Cancer/Mycoses Study Group Education and Research Consortium (EORTC/MSGERC) 2020 and the modified Aspergillus intensive care unit (AspICU) 2020 criteria were included. IFI incidence to hospital admission, all-cause in-hospital mortality, pathogen distribution and antifungal susceptibility were recorded. Mortality-associated factors were estimated using multivariable logistic regression and Cox proportional hazards analysis. Among 178,417 ICU admissions, 2500 IFI patients were identified with an incidence of 14/1000 admissions (95% CI 13.5-14.6) and all-cause mortality of 53.6% (95% CI 51.7-55.6%). Invasive candidiasis was the most frequently reported (57.1%), followed by invasive aspergillosis (37%), mucormycosis (3.4%), trichosporonosis (1.8%), pneumocystis pneumonia (1.1%), and cryptococcosis (1.2%). Median age of the patients was 45 years (IQR: 26-60), with 61.9% males and 38.1% females. Among candidiasis, Candida tropicalis predominated (35.6%), while Candida auris exhibited high fluconazole resistance (61.7%) and elevated amphotericin B minimum inhibitory concentrations (MICs) (40.7%). Aspergillus fumigatus (50.8%) and Aspergillus flavus (38.7%) predominated among culture-positive aspergillosis, with generally low MICs. Exploratory multivariable analyses showed that sepsis, chronic liver disease, immunosuppression, corticosteroid exposure, and total parenteral nutrition were associated with higher mortality in invasive candidiasis, whereas mechanical ventilation, corticosteroid exposure, and immunosuppression were associated with higher mortality in invasive aspergillosis. The study findings highlight a high IFI burden and mortality among patients admitted in ICUs of India, with mortality exceeding 50%, underscoring the need for continuous surveillance, rapid diagnostics, infection control and antifungal stewardship. This study was funded by the Indian Council of Medical Research (ICMR), Delhi (Grant ID: 157401).",
-      "journal": "The Lancet regional health. Southeast Asia",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42845280",
-      "doi": "10.12688/f1000research.182800.2",
-      "title": "Endocrine dysfunctions in patients with beta thalassemia major: a single-center retrospective study from Basrah.",
-      "abstract": "The management of patients with beta thalassemia major (BTH) involves regular blood transfusions which are associated with iron overload. This may result in various endocrine dysfunctions (EDs). This study aimed to assess the obesrved frequency of different EDs in patients with transfusion-dependent BTH. A retrospective study that included 496 patients with BTH who were referred from the Basra Center for hereditary blood diseases to Faiha Specialized Diabetes, Endocrine and Metabolsim Center for endocrine-related complaints and underwent detailed endocrine assessments from Jan 2010 to Dec 2023. The mean presentation age for endocrine evaluation was 13.6\u00a0\u00b1\u00a06.5\u00a0years with no difference between male and female. The commonest clinical presentations of BTH patients in our center were short stature 65.5%, amenorrhea 16.4, hyperglycemia 13.7%, delayed puberty 13.3, and hypocalcemia 5.2%. The proportion patients with ED was 16.8%. The most frequent EDs were growth hormone deficiency (GHD) 6.0%, diabetes mellitus (DM) 4.9%, hypogonadism 4.5%, hypothyroidism 3.2%. Within those patients, 78.7% had single ED, 16.5% had two EDs and 4.8% had three or more EDs. EDs were observed among patients with BTH. The commonest EDs were GHD, DM, and hypogonadism. We recommend regular and timely surveillance using both clinical and hormonal assessment in patients with BTH.",
-      "journal": "F1000Research",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
       "pmid": "42880706",
       "doi": "10.1016/j.wneu.2026.125423",
       "title": "Sinonasal and Olfactory Quality of Life Following Endonasal Transsphenoidal Surgery for Pituitary Adenoma: A Multicenter Prospective Cohort Triphasic Recovery Analysis in Ethiopia.",
@@ -278,50 +201,27 @@
       ]
     },
     {
-      "pmid": "42877914",
-      "doi": "10.7759/cureus.116229",
-      "title": "A Case of MEN 2A Syndrome With Bilateral Recurrent Pheochromocytoma: A Case Report and Literature Review.",
-      "abstract": "Pheochromocytoma is a neuroendocrine tumor arising from chromaffin cells and producing catecholamines. Due to the excessive release of catecholamines, these tumors can present with paroxysmal episodes of high blood pressure, headache, diaphoresis, and palpitations. We present the case of a 23-year-old female patient who presented to the clinic with a history of headache, palpitations, and vomiting for two months. She was admitted for further investigations and management. Laboratory studies revealed elevated urinary and plasma catecholamine levels. Further work-up revealed bilateral adrenal masses diagnosed as pheochromocytoma and medullary thyroid cancer. The patient was diagnosed with multiple endocrine neoplasia (MEN) type 2 and underwent bilateral laparoscopic adrenalectomy and total thyroidectomy with central and lateral neck dissection, and during surveillance, she was found to have recurrent pheochromocytoma. We also discuss the diagnosis and management of recurrent pheochromocytoma in MEN syndrome.",
-      "journal": "Cureus",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42877869",
-      "doi": "10.7759/cureus.117583",
-      "title": "From Trauma to Tumour: Incidental Giant Left Adrenal Myelolipoma in Congenital Adrenal Hyperplasia.",
-      "abstract": "Adrenal myelolipomas are rare, benign tumours composed of mature adipose and haematopoietic tissue. Patients with congenital adrenal hyperplasia (CAH) are predisposed to their development, with chronic adrenocorticotropic hormone (ACTH) hypersecretion secondary to impaired cortisol synthesis thought to be the principal driver of myelolipoma formation in this population. A 49-year-old female with known CAH presented to the emergency department following a stab wound to the abdomen. Computed tomography (CT) incidentally identified a 12 cm encapsulated left adrenal lesion consistent with a giant myelolipoma. Despite reported adherence to hydrocortisone and fludrocortisone replacement therapy, persistently elevated adrenal steroid precursors and plasma renin levels suggested suboptimal glucocorticoid control. Following multidisciplinary team (MDT) review, the patient was offered a left adrenalectomy given the lesion size (>10 cm) and concerns regarding the risk of spontaneous haemorrhage. This case underscores the importance of systematic imaging review beyond the primary indication for scanning, and the value of optimising biochemical monitoring and considering adrenal imaging in selected high-risk CAH patients.",
-      "journal": "Cureus",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42893054",
-      "doi": "10.1002/ccr3.73736",
-      "title": "B-Lymphoblastic Leukemia Presenting as Bilateral Ovarian Masses in a 20-Year-Old Woman.",
-      "abstract": "Hematologic malignancies involving the ovaries are rare and may mimic ovarian carcinoma. We report a 20-year-old woman who presented with generalized body pain, bilateral ovarian masses, and abdominal adenopathy, initially suspected to have ovarian carcinoma. Despite normal blood counts, a retroperitoneal lymph node biopsy and subsequent bone marrow biopsy confirmed B-lymphoblastic leukemia. Molecular analysis identified multiple pathogenic alterations, including CREBBP, KMT2D, and KRAS mutations, CDKN2A copy number loss, and FLT3 overexpression. The patient developed tumor lysis syndrome and was transferred to a tertiary center, after which she was lost to follow-up. While long-term treatment response could not be evaluated, this case underscores the clinical necessity of including B-lymphoblastic leukemia/lymphoma in the differential diagnosis of bilateral ovarian masses in young women, even with normal peripheral blood counts. Early tissue diagnosis through minimally invasive biopsy is essential to avoid unnecessary surgery and to initiate appropriate systemic therapy.",
-      "journal": "Clinical case reports",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42831607",
-      "doi": "10.14712/23362936.2026.27",
-      "title": "A Clinical Insight into Von Hippel-Lindau Syndrome: Diagnostic Challenges.",
-      "abstract": "Von Hippel-Lindau (VHL) syndrome is a rare hereditary disorder characterised by the development of multiple benign and malignant tumours across various organs. Caused by mutations in the VHL tumour suppressor gene, it presents a wide range of clinical manifestations, including retinal haemangioblastomas, central nervous system tumours, renal cell carcinoma, pancreatic lesions, and phaeochromocytomas. This report describes the case of a 35-year-old woman who presented with visual impairment and abdominal masses. Imaging revealed typical VHL manifestations, including bilateral renal lesions and pancreatic involvement. Genetic testing confirmed the diagnosis. The patient underwent staged partial nephrectomies, with histopathology confirming clear cell renal cell carcinoma in both kidneys. This case highlights the importance of recognising the variable clinical and radiological presentations of VHL syndrome. Early diagnosis and multidisciplinary management are essential to reduce morbidity and mortality. Increased awareness and regular surveillance are critical for timely detection and intervention in patients with VHL syndrome.",
-      "journal": "Prague medical report",
+      "pmid": "42895519",
+      "doi": "10.18176/jiaci.1229",
+      "title": "Positioning of Depemokimab in Uncontrolled Severe Asthma.",
+      "abstract": "Asthma is a chronic inflammatory disease of the airways affecting more than 300 million people worldwide. It is estimated that between 3% and 10% have severe asthma. Depemokimab is the first ultra-long-acting anti-IL-5 monoclonal antibody developed for type 2 respiratory disease, enabling administration every 26 weeks. It produces rapid and sustained reductions in blood eosinophil counts. This twice-yearly regimen markedly reduces injection frequency and may lessen treatment burden. In the replicate phase 3 SWIFT-1 and SWIFT-2 trials, depemokimab reduced the pooled annualized rate of clinically significant exacerbations by 54% and exacerbations requiring hospitalization or emergency department care by 72% compared with placebo in patients aged 12 years or older with severe eosinophilic asthma. In chronic rhinosinusitis with nasal polyps (CRSwNP), depemokimab was evaluated in the replicate phase 3 ANCHOR-1 and ANCHOR-2 trials. Both coprimary endpoints were met, and these studies provide evidence that twice-yearly depemokimab reduces the endoscopic nasal polyp score and improves nasal obstruction over 52 weeks in inadequately controlled CRSwNP. Depemokimab is approved for both severe asthma with type 2 inflammation and severe CRSwNP, making it a therapeutic option when both conditions coexist. Based on currently available evidence, depemokimab represents an additional option for patients with severe eosinophilic asthma in whom prevention of exacerbation is a major therapeutic goal. The twice-yearly dosing schedule may also be relevant when reducing treatment burden is a patient priority, although the effect of this reduction on adherence and persistence remains to be proved.",
+      "journal": "Journal of investigational allergology & clinical immunology",
       "year": "2026",
       "publication_types": [
         "Journal Article",
-        "Case Reports"
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42894725",
+      "doi": "10.7759/cureus.118088",
+      "title": "When Appearances Deceive: A Silent Somatotroph Macroadenoma Presenting With Acromegaloid Features and Paradoxically Low Insulin-Like Growth Factor-1.",
+      "abstract": "Silent somatotroph adenomas are uncommon pituitary neuroendocrine tumours (PitNETs) of the PIT1 lineage that express growth hormone (GH) immunohistochemically but without biochemical evidence of acromegaly. We report the case of a 32-year-old male patient referred with recurrent epistaxis, headache, right-sided diplopia, and third cranial nerve palsy. Clinical examination revealed acromegaloid features including frontal bossing, spade-like hands, and coarse facies, which were strongly suggestive of longstanding GH excess. However, preoperative insulin-like growth factor-1 (IGF-1) was paradoxically low at 13.1 nmol/L (reference range 15.5-33.1 nmol/L), creating a striking clinical-biochemical discordance. MRI demonstrated a giant sellar and suprasellar mass with chiasmal compression, right cavernous sinus invasion, and extension into the paranasal sinuses. The patient underwent endoscopic transsphenoidal resection. Neuropathology confirmed a densely granulated PIT1-lineage somatotroph adenoma with scattered GH positivity, diffuse Pit-1 staining, and a Ki-67 index below 2%. This case highlights the diagnostic challenge posed by silent somatotroph adenomas, underscores the limitations of biochemical assessment alone, and reinforces the essential role of histopathology and immunohistochemistry in establishing a definitive diagnosis. Long-term endocrine and neurosurgical surveillance is strongly recommended given the potential for phenotypic transformation to a functioning acromegaly syndrome.",
+      "journal": "Cureus",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
       ]
     },
     {
@@ -336,34 +236,22 @@
       ]
     },
     {
-      "pmid": "42893056",
-      "doi": "10.1016/j.jtocrr.2026.101055",
-      "title": "Rethinking the Platinum Standard in SCLC: A Meta-Analysis of Limited- and Extensive-Stage Disease in the Immunotherapy Era.",
-      "abstract": "SCLC is an aggressive malignancy for which platinum-based chemotherapy is the cornerstone of treatment. Although immunotherapy has redefined the standard of care, the optimal choice between cisplatin and carboplatin remains debated. This study evaluated the impact of platinum backbone selection on survival outcomes across the SCLC spectrum in the immunotherapy era. A systematic review and meta-analysis were performed on randomized controlled trials evaluating first-line chemoimmunotherapy with platinum-based regimens in SCLC. Outcomes were stratified by disease stage and platinum backbone (carboplatin versus cisplatin). Survival end points included progression-free survival (PFS) and overall survival (OS). Seven trials (3059 patients) were analyzed. In extensive-stage SCLC (n = 1843), both backbones provided comparable benefits when combined with immunotherapy; the pooled OS hazard ratio (HR) for cisplatin was 0.71 (95% confidence interval [CI]: 0.57-0.89; p = 0.003) and 0.76 for carboplatin (95% CI: 0.68-0.85; p < 0.001). In limited-stage SCLC (n = 1216), the addition of immunotherapy improved OS (HR: 0.71; 95% CI: 0.54-0.92; p = 0.01) and PFS (HR: 0.70; 95% CI: 0.56-0.87; p = 0.002) in carboplatin-treated patients, whereas, in cisplatin-treated patients the benefit did not reach statistical significance for OS (HR: 1.15; 95% CI: 0.77-1.72; p = 0.49) or PFS (HR: 1.02; 95% CI: 0.81-1.28; p = 0.87). These findings invite a reconsideration of the platinum hierarchy in SCLC management. By demonstrating that carboplatin provides a more effective backbone in the limited-stage setting and comparable efficacy in the extensive-stage setting, this analysis suggests that the historical prioritization of cisplatin may no longer be justified in the era of immunotherapy. Prioritizing carboplatin as a preferred agent may optimize tolerability while preserving or improving survival outcomes across the SCLC spectrum.",
-      "journal": "JTO clinical and research reports",
+      "pmid": "42893849",
+      "doi": "10.1507/endocrj.EJ26-0363",
+      "title": "Growth hormone-releasing hormone-secreting giant pheochromocytoma causing acromegaly: a case report with a review of the literature.",
+      "abstract": "The ectopic secretion of growth hormone (GH) or growth hormone-releasing hormone (GHRH) is responsible for fewer than 1% of acromegaly cases. Furthermore, within this small population, GHRH-secreting pheochromocytomas/paragangliomas (PPGLs) are even rarer. A 57-year-old Japanese woman presented to our hospital for treatment of a large left-sided pheochromocytoma (PCC). A physical examination revealed enlargement of the nose and lips as well as macroglossia, thereby raising the suspicion of acromegaly, which was biochemically confirmed by a 75-g oral glucose tolerance test. Magnetic resonance imaging demonstrated a slightly enlarged pituitary gland but no definitive tumor. A left adrenalectomy was performed after careful dose titration of doxazosin and metyrosine. Postoperative biochemical improvement of GH excess and immunohistochemical analysis of the resected tumor confirmed the diagnosis of GHRH-secreting PCC. Given the possibility that PPGLs produce various ectopic hormones and peptides, thorough physical examinations remain fundamental for the accurate diagnosis and optimal management of patients with these tumors.",
+      "journal": "Endocrine journal",
       "year": "2026",
       "publication_types": [
         "Journal Article"
       ]
     },
     {
-      "pmid": "42893049",
-      "doi": "10.1016/j.eclinm.2026.104257",
-      "title": "Adjuvant radiotherapy in FIGO stage III dMMR endometrial cancer: evidence and perspectives in the molecular era.",
-      "abstract": "Current guidelines incorporate chemo-immunotherapy for stage III-IV mismatch repair-deficient (dMMR) endometrial cancer, but the evidence supporting omission of adjuvant radiotherapy remains insufficient. Given the pivotal role of pelvic radiotherapy in achieving durable locoregional control in high-risk endometrial cancer, and the lack of robust randomized evidence demonstrating equivalence of systemic therapy alone, the suggestion that EBRT may be safely omitted in the adjuvant treatment of dMMR high-risk disease warrants careful consideration. Importantly, PORTEC-3 (NCT00411138) included radiotherapy in both treatment groups and no immunotherapy, whereas in KEYNOTE-B21 (ENGOT-en11/GOG-3053, NCT04634877) radiotherapy was not randomized; neither trial therefore directly tested the safety of radiotherapy omission. In this Viewpoint, we review current evidence and unresolved questions in the adjuvant management of FIGO stage III dMMR endometrial cancer, with particular attention to the role of radiotherapy in the evolving chemo-immunotherapy era. While our discussion is intentionally focused on dMMR disease, many of the broader considerations regarding the interpretation of emerging evidence and the preservation of effective locoregional treatment are not exclusive to this molecular subgroup. Ongoing trials, including NRG-GY020 (NCT04214067) and the RAINBO MMRd-GREEN trial (ENGOT-en14/GREEN, NCT05255653), are expected to define the optimal integration of immunotherapy and adjuvant radiotherapy in molecularly stratified populations. Beyond survival, locoregional control, recurrence burden, and quality of life remain clinically meaningful endpoints. Future randomized trials should evaluate radiotherapy as an independent treatment variable within molecularly stratified populations, incorporating not only survival but also patterns of failure and patient-reported outcomes. Until such data become available, treatment de-escalation strategies should be adopted with caution.",
-      "journal": "EClinicalMedicine",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "42850669",
-      "doi": "10.1186/s40959-026-00587-8",
-      "title": "Complex cardiac overlap: immune checkpoint inhibitor myocarditis in hypertrophic obstructive cardiomyopathy with subsequent NSTEMI.",
-      "abstract": "Immune checkpoint inhibitor (ICI)-associated myocarditis is a rare but life-threatening complication, particularly challenging to diagnose in patients with coexisting cardiac conditions. A 58-year-old man with advanced oropharyngeal carcinoma treated with pembrolizumab presented with heart failure symptoms and markedly elevated troponin levels. Imaging revealed hypertrophic obstructive cardiomyopathy (HOCM) alongside cardiac magnetic resonance findings consistent with ICI-associated myocarditis. He initially responded to high-dose corticosteroids but relapsed due to non-adherence, requiring re-treatment and addition of mycophenolate mofetil. Following recovery, he developed a significant rise in troponin with new regional wall motion abnormalities. Coronary angiography demonstrated significant coronary artery disease, supporting the diagnosis of acute coronary syndrome in the context of the clinical presentation, biomarker elevation, and imaging findings, managed with percutaneous coronary intervention. Post-procedural hypotension was attributed to adrenal insufficiency and resolved with stress-dose corticosteroids. Follow-up imaging demonstrated features of both prior myocarditis and new ischemic injury. The patient improved clinically after PCI and was discharged with normalized troponin levels. This case highlights the diagnostic and therapeutic challenges of ICI-associated myocarditis in the presence of overlapping cardiac pathologies. Multimodality imaging and clinical context are essential for accurate diagnosis, and alternative causes of troponin elevation must be carefully excluded.",
-      "journal": "Cardio-oncology (London, England)",
+      "pmid": "42888277",
+      "doi": "10.1007/s11102-026-01776-5",
+      "title": "Higher ARNT expression is associated with the sparsely granulated phenotype in somatotroph pituitary adenomas: An immunohistochemical study.",
+      "abstract": "Somatotroph pituitary adenomas are a heterogeneous group comprising distinct histopathological subtypes, including the well-defined densely granulated (DG) and sparsely granulated (SG) phenotypes. While the aryl hydrocarbon receptor-interacting protein (AIP) pathway has been implicated in pituitary tumorigenesis, the role of aryl hydrocarbon receptor nuclear translocator (ARNT) in somatotroph tumors remains poorly characterized. We retrospectively analyzed 71 surgically treated somatotroph pituitary adenomas, clinically managed in a tertiary endocrinology center between 2020 and 2025. Immunohistochemical expression of AIP, AHR and ARNT was evaluated and correlated with clinicopathological characteristics, including cytokeratin pattern, hormonal expression and Ki-67 index. Moderate/strong ARNT expression was more frequent in SG than in DG adenomas (60% vs. 17.6%, p\u2009=\u20090.002). Patients with moderate/strong ARNT expression were younger than those with absent/weak expression (median 39 vs. 46 years, p\u2009=\u20090.044). In multivariable analysis, ARNT expression remained associated with the SG phenotype after adjustment for age and sex (adjusted OR 6.84, 95% CI 2.05-22.84; p\u2009=\u20090.002). No significant associations were observed between ARNT expression and Ki-67 index, baseline GH or IGF1 levels, AIP/AHR immunoexpression or the evaluated clinical outcomes, including biochemical control during first-generation somatostatin receptor ligand therapy. Increased ARNT expression is associated with the sparsely granulated phenotype in somatotroph pituitary adenomas, suggesting that ARNT expression may reflect tumor differentiation rather than proliferative activity. However, the present findings do not demonstrate additional prognostic or therapeutic utility beyond granulation pattern. Further molecular and transcriptomic studies are warranted to clarify the biological role of ARNT.",
+      "journal": "Pituitary",
       "year": "2026",
       "publication_types": [
         "Journal Article"
@@ -382,6 +270,153 @@
       ]
     },
     {
+      "pmid": "42829547",
+      "doi": "10.7759/cureus.115707",
+      "title": "Acinetobacter baumannii Nosocomial Meningitis Secondary to Neurosurgical Intervention: A Case Report.",
+      "abstract": "Nosocomial meningitis is a serious complication of neurosurgical procedures, associated with high morbidity and mortality, as well as significant diagnostic and therapeutic challenges. Among the causative pathogens, Acinetobacter baumannii (A. baumannii) is particularly concerning due to its ability to survive for prolonged periods in the hospital environment, its opportunistic virulence, and, especially, its tendency to develop multidrug resistance to antimicrobial agents. Diagnosis is often difficult in the postoperative setting, particularly when the cerebrospinal fluid (CSF) is altered as a result of the surgical procedure. Rapid identification of the causative agent and early initiation of appropriate antibiotic therapy are essential to limit complications and improve patient prognosis. We report the case of a 27-year-old patient with a history of surgically treated craniopharyngioma complicated by anterior hypopituitarism. Three weeks after surgery, he was admitted to the ICU with suspected postoperative meningitis due to the onset of behavioral disturbances associated with nasal discharge, without a fever. Brain CT was normal. CSF analysis, obtained by lumbar puncture under strict aseptic conditions, revealed a turbid fluid with leukocytosis of 5,760 cells/mm\u00b3, predominantly composed of neutrophils,\u00a0along with elevated protein levels\u00a0(5.7 g/L) and low glucose levels (0.05 g/L). Direct examination after Gram staining showed Gram-negative coccobacilli with a marked inflammatory reaction. CSF culture\u00a0grew\u00a0a multidrug-resistant (MDR) strain of\u00a0A. baumannii,\u00a0which was\u00a0sensitive only to colistin. The patient received antibiotic therapy\u00a0with colistin, administered intravenously and intrathecally for 18 days, with initial neurological improvement and sterilization of the CSF by the\u00a015th day\u00a0of treatment. The subsequent course was unfavorable, marked by the development of acute respiratory distress syndrome (ARDS) secondary to ventilator-associated pneumonia caused by methicillin-resistant\u00a0Staphylococcus aureus\u00a0(MRSA), complicated by refractory septic shock,\u00a0which ultimately led to his death\u00a0after one month of hospitalization in the ICU. This report highlights the severity of nosocomial meningitis caused by MDR\u00a0A. baumannii\u00a0and underscores the importance of\u00a0implementing\u00a0infection prevention measures in healthcare settings.",
+      "journal": "Cureus",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42845280",
+      "doi": "10.12688/f1000research.182800.2",
+      "title": "Endocrine dysfunctions in patients with beta thalassemia major: a single-center retrospective study from Basrah.",
+      "abstract": "The management of patients with beta thalassemia major (BTH) involves regular blood transfusions which are associated with iron overload. This may result in various endocrine dysfunctions (EDs). This study aimed to assess the obesrved frequency of different EDs in patients with transfusion-dependent BTH. A retrospective study that included 496 patients with BTH who were referred from the Basra Center for hereditary blood diseases to Faiha Specialized Diabetes, Endocrine and Metabolsim Center for endocrine-related complaints and underwent detailed endocrine assessments from Jan 2010 to Dec 2023. The mean presentation age for endocrine evaluation was 13.6\u00a0\u00b1\u00a06.5\u00a0years with no difference between male and female. The commonest clinical presentations of BTH patients in our center were short stature 65.5%, amenorrhea 16.4, hyperglycemia 13.7%, delayed puberty 13.3, and hypocalcemia 5.2%. The proportion patients with ED was 16.8%. The most frequent EDs were growth hormone deficiency (GHD) 6.0%, diabetes mellitus (DM) 4.9%, hypogonadism 4.5%, hypothyroidism 3.2%. Within those patients, 78.7% had single ED, 16.5% had two EDs and 4.8% had three or more EDs. EDs were observed among patients with BTH. The commonest EDs were GHD, DM, and hypogonadism. We recommend regular and timely surveillance using both clinical and hormonal assessment in patients with BTH.",
+      "journal": "F1000Research",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42895528",
+      "doi": "10.1177/10519815261499323",
+      "title": "Job-related stress, workplace incivility and quality of nursing care among Jordanian critical care nurses.",
+      "abstract": "BackgroundQuality of nursing care is one of the most important patient outcomes. The goal of Health care professionals is to provide patients and clients with safe assessment and treatment.ObjectiveThis study was conducted to explore the relationship between Job-related Stress, Workplace Incivility and Quality of Nursing Care among Jordanian Critical Care Nurses.MethodsA cross-sectional design was used. One hundred and eighty-five nurses from different hospitals participated in the study and completed the study's questionnaires including Nurses' Occupational Stress Scale (NOSS), Nursing workplace incivility (NIS) and Quality of nursing care (QONC).ResultsThe results showed that patients'/visitors' incivility (M\u2009=\u200941.11, SD\u2009=\u20097.03) was the major type of incivility in workplace among critical nurses. Critical care nurses reported high levels of job-related stress (M\u2009=\u200964.17, SD\u2009=\u20096.74). The results showed that insufficient support from coworkers was the highest among many of the participants (M\u2009=\u20099.45, SD\u2009=\u20091.51). The results from the current study show that nurses' responsibility for decision-making and delegation was highest among the participants (M\u2009=\u200920.11, SD\u2009=\u20093.27) in contrast to nursing care organization being the lowest (M\u2009=\u20097.14, SD\u2009=\u20091.13). A positive relationship between job-related stress and quality of nursing care (r\u2009=\u20090.551, p\u2009=\u20090.001, respectively) and a negative relationship between workplace incivility and quality of nursing care (r\u2009=\u2009-0.625, p\u2009=\u2009.002) were found.Conclusionsthese results might help administrators develop strategies and educational programs to improve the quality of nursing care in hospitals.",
+      "journal": "Work (Reading, Mass.)",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42895534",
+      "doi": "10.1177/10519815261497681",
+      "title": "Exploring the moderating role of pain coping strategies on the association between work-related physical and psychosocial factors and musculoskeletal disorders in healthcare workers.",
+      "abstract": "BackgroundMusculoskeletal disorders (MSDs) are highly prevalent among healthcare workers due to the physical and psychosocial demands of their job. These conditions lead to significant functional limitations and impose a substantial economic burden.ObjectiveThis study aimed to investigate whether pain coping strategies moderate the relationship between work-related physical and psychosocial factors and MSDs.MethodsA cross-sectional study was conducted among 130 healthcare workers at Northwest General Hospital, Peshawar, Pakistan. Data were analyzed using SPSS version 27 and moderation analysis was performed using the PROCESS macro version 4.2 by Andrew F. Hayes.ResultsStrong positive correlations were found between pain coping strategies and neck-shoulder pain (r\u2009=\u20090.86, p\u2009<\u20090.001) and upper extremity pain (r\u2009=\u20090.65, p\u2009<\u20090.001), while a weaker correlation was observed with low back pain (r\u2009=\u20090.34, p\u2009<\u20090.001). Work-related psychosocial and physical factors were strongly associated with neck, shoulder, and upper extremity pain, while their relationship with low back pain was moderate.Moderation analysis showed that pain coping strategies significantly moderated the relationship between work demands and neck-shoulder pain (p\u2009=\u20090.00182). Similarly, coping strategies moderated the effect of heavy physical load on upper extremity pain (p\u2009=\u20090.0195). However, no significant moderating effect was found for low back pain.ConclusionPain coping strategies significantly moderate the relationship between work-related physical and psychosocial factors and MSDs, particularly in the neck, shoulder, and upper extremities. These findings suggest that integrating coping-based interventions into occupational health programs may help mitigate the burden of MSDs among healthcare workers.",
+      "journal": "Work (Reading, Mass.)",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42850669",
+      "doi": "10.1186/s40959-026-00587-8",
+      "title": "Complex cardiac overlap: immune checkpoint inhibitor myocarditis in hypertrophic obstructive cardiomyopathy with subsequent NSTEMI.",
+      "abstract": "Immune checkpoint inhibitor (ICI)-associated myocarditis is a rare but life-threatening complication, particularly challenging to diagnose in patients with coexisting cardiac conditions. A 58-year-old man with advanced oropharyngeal carcinoma treated with pembrolizumab presented with heart failure symptoms and markedly elevated troponin levels. Imaging revealed hypertrophic obstructive cardiomyopathy (HOCM) alongside cardiac magnetic resonance findings consistent with ICI-associated myocarditis. He initially responded to high-dose corticosteroids but relapsed due to non-adherence, requiring re-treatment and addition of mycophenolate mofetil. Following recovery, he developed a significant rise in troponin with new regional wall motion abnormalities. Coronary angiography demonstrated significant coronary artery disease, supporting the diagnosis of acute coronary syndrome in the context of the clinical presentation, biomarker elevation, and imaging findings, managed with percutaneous coronary intervention. Post-procedural hypotension was attributed to adrenal insufficiency and resolved with stress-dose corticosteroids. Follow-up imaging demonstrated features of both prior myocarditis and new ischemic injury. The patient improved clinically after PCI and was discharged with normalized troponin levels. This case highlights the diagnostic and therapeutic challenges of ICI-associated myocarditis in the presence of overlapping cardiac pathologies. Multimodality imaging and clinical context are essential for accurate diagnosis, and alternative causes of troponin elevation must be carefully excluded.",
+      "journal": "Cardio-oncology (London, England)",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42895208",
+      "doi": "10.1530/EC-26-0506",
+      "title": "Structured Physiotherapy Improves Functional Outcomes in Acromegalic Arthropathy After Biochemical Remission: A Prospective Controlled Study.",
+      "abstract": "Musculoskeletal symptoms frequently persist in acromegaly despite biochemical remission, yet the impact of structured physiotherapy on pain, stiffness, and function remains poorly defined. To evaluate the effects of a standardized knee-focused physiotherapy program in controlled acromegaly and to identify clinical predictors of treatment responsiveness. Thirteen patients with acromegaly in remission and 13 age-, gender-, and BMI-matched individuals with primary knee osteoarthritis completed a 15-session physiotherapy program. Outcomes were assessed pre- and post-intervention using the Brief Pain Inventory (BPI) and WOMAC. Minimal clinically significant difference (MCID) thresholds (\u22652 for BPI, \u226510 for WOMAC) determined meaningful improvement. Correlation analyses examined associations between clinical variables and \u0394 scores. Acromegaly patients showed significant improvements in all BPI and WOMAC domains (p<0.001). MCID was achieved by 85% for BPI and 100% for WOMAC Total. Pain and function improved most, whereas stiffness showed limited responsiveness. Compared with osteoarthritis controls, acromegaly patients demonstrated smaller \u0394 changes; baseline-adjusted analyses (ANCOVA) indicated that this attenuated response was largely explained by greater baseline severity in the control group, whereas the persistently greater stiffness in acromegaly remained significant even after adjustment. BMI correlated positively with improvements in BPI Total (r = 0.63) and BPI Pain Severity (r = 0.69), while adenoma size correlated negatively with both measures (r = -0.57 and -0.60). BMI showed a negative association with WOMAC Total improvement (r = -0.59). Stiffness changes were strongly negatively correlated with pretreatment IGF-1 (r = -0.77). Structured physiotherapy yields clinically meaningful improvements in pain and function in acromegaly, while stiffness appears less reversible and more structurally driven. Early musculoskeletal assessment and physiotherapy integration may enhance long-term management.",
+      "journal": "Endocrine connections",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42890916",
+      "doi": "10.7573/dic.2026-7-5",
+      "title": "Pegvisomant in severe, treatment-resistant thyroid eye disease: a case report.",
+      "abstract": "Teprotumumab, a monoclonal antibody against the IGF1 receptor, has proven effective in the treatment of thyroid eye disease (TED). Pegvisomant reduces IGF1 levels through selective inhibition of growth hormone receptors. Here, we present a hypothesis-generating case of a 69-year-old patient with progressive TED. Pegvisomant 20 mg was administered daily for 90 days. IGF1 levels declined and remained low-normal during treatment. Clinical activity scores and VISA (vision, inflammation, strabismus and appearance) scores improved rapidly. MRI assessment showed that water content of both extraocular muscles and orbital connective tissue decreased after treatment. 99mTc-DTPA SPECT confirmed the decrease in disease activity. Further studies may confirm the efficacy of pegvisomant in TED. A 69-year-old female patient with severe, active thyroid eye disease (TED) \u2013 a condition linked to Graves\u2019 disease where the body\u2019s immune system attacks tissues around the eyes \u2013 presented with bulging eyes (proptosis), double vision, eye redness, swelling and reduced visual sharpness.Prior treatments with standard therapies for TED, including intravenous steroid courses, radiation therapy targeting the orbit (eye socket) and the biological drug rituximab, failed to achieve improvement. TED progresses in part because proteins called IGF1 receptors on the surface of eye-socket tissues are overactivated. The researchers hypothesized that using pegvisomant, which is a medication typically used for acromegaly (hormone imbalance) that lowers insulin-like growth factor 1 (IGF1) levels in the blood, would reduce activation of these receptors and ease eye inflammation.The patient received a daily 20 mg injection of pegvisomant for 90 days. Symptom improvement The patient experienced a rapid reduction in eye pain, redness and swelling, alongside marked improvement in visual sharpness and colour vision within 8 weeks.MRI and imaging results Orbital MRI and nuclear imaging showed a distinct drop in tissue inflammation and fluid accumulation (oedema) in the muscles around the eye.Proptosis and double vision Eye bulging and double vision did not significantly change during the trial.Safety Pegvisomant was well tolerated with no reported side effects, and her blood sugar and liver function remained stable. Blood IGF1 levels dropped as expected and returned to normal after treatment ended. Pegvisomant rapidly reduced eye inflammation and improved vision in a patient whose TED had resisted standard therapies. However, because this was a single case study, the delayed effects from previous treatments cannot be entirely ruled out. Further clinical trials are needed to determine if pegvisomant is effective at higher doses or when given earlier in the disease course.",
+      "journal": "Drugs in context",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42895505",
+      "doi": "10.1037/xge0001995",
+      "title": "On bias in detecting bias: A signal detection analysis of attributions to gender discrimination.",
+      "abstract": "Discrimination is the unjust treatment of people based on their group membership, and detecting discrimination is a necessary first step in countering it. Attributions to discrimination have often been conceptualized in terms of signal detection theory, with researchers speculating about the role of sensitivity (i.e., observers' ability to recognize discrimination) and response bias (i.e., their tendency to judge that discrimination is present) in observers' judgments. Here, we take a first step toward moving beyond conceptual applications to empirical signal detection theory analyses of attributions to discrimination across five studies examining judgments about gender discrimination in corporate pay raise decisions. We find that prototypes (Studies 1-3) and their alignment with the actual pattern of decisions (Studies 2-4) inform observers' response bias, reflecting differences in their attribution of unfair outcomes to discrimination (Study 5). In contrast, the extent of harm caused by discriminatory outcomes exerts a small effect on sensitivity and a large effect on response bias (Studies 1-3), which reflects observers' determination of a fair standard for decisions (Study 5). Theoretically, the present work contributes to the causal analysis of central factors shaping attributions to discrimination. Specifically, we shed light on whether effects of these factors are mediated by response bias or sensitivity, and assess their causal origin in either the application of a merit standard or attributional processing. (PsycInfo Database Record (c) 2026 APA, all rights reserved).",
+      "journal": "Journal of experimental psychology. General",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42895504",
+      "doi": "10.1037/ort0000973",
+      "title": "Readmission of children in foster care to psychiatric residential treatment facilities.",
+      "abstract": "Psychiatric residential treatment facilities (PRTFs) serve as nonhospital inpatient treatment environments for Medicaid beneficiaries under the age of 21. Children in foster care, as a group, exhibit a heightened need for mental health services and are disproportionately represented in residential treatment settings. Despite their high cost and restrictive nature, PRTFs offer a comprehensive approach that facilitates assessment, treatment, discharge planning, and aftercare. Readmission to PRTFs is an unfavorable utilization outcome that may reflect multiple mechanisms, including unmet clinical need, placement instability, and system-level factors. Although there are concerns about the overuse of PRTFs for youth in foster care, few studies have explored readmission rates and whether youth in foster care face a different risk of readmission compared to those not in the foster care system. This study conducted a secondary analysis of Medicaid claims data (2018-2021) for youth in one southeastern state who exited PRTFs (N = 2,434), 34% of whom were also in foster care. Multivariable landmark Cox regression models were used to assess the risk of readmission, calculated as a hazard ratio (HR). Foster care status was linked to a higher risk of PRTF readmission across all landmark time periods (0-180 days: HR = 1.36; 95% CI [1.10, 1.69]; 181-360 days: HR = 2.05; 95% CI [1.44, 2.93]; 361+ days: HR = 1.56; 95% CI [1.06, 2.29]), after adjusting for demographic characteristics, diagnoses, and prescription history. The findings indicate that youth in foster care are at an elevated risk of PRTF readmission, necessitating targeted strategies to address the unique clinical, psychosocial, and system-level factors associated with child welfare involvement. (PsycInfo Database Record (c) 2026 APA, all rights reserved).",
+      "journal": "The American journal of orthopsychiatry",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42877914",
+      "doi": "10.7759/cureus.116229",
+      "title": "A Case of MEN 2A Syndrome With Bilateral Recurrent Pheochromocytoma: A Case Report and Literature Review.",
+      "abstract": "Pheochromocytoma is a neuroendocrine tumor arising from chromaffin cells and producing catecholamines. Due to the excessive release of catecholamines, these tumors can present with paroxysmal episodes of high blood pressure, headache, diaphoresis, and palpitations. We present the case of a 23-year-old female patient who presented to the clinic with a history of headache, palpitations, and vomiting for two months. She was admitted for further investigations and management. Laboratory studies revealed elevated urinary and plasma catecholamine levels. Further work-up revealed bilateral adrenal masses diagnosed as pheochromocytoma and medullary thyroid cancer. The patient was diagnosed with multiple endocrine neoplasia (MEN) type 2 and underwent bilateral laparoscopic adrenalectomy and total thyroidectomy with central and lateral neck dissection, and during surveillance, she was found to have recurrent pheochromocytoma. We also discuss the diagnosis and management of recurrent pheochromocytoma in MEN syndrome.",
+      "journal": "Cureus",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42895512",
+      "doi": "10.1177/08968608261497319",
+      "title": "Use of the face mask in peritoneal dialysis: Analysis of an online survey on global practices.",
+      "abstract": "Peritoneal dialysis (PD) is an established home-based therapy. Face masks have historically been used as an infection-prevention measure during PD exchanges, although their effectiveness remains uncertain. Current evidence emphasizes hand hygiene and aseptic technique, while the incremental benefit of routine face mask use has not been clearly established. We conducted a cross-sectional online survey of PD nurses and nephrologists to describe clinical practices regarding face mask use during PD exchanges. Participants were recruited through professional networks and international professional organizations. The survey included questions regarding patient and healthcare professional mask use, institutional guidance, patient training, and perceptions of effectiveness. A total of 733 healthcare professionals from 71 countries responded, including 617 nurses (84.2%). Face masks were reported to be always used by patients during bag exchanges or connection to the cycler by 72.3% (n\u2009=\u2009530) of respondents. The most frequently reported reason for mask use was general infection prevention (40.9%, n\u2009=\u2009299). Mask use was included in patient training by 80.2% (n\u2009=\u2009588), and 77.6% (n =\u2009567) believed that mask use helps prevent peritonitis. Significant regional differences were observed in reported mask-use practices (\u03c72\u2009=\u200944.65, df\u2009=\u20098, p\u2009<\u20090.001). Mask use also varied according to PD program size (\u03c72\u2009=\u200920.06, df\u2009=\u20096, p\u2009=\u20090.003). In addition, 39.6% (n\u2009=\u2009290) reported that their facility followed specific guidance regarding mask use. Routine face mask use remains common in PD practice and is widely incorporated into patient training. Substantial regional and program-size variation was observed. Given the limited and uncertain evidence regarding the incremental benefit of routine mask use, these findings describe substantial variation in current practice and highlight the need for further evidence to clarify the role of face masks in PD infection prevention.",
+      "journal": "Peritoneal dialysis international : journal of the International Society for Peritoneal Dialysis",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42895511",
+      "doi": "10.1080/13696998.2026.2746277",
+      "title": "Cost\u2011effectiveness analysis of the mRNA\u20111345 RSV vaccine for older adults in Italy.",
+      "abstract": "To evaluate the potential public health impact and cost-effectiveness of vaccination using mRNA-1345 administered as a single dose compared with no vaccination in Italian high-risk adults aged 60-74\u2009years and all adults aged \u226575\u2009years. A static decision-analytic model was developed to project clinical and economic outcomes over a five-year time horizon, assuming 50% vaccination coverage among eligible adults. Economic outcomes were evaluated from the Italian National Health Service (Servizio Sanitario Nazionale, SSN) perspective. Model inputs were informed by the most recent Italian epidemiological, clinical, and economic evidence, supplemented by published international data when necessary. Deterministic, probabilistic, and scenario analyses were conducted to assess the impact of uncertainty in model inputs and assumptions on the study results. Vaccination with mRNA-1345 in high-risk adults aged 60-74\u2009years and all adults aged \u226575\u2009years was projected to avert over 19,800 hospitalizations, 4,000 emergency department visits, 381,000 outpatient visits, 6,000 RSV-attributable deaths, and 212,000 antibiotic prescriptions compared with no vaccination over a five-year period. The total incremental cost of \u20ac1,143 million and the additional 47,477 QALYs gained resulted in an ICER of \u20ac24,078 per QALY gained, which was below the commonly referenced willingness-to-pay range of \u20ac33,000-40,000/QALY. Sensitivity analyses confirmed robustness of the analysis results. Due to limited epidemiological evidence for Italy, selected epidemiological inputs were informed by studies conducted in other high-income countries. In addition, vaccine efficacy beyond the two-year clinical trial follow-up was projected to five\u2009years using nonlinear waning curves fitted to the observed trial data. Vaccination with mRNA-1345 is a cost-effective strategy for the prevention of RSV in high-risk adults aged 60-74\u2009years and all adults \u226575\u2009years in Italy, in comparison to no vaccination, and has the potential to provide substantial public health benefits. Respiratory syncytial virus (RSV) is a common virus that causes lung infections. It can be especially dangerous for older adults and people with health conditions like asthma, heart disease, or diabetes. Each year, RSV causes many hospitalizations and deaths in Italy. A new vaccine called mRNA-1345 was recently approved to protect individuals aged 18\u2009years and older against severe RSV disease. This study looked at whether vaccinating the most vulnerable adults, particularly people aged 60\u201374\u2009years with chronic health conditions and everyone aged 75\u2009years and older, would help reduce the burden of RSV and provide good value for money for the healthcare system. Researchers used a mathematical model to compare what might happen over five\u2009years with and without vaccination. They found that using a single-dose vaccination strategy could prevent over 19,800 hospitalizations and more than 6,000 deaths over the following five\u2009years. Although vaccination requires investments, the health benefits are estimated to be large enough for mRNA-1345 to provide good value for money for the Italian healthcare system.",
+      "journal": "Journal of medical economics",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42831607",
+      "doi": "10.14712/23362936.2026.27",
+      "title": "A Clinical Insight into Von Hippel-Lindau Syndrome: Diagnostic Challenges.",
+      "abstract": "Von Hippel-Lindau (VHL) syndrome is a rare hereditary disorder characterised by the development of multiple benign and malignant tumours across various organs. Caused by mutations in the VHL tumour suppressor gene, it presents a wide range of clinical manifestations, including retinal haemangioblastomas, central nervous system tumours, renal cell carcinoma, pancreatic lesions, and phaeochromocytomas. This report describes the case of a 35-year-old woman who presented with visual impairment and abdominal masses. Imaging revealed typical VHL manifestations, including bilateral renal lesions and pancreatic involvement. Genetic testing confirmed the diagnosis. The patient underwent staged partial nephrectomies, with histopathology confirming clear cell renal cell carcinoma in both kidneys. This case highlights the importance of recognising the variable clinical and radiological presentations of VHL syndrome. Early diagnosis and multidisciplinary management are essential to reduce morbidity and mortality. Increased awareness and regular surveillance are critical for timely detection and intervention in patients with VHL syndrome.",
+      "journal": "Prague medical report",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    },
+    {
       "pmid": "42888329",
       "doi": "10.1007/s11102-026-01765-8",
       "title": "Pediatric sellar and parasellar lesions: a population-based cohort study of presentation, management, and endocrine outcomes.",
@@ -393,46 +428,11 @@
       ]
     },
     {
-      "pmid": "42893050",
-      "doi": "10.1016/j.jtocrr.2026.101066",
-      "title": "Brief Report: Reassessment of bTMB as a Predictive Biomarker in NSCLC Immunotherapy-A Reanalysis of OAK and POPLAR.",
-      "abstract": "Blood-based tumor mutational burden (bTMB) has been proposed as a potential biomarker for identifying patients with advanced NSCLC who may benefit from immunotherapy. Prior studies have primarily focused on the high-bTMB group, which may lead to an incomplete or misleading assessment of the predictive value of bTMB. In this study, we used data from the POPLAR (NCT01903993) and OAK (NCT02008227) trials to re-evaluate the predictive role of bTMB for immunotherapy response in advanced NSCLC by analyzing all patients with available bTMB measures and evaluating outcomes in both high- and low-bTMB groups. Patients with evaluable bTMB from the POPLAR and OAK trials were included. For each study, hazard ratios (HRs) for both progression-free survival (PFS) and overall survival (OS) were calculated separately for the high- and low-bTMB groups across a range of cut points. A total of 211 and 583 patients with evaluable bTMB were included from the POPLAR and OAK trials, respectively. bTMB cut points from 4 to 26 (in increments of 2) were evaluated. At a cut point of 14, one of the evaluated thresholds, in POPLAR, patients with high bTMB had a PFS HR of 0.50 (95% confidence interval [CI]: 0.30-0.83) and an OS HR of 0.51 (95% CI: 0.30-0.86), whereas patients with low bTMB had a PFS HR of 1.23 (95% CI: 0.86-1.76) and an OS HR of 0.82 (95% CI: 0.55-1.21). In OAK, patients with high-bTMB had a PFS HR of 0.68 (95% CI: 0.50-0.91), and those with low bTMB had a PFS HR of 0.98 (95% CI: 0.79-1.12), with no difference between the two groups for OS (HR = 0.63, 95% CI: 0.45-0.88 versus HR = 0.63, 95% CI: 0.50-0.80). The predictiveness of bTMB in identifying patients with NSCLC who may benefit from immunotherapy was evident for PFS but not for OS. Observing a differential treatment efficacy trend solely within the high-bTMB group across multiple cut points was insufficient to establish predictive utility. A valid assessment requires a comprehensive evaluation of both high- and low-bTMB populations, with predictiveness established by reporting differential treatment efficacy between these two groups.",
-      "journal": "JTO clinical and research reports",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42893058",
-      "doi": "10.7759/cureus.116398",
-      "title": "Shingles With an Unusual Dermatomal Distribution.",
-      "abstract": "Shingles, also known as herpes zoster, is a globally recognised, self-limiting infection caused by the reactivation of the varicella-zoster virus (VZV). This virus causes varicella, otherwise known as chickenpox, which is a well-known acute infection, commonly seen among children. Herpes zoster involves an individual nerve and the corresponding dermatome. This case report is written with the intent of reminding clinicians of the variety of ways in which herpes zoster can present. It is important to consider herpes zoster in the differential diagnosis of a rash, even when it is confined to a less common dermatome.",
-      "journal": "Cureus",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42829594",
-      "doi": "10.25259/SNI_840_2026",
-      "title": "Endoscopic transsphenoidal surgery for a somatotroph pituitary neuroendocrine tumor associated with an infraoptic course of the anterior cerebral artery: A case report.",
-      "abstract": "Identifying cerebrovascular anomalies before neurosurgical procedures is essential to avoid intraoperative complications. An infraoptic course of the anterior cerebral artery (IOA) is a rare variant in which the anterior cerebral artery (ACA) arises near the ophthalmic artery and passes beneath the optic nerve. Despite numerous reports of cerebral aneurysms coexisting with IOA, reports of coexistence with brain tumors are extremely rare, and no studies have reported endoscopic transsphenoidal surgery (eTSS) performed for pituitary tumors. Failure to recognize this IOA anomaly preoperatively is critical owing to the risk of vascular injury. A 47-year-old man presented with acromegaly caused by a somatotroph pituitary neuroendocrine tumor. Magnetic resonance imaging (MRI) revealed a sellar-suprasellar mass, and biochemical testing confirmed excess growth hormone production. After lanreotide-induced tumor shrinkage, surgical treatment was planned. Preoperative MRI, computed tomography angiography, and three-dimensional (3D) fusion imaging demonstrated bilateral IOA and duplication of the left A1 segment. These images enabled a detailed assessment of the tumor, pituitary gland, and vascular anatomy, suggesting that extracapsular resection via eTSS can be safely performed. Intraoperatively, the IOA adhered to the dura as predicted. Total tumor resection was achieved without vascular injury. Postoperative MRI confirmed complete removal, and hormone levels were normalized. IOA is an exceptionally rare vascular anomaly, and unrecognized cases may lead to severe intraoperative complications. This case highlights the importance of meticulous preoperative imaging, particularly 3D fusion techniques, for IOA identification and safe eTSS planning for functional pituitary tumors.",
-      "journal": "Surgical neurology international",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42834406",
-      "doi": "10.1186/s13023-026-04601-1",
-      "title": "Hyperphagia in Prader-Willi syndrome: linking hypothalamic dysfunction to clinical assessment and management across the lifespan.",
-      "abstract": "Prader-Willi syndrome (PWS) is a rare genetic neurodevelopmental disorder characterised by hypothalamic dysfunction and profound dysregulation in hunger and appetite regulation, endocrine function, metabolism and behaviour. Hyperphagia is a defining clinical feature and a major contributor to morbidity, mortality and caregiver burden. Increasing evidence suggests that hyperphagia in PWS represents a multidimensional disorder rather than excessive appetite alone. In December 2024, an international meeting of clinical and scientific experts was convened in Toulouse, France, to explore current understanding of hyperphagia in PWS, challenges in assessment, and evolving approaches to management across the lifespan. Although not a formal consensus process, several consistent themes emerged. These included limitations of existing assessment tools, the need for multidimensional evaluation (including use of instruments such as the Hyperphagia Questionnaire and Hyperphagia Questionnaire for Clinical Trials (HQ-CT). The central role of structured food environments, and vulnerabilities during transition to adult care were also identified as key themes. Experts emphasised that hyperphagia reflects interactions between impaired satiety signalling, activation in reward neurocircuitry, autonomic dysfunction and environmental factors. Management therefore requires integrated biological, behavioural and environmental approaches. While food security and structured support remain foundational, emerging pharmacological therapies may complement multidisciplinary care and reduce caregiver burden. Hyperphagia in PWS should be conceptualised as a complex, multidimensional disorder requiring comprehensive assessment and integrated management. Future priorities include development of additional validated outcome measures, identification of biomarkers, and care models that better align mechanistic insights with real-world clinical practice.",
-      "journal": "Orphanet journal of rare diseases",
+      "pmid": "42886353",
+      "doi": "10.1515/cclm-2026-0955",
+      "title": "Biogenic amines as neuroendocrine tumor markers: limitations and future perspectives.",
+      "abstract": "Biogenic amines and their metabolites are central biochemical markers in the diagnosis and management of catecholamine-producing neuroendocrine tumors, including pheochromocytoma, paraganglioma, and neuroblastoma. Despite decades of clinical use, their wider implementation remains limited by substantial physiological variability, pre-analytical influences, and methodological heterogeneity across laboratories. The transition from colorimetric and immunoassay-based techniques to liquid chromatography-tandem mass spectrometry has markedly improved analytical sensitivity and specificity. The multiplexing capacity of\u00a0modern mass spectrometric platforms has enabled comprehensive quantification of biogenic amine profiles, thereby increasing diagnostic sensitivity in tumor subtypes in which\u00a0individual biomarkers exhibit limited performance. Increasing attention has been given to dopamine derived metabolites, especially 3-methoxytyramine, which is associated with MYCN-related tumor biology and unfavorable clinical outcomes in neuroblastoma and selected paraganglioma subtypes. However, the analytical complexity of mass spectrometric approaches, together with the absence of full metrological traceability, continues to limit inter-laboratory comparability. In this review, we critically evaluate the analytical evolution of biogenic amine testing, the principal pre-analytical and methodological determinants that influence the interpretation of results, and current efforts to improve harmonization. Particular emphasis is placed on the potential of biogenic amines as prognostic biomarkers and on the need to integrate expanded biogenic amine profiling into clinically robust, comparable diagnostic approaches that may advance precision oncology.",
+      "journal": "Clinical chemistry and laboratory medicine",
       "year": "2026",
       "publication_types": [
         "Journal Article",
