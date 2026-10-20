@@ -149,7 +149,10 @@
     "42888349",
     "42889554",
     "42891093",
-    "42893849"
+    "42893849",
+    "42897569",
+    "42897807",
+    "42898843"
   ],
   "sessions": [
     {
@@ -2296,6 +2299,49 @@
           "quiz_question": "You receive a plasma metanephrine panel on a patient with a suspected dopaminergic paraganglioma: normetanephrine and metanephrine are only mildly elevated, but 3-methoxytyramine (3-MT) is markedly elevated. What is the clinical significance of the 3-MT elevation, and how does it inform further workup?",
           "quiz_answer": "Marked 3-MT elevation points toward a predominantly dopamine-secreting tumor, which is more commonly associated with extra-adrenal paraganglioma (especially head/neck or thoracoabdominal) and with SDHB or MYCN-related genetic subtypes that carry higher malignant potential. This finding should prompt functional imaging (DOTATATE PET preferred) and germline genetic testing, particularly for SDH mutations, given the elevated risk of metastatic disease in this biochemical phenotype.",
           "journal": "Clinical chemistry and laboratory medicine",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-22",
+      "items": [
+        {
+          "pmid": "42897569",
+          "doi": "10.1186/s12902-026-02607-1",
+          "title": "Hair cortisol as a complementary marker of chronic glucocorticoid exposure in mild autonomous cortisol secretion.",
+          "category": "notable",
+          "summary": "This cross-sectional study compared hair cortisol concentrations (HCC) in 73 patients with mild autonomous cortisol secretion (MACS) versus 60 healthy controls, finding significantly elevated HCC in MACS (median 3.6 vs. 1.75 ng/g; p<0.01). HCC correlated modestly with waist circumference and late-night salivary cortisol, but not with DST-based measures or urinary free cortisol. However, ROC analysis demonstrated only modest discrimination (AUC 0.60), and after adjustment for age, sex, and BMI, HCC was not independently associated with MACS. The authors conclude HCC may serve as a complementary\u2014but not standalone\u2014biomarker of cumulative glucocorticoid exposure in adrenal incidentaloma workup.",
+          "caveat": "Cross-sectional design, modest sample size, and failure to achieve independent association after multivariable adjustment temper enthusiasm; HCC is not yet ready for routine clinical use in MACS evaluation. Hair growth rate variability and confounders such as hair treatments were not fully addressed.",
+          "quiz_question": "A 58-year-old woman with a 2.2 cm adrenal incidentaloma has post-1 mg DST cortisol of 2.1 \u00b5g/dL (marginally elevated), normal 24h UFC, and borderline late-night salivary cortisol. You consider hair cortisol concentration to assess cumulative exposure. Based on this study, what is the most accurate characterization of HCC's diagnostic utility in this scenario?",
+          "quiz_answer": "HCC is modestly elevated in MACS patients compared to controls and may add complementary information about chronic glucocorticoid exposure, but its diagnostic performance is limited (AUC ~0.60) and it is not independently associated with MACS after adjusting for age, sex, and BMI. It should be used as an adjunct to\u2014not a replacement for\u2014conventional HPA axis testing.",
+          "journal": "BMC endocrine disorders",
+          "year": "2026"
+        },
+        {
+          "pmid": "42897807",
+          "doi": "10.1111/iju.70664",
+          "title": "Oncological Outcomes and Safety Profiles of Adjuvant Nivolumab in Muscle-Invasive Urothelial Carcinoma.",
+          "category": "notable",
+          "summary": "In this multicenter real-world cohort of 97 patients receiving adjuvant nivolumab for muscle-invasive urothelial carcinoma, immune-related adrenal insufficiency and hypophysitis occurred in 8% and 4% of patients, respectively\u2014rates the authors note appear higher than those reported in pivotal trial data. Grade \u22653 endocrine irAEs presented between 3.3 and 18.3 months after initiating therapy, emphasizing the prolonged surveillance window required. Clinicians are reminded that nonspecific symptoms and considerable timing variability make these diagnoses easy to miss without proactive biochemical monitoring.",
+          "caveat": "Retrospective multicenter real-world study without a standardized endocrine screening protocol, so ascertainment bias likely inflates or distorts irAE rates compared to prospectively monitored trials. Small sample size (n=97) limits precise incidence estimates.",
+          "quiz_question": "A 67-year-old man on adjuvant nivolumab after radical cystectomy for pT3 bladder cancer presents at month 14 with fatigue, nausea, and a blood pressure of 92/60 mmHg. Morning cortisol returns at 3.2 \u00b5g/dL. What is the most likely diagnosis and what is the appropriate immediate management?",
+          "quiz_answer": "This presentation is consistent with checkpoint inhibitor-induced adrenal insufficiency (irAE), which this study found in 8% of nivolumab-treated patients with onset ranging beyond 3 months. Immediate management includes stress-dose IV hydrocortisone (100 mg bolus followed by infusion or q6-8h dosing), IV fluid resuscitation, and hospital admission. Long-term oral hydrocortisone \u00b1 fludrocortisone will be required, and nivolumab should be held pending endocrinology evaluation.",
+          "journal": "International journal of urology : official journal of the Japanese Urological Association",
+          "year": "2026"
+        },
+        {
+          "pmid": "42898843",
+          "doi": "10.7759/cureus.118142",
+          "title": "Pembrolizumab-Associated Adrenal Insufficiency Presenting as Adrenal Crisis: A Case Report.",
+          "category": "preliminary",
+          "summary": "This case report describes an adrenal crisis occurring 12 days after completion of a full 24-month pembrolizumab course in a man with metastatic NSCLC. Routine outpatient labs first flagged critical hypocortisolemia (morning cortisol <50 nmol/L) before the patient developed severe hypotension and GI symptoms; he was successfully resuscitated with IV fluids and high-dose hydrocortisone and ultimately transitioned to maintenance hydrocortisone plus fludrocortisone. The case reinforces that checkpoint inhibitor-related adrenal insufficiency can manifest abruptly even after treatment completion, with no temporal ceiling on risk.",
+          "caveat": "Single case report; causality cannot be rigorously established, and the contribution of underlying metastatic disease or other medications to adrenal dysfunction cannot be excluded. Evidence level is low by design.",
+          "quiz_question": "A patient with NSCLC completed a planned 24-month course of pembrolizumab two weeks ago and now presents to the ED with hypotension, nausea, and vomiting. Sepsis workup is unrevealing. What endocrine diagnosis must be urgently considered, and what biochemical test should be ordered immediately?",
+          "quiz_answer": "Pembrolizumab-associated adrenal insufficiency presenting as adrenal crisis should be urgently considered, as this case illustrates it can occur even shortly after treatment completion. A random (or morning) serum cortisol should be drawn immediately; if critically low or clinical suspicion is high, empirical IV hydrocortisone should be administered without waiting for results. An ACTH level drawn concurrently will help characterize primary versus secondary etiology.",
+          "journal": "Cureus",
           "year": "2026"
         }
       ],
