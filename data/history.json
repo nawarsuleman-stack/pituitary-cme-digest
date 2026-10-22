@@ -146,10 +146,13 @@
     "42887023",
     "42888277",
     "42888280",
+    "42888329",
     "42888349",
     "42889554",
     "42891093",
+    "42892180",
     "42893849",
+    "42895208",
     "42897569",
     "42897807",
     "42898843"
@@ -2342,6 +2345,49 @@
           "quiz_question": "A patient with NSCLC completed a planned 24-month course of pembrolizumab two weeks ago and now presents to the ED with hypotension, nausea, and vomiting. Sepsis workup is unrevealing. What endocrine diagnosis must be urgently considered, and what biochemical test should be ordered immediately?",
           "quiz_answer": "Pembrolizumab-associated adrenal insufficiency presenting as adrenal crisis should be urgently considered, as this case illustrates it can occur even shortly after treatment completion. A random (or morning) serum cortisol should be drawn immediately; if critically low or clinical suspicion is high, empirical IV hydrocortisone should be administered without waiting for results. An ACTH level drawn concurrently will help characterize primary versus secondary etiology.",
           "journal": "Cureus",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-28",
+      "items": [
+        {
+          "pmid": "42888329",
+          "doi": "10.1007/s11102-026-01765-8",
+          "title": "Pediatric sellar and parasellar lesions: a population-based cohort study of presentation, management, and endocrine outcomes.",
+          "category": "notable",
+          "summary": "This retrospective population-based cohort (n=104, diagnosed 1976\u20132021) found that endocrine dysfunction at presentation was significantly more common with sellar/parasellar lesions \u226510 mm than <10 mm (74% vs. 49%), and post-treatment endocrine morbidity was strikingly higher in the larger-lesion group (65% vs. 13%). Importantly, clinically relevant endocrine abnormalities also occurred in smaller lesions, supporting routine endocrine evaluation regardless of lesion size. Pituitary adenomas carried the highest burden of endocrine abnormality at diagnosis among lesion subtypes.",
+          "caveat": "Retrospective design spanning nearly five decades introduces significant heterogeneity in diagnostic and management practices. Associations with treatment modality are descriptive and subject to confounding by indication. Single-region population limits generalizability.",
+          "quiz_question": "A 12-year-old presents with a 7 mm incidentally found sellar lesion on MRI done for headaches. Based on this population-based cohort, is endocrine evaluation warranted, and what does the data suggest about smaller lesions?",
+          "quiz_answer": "Yes, endocrine evaluation is warranted. Although endocrine dysfunction was less frequent with lesions <10 mm, nearly half (49%) still had abnormalities at presentation, and clinically relevant dysfunction occurred even in smaller lesions. The authors explicitly support endocrine evaluation based on clinical context and longitudinal surveillance, regardless of lesion size.",
+          "journal": "Pituitary",
+          "year": "2026"
+        },
+        {
+          "pmid": "42895208",
+          "doi": "10.1530/EC-26-0506",
+          "title": "Structured Physiotherapy Improves Functional Outcomes in Acromegalic Arthropathy After Biochemical Remission: A Prospective Controlled Study.",
+          "category": "notable",
+          "summary": "In this prospective controlled study of 13 acromegaly patients in biochemical remission, a standardized 15-session knee-focused physiotherapy program produced clinically meaningful improvements in pain and function: 85% met the minimal clinically important difference (MCID) threshold for BPI and 100% for WOMAC Total. However, joint stiffness showed limited responsiveness, and pretreatment IGF-1 correlated strongly negatively with stiffness improvement (r = \u22120.77), suggesting stiffness is more structurally driven and less reversible. Higher BMI predicted better pain/BPI improvement but worse WOMAC Total improvement.",
+          "caveat": "Very small sample size (n=13 per group) limits statistical power and generalizability. The control group had greater baseline severity, which complicates direct comparison of response magnitude. No long-term follow-up data beyond the intervention period are reported.",
+          "quiz_question": "A 48-year-old woman with acromegaly in biochemical remission for 2 years continues to report significant knee pain and stiffness. Which domain of musculoskeletal symptoms is least likely to respond to a structured physiotherapy program based on this study, and what biomarker correlates with this limited response?",
+          "quiz_answer": "Joint stiffness is the domain least likely to respond to physiotherapy in acromegaly patients in remission, as it showed limited responsiveness compared to pain and function. Pretreatment IGF-1 correlated strongly negatively with stiffness improvement (r = \u22120.77), suggesting residual stiffness reflects structural joint changes rather than reversible inflammation.",
+          "journal": "Endocrine connections",
+          "year": "2026"
+        },
+        {
+          "pmid": "42892180",
+          "doi": "10.1016/j.ghir.2026.101728",
+          "title": "Endocrine therapies and hormonal dysfunction after traumatic brain injury: A scoping review.",
+          "category": "notable",
+          "summary": "This scoping review of 67 studies found post-traumatic endocrine dysfunction to be common and heterogeneous, with GH deficiency being the most frequently reported deficiency after TBI; both hypoprolactinemia and hyperprolactinemia were also identified as underappreciated contributors to post-TBI metabolic morbidity. GH replacement therapy showed improvements in cognition, fatigue, mood, and quality of life in several studies, though effects on functional outcomes and mortality were inconsistent. Progesterone failed to demonstrate efficacy in large RCTs despite early promise, with timing of initiation appearing critical.",
+          "caveat": "Scoping reviews do not perform meta-analysis or formal quality appraisal, so conclusions on therapeutic efficacy are limited. Study heterogeneity in TBI severity classification, endocrine testing protocols, and timing of assessment makes cross-study comparisons difficult. Evidence base remains dominated by small, underpowered trials.",
+          "quiz_question": "A 35-year-old male presents 18 months after moderate TBI with persistent fatigue, cognitive slowing, and low libido. Screening reveals low IGF-1 and an inadequate GH response to stimulation testing. What does the current evidence base suggest regarding GH replacement in this population, and what caveat should guide your counseling?",
+          "quiz_answer": "GH replacement after TBI-related GH deficiency has shown improvements in cognition, fatigue, mood, and quality of life in several studies reviewed. However, effects on functional outcomes and mortality are inconsistent, study designs are highly heterogeneous, and sample sizes are generally small. Patients should be counseled that evidence is promising but not yet definitive, and that larger, well-designed trials are still needed.",
+          "journal": "Growth hormone & IGF research : official journal of the Growth Hormone Research Society and the International IGF Research Society",
           "year": "2026"
         }
       ],
