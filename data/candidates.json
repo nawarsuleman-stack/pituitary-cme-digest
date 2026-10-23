@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-10-22",
+  "fetched_at": "2026-10-23",
   "date_window": {
-    "from": "2016/10/24",
-    "to": "2026/10/22"
+    "from": "2016/10/25",
+    "to": "2026/10/23"
   },
   "already_covered_pmids": [
     "41730814",
@@ -151,114 +151,28 @@
     "42887023",
     "42888277",
     "42888280",
+    "42888329",
     "42888349",
     "42889554",
     "42891093",
+    "42892180",
     "42893849",
+    "42895208",
     "42897569",
     "42897807",
     "42898843"
   ],
   "candidates": [
     {
-      "pmid": "42866309",
-      "doi": "10.1097/MS9.0000000000005688",
-      "title": "Medullary thyroid carcinoma with pheochromocytoma and cystic parathyroid degeneration in a ret-negative patient: a case report.",
-      "abstract": "Multiple endocrine neoplasia type 2A (MEN2A) is a rare autosomal dominant hereditary cancer syndrome, predominantly caused by mutations of the RET proto-oncogene on chromosome 10q11.2. It typically presents with medullary thyroid carcinoma (MTC), pheochromocytoma, and primary hyperparathyroidism. Cases with a MEN2A phenotype but negative RET testing are uncommon, posing challenges for diagnosis and patient management. We report the case of a 63-year-old female who was diagnosed with MTC and pheochromocytoma. and cystic parathyroid gland. Genetic workup was negative for RET proto-oncogene mutations but positive for a heterozygous variant in the TMEM127 tumor suppressor gene. MEN2A is associated with pathogenic germline variants in the RET proto-oncogene in approximately 95-99% of cases. Our patient, however, exhibited a MEN2A-like clinical phenotype in the absence of an identifiable RET mutation, with a pathogenic TMEM127 variant instead. Although TMEM127 is an established susceptibility gene for pheochromocytoma and paraganglioma, its association with the broader MEN2A phenotype remains unclear. This unusual genotype-phenotype discordance raises important questions regarding the potential role of alternative genetic pathways in MEN2-like syndromes and creates uncertainty regarding postoperative surveillance and the appropriate extent of screening and genetic counseling for family members. Our case represents an unusual scenario where the patient presents with a clinical phenotype of MEN2A but is RET negative and positive heterozygous for a variant in the TMEM127. This atypical genetic finding introduces complexities in determining the appropriate follow-up protocol and the scope of familial screening necessary.",
-      "journal": "Annals of medicine and surgery (2012)",
+      "pmid": "42831607",
+      "doi": "10.14712/23362936.2026.27",
+      "title": "A Clinical Insight into Von Hippel-Lindau Syndrome: Diagnostic Challenges.",
+      "abstract": "Von Hippel-Lindau (VHL) syndrome is a rare hereditary disorder characterised by the development of multiple benign and malignant tumours across various organs. Caused by mutations in the VHL tumour suppressor gene, it presents a wide range of clinical manifestations, including retinal haemangioblastomas, central nervous system tumours, renal cell carcinoma, pancreatic lesions, and phaeochromocytomas. This report describes the case of a 35-year-old woman who presented with visual impairment and abdominal masses. Imaging revealed typical VHL manifestations, including bilateral renal lesions and pancreatic involvement. Genetic testing confirmed the diagnosis. The patient underwent staged partial nephrectomies, with histopathology confirming clear cell renal cell carcinoma in both kidneys. This case highlights the importance of recognising the variable clinical and radiological presentations of VHL syndrome. Early diagnosis and multidisciplinary management are essential to reduce morbidity and mortality. Increased awareness and regular surveillance are critical for timely detection and intervention in patients with VHL syndrome.",
+      "journal": "Prague medical report",
       "year": "2026",
       "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42902602",
-      "doi": "10.1080/0886022X.2026.2742581",
-      "title": "Long-term outcome of stenting for the iliac vein stenosis with ipsilateral arterio-venous graft;\u00a0a case series.",
-      "abstract": "To analyze the possible etiology and evaluate the technical and clinical outcomes of using bare metal stents for the treatment of central venous stenosis (CVS) in the lower extremity with ipsilateral hemodialysis access. A single-center retrospective analysis of a small case series was conducted in hemodialysis patients with lower extremity arteriovenous grafts (AVG) who were treated with bare metal stents (BMS) for symptomatic iliac vein stenosis between April 2016 and June 2021. Patients' demographic data, technical details, adverse events, clinical outcomes, and imaging data were recorded. The study cohort comprised seven females and four males, with a mean age of 58.8\u2009\u00b1\u200913.4\u2009years. Preoperative lower limb venography was performed in nine patients scheduled for AVG creation. With the exception of one case demonstrating left iliac vein compression, the iliac veins were patent in all other patients. Symptoms of lower limb swelling developed at a mean interval of 9.40\u2009\u00b1\u20095.83\u2009months (range: 3-20\u2009months) following AVG placement. Eight cases had a concomitant history of temporary ipsilateral femoral vein catheterization. Lesion characteristics included nine stenotic lesions and two occlusive lesions. All patients were treated with SMART Control stents (Cordis Corp, USA). The technical success rate was 100%, and symptomatic relief was achieved in all cases. Over a mean follow-up period of 47.8\u2009\u00b1\u200931.7\u2009months (range: 10-123\u2009months), the target lesion primary patency was 100% (one-side confidence interval [CI]\u2009=\u20090.74,1). Using BMS is a safe and effective method to treat iliac vein stenosis with ipsilateral AVG.",
-      "journal": "Renal failure",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42902603",
-      "doi": "10.1080/14796694.2026.2748246",
-      "title": "Study protocol of a prospective, non-interventional cohort study evaluating the benefits of transjugular intrahepatic portosystemic shunt in patients with hepatocellular carcinoma receiving first-line atezolizumab plus bevacizumab (NISTIPS TRITICC-4, IKF092).",
-      "abstract": "Hepatocellular carcinoma (HCC) is a leading cause of cancer-related mortality, with most patients diagnosed at an advanced stage. Atezolizumab plus bevacizumab is a current standard first-line therapy; however, outcomes are strongly influenced by underlying cirrhosis and clinically significant portal hypertension (CSPH). Complications such as ascites and variceal bleeding may limit treatment continuation, particularly as bevacizumab increases bleeding risk. Transjugular intrahepatic portosystemic shunt (TIPS) reduces portal pressure and may improve outcomes, but its role in patients receiving immunoncology-based systemic therapy remains unclear. NISTIPS TRITICC-4 is a prospective, multicentre, non-interventional cohort study conducted at up to 25 centers in Germany. A total of 350 adult patients with cirrhosis and unresectable or metastatic HCC receiving first-line atezolizumab plus bevacizumab will be enrolled. Patients are allocated to two cohorts: TIPS in situ plus atezolizumab and bevacizumab or atezolizumab plus bevacizumab alone, according to routine clinical practice.The primary endpoint is time to deterioration of liver function (TTDL), defined as persistent worsening of liver parameters for >4\u2009weeks. Secondary endpoints include overall survival, time on treatment, overall response rate, time to new extrahepatic lesions or death, and safety with focus on bleeding and TIPS-related complications.Time-to-event endpoints will be analyzed using Kaplan-Meier methods and Cox models. Propensity score matching will be applied to adjust for confounding. Analyses are exploratory. This study will provide real-world evidence on the impact of TIPS in HCC patients receiving atezolizumab plus bevacizumab and may support more individualized management strategies in this high-risk population. www.clinicaltrials.gov identifier is NCT07365930. Hepatocellular carcinoma is the most common form of primary liver cancer and often develops in people with liver cirrhosis. In many patients, the cancer cannot be treated with surgery or local procedures and systemic drug treatment is required. A commonly used first-line treatment combines atezolizumab and bevacizumab. However, patients with cirrhosis may also suffer from increased pressure in the portal vein, which can lead to complications such as bleeding from enlarged veins in the esophagus or stomach, fluid accumulation in the abdomen, and worsening liver function. Bevacizumab can increase the risk of bleeding, which may make treatment more difficult in some patients.A transjugular intrahepatic portosystemic shunt (TIPS) is a procedure that reduces pressure in the portal vein by creating a new connection between blood vessels inside the liver. The NISTIPS TRITICC-4 study investigates whether patients with liver cancer who have a TIPS and receive atezolizumab plus bevacizumab have different clinical outcomes compared with patients receiving the same drug treatment without TIPS.The study will include 350 patients at up to 25 centers in Germany. It will assess changes in liver function, survival, duration of treatment, tumor response, bleeding events, treatment-related complications, and quality of life. The study aims to provide real-world evidence on the potential benefits and risks of TIPS in patients with liver cancer receiving modern systemic treatment.",
-      "journal": "Future oncology (London, England)",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42902599",
-      "doi": "10.1080/0886022X.2026.2740365",
-      "title": "Bilateral peripheral CT venography for evaluating central venous lesions in dysfunctional arteriovenous fistulas: feasibility, safety, and radiation dose in hemodialysis patients.",
-      "abstract": "Central venous stenosis and occlusion are major causes of arteriovenous fistula (AVF) dysfunction in hemodialysis patients. This study aimed to evaluate the feasibility, safety, radiation exposure, and anatomical findings of bilateral peripheral CT venography for central venous assessment in patients with dysfunctional AVFs. This single-center retrospective cohort study included 46 consecutive hemodialysis patients with dysfunctional AVFs who underwent bilateral peripheral CT venography between August 2023 and June 2025. Technical success, procedure-related adverse events, radiation dose parameters, central venous lesion characteristics, and agreement with available comparative imaging modalities were analyzed. Comparative imaging findings from puncture-based angiography and/or duplex ultrasonography were assessed descriptively. All 46 examinations were technically successful (100%), with a mean procedure duration of 4 minutes (range, 3-5 minutes). Minor adverse events included one patient of contrast extravasation (2.2%) and 3 of mild allergic reactions (6.5%); no severe procedure-related complications were documented. The mean CTDIvol and DLP were 11.87 mGy and 784.15 mGy\u00b7cm, respectively. Central venous abnormalities were identified in 44 patients (95.7%), including stenosis in 31 (67.4%), occlusion in 11 (23.9%), and aneurysmal changes in 2 (4.3%). Comparative imaging was available in 38 patients, and CT venography showed agreement with available findings in 37 cases (97.4%). This agreement was interpreted as descriptive concordance rather than formal diagnostic accuracy. Bilateral peripheral CT venography demonstrated high technical feasibility, acceptable safety, and effective visualization of central venous abnormalities in hemodialysis patients with dysfunctional AVFs. Further prospective studies are needed to validate its diagnostic performance and clinical impact. This technique enables efficient, noninvasive assessment of central venous pathology with minimal risk, supporting its potential as a practical alternative to conventional imaging in hemodialysis patients.",
-      "journal": "Renal failure",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42902598",
-      "doi": "10.1177/08901171261490288",
-      "title": "Patterns of Instrumental and Informational Workplace Health Support Use Among Hospital Service Workers of Low- to Mid-Socioeconomic Status.",
-      "abstract": "PurposeTo examine workplace health supports (WHS) use and sociodemographic and organizational correlates among healthcare workers predominantly of low- to mid-socioeconomic status (SES).DesignCross-sectional survey.SettingLarge U.S. healthcare system, 2018.Sample1283 healthcare service workers; 1196 included in final analyses (93.2%).MeasuresInstrumental and informational WHS use; SES; race; age; shift; sex; obesity; organizational health climate; coworker support; supervisor support.AnalysisPearson point biserial correlations (rpb), phi (\u03a6) statistics, and multivariable negative binomial regression models were used. Interaction terms between organizational health climate and sociodemographic characteristics were tested.ResultsThe median employee used two WHS (one instrumental, one informational). Older age was associated with greater informational WHS use (\u03a6 = .13 to .21), while Black race was associated with greater instrumental WHS use (\u03a6 = .09 to .15). Organizational health climate was modestly associated with healthy eating and physical activity WHS (rpb = .09 to .11). In adjusted models, age, race, and organizational health climate remained independently associated with WHS use. Modest interaction effects were observed between organizational health climate and race (total and informational models) and sex (total model).ConclusionDifferentiating WHS by support type reveals meaningful differences in engagement across worker groups. Findings highlight the importance of organizational context. Results should be interpreted cautiously given the cross-sectional design and self-reported measures.",
-      "journal": "American journal of health promotion : AJHP",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42902607",
-      "doi": "10.4274/ThoracResPract.2026.2026-6-11",
-      "title": "Translation, Cultural Adaptation, and Validation of the Turkish Version of the St George's Respiratory Questionnaire for Idiopathic Pulmonary Fibrosis (SGRQ-I).",
-      "abstract": "Idiopathic pulmonary fibrosis (IPF) substantially impairs health-related quality of life (HRQoL). The IPF-specific St George's Respiratory Questionnaire (SGRQ-I) is not available in Turkish. This study aimed to translate, culturally adapt, and validate the SGRQ-I for Turkish-speaking patients with IPF. Following international guidelines, the SGRQ-I underwent forward translation, reconciliation, back translation, developer review, and cognitive debriefing. Adult patients with IPF were consecutively recruited. Validity was assessed against the Turkish SGRQ and by examining associations with forced vital capacity (FVC), diffusing capacity for carbon monoxide (DLCO), the six-minute walk test (6MWT), gender-age-physiology (GAP) stage, modified Medical Research Council (mMRC) grade, and long-term oxygen therapy (LTOT) status. Test-retest reliability was assessed over seven days in clinically stable patients. One hundred eighty patients were included (mean age 66.3\u00b110.0 years; 36% male). Agreement with the SGRQ was excellent for the activities, impact, and total scores [intraclass correlation coefficients (ICC) >0.90] and moderate for the symptoms score. The SGRQ-I total score was significantly correlated with FVC% (r = -0.476), DLCO% (r = -0.406), and 6MWT distance (r = -0.462, all P < 0.001). SGRQ-I scores differed significantly across groups stratified by DLCO%, GAP stage, mMRC grade, and LTOT status (P < 0.01). Test-retest reliability was good to excellent, with ICCs ranging from 0.891 to 0.962. The Turkish SGRQ-I is a valid and reliable instrument for assessing HRQoL in IPF, supporting its use in clinical practice and multinational research.",
-      "journal": "Thoracic research and practice",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42877914",
-      "doi": "10.7759/cureus.116229",
-      "title": "A Case of MEN 2A Syndrome With Bilateral Recurrent Pheochromocytoma: A Case Report and Literature Review.",
-      "abstract": "Pheochromocytoma is a neuroendocrine tumor arising from chromaffin cells and producing catecholamines. Due to the excessive release of catecholamines, these tumors can present with paroxysmal episodes of high blood pressure, headache, diaphoresis, and palpitations. We present the case of a 23-year-old female patient who presented to the clinic with a history of headache, palpitations, and vomiting for two months. She was admitted for further investigations and management. Laboratory studies revealed elevated urinary and plasma catecholamine levels. Further work-up revealed bilateral adrenal masses diagnosed as pheochromocytoma and medullary thyroid cancer. The patient was diagnosed with multiple endocrine neoplasia (MEN) type 2 and underwent bilateral laparoscopic adrenalectomy and total thyroidectomy with central and lateral neck dissection, and during surveillance, she was found to have recurrent pheochromocytoma. We also discuss the diagnosis and management of recurrent pheochromocytoma in MEN syndrome.",
-      "journal": "Cureus",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42880706",
-      "doi": "10.1016/j.wneu.2026.125423",
-      "title": "Sinonasal and Olfactory Quality of Life Following Endonasal Transsphenoidal Surgery for Pituitary Adenoma: A Multicenter Prospective Cohort Triphasic Recovery Analysis in Ethiopia.",
-      "abstract": "To characterize the sinonasal and olfactory quality of life (QoL) trajectory. A multicenter prospective cohort study was conducted on 91 patients undergoing TSS at Addis Ababa University teaching hospitals between May 2024 and August 2025. QoL was evaluated using the Sino-Nasal Outcome Test (SNOT-22) questionnaire v4 preoperatively and at 3- and 6-month postoperatively. Analysis revealed a characteristic triphasic recovery pattern: low preoperative baseline, a transient peak in morbidity at 3 months, and an improvement toward baseline by 6 months for most systemic domains. At 3 months, significant score worsening occurred for loss of smell/taste (mean: 1.7, p < 0.001), thick discharge (mean: 1.0, p < 0.001), congestion (mean: 1.0, p < 0.001), postnasal discharge (mean: 0.7, p < 0.001), and runny nose (mean: 0.5, p = 0.003). By 6 months, persistence was confined to loss of smell/taste (p < 0.001), thick discharge (p < 0.001), and congestion (p = 0.005). Exploratory analysis in the nasoseptal flap cohort (n = 3) showed higher scores. Preliminary findings of delayed ear pain/fullness in acromegaly at 6 months hypothesized to reflect a link between growth hormone normalization and altered Eustachian tube function. Poorer sleep with binostril access (p = 0.017) speculatively associated with bilateral synechiae under limited postoperative care. Unlike Western cohorts, protracted recovery may reflect lack of standardized high-volume saline irrigation and scheduled debridement. TSS demonstrates a favorable long-term QoL profile; however, localized sinonasal and olfactory deficits often persist at 6 months.",
-      "journal": "World neurosurgery",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42895208",
-      "doi": "10.1530/EC-26-0506",
-      "title": "Structured Physiotherapy Improves Functional Outcomes in Acromegalic Arthropathy After Biochemical Remission: A Prospective Controlled Study.",
-      "abstract": "Musculoskeletal symptoms frequently persist in acromegaly despite biochemical remission, yet the impact of structured physiotherapy on pain, stiffness, and function remains poorly defined. To evaluate the effects of a standardized knee-focused physiotherapy program in controlled acromegaly and to identify clinical predictors of treatment responsiveness. Thirteen patients with acromegaly in remission and 13 age-, gender-, and BMI-matched individuals with primary knee osteoarthritis completed a 15-session physiotherapy program. Outcomes were assessed pre- and post-intervention using the Brief Pain Inventory (BPI) and WOMAC. Minimal clinically significant difference (MCID) thresholds (\u22652 for BPI, \u226510 for WOMAC) determined meaningful improvement. Correlation analyses examined associations between clinical variables and \u0394 scores. Acromegaly patients showed significant improvements in all BPI and WOMAC domains (p<0.001). MCID was achieved by 85% for BPI and 100% for WOMAC Total. Pain and function improved most, whereas stiffness showed limited responsiveness. Compared with osteoarthritis controls, acromegaly patients demonstrated smaller \u0394 changes; baseline-adjusted analyses (ANCOVA) indicated that this attenuated response was largely explained by greater baseline severity in the control group, whereas the persistently greater stiffness in acromegaly remained significant even after adjustment. BMI correlated positively with improvements in BPI Total (r = 0.63) and BPI Pain Severity (r = 0.69), while adenoma size correlated negatively with both measures (r = -0.57 and -0.60). BMI showed a negative association with WOMAC Total improvement (r = -0.59). Stiffness changes were strongly negatively correlated with pretreatment IGF-1 (r = -0.77). Structured physiotherapy yields clinically meaningful improvements in pain and function in acromegaly, while stiffness appears less reversible and more structurally driven. Early musculoskeletal assessment and physiotherapy integration may enhance long-term management.",
-      "journal": "Endocrine connections",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Case Reports"
       ]
     },
     {
@@ -274,91 +188,11 @@
       ]
     },
     {
-      "pmid": "42892180",
-      "doi": "10.1016/j.ghir.2026.101728",
-      "title": "Endocrine therapies and hormonal dysfunction after traumatic brain injury: A scoping review.",
-      "abstract": "Traumatic brain injury (TBI) is a leading cause of morbidity and mortality worldwide, with current management strategies primarily focused on preventing secondary injury rather than modifying disease progression. Post-traumatic endocrine dysfunction has emerged as a significant and potentially treatable contributor to outcomes after TBI. A scoping review was conducted following PRISMA-ScR guidelines. PubMed, Embase, Scopus, and Web of Science were searched from inception to September 2025 for clinical studies evaluating endocrine dysfunction and endocrine-targeted therapies post-TBI. Eligible studies included clinical trials and observational studies reporting either an endocrine outcome following TBI or an endocrine-targeted intervention with clinical or biochemical outcomes. Sixty-seven studies met the inclusion criteria. Endocrine dysfunction was common, affecting multiple hormone axes, with growth hormone (GH) deficiency being the most frequently reported deficiency; hypoprolactinemia and hyperprolactinemia were also identified and are increasingly recognized contributors to post-TBI metabolic morbidity. Growth hormone replacement therapy demonstrated improvements in cognitive function, fatigue, mood, and quality of life in several studies; however, its effects on functional outcomes and mortality were inconsistent. Progesterone showed benefit in early-phase trials but failed to demonstrate efficacy in large multicenter randomized controlled trials, an inconsistency that appears closely tied to the timing of treatment initiation after injury. Other therapies, including desmopressin and glucocorticoids, were primarily used for supportive management, with limited evidence of neuroprotective benefit. Endocrine dysfunction after TBI is prevalent, heterogeneous, and associated with worse clinical outcomes. While endocrine therapies, particularly GH, show promise, their translation into clinical practice is limited by heterogeneity in study design, small sample sizes, and inconsistent findings. Larger, well-designed trials and consensus clinical guidelines are needed to define optimal therapeutic strategies and integrate endocrine care into the optimal management of TBI patients.",
-      "journal": "Growth hormone & IGF research : official journal of the Growth Hormone Research Society and the International IGF Research Society",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "42877869",
-      "doi": "10.7759/cureus.117583",
-      "title": "From Trauma to Tumour: Incidental Giant Left Adrenal Myelolipoma in Congenital Adrenal Hyperplasia.",
-      "abstract": "Adrenal myelolipomas are rare, benign tumours composed of mature adipose and haematopoietic tissue. Patients with congenital adrenal hyperplasia (CAH) are predisposed to their development, with chronic adrenocorticotropic hormone (ACTH) hypersecretion secondary to impaired cortisol synthesis thought to be the principal driver of myelolipoma formation in this population. A 49-year-old female with known CAH presented to the emergency department following a stab wound to the abdomen. Computed tomography (CT) incidentally identified a 12 cm encapsulated left adrenal lesion consistent with a giant myelolipoma. Despite reported adherence to hydrocortisone and fludrocortisone replacement therapy, persistently elevated adrenal steroid precursors and plasma renin levels suggested suboptimal glucocorticoid control. Following multidisciplinary team (MDT) review, the patient was offered a left adrenalectomy given the lesion size (>10 cm) and concerns regarding the risk of spontaneous haemorrhage. This case underscores the importance of systematic imaging review beyond the primary indication for scanning, and the value of optimising biochemical monitoring and considering adrenal imaging in selected high-risk CAH patients.",
-      "journal": "Cureus",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42902609",
-      "doi": "10.4274/jcrpe.galenos.2026.2026-4-22",
-      "title": "Mixed Presentation of Hyperglycemic Hyperosmolar State and Diabetic Ketoacidosis in a Pediatric Patient: a Case Report and Literature Review.",
-      "abstract": "The coexistence of diabetic ketoacidosis (DKA) and hyperglycemic hyperosmolar state (HHS), known as mixed hyperglycemic crisis, is a rare but potentially fatal metabolic emergency in pediatrics, and is frequently underrecognized because it is misclassified as isolated DKA. It carries a higher risk of complications than either entity alone, particularly in patients with complex comorbidities. We describe the case of a 16-year-old female with myelomeningocele, neurogenic bladder, obesity, and insulin resistance, who had self-discontinued treatment with metformin, atorvastatin, and allopurinol one year prior and presented with sudden neurological deterioration. Initial workup revealed extreme hyperglycemia (1,777 mg/dL), severe hyperosmolarity (431 mOsm/kg), decompensated metabolic acidosis (pH 7.13), and positive urine ketones (+++), consistent with a mixed DKA-HHS presentation. She subsequently developed septic shock of urinary origin, acute kidney injury, and acute pancreatitis (lipase 3,911 U/L). Despite intensive management guided by International Society for Pediatric and Adolescent Diabetes-ISPAD recommendations, she progressed to refractory shock and multiorgan failure, dying within 48 hours of admission. To the best of our knowledge, this represents one of the most extreme metabolic derangements reported in pediatric mixed hyperglycemic crisis. The convergence of extreme hyperosmolarity, concurrent sepsis, and structural comorbidities created a lethal risk phenotype in which sepsis, rather than the degree of metabolic derangement alone, appeared to determine the fatal outcome. Early recognition and an individualized therapeutic approach are essential to improve outcomes in vulnerable pediatric patients.",
-      "journal": "Journal of clinical research in pediatric endocrinology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42888329",
-      "doi": "10.1007/s11102-026-01765-8",
-      "title": "Pediatric sellar and parasellar lesions: a population-based cohort study of presentation, management, and endocrine outcomes.",
-      "abstract": "Population-based studies describing the full clinical spectrum of pediatric sellar and parasellar lesions are scarce. Most available data derive from referral-based surgical or diagnosis-specific cohorts. We aimed to characterize presentation, lesion pathology, management, and long-term endocrine outcomes in a population-based cohort. We conducted a retrospective, population-based cohort study of patients aged 18 years or younger diagnosed with sellar or parasellar lesions between 1976 and 2021 in a multicounty region. Clinical presentation, lesion characteristics, management, and endocrine outcomes were abstracted from medical records. Associations were evaluated by lesion type, lesion size (<\u200910\u00a0mm vs. \u226510\u00a0mm), and management approach. Among 104 patients, endocrine abnormalities at diagnosis differed by lesion type (p\u2009=\u20090.0004) and were most frequent among patients with pituitary adenomas. Endocrine dysfunction at presentation was more common with lesions\u2009\u2265\u200910\u00a0mm than with lesions\u2009<\u200910\u00a0mm (74.2% vs. 49.2%; p\u2009=\u20090.0217). Post-treatment endocrine abnormalities were also more common with lesions\u2009\u2265\u200910\u00a0mm (64.5% vs. 13.1%; p\u2009<\u20090.0001). Associations with treatment modality were descriptive and subject to confounding by indication. This population-based cohort captured a broad spectrum of pediatric sellar and parasellar disease, including uncommon lesions and conservatively managed cases. Endocrine morbidity was associated with lesion type and size, but clinically relevant abnormalities also occurred in smaller lesions, supporting endocrine evaluation based on clinical context and longitudinal surveillance.",
-      "journal": "Pituitary",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42831607",
-      "doi": "10.14712/23362936.2026.27",
-      "title": "A Clinical Insight into Von Hippel-Lindau Syndrome: Diagnostic Challenges.",
-      "abstract": "Von Hippel-Lindau (VHL) syndrome is a rare hereditary disorder characterised by the development of multiple benign and malignant tumours across various organs. Caused by mutations in the VHL tumour suppressor gene, it presents a wide range of clinical manifestations, including retinal haemangioblastomas, central nervous system tumours, renal cell carcinoma, pancreatic lesions, and phaeochromocytomas. This report describes the case of a 35-year-old woman who presented with visual impairment and abdominal masses. Imaging revealed typical VHL manifestations, including bilateral renal lesions and pancreatic involvement. Genetic testing confirmed the diagnosis. The patient underwent staged partial nephrectomies, with histopathology confirming clear cell renal cell carcinoma in both kidneys. This case highlights the importance of recognising the variable clinical and radiological presentations of VHL syndrome. Early diagnosis and multidisciplinary management are essential to reduce morbidity and mortality. Increased awareness and regular surveillance are critical for timely detection and intervention in patients with VHL syndrome.",
-      "journal": "Prague medical report",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Case Reports"
-      ]
-    },
-    {
-      "pmid": "42866793",
-      "doi": "10.4103/ijnmr.ijnmr_183_24",
-      "title": "The Effect of Digital Storytelling on the Anxiety of Patients with Pituitary Adenoma Undergoing Transsphenoidal Surgery: A Randomized Controlled Clinical Trial.",
-      "abstract": "Patients with pituitary adenoma often experience anxiety due to hormonal changes and the stress associated with transsphenoidal surgery. Digital storytelling, as an innovative multimedia-based training method, has recently been used in patient education. This study investigated the effect of digital storytelling on the anxiety of patients with pituitary adenoma undergoing transsphenoidal surgery. This randomized controlled trial was conducted on 70 patients with pituitary adenoma scheduled for transsphenoidal surgery at a teaching hospital affiliated with Tehran University of Medical Sciences. Participants were randomly assigned to an intervention or a control group. The intervention group received a 15-20-minute digital storytelling program that included experiences shared by patients and nurses regarding preoperative and postoperative care, while the control group received routine hospital education. Anxiety levels were measured a day before surgery, a day after surgery, and three weeks later using Spielberger's State Anxiety Scale. Data were analyzed by SPSS-25 software using descriptive and inferential statistics. The mean score of anxiety in the intervention group decreased by 12.45 (1.24) units a day after the surgery and by 24.82 (1.32) units three weeks after the surgery compared to baseline (p < 0.001). A significantly lower anxiety level was observed in the intervention group at both post-intervention time periods compared to the pre-intervention time (F = 17.05, p < 0.001). Repeated measures Analysis of Variance confirmed a significant interaction between time and group (F = 25.31, p < 0.001). Digital storytelling was effective in reducing anxiety among patients with pituitary adenoma undergoing transsphenoidal surgery and may serve as a valuable educational intervention.",
-      "journal": "Iranian journal of nursing and midwifery research",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42902597",
-      "doi": "10.1177/15578100261499499",
-      "title": "Oral Versus Injectable Incretin-Based Anti-Obesity Therapies: An Integrated Computational and Evidence-Based Comparison of Orforglipron, Semaglutide, and Tirzepatide.",
-      "abstract": "Incretin-based agents are transforming obesity pharmacotherapy, and orforglipron, the first oral non-peptide GLP-1 receptor agonist to complete phase 3 testing, invites direct comparison with the injectable agents semaglutide and tirzepatide. We integrated clinical trial evidence, including the direct head-to-head SURMOUNT-5 trial, independently verified molecular descriptors, a fully specified drug-target-disease network with permutation-tested hub significance, hypergeometric pathway enrichment, and multi-criteria decision analysis (MCDA) across four weighting schemes with formal sensitivity analysis. Tirzepatide produced significantly greater weight loss than semaglutide under randomized, head-to-head conditions (20.2% vs. 13.7% at week 72) and ranked highest under balanced, efficacy-, and safety-dominant MCDA models once a composite ADMET score misapplied to two large peptides was removed. Orforglipron's lipophilicity exceeds the Lipinski ceiling, showing that its oral absorption reflects deliberate chemistry rather than default small-molecule developability; it nonetheless ranked highest under an accessibility-dominant model driven by oral feasibility and manufacturing scalability. These rankings were stable under Monte Carlo sensitivity analysis for three of four weighting schemes, with the balanced model comparatively fragile. Tirzepatide's cardiovascular evidence has also advanced, with SURPASS-CVOT reporting non-inferiority to dulaglutide. No single agent dominates every criterion; treatment selection should match the clinical priority the individual patient weights most heavily.",
-      "journal": "Omics : a journal of integrative biology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42890916",
-      "doi": "10.7573/dic.2026-7-5",
-      "title": "Pegvisomant in severe, treatment-resistant thyroid eye disease: a case report.",
-      "abstract": "Teprotumumab, a monoclonal antibody against the IGF1 receptor, has proven effective in the treatment of thyroid eye disease (TED). Pegvisomant reduces IGF1 levels through selective inhibition of growth hormone receptors. Here, we present a hypothesis-generating case of a 69-year-old patient with progressive TED. Pegvisomant 20 mg was administered daily for 90 days. IGF1 levels declined and remained low-normal during treatment. Clinical activity scores and VISA (vision, inflammation, strabismus and appearance) scores improved rapidly. MRI assessment showed that water content of both extraocular muscles and orbital connective tissue decreased after treatment. 99mTc-DTPA SPECT confirmed the decrease in disease activity. Further studies may confirm the efficacy of pegvisomant in TED. A 69-year-old female patient with severe, active thyroid eye disease (TED) \u2013 a condition linked to Graves\u2019 disease where the body\u2019s immune system attacks tissues around the eyes \u2013 presented with bulging eyes (proptosis), double vision, eye redness, swelling and reduced visual sharpness.Prior treatments with standard therapies for TED, including intravenous steroid courses, radiation therapy targeting the orbit (eye socket) and the biological drug rituximab, failed to achieve improvement. TED progresses in part because proteins called IGF1 receptors on the surface of eye-socket tissues are overactivated. The researchers hypothesized that using pegvisomant, which is a medication typically used for acromegaly (hormone imbalance) that lowers insulin-like growth factor 1 (IGF1) levels in the blood, would reduce activation of these receptors and ease eye inflammation.The patient received a daily 20 mg injection of pegvisomant for 90 days. Symptom improvement The patient experienced a rapid reduction in eye pain, redness and swelling, alongside marked improvement in visual sharpness and colour vision within 8 weeks.MRI and imaging results Orbital MRI and nuclear imaging showed a distinct drop in tissue inflammation and fluid accumulation (oedema) in the muscles around the eye.Proptosis and double vision Eye bulging and double vision did not significantly change during the trial.Safety Pegvisomant was well tolerated with no reported side effects, and her blood sugar and liver function remained stable. Blood IGF1 levels dropped as expected and returned to normal after treatment ended. Pegvisomant rapidly reduced eye inflammation and improved vision in a patient whose TED had resisted standard therapies. However, because this was a single case study, the delayed effects from previous treatments cannot be entirely ruled out. Further clinical trials are needed to determine if pegvisomant is effective at higher doses or when given earlier in the disease course.",
-      "journal": "Drugs in context",
+      "pmid": "42909441",
+      "doi": "10.1016/j.jaccas.2026.110740",
+      "title": "Pacing Rate Acceleration in Right-Sided Heart Failure: Insight From an On-Off-On Clinical Course.",
+      "abstract": "Treatment options remain limited for patients with right-sided heart failure (RHF) and severe tricuspid regurgitation (TR). Whether higher heart rate is beneficial in patients with RHF remains unclear. A 74-year-old woman with RHF and severe TR experienced marked hemodynamic and symptomatic improvement after increasing her permanent pacing rate from 60 to 90 beats/min. At 3 months, rate reduction to 60 beats/min provoked symptom recurrence within 3 days; restoring the rate to 90 beats/min promptly relieved symptoms. At 6 months, left ventricular ejection fraction remained preserved and right ventricular size remained reduced, although TR remained severe. This case suggests that increasing the pacing rate may optimize right-sided heart hemodynamics and improve symptoms in selected patients with RHF, although further validation is needed. An on-off-on response to pacing-rate adjustment-symptoms improving with higher rates and worsening at lower rates-supports a potential beneficial effect of heart rate elevation in selected patients with refractory RHF.",
+      "journal": "JACC. Case reports",
       "year": "2026",
       "publication_types": [
         "Case Reports",
@@ -378,15 +212,153 @@
       ]
     },
     {
-      "pmid": "42902595",
-      "doi": "10.1080/07317115.2026.2746043",
-      "title": "Clinical Hypnosis as a Supportive Nonpharmacological Intervention for Distress and Pain in Older Adults in Hospital Settings: A Scoping Review.",
-      "abstract": "This scoping review mapped the available evidence on clinical hypnosis as an adjunctive intervention for older adults in hospital and geriatric care, focusing on anxiety, distress, depression, pain, and intervention delivery. This scoping review followed PRISMA-ScR. PubMed and Scopus were searched without date restrictions. Eligible studies included adults aged 60 years or older receiving clinical hypnosis or hypnosis-based interventions in hospital or geriatric settings. Nine studies published between 2016 and 2026 included 757 participants across geriatric, procedural, palliative, neurosurgical, and orthopedic settings. Reductions in anxiety and procedural distress were most frequently reported, followed by pain, discomfort, and analgesic use. Only two studies assessed depression. Benefits were primarily reported when hypnosis was delivered in person near stressful procedures, rather than through brief recorded sessions. Variation in interventions and outcomes, along with limited fidelity reporting, restricted interpretation. The evidence suggests possible short-term benefits for anxiety and pain but does not establish comparative effectiveness. Depression, longer-term function, medication use, rehabilitation, and intervention fidelity remain insufficiently examined. Clinical hypnosis may be considered alongside usual care for older adults facing stressful procedures, provided they can follow verbal instructions and treatment is delivered safely.",
-      "journal": "Clinical gerontologist",
+      "pmid": "42877869",
+      "doi": "10.7759/cureus.117583",
+      "title": "From Trauma to Tumour: Incidental Giant Left Adrenal Myelolipoma in Congenital Adrenal Hyperplasia.",
+      "abstract": "Adrenal myelolipomas are rare, benign tumours composed of mature adipose and haematopoietic tissue. Patients with congenital adrenal hyperplasia (CAH) are predisposed to their development, with chronic adrenocorticotropic hormone (ACTH) hypersecretion secondary to impaired cortisol synthesis thought to be the principal driver of myelolipoma formation in this population. A 49-year-old female with known CAH presented to the emergency department following a stab wound to the abdomen. Computed tomography (CT) incidentally identified a 12 cm encapsulated left adrenal lesion consistent with a giant myelolipoma. Despite reported adherence to hydrocortisone and fludrocortisone replacement therapy, persistently elevated adrenal steroid precursors and plasma renin levels suggested suboptimal glucocorticoid control. Following multidisciplinary team (MDT) review, the patient was offered a left adrenalectomy given the lesion size (>10 cm) and concerns regarding the risk of spontaneous haemorrhage. This case underscores the importance of systematic imaging review beyond the primary indication for scanning, and the value of optimising biochemical monitoring and considering adrenal imaging in selected high-risk CAH patients.",
+      "journal": "Cureus",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42880706",
+      "doi": "10.1016/j.wneu.2026.125423",
+      "title": "Sinonasal and Olfactory Quality of Life Following Endonasal Transsphenoidal Surgery for Pituitary Adenoma: A Multicenter Prospective Cohort Triphasic Recovery Analysis in Ethiopia.",
+      "abstract": "To characterize the sinonasal and olfactory quality of life (QoL) trajectory. A multicenter prospective cohort study was conducted on 91 patients undergoing TSS at Addis Ababa University teaching hospitals between May 2024 and August 2025. QoL was evaluated using the Sino-Nasal Outcome Test (SNOT-22) questionnaire v4 preoperatively and at 3- and 6-month postoperatively. Analysis revealed a characteristic triphasic recovery pattern: low preoperative baseline, a transient peak in morbidity at 3 months, and an improvement toward baseline by 6 months for most systemic domains. At 3 months, significant score worsening occurred for loss of smell/taste (mean: 1.7, p < 0.001), thick discharge (mean: 1.0, p < 0.001), congestion (mean: 1.0, p < 0.001), postnasal discharge (mean: 0.7, p < 0.001), and runny nose (mean: 0.5, p = 0.003). By 6 months, persistence was confined to loss of smell/taste (p < 0.001), thick discharge (p < 0.001), and congestion (p = 0.005). Exploratory analysis in the nasoseptal flap cohort (n = 3) showed higher scores. Preliminary findings of delayed ear pain/fullness in acromegaly at 6 months hypothesized to reflect a link between growth hormone normalization and altered Eustachian tube function. Poorer sleep with binostril access (p = 0.017) speculatively associated with bilateral synechiae under limited postoperative care. Unlike Western cohorts, protracted recovery may reflect lack of standardized high-volume saline irrigation and scheduled debridement. TSS demonstrates a favorable long-term QoL profile; however, localized sinonasal and olfactory deficits often persist at 6 months.",
+      "journal": "World neurosurgery",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42906884",
+      "doi": "10.1016/j.eprac.2026.10.001",
+      "title": "Adrenal Collision Tumors: A Practical Application of the Existing Evidence.",
+      "abstract": "Adrenal collision tumors (ACTs) are rare lesions in which two histologically distinct tumors coexist within the same adrenal gland. They are almost always incidental findings, and although their heterogeneous, dual-component appearance can raise concern for malignancy, they seldom represent a distinct clinical problem. The principal pitfall they create is radiologic rather than biochemical: the mixed composition of an ACT renders the adrenal CT washout protocol unreliable and can mimic a neoplasm. The established adrenal incidentaloma pathway (biochemical exclusion of pheochromocytoma and adrenocortical carcinoma, imaging phenotyping, and size- and growth-based surveillance) reliably identifies both a functional and a malignant component of a collision tumor . Drawing on institutional experience and the published case literature, this narrative review describes the entity and its imaging caveats, and shows how the standard pathway can be applied to risk-stratify low-risk lesions and avoid unnecessary surgery while selecting appropriate first-line imaging.",
+      "journal": "Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists",
       "year": "2026",
       "publication_types": [
         "Journal Article",
         "Review"
+      ]
+    },
+    {
+      "pmid": "42909443",
+      "doi": "10.1016/j.jaccas.2026.110536",
+      "title": "PCCT and IVUS-NIRS for High-Risk Plaque Management.",
+      "abstract": "High-risk coronary plaque may be underrecognized in patients with atypical symptoms and negative biomarkers. Advanced coronary imaging can add anatomical and prognostic information. A 59-year-old woman presented with acute chest pain, mild ischemic electrocardiographic changes, and negative high-sensitivity troponin. Photon-counting computed tomography (PCCT) showed a predominantly noncalcified, lipid-rich-appearing plaque in the left anterior descending artery despite a low risk profile. Angiography confirmed significant stenosis, and intravascular ultrasound with near-infrared spectroscopy (NIRS) demonstrated a high-risk plaque phenotype with maximum lipid core burden index over 4 mm of 347. Percutaneous coronary intervention used distal drug-coated balloon treatment and proximal-to-mid drug-eluting stent implantation. Postprocedural imaging confirmed adequate stent expansion and lower NIRS lipid signal. This case highlights the complementary role of PCCT and intravascular imaging for identifying and managing vulnerable coronary plaque. PCCT for noninvasive plaque characterization and intravascular ultrasound-NIRS for intraprocedural guidance provide a complementary strategy for personalized management of vulnerable coronary plaque.",
+      "journal": "JACC. Case reports",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42877914",
+      "doi": "10.7759/cureus.116229",
+      "title": "A Case of MEN 2A Syndrome With Bilateral Recurrent Pheochromocytoma: A Case Report and Literature Review.",
+      "abstract": "Pheochromocytoma is a neuroendocrine tumor arising from chromaffin cells and producing catecholamines. Due to the excessive release of catecholamines, these tumors can present with paroxysmal episodes of high blood pressure, headache, diaphoresis, and palpitations. We present the case of a 23-year-old female patient who presented to the clinic with a history of headache, palpitations, and vomiting for two months. She was admitted for further investigations and management. Laboratory studies revealed elevated urinary and plasma catecholamine levels. Further work-up revealed bilateral adrenal masses diagnosed as pheochromocytoma and medullary thyroid cancer. The patient was diagnosed with multiple endocrine neoplasia (MEN) type 2 and underwent bilateral laparoscopic adrenalectomy and total thyroidectomy with central and lateral neck dissection, and during surveillance, she was found to have recurrent pheochromocytoma. We also discuss the diagnosis and management of recurrent pheochromocytoma in MEN syndrome.",
+      "journal": "Cureus",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42909474",
+      "doi": "10.1097/FTD.0000000000001528",
+      "title": "Clinical Interactions Between Antiseizure Medications and Direct Oral Anticoagulants: A Scoping Review on Therapeutic Failures and Knowledge Gaps.",
+      "abstract": "Antiseizure medications (ASMs) are often coprescribed with direct oral anticoagulants (DOACs). The pharmacokinetic (PK) interactions between ASMs and DOACs may result in altered exposure to anticoagulants, potentially increasing the risk of thromboembolic events or bleeding. This review summarizes the clinical evidence on drug-drug interactions between ASMs and DOACs. In accordance with PRISMA-ScR guidelines, a systematic literature search was conducted in PubMed (up to November 2025). All clinical reports and observational datasets reporting the concomitant use of at least 1 ASM and DOAC were included. ASM-DOAC combinations, PK findings, and reported clinical outcomes are presented. Thirty studies were included. Most reports involved enzyme-inducing ASMs (carbamazepine, phenobarbital, primidone, and oxcarbazepine), which were consistently associated with subtherapeutic DOAC plasma concentrations and severe clinical failures. Doubling the DOAC dose did not prevent these events in several cases. Rivaroxaban and apixaban were the most frequently described DOACs, whereas clinical data for edoxaban were limited. Evidence of non-enzyme-inducing ASMs, such as levetiracetam and valproic acid, was limited. Although enzyme-inducing ASMs compromised DOAC efficacy, the available clinical evidence was fragmented and prone to publication bias. The observed variability in interactions involving noninducing ASMs such as levetiracetam underlines the clinical complexity that may exceed theoretical PK predictions. Given the unpredictability of these interactions and the failure of empirical dose adjustments, a standardized approach for therapeutic drug monitoring and prospective, comparative trials are essential to guide personalized therapy in this high-risk population.",
+      "journal": "Therapeutic drug monitoring",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42890916",
+      "doi": "10.7573/dic.2026-7-5",
+      "title": "Pegvisomant in severe, treatment-resistant thyroid eye disease: a case report.",
+      "abstract": "Teprotumumab, a monoclonal antibody against the IGF1 receptor, has proven effective in the treatment of thyroid eye disease (TED). Pegvisomant reduces IGF1 levels through selective inhibition of growth hormone receptors. Here, we present a hypothesis-generating case of a 69-year-old patient with progressive TED. Pegvisomant 20 mg was administered daily for 90 days. IGF1 levels declined and remained low-normal during treatment. Clinical activity scores and VISA (vision, inflammation, strabismus and appearance) scores improved rapidly. MRI assessment showed that water content of both extraocular muscles and orbital connective tissue decreased after treatment. 99mTc-DTPA SPECT confirmed the decrease in disease activity. Further studies may confirm the efficacy of pegvisomant in TED. A 69-year-old female patient with severe, active thyroid eye disease (TED) \u2013 a condition linked to Graves\u2019 disease where the body\u2019s immune system attacks tissues around the eyes \u2013 presented with bulging eyes (proptosis), double vision, eye redness, swelling and reduced visual sharpness.Prior treatments with standard therapies for TED, including intravenous steroid courses, radiation therapy targeting the orbit (eye socket) and the biological drug rituximab, failed to achieve improvement. TED progresses in part because proteins called IGF1 receptors on the surface of eye-socket tissues are overactivated. The researchers hypothesized that using pegvisomant, which is a medication typically used for acromegaly (hormone imbalance) that lowers insulin-like growth factor 1 (IGF1) levels in the blood, would reduce activation of these receptors and ease eye inflammation.The patient received a daily 20 mg injection of pegvisomant for 90 days. Symptom improvement The patient experienced a rapid reduction in eye pain, redness and swelling, alongside marked improvement in visual sharpness and colour vision within 8 weeks.MRI and imaging results Orbital MRI and nuclear imaging showed a distinct drop in tissue inflammation and fluid accumulation (oedema) in the muscles around the eye.Proptosis and double vision Eye bulging and double vision did not significantly change during the trial.Safety Pegvisomant was well tolerated with no reported side effects, and her blood sugar and liver function remained stable. Blood IGF1 levels dropped as expected and returned to normal after treatment ended. Pegvisomant rapidly reduced eye inflammation and improved vision in a patient whose TED had resisted standard therapies. However, because this was a single case study, the delayed effects from previous treatments cannot be entirely ruled out. Further clinical trials are needed to determine if pegvisomant is effective at higher doses or when given earlier in the disease course.",
+      "journal": "Drugs in context",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42909466",
+      "doi": "10.1093/ecco-jcc/jjag149",
+      "title": "Dual therapy with tofacitinib and steroids for acute severe ulcerative colitis: a randomized double-blind placebo-controlled trial.",
+      "abstract": "One-third of patients with acute severe ulcerative colitis (ASUC) fail intravenous corticosteroids. We evaluated whether adding tofacitinib to corticosteroids reduces treatment failure in ASUC. In this single-center, double-blind, placebo-controlled trial, adults with ASUC were randomized 1:1 to tofacitinib (10\u2009mg three times daily for 3\u2009days, then twice daily) or placebo for 5\u2009days alongside corticosteroids. Primary outcome was treatment failure at day 6 (<3-point Lichtiger reduction or total score \u226510, or colectomy). Secondary outcomes were relapse (\u22653-point rise with total \u226510), rescue therapy, and colectomy at 90\u2009days. Modified intention-to-treat analysis was performed. (CTRI/2022/11/047186). Of 62 randomized patients, 58 were analyzed: 33 in the tofacitinib arm and 25 in the placebo arm. The trial was terminated early because of slow recruitment and did not reach the planned sample size of 98. Day 6 treatment failure was numerically lower with tofacitinib in unadjusted analysis (24.2% vs 36.0%; RR 0.67, 95% CI 0.30-1.51; P\u2009=\u2009.33) and significantly lower after adjustment for baseline covariate imbalance (adjusted RR 0.47, 95% CI 0.24-0.93; P\u2009=\u2009.03). At 90\u2009days, colectomy rates were similar (12.1% vs 12.0%; P\u2009=\u20091.0), but more tofacitinib-treated patients remained on assigned therapy (84.4% vs 54.2%) and rescue therapy was lower (HR 0.27, 95% CI 0.09-0.78; P\u2009=\u2009.01). Serious adverse events occurred in one versus three patients. No deaths occurred with tofacitinib versus two deaths with placebo. Dual therapy with tofacitinib and steroids in ASUC did not significantly reduce treatment failure at day 6, unless adjustment for baseline imbalance in serum albumin was taken into account. It reduced the need for rescue therapy over 90 days without affecting colectomy risk. Larger clinical trials are required to confirm these findings.",
+      "journal": "Journal of Crohn's & colitis",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ]
+    },
+    {
+      "pmid": "42866309",
+      "doi": "10.1097/MS9.0000000000005688",
+      "title": "Medullary thyroid carcinoma with pheochromocytoma and cystic parathyroid degeneration in a ret-negative patient: a case report.",
+      "abstract": "Multiple endocrine neoplasia type 2A (MEN2A) is a rare autosomal dominant hereditary cancer syndrome, predominantly caused by mutations of the RET proto-oncogene on chromosome 10q11.2. It typically presents with medullary thyroid carcinoma (MTC), pheochromocytoma, and primary hyperparathyroidism. Cases with a MEN2A phenotype but negative RET testing are uncommon, posing challenges for diagnosis and patient management. We report the case of a 63-year-old female who was diagnosed with MTC and pheochromocytoma. and cystic parathyroid gland. Genetic workup was negative for RET proto-oncogene mutations but positive for a heterozygous variant in the TMEM127 tumor suppressor gene. MEN2A is associated with pathogenic germline variants in the RET proto-oncogene in approximately 95-99% of cases. Our patient, however, exhibited a MEN2A-like clinical phenotype in the absence of an identifiable RET mutation, with a pathogenic TMEM127 variant instead. Although TMEM127 is an established susceptibility gene for pheochromocytoma and paraganglioma, its association with the broader MEN2A phenotype remains unclear. This unusual genotype-phenotype discordance raises important questions regarding the potential role of alternative genetic pathways in MEN2-like syndromes and creates uncertainty regarding postoperative surveillance and the appropriate extent of screening and genetic counseling for family members. Our case represents an unusual scenario where the patient presents with a clinical phenotype of MEN2A but is RET negative and positive heterozygous for a variant in the TMEM127. This atypical genetic finding introduces complexities in determining the appropriate follow-up protocol and the scope of familial screening necessary.",
+      "journal": "Annals of medicine and surgery (2012)",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42866793",
+      "doi": "10.4103/ijnmr.ijnmr_183_24",
+      "title": "The Effect of Digital Storytelling on the Anxiety of Patients with Pituitary Adenoma Undergoing Transsphenoidal Surgery: A Randomized Controlled Clinical Trial.",
+      "abstract": "Patients with pituitary adenoma often experience anxiety due to hormonal changes and the stress associated with transsphenoidal surgery. Digital storytelling, as an innovative multimedia-based training method, has recently been used in patient education. This study investigated the effect of digital storytelling on the anxiety of patients with pituitary adenoma undergoing transsphenoidal surgery. This randomized controlled trial was conducted on 70 patients with pituitary adenoma scheduled for transsphenoidal surgery at a teaching hospital affiliated with Tehran University of Medical Sciences. Participants were randomly assigned to an intervention or a control group. The intervention group received a 15-20-minute digital storytelling program that included experiences shared by patients and nurses regarding preoperative and postoperative care, while the control group received routine hospital education. Anxiety levels were measured a day before surgery, a day after surgery, and three weeks later using Spielberger's State Anxiety Scale. Data were analyzed by SPSS-25 software using descriptive and inferential statistics. The mean score of anxiety in the intervention group decreased by 12.45 (1.24) units a day after the surgery and by 24.82 (1.32) units three weeks after the surgery compared to baseline (p < 0.001). A significantly lower anxiety level was observed in the intervention group at both post-intervention time periods compared to the pre-intervention time (F = 17.05, p < 0.001). Repeated measures Analysis of Variance confirmed a significant interaction between time and group (F = 25.31, p < 0.001). Digital storytelling was effective in reducing anxiety among patients with pituitary adenoma undergoing transsphenoidal surgery and may serve as a valuable educational intervention.",
+      "journal": "Iranian journal of nursing and midwifery research",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42909465",
+      "doi": "10.1093/ecco-jcc/jjag151",
+      "title": "Perianal fistulizing Crohn's disease increases infliximab clearance and causes low infliximab exposure (ATLANTIC).",
+      "abstract": "In perianal fistulizing Crohn's disease (PFCD), higher infliximab (IFX) serum concentrations are associated with improved outcomes. PFCD patients frequently require dose intensification to reach recommended therapeutic targets. IFX pharmacokinetics (PK) in PFCD have not been previously characterized. We hypothesized that drug clearance (CL) is increased in PFCD compared to luminal Crohn's disease (LCD). Patients with PFCD and LCD starting standard-dose intravenous IFX (5\u2009mg/kg at weeks 0, 2, and 6, thereafter every 8\u2009weeks) were enrolled. At every visit, serum samples were collected until week 52 to measure IFX trough levels (TL) and anti-drug antibodies. A population PK model was constructed using nonlinear mixed-effects modeling and adjusted for clinically relevant covariates. A total of 148 patients were included (62 PFCD, 86 LCD) with 756 serum samples analyzed. IFX PK was described by a two-compartment model with linear elimination. After adjusting for dose, weight, serum albumin, and anti-drug antibodies, population PK modeling revealed a 23% increase in IFX CL among patients with progressive perianal fistulas during the first 14\u2009weeks (P\u2009=\u2009.007). During induction, recommended target IFX TL was achieved in fewer PFCD than LCD patients (43% vs 57%, P\u2009=\u2009.04). At week 14, PFCD patients had lower median IFX TL than LCD (2.9 vs 4.8\u2009\u03bcg/mL, P\u2009=\u2009.02), with fewer PFCD patients reaching phenotype-specific target TL (9% vs 46%, P\u2009<\u2009.001) compared to LCD. The presence of perianal fistulas increases IFX CL in patients with Crohn's disease, resulting in significantly lower and frequently subtherapeutic serum concentrations after standard induction dosing.",
+      "journal": "Journal of Crohn's & colitis",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42909451",
+      "doi": "10.1016/j.kint.2026.09.017",
+      "title": "Long-term efficacy and safety for the complement factor B inhibitor iptacopan in IgA nephropathy.",
+      "abstract": "Iptacopan, a factor B inhibitor, targets alternative complement pathway overactivation, a key driver of glomerular inflammation in IgA nephropathy. In the phase 3 APPLAUSE-IgAN trial (NCT04578834), iptacopan significantly slowed kidney function decline versus placebo over 24 months (difference in total estimated glomerular filtration rate [eGFR] slope: 3.02 ml/min per 1.73 m2 per year [95% confidence interval (CI) 2.02, 4.01; P < 0.001]). Patients who completed APPLAUSE-IgAN or the phase 2 iptacopan trial (NCT03373461) could enter an open-label rollover extension program (REP) (NCT04557462). Patients in this REP receive oral iptacopan 200 mg twice daily alongside supportive care. Patients from the phase 2 trial were not included in efficacy analyses. Overall, 194 and 174 patients from the APPLAUSE-IgAN iptacopan and placebo arms, respectively, entered the REP. In patients who received iptacopan for up to 48 months, the total annualized eGFR slope was -3.49 ml/min per 1.73 m2 per year (95% CI -4.17, -2.80). Urine protein-to-creatinine ratio from first morning void (UPCR-FMV) reduction was sustained through 48 months with iptacopan (geometric mean ratio to baseline: 0.61 [95% CI 0.50, 0.75]). Before receiving iptacopan, the total eGFR slope over 24 months in APPLAUSE-IgAN placebo arm patients who entered the REP was -5.29 ml/min per 1.73 m2 per year (95% CI -6.09, -4.49). After switching to iptacopan, the total eGFR slope improved to -2.11 ml/min per 1.73 m2 per year (95% CI -3.08, -1.13) over the next 24 months. UPCR-FMV decreased after switching (geometric mean ratio to baseline at month 48: 0.74 [95% CI 0.59, 0.91]). Long-term safety up to 5 years (median treatment duration: 29.9 months) was consistent with the known profile of iptacopan. Long-term treatment with iptacopan led to sustained slowing in eGFR decline and proteinuria reduction that were also observed after switching from placebo. No new safety signals were observed. Registered at ClinicalTrials.gov with study numbers NCT04578834 (APPLAUSE-IgAN), NCT03373461 (phase 2 trial of iptacopan in IgAN), and NCT04557462 (rollover extension program).",
+      "journal": "Kidney international",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42909463",
+      "doi": "10.1093/ije/dyag226",
+      "title": "Differences in SARS-CoV-2 rapid diagnostic testing usage by COVID-19 vaccination status can bias vaccine effectiveness estimates against symptomatic SARS-CoV-2 infection from a test-negative design.",
+      "abstract": "Use of rapid diagnostic tests (RDTs) may bias vaccine effectiveness (VE) estimates from test-negative design (TND) studies. We conducted individual-level simulations using national, US COVID-19 surveillance data to assess potential bias at varying likelihoods of visiting a healthcare facility and prevalence of RDT use. Twenty-one scenarios that varied the probabilities of visiting a healthcare facility and RDT use by vaccination status were simulated. VE was calculated as 100\u2009\u00d7\u2009(1\u2009-\u2009odds ratio), comparing the odds of symptomatic SARS-CoV-2 infection between vaccinated and unvaccinated groups of people. VE estimates were compared to VE estimates from simulations without RDT testing to calculate the bias in percentage points (pp). VE was underestimated when either vaccinated people were more likely (probability of .5) than unvaccinated people (probability of .3) to visit a healthcare facility after a positive RDT [-5.8%age points (pp); 95% uncertainty interval (UI): -9.1, -2.4] or unvaccinated people were more likely than vaccinated people to visit a healthcare facility after a negative RDT (bias\u2009=\u2009-6.1 pp; UI: -9.9, -2.5). Conversely, VE was overestimated when either vaccinated people were more likely than unvaccinated people to visit a healthcare facility after a negative RDT (bias = 5.2; UI: 2.4, 7.7) or unvaccinated people were more likely than vaccinated people to visit a healthcare facility after a positive RDT (bias = 8.4 pp; UI: 5.6, 11.3). VE estimates against symptomatic SARS-CoV-2 infection from a TND may be under- or overestimated, depending on differences in RDT usage between vaccination groups.",
+      "journal": "International journal of epidemiology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
       ]
     }
   ]

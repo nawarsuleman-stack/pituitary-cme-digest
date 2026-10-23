@@ -139,6 +139,7 @@
     "42871306",
     "42874048",
     "42877096",
+    "42877869",
     "42878008",
     "42878120",
     "42878776",
@@ -152,10 +153,12 @@
     "42891093",
     "42892180",
     "42893849",
+    "42894725",
     "42895208",
     "42897569",
     "42897807",
-    "42898843"
+    "42898843",
+    "42906884"
   ],
   "sessions": [
     {
@@ -2388,6 +2391,49 @@
           "quiz_question": "A 35-year-old male presents 18 months after moderate TBI with persistent fatigue, cognitive slowing, and low libido. Screening reveals low IGF-1 and an inadequate GH response to stimulation testing. What does the current evidence base suggest regarding GH replacement in this population, and what caveat should guide your counseling?",
           "quiz_answer": "GH replacement after TBI-related GH deficiency has shown improvements in cognition, fatigue, mood, and quality of life in several studies reviewed. However, effects on functional outcomes and mortality are inconsistent, study designs are highly heterogeneous, and sample sizes are generally small. Patients should be counseled that evidence is promising but not yet definitive, and that larger, well-designed trials are still needed.",
           "journal": "Growth hormone & IGF research : official journal of the Growth Hormone Research Society and the International IGF Research Society",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-24",
+      "items": [
+        {
+          "pmid": "42906884",
+          "doi": "10.1016/j.eprac.2026.10.001",
+          "title": "Adrenal Collision Tumors: A Practical Application of the Existing Evidence.",
+          "category": "notable",
+          "summary": "This narrative review tackles a practical pitfall in adrenal incidentaloma workup: collision tumors (two histologically distinct lesions in the same gland) render the standard CT washout protocol unreliable, potentially mimicking malignancy. The authors argue that the established incidentaloma pathway\u2014biochemical exclusion of pheochromocytoma and adrenocortical carcinoma, followed by imaging phenotyping and size/growth-based surveillance\u2014remains the correct framework and can reliably identify both functional and malignant components without reflexive surgery. The key clinical message is that the radiologic complexity of collision tumors should not override a structured risk-stratification approach.",
+          "caveat": "This is a narrative review drawing on institutional experience and case literature, not a prospective cohort or systematic review, so the evidence base is inherently limited and subject to publication bias toward unusual cases.",
+          "quiz_question": "A 58-year-old woman has an adrenal incidentaloma with a heterogeneous CT appearance: one region has density <10 HU and another region has soft-tissue density that does not washout appropriately. Biochemical workup is negative for pheochromocytoma and hypercortisolism. What is the most important caveat when interpreting the CT washout data, and what is the recommended next step?",
+          "quiz_answer": "In an adrenal collision tumor, the mixed composition of the lesion renders CT washout calculations unreliable\u2014the lipid-poor component will dilute washout percentages and can falsely suggest malignancy. The recommended approach is to continue the standard incidentaloma pathway: confirm biochemical exclusion of pheochromocytoma and adrenocortical carcinoma, consider alternative imaging (e.g., MRI with chemical shift or FDG-PET) for further phenotyping, and apply size- and growth-based surveillance rather than proceeding directly to surgery based on washout failure alone.",
+          "journal": "Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists",
+          "year": "2026"
+        },
+        {
+          "pmid": "42877869",
+          "doi": "10.7759/cureus.117583",
+          "title": "From Trauma to Tumour: Incidental Giant Left Adrenal Myelolipoma in Congenital Adrenal Hyperplasia.",
+          "category": "preliminary",
+          "summary": "This case report describes a 49-year-old woman with known CAH in whom a 12 cm adrenal myelolipoma was incidentally discovered on trauma CT, highlighting that chronic ACTH hypersecretion from suboptimal glucocorticoid control is the principal driver of myelolipoma development in CAH. Despite reported adherence to hydrocortisone and fludrocortisone, persistently elevated adrenal steroid precursors and renin confirmed inadequate control. The patient was referred for adrenalectomy given size >10 cm and hemorrhage risk, reinforcing that rigorous biochemical monitoring and periodic adrenal imaging should be considered in CAH patients.",
+          "caveat": "Single case report; no systematic data on optimal surveillance imaging intervals or size thresholds for surgery in CAH-associated myelolipoma. The hemorrhage risk at >10 cm is extrapolated from sporadic myelolipoma literature rather than CAH-specific evidence.",
+          "quiz_question": "A 45-year-old man with classic 21-hydroxylase deficiency CAH on hydrocortisone and fludrocortisone presents for routine follow-up. His 17-OHP is markedly elevated and renin is elevated. Abdominal imaging for an unrelated indication reveals a 7 cm left adrenal lesion with macroscopic fat on CT, consistent with myelolipoma. What is the most likely pathophysiological driver of myelolipoma formation in this patient, and what management change should be prioritized?",
+          "quiz_answer": "Chronic ACTH hypersecretion secondary to inadequate cortisol replacement is the principal driver of myelolipoma formation in CAH. The immediate priority is optimization of glucocorticoid (and mineralocorticoid) replacement to suppress ACTH, as evidenced by the elevated 17-OHP and renin indicating suboptimal control. For the lesion itself, given its size of 7 cm (below the >10 cm threshold where hemorrhage risk is highest), continued surveillance with imaging is reasonable while optimizing medical therapy, though multidisciplinary review is warranted.",
+          "journal": "Cureus",
+          "year": "2026"
+        },
+        {
+          "pmid": "42894725",
+          "doi": "10.7759/cureus.118088",
+          "title": "When Appearances Deceive: A Silent Somatotroph Macroadenoma Presenting With Acromegaloid Features and Paradoxically Low Insulin-Like Growth Factor-1.",
+          "category": "preliminary",
+          "summary": "This case illustrates a diagnostic trap: a 32-year-old man had classic acromegaloid phenotype (frontal bossing, spade hands, coarse facies) with a giant invasive sellar mass, yet preoperative IGF-1 was paradoxically below the reference range. Neuropathology confirmed a densely granulated PIT1-lineage somatotroph adenoma with GH immunopositivity and Ki-67 <2%, representing a silent somatotroph adenoma. The authors emphasize that clinical-biochemical discordance in the setting of a pituitary mass mandates histopathological and immunohistochemical confirmation, and that silent somatotroph adenomas carry risk of eventual phenotypic conversion to functioning acromegaly requiring long-term surveillance.",
+          "caveat": "Single case report; the mechanism for low IGF-1 despite GH-immunopositive tumor (possibly aberrant GH isoforms or receptor insensitivity) is speculative and not biochemically characterized in this report. Generalizability is limited.",
+          "quiz_question": "A 35-year-old woman presents with enlarging hands, jaw protrusion, and a 3 cm invasive pituitary macroadenoma on MRI. Her random GH is mildly elevated but IGF-1 is below the lower limit of normal. How should you interpret this clinical-biochemical discordance, and what is the key diagnostic step after surgical resection?",
+          "quiz_answer": "This pattern should raise suspicion for a silent somatotroph adenoma\u2014a PIT1-lineage tumor that immunohistochemically expresses GH but does not produce the full biochemical syndrome of acromegaly. IGF-1 alone is insufficient to exclude or confirm the diagnosis in this context. The key post-resection step is histopathological analysis with GH and Pit-1 immunohistochemistry; confirmation of a silent somatotroph adenoma mandates long-term neuroendocrine and neurosurgical surveillance given the potential for phenotypic transformation to overt acromegaly.",
+          "journal": "Cureus",
           "year": "2026"
         }
       ],
