@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-10-24",
+  "fetched_at": "2026-10-25",
   "date_window": {
-    "from": "2016/10/26",
-    "to": "2026/10/24"
+    "from": "2016/10/27",
+    "to": "2026/10/25"
   },
   "already_covered_pmids": [
     "41730814",
@@ -163,16 +163,31 @@
     "42897569",
     "42897807",
     "42898843",
-    "42906884"
+    "42906884",
+    "42911244",
+    "42911608",
+    "42911665"
   ],
   "candidates": [
     {
-      "pmid": "42920728",
-      "doi": "10.3389/fpubh.2026.1794604",
-      "title": "Bone health, obesity, and multimorbidity risk among teachers in under-resourced South African public primary schools: results from a cross-sectional DXA study.",
-      "abstract": "In low- and middle-income countries, adverse body composition risk is increasingly driven by structural determinants, including rapid urbanisation, nutrition transitions, and reduced opportunities for physical activity. Quantifying and interpreting bone, fat and lean mass risks require appropriate measurement and context-sensitive thresholds to detect subclinical vulnerability in under-resourced settings. Few studies, particularly from Africa, have quantified how these risks intersect and cluster with cardiometabolic and socio-demographic determinants. The purpose of this study was to characterise body composition profiles, estimate the prevalence and co-occurrence of risk phenotypes and examine their distribution across health determinants. The study was carried out in under-resourced public schools in Gqeberha, Eastern Cape, South Africa, as part of the KaziBantu project (ISRCTN18485542). A school-based workplace health intervention was conducted, using cross-sectional assessments. We employed dual-energy X-ray absorptiometry (DXA), assessed metabolic indicators, behavioural indicators (alcohol and tobacco use, device-measured physical activity, handgrip strength), and obtained demographic and medical data. Among 136 apparently healthy teachers (85% women; age 21-72\u202fyears; mean\u202f=\u202f47\u202fyears; standard deviation\u202f=\u202f11\u202fyears), body composition risk was prevalent: fat mass risk 91.8% (n\u202f=\u202f123/134; 95%CI 85.8-95.8%), lean mass risk 15.7% (n =\u202f21/134; 95%CI 10-23%) and bone mass risk 29.9% (n =\u202f40/134; 95%CI 22.3-38.4%). The most frequent combined phenotype was bone-fat risk (27.6%; n\u202f=\u202f37; 95%CI 20.2-36%), while 6% (n\u202f=\u202f8; 95%CI 2.6-11.4%) exhibited all three risks concurrently. Metabolic syndrome criteria were met in 53% (n\u202f=\u202f70; 95%CI 44.2-61.8%) of teachers, and adverse risk phenotypes were associated with elevated multimorbidity and poorer metabolic health. This is the first study from South Africa's Eastern Cape to report DXA-derived body composition profiles. Body composition risks and multimorbidity were prevalent, with likely substantial impacts on quality of life. Protecting teachers' health will require multi-level strategies, including workplace-based screening with low-cost tools (e.g., bioelectrical impedance), culturally responsive prevention such as targeted weight-bearing and resistance activity, and action on structural inequities, such as more equitable resourcing across schools to reduce occupational strain and stronger pathways that turn teachers' existing health coverage into timely screening and treatment. These strategies aim to safeguard well-being and sustain teachers' pivotal role in educating future generations.",
-      "journal": "Frontiers in public health",
+      "pmid": "42924757",
+      "doi": "10.3390/ijns12040080",
+      "title": "Newborn Screening for X-Linked Adrenoleukodystrophy: A Systematic Literature Review.",
+      "abstract": "X-linked adrenoleukodystrophy (X-ALD) is the most common leukodystrophy and peroxisomal disorder. It was added to newborn screening (NBS) programs following its first implementation in New York in 2013. Since then, X-ALD screening has expanded rapidly, although important differences exist among programs. This systematic review aimed to evaluate the global implementation of NBS for X-ALD, including screening methodologies, screening performance, prevalence estimates, genetic findings, and clinical follow-up outcomes. A systematic search of PubMed and EMBASE identified 13 publications describing NBS programs conducted between 2013 and June 2026. All programs used C26:0-lysophosphatidylcholine (C26:0-LPC) as the primary biomarker, although substantial heterogeneity was observed in analytical methodologies, cut-off values, screening algorithms, and follow-up strategies. Positive predictive values ranged from 9.1% to 100%, while screening detection rates varied from 1:3118 to 1:51,081, reflecting differences in study design, screening population, sample size, and screening approaches. Variants of uncertain significance (VUS) accounted for 52.6% of individuals detected with classified ABCD1 variant findings, representing a major challenge for genetic counseling and clinical management. Most identified newborns were asymptomatic at diagnosis, supporting the role of NBS in enabling early surveillance for adrenal insufficiency and cerebral disease before irreversible manifestations occur. In addition, differences between universal and sex-specific screening strategies highlight ongoing clinical and ethical debates regarding the scope of X-ALD NBS. Overall, current evidence supports the feasibility of NBS for X-ALD and its ability to enable presymptomatic ascertainment and early clinical surveillance; however, greater harmonization of screening protocols, improved variant interpretation, and long-term outcome studies are needed to optimize program performance and clinical benefit.",
+      "journal": "International journal of neonatal screening",
       "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42927030",
+      "doi": "10.1007/s12237-026-01833-z",
+      "title": "Drivers of Ecosystem Metabolism in an Anthropogenically Modified Delta.",
+      "abstract": "Estuaries are under threat globally from a wide range of stressors, with rates of ecosystem metabolism - respiration (R), gross primary production (GPP), and net ecosystem metabolism (NEM) - representing a way for resource managers to quantify their impacts. In this study, we assessed how natural and anthropogenic stressors have altered metabolism within the extensively modified Sacramento-San Joaquin Delta (\"Delta\") in California, USA. Metabolism was estimated using a diel open-water technique utilizing dissolved oxygen measurements from a high frequency (15\u00a0min) water quality monitoring array, and spanned 6 sites across 11\u00a0years (2014-2025). Our analyses were driven by a conceptual model of Delta carbon (C) cycling focused on 1) Invasive aquatic vegetation (IAV), 2) Phytoplankton, 3) Wastewater treatment plant (WWTP) upgrades, 4) Large-scale flow alterations, and 5) Wet vs. dry years. We found that allochthonous C fuels net heterotrophy in the outer riverine sections of the Delta, while the heavily vegetated central Delta produces autochthonous C remineralized elsewhere in the system. IAV were the dominant primary producers, with low phytoplankton production except during a historic bloom. WWTP upgrades imparted negligible changes to metabolism, with low chlorophyll a (<\u20095\u00a0\u00b5g L-1) both before and after. Introduction of a flow barrier - a management response to drought - hydrodynamically isolated deep-water channels from nearby shallow areas, resulting in decreased metabolism indicative of changes to C transport. Contrary to past research, low rainfall years were associated with increased metabolism. This study demonstrates how multi-sensor arrays can be used to quantify ecosystem responses to major environmental stressors. The online version contains supplementary material available at https://doi.org/10.1007/s12237-026-01833-z.",
+      "journal": "Estuaries and coasts : journal of the Estuarine Research Federation",
+      "year": "2027",
       "publication_types": [
         "Journal Article"
       ]
@@ -183,6 +198,64 @@
       "title": "The Effect of Digital Storytelling on the Anxiety of Patients with Pituitary Adenoma Undergoing Transsphenoidal Surgery: A Randomized Controlled Clinical Trial.",
       "abstract": "Patients with pituitary adenoma often experience anxiety due to hormonal changes and the stress associated with transsphenoidal surgery. Digital storytelling, as an innovative multimedia-based training method, has recently been used in patient education. This study investigated the effect of digital storytelling on the anxiety of patients with pituitary adenoma undergoing transsphenoidal surgery. This randomized controlled trial was conducted on 70 patients with pituitary adenoma scheduled for transsphenoidal surgery at a teaching hospital affiliated with Tehran University of Medical Sciences. Participants were randomly assigned to an intervention or a control group. The intervention group received a 15-20-minute digital storytelling program that included experiences shared by patients and nurses regarding preoperative and postoperative care, while the control group received routine hospital education. Anxiety levels were measured a day before surgery, a day after surgery, and three weeks later using Spielberger's State Anxiety Scale. Data were analyzed by SPSS-25 software using descriptive and inferential statistics. The mean score of anxiety in the intervention group decreased by 12.45 (1.24) units a day after the surgery and by 24.82 (1.32) units three weeks after the surgery compared to baseline (p < 0.001). A significantly lower anxiety level was observed in the intervention group at both post-intervention time periods compared to the pre-intervention time (F = 17.05, p < 0.001). Repeated measures Analysis of Variance confirmed a significant interaction between time and group (F = 25.31, p < 0.001). Digital storytelling was effective in reducing anxiety among patients with pituitary adenoma undergoing transsphenoidal surgery and may serve as a valuable educational intervention.",
       "journal": "Iranian journal of nursing and midwifery research",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42927059",
+      "doi": "10.7759/cureus.116823",
+      "title": "Progressive Bilateral Weakness Followed by Unilateral Facial Palsy in Guillain-Barr\u00e9 Syndrome Temporally Associated With Multiple Vaccinations.",
+      "abstract": "Guillain-Barr\u00e9 syndrome (GBS) is an acute immune-mediated polyradiculoneuropathy in which facial weakness may occur as a cranial neuropathy. Unilateral facial palsy may also prompt a diagnosis of idiopathic Bell's palsy, creating a risk of diagnostic anchoring when broader neurologic symptoms are already present. We report a 32-year-old man with childhood epilepsy who described progressive bilateral upper and lower extremity weakness with paresthesias for approximately two weeks, followed by left facial paralysis about one week later. He also reported co-administration of hepatitis B, influenza, and tetanus vaccines approximately three weeks before presentation; the vaccine products and dates were not independently verified. An outside hospital treated the facial paralysis as presumed Bell's palsy with acyclovir, although the available records do not establish the facial examination pattern, acyclovir regimen, whether corticosteroids were prescribed there, or whether the preceding bilateral limb symptoms were recognized. An outpatient electrodiagnostic study was reportedly interpreted as concerning for GBS, but the complete nerve conduction/electromyography report was unavailable. Cerebrospinal fluid (CSF) showed white blood cells of 5/mm\u00b3, glucose of 59 mg/dL, and protein of 190 mg/dL, supporting albuminocytologic dissociation; a paired serum glucose was unavailable. The patient completed a five-day course of intravenous immunoglobulin (IVIG), and prednisone plus valacyclovir was also documented for the facial palsy, although their exact dose, route, and duration were not recoverable. The source record documented short-term neurologic improvement before discharge. This case emphasizes that unilateral facial palsy should not distract from pre-existing bilateral weakness and paresthesias and that facial weakness in this setting may represent GBS-related cranial neuropathy rather than a separate confirmed Bell's palsy. The temporal association with vaccination does not establish causality.",
+      "journal": "Cureus",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42920788",
+      "doi": "10.1177/1753495X261471005",
+      "title": "Postpartum diagnosis of pheochromocytoma presenting as atypical hypertensive disorder of pregnancy: A case report.",
+      "abstract": "Pheochromocytoma, a catecholamine-secreting adrenal tumour, is a rare but important cause of hypertension in pregnancy. Its symptoms may mimic more common disorders of pregnancy, making diagnosis challenging. We present a postpartum pheochromocytoma diagnosis with favourable maternal and neonatal outcomes. A 29-year-old woman in her first pregnancy developed proteinuria at 34 weeks and new-onset hypertension at 36 weeks, managed as pre-eclampsia. Worsening hypertension, gestational diabetes and breech presentation led to caesarean section at 36 weeks and 4 days of gestation. Postpartum, she experienced severe headaches, labile blood pressure, tachycardia and sweating. Imaging identified a 4\u2005cm right adrenal mass. Markedly elevated plasma and urinary normetanephrines confirmed pheochromocytoma. Right adrenalectomy was performed seven weeks post-partum, with complete excision. Symptoms resolved postoperatively. Subsequent surveillance imaging showed no recurrence. She later had a second uncomplicated pregnancy. This case highlights how pheochromocytoma in pregnancy can be differentiated from more common conditions. Prompt diagnosis and multidisciplinary management can optimise patient outcomes.",
+      "journal": "Obstetric medicine",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42927073",
+      "doi": "10.7759/cureus.116836",
+      "title": "Extradural C1-C2 Dumbbell Schwannoma Mimicking an Intradural Lesion on MRI: A Case Report.",
+      "abstract": "Cervical dumbbell schwannomas are benign nerve sheath tumors that may present diagnostic challenges when preoperative imaging suggests intradural involvement despite an extradural origin. We report the case of a 43\u2011year\u2011old African male with a three\u2011year history of right\u2011sided cervicobrachialgia and two years of progressive quadriparesis, sensory loss, and mixed reflex abnormalities consistent with cervical myelopathy. MRI demonstrated a 31 \u00d7 21 mm C1-C2 mass initially interpreted as intradural\u2011extramedullary. However, intraoperative findings revealed a purely extradural schwannoma arising from the nerve root, producing significant spinal cord compression through a classic dumbbell configuration. A posterior midline approach with C2 laminectomy allowed safe microsurgical resection, achieving gross total removal without cerebrospinal fluid leakage, without neurological deterioration, and with progressive improvement of quadriparesis. Postoperative MRI confirmed complete resection with expected inflammatory changes and no residual tumor. This case underscores the importance of correlating radiological and intraoperative findings, as cervical schwannomas may mimic intradural lesions on MRI. Accurate classification and tailored surgical planning are essential for optimal outcomes, particularly in resource\u2011limited settings.",
+      "journal": "Cureus",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42890916",
+      "doi": "10.7573/dic.2026-7-5",
+      "title": "Pegvisomant in severe, treatment-resistant thyroid eye disease: a case report.",
+      "abstract": "Teprotumumab, a monoclonal antibody against the IGF1 receptor, has proven effective in the treatment of thyroid eye disease (TED). Pegvisomant reduces IGF1 levels through selective inhibition of growth hormone receptors. Here, we present a hypothesis-generating case of a 69-year-old patient with progressive TED. Pegvisomant 20 mg was administered daily for 90 days. IGF1 levels declined and remained low-normal during treatment. Clinical activity scores and VISA (vision, inflammation, strabismus and appearance) scores improved rapidly. MRI assessment showed that water content of both extraocular muscles and orbital connective tissue decreased after treatment. 99mTc-DTPA SPECT confirmed the decrease in disease activity. Further studies may confirm the efficacy of pegvisomant in TED. A 69-year-old female patient with severe, active thyroid eye disease (TED) \u2013 a condition linked to Graves\u2019 disease where the body\u2019s immune system attacks tissues around the eyes \u2013 presented with bulging eyes (proptosis), double vision, eye redness, swelling and reduced visual sharpness.Prior treatments with standard therapies for TED, including intravenous steroid courses, radiation therapy targeting the orbit (eye socket) and the biological drug rituximab, failed to achieve improvement. TED progresses in part because proteins called IGF1 receptors on the surface of eye-socket tissues are overactivated. The researchers hypothesized that using pegvisomant, which is a medication typically used for acromegaly (hormone imbalance) that lowers insulin-like growth factor 1 (IGF1) levels in the blood, would reduce activation of these receptors and ease eye inflammation.The patient received a daily 20 mg injection of pegvisomant for 90 days. Symptom improvement The patient experienced a rapid reduction in eye pain, redness and swelling, alongside marked improvement in visual sharpness and colour vision within 8 weeks.MRI and imaging results Orbital MRI and nuclear imaging showed a distinct drop in tissue inflammation and fluid accumulation (oedema) in the muscles around the eye.Proptosis and double vision Eye bulging and double vision did not significantly change during the trial.Safety Pegvisomant was well tolerated with no reported side effects, and her blood sugar and liver function remained stable. Blood IGF1 levels dropped as expected and returned to normal after treatment ended. Pegvisomant rapidly reduced eye inflammation and improved vision in a patient whose TED had resisted standard therapies. However, because this was a single case study, the delayed effects from previous treatments cannot be entirely ruled out. Further clinical trials are needed to determine if pegvisomant is effective at higher doses or when given earlier in the disease course.",
+      "journal": "Drugs in context",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42880706",
+      "doi": "10.1016/j.wneu.2026.125423",
+      "title": "Sinonasal and Olfactory Quality of Life Following Endonasal Transsphenoidal Surgery for Pituitary Adenoma: A Multicenter Prospective Cohort Triphasic Recovery Analysis in Ethiopia.",
+      "abstract": "To characterize the sinonasal and olfactory quality of life (QoL) trajectory. A multicenter prospective cohort study was conducted on 91 patients undergoing TSS at Addis Ababa University teaching hospitals between May 2024 and August 2025. QoL was evaluated using the Sino-Nasal Outcome Test (SNOT-22) questionnaire v4 preoperatively and at 3- and 6-month postoperatively. Analysis revealed a characteristic triphasic recovery pattern: low preoperative baseline, a transient peak in morbidity at 3 months, and an improvement toward baseline by 6 months for most systemic domains. At 3 months, significant score worsening occurred for loss of smell/taste (mean: 1.7, p < 0.001), thick discharge (mean: 1.0, p < 0.001), congestion (mean: 1.0, p < 0.001), postnasal discharge (mean: 0.7, p < 0.001), and runny nose (mean: 0.5, p = 0.003). By 6 months, persistence was confined to loss of smell/taste (p < 0.001), thick discharge (p < 0.001), and congestion (p = 0.005). Exploratory analysis in the nasoseptal flap cohort (n = 3) showed higher scores. Preliminary findings of delayed ear pain/fullness in acromegaly at 6 months hypothesized to reflect a link between growth hormone normalization and altered Eustachian tube function. Poorer sleep with binostril access (p = 0.017) speculatively associated with bilateral synechiae under limited postoperative care. Unlike Western cohorts, protracted recovery may reflect lack of standardized high-volume saline irrigation and scheduled debridement. TSS demonstrates a favorable long-term QoL profile; however, localized sinonasal and olfactory deficits often persist at 6 months.",
+      "journal": "World neurosurgery",
       "year": "2026",
       "publication_types": [
         "Journal Article"
@@ -201,10 +274,22 @@
       ]
     },
     {
-      "pmid": "42877914",
-      "doi": "10.7759/cureus.116229",
-      "title": "A Case of MEN 2A Syndrome With Bilateral Recurrent Pheochromocytoma: A Case Report and Literature Review.",
-      "abstract": "Pheochromocytoma is a neuroendocrine tumor arising from chromaffin cells and producing catecholamines. Due to the excessive release of catecholamines, these tumors can present with paroxysmal episodes of high blood pressure, headache, diaphoresis, and palpitations. We present the case of a 23-year-old female patient who presented to the clinic with a history of headache, palpitations, and vomiting for two months. She was admitted for further investigations and management. Laboratory studies revealed elevated urinary and plasma catecholamine levels. Further work-up revealed bilateral adrenal masses diagnosed as pheochromocytoma and medullary thyroid cancer. The patient was diagnosed with multiple endocrine neoplasia (MEN) type 2 and underwent bilateral laparoscopic adrenalectomy and total thyroidectomy with central and lateral neck dissection, and during surveillance, she was found to have recurrent pheochromocytoma. We also discuss the diagnosis and management of recurrent pheochromocytoma in MEN syndrome.",
+      "pmid": "42866309",
+      "doi": "10.1097/MS9.0000000000005688",
+      "title": "Medullary thyroid carcinoma with pheochromocytoma and cystic parathyroid degeneration in a ret-negative patient: a case report.",
+      "abstract": "Multiple endocrine neoplasia type 2A (MEN2A) is a rare autosomal dominant hereditary cancer syndrome, predominantly caused by mutations of the RET proto-oncogene on chromosome 10q11.2. It typically presents with medullary thyroid carcinoma (MTC), pheochromocytoma, and primary hyperparathyroidism. Cases with a MEN2A phenotype but negative RET testing are uncommon, posing challenges for diagnosis and patient management. We report the case of a 63-year-old female who was diagnosed with MTC and pheochromocytoma. and cystic parathyroid gland. Genetic workup was negative for RET proto-oncogene mutations but positive for a heterozygous variant in the TMEM127 tumor suppressor gene. MEN2A is associated with pathogenic germline variants in the RET proto-oncogene in approximately 95-99% of cases. Our patient, however, exhibited a MEN2A-like clinical phenotype in the absence of an identifiable RET mutation, with a pathogenic TMEM127 variant instead. Although TMEM127 is an established susceptibility gene for pheochromocytoma and paraganglioma, its association with the broader MEN2A phenotype remains unclear. This unusual genotype-phenotype discordance raises important questions regarding the potential role of alternative genetic pathways in MEN2-like syndromes and creates uncertainty regarding postoperative surveillance and the appropriate extent of screening and genetic counseling for family members. Our case represents an unusual scenario where the patient presents with a clinical phenotype of MEN2A but is RET negative and positive heterozygous for a variant in the TMEM127. This atypical genetic finding introduces complexities in determining the appropriate follow-up protocol and the scope of familial screening necessary.",
+      "journal": "Annals of medicine and surgery (2012)",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42927063",
+      "doi": "10.7759/cureus.116833",
+      "title": "Sertoli-Leydig Cell Tumour With Heterologous Elements Presenting as Hyperandrogenaemia and Markedly Elevated Alpha-Fetoprotein: A Challenging Diagnosis.",
+      "abstract": "Sertoli-Leydig cell tumours (SLCTs) are rare ovarian sex cord-stromal tumours that classically present with features of virilisation due to androgen excess and are frequently misdiagnosed as polycystic ovarian syndrome (PCOS). We report a case of a 33-year-old woman with a three-year history of progressive hirsutism, weight gain, and secondary amenorrhoea, initially attributed to PCOS. An incidental pelvic ultrasound arranged in the context of an endocrinology review revealed a large complex solid-cystic mass measuring 21.2 \u00d7 13.8 \u00d7 23.4\u00a0cm. Tumour markers demonstrated a markedly elevated alpha-fetoprotein (AFP) of 8,147 KU/L, raising initial suspicion of a yolk sac (germ cell) tumour. CT imaging confirmed a 23 cm predominantly cystic pelvic mass with no evidence of metastatic disease. Following multi-disciplinary team discussion and referral to a specialist germ cell tumour MDT, the patient underwent laparotomy and left salpingo-oophorectomy. Initial histology reported an immature teratoma; however, following expert second-opinion review by Professor McCluggage, the final diagnosis was revised to a moderately to poorly differentiated SLCT with heterologous intestinal-type mucinous elements and a small carcinoid component. Ascitic fluid cytology demonstrated no malignant cells. This case highlights the risk of anchoring bias in attributing hyperandrogenaemia to PCOS, the capacity of SLCT with heterologous mucinous elements to mimic germ cell tumours biochemically and histologically, and the indispensable role of expert pathological review in rare ovarian tumours.",
       "journal": "Cureus",
       "year": "2026",
       "publication_types": [
@@ -213,36 +298,15 @@
       ]
     },
     {
-      "pmid": "42911244",
-      "doi": "10.1007/s00234-026-04223-1",
-      "title": "Imaging features of pituitary Crooke cell adenoma: a 13-case series.",
-      "abstract": "Crooke cell adenoma (CCA) is a rare and aggressive subtype of pituitary neuroendocrine tumor (PitNET). This study aimed to characterize the imaging features of CCA. Preoperative and postoperative follow-up MR images of 13 patients with CCA were retrospectively reviewed to characterize their imaging features in conjunction with clinical and pathological findings. Among the 13 CCAs, 8 (61.5%) were macroadenomas and 5 (38.5%) were microadenomas. On T1-weighted imaging, 12 tumors (92.3%) were isointense. On T2-weighted imaging, 6 (46.2%) were hyperintense, 4 (30.8%) were hypointense, and 3 (23.1%) were isointense. Macroadenomas were predominantly hyperintense (5/8) or isointense (3/8), whereas microadenomas were predominantly hypointense (4/5). Multiple microcystic changes were observed in 2 macroadenomas (15.4%). Mild contrast enhancement was observed in 10 tumors (76.9%). Knosp grade 1 was the most common pattern of parasellar extension (8/13, 61.5%). During postoperative follow-up of 2-39 months, tumor progression occurred in 4 patients (30.8%), all of whom had undergone subtotal resection. Retrospective review of their preoperative contrast-enhanced MRI showed reduced enhancement of the tumor-adjacent internal carotid artery wall (ICAW) in all four cases. CCA exhibits several imaging characteristics, particularly mild contrast enhancement and a tumor size-related T2-weighted signal pattern. Knosp grade 1 was the most frequent parasellar extension pattern. Reduced enhancement of the tumor-adjacent ICAW was observed in four cases with postoperative tumor progression; however, the clinical significance of this finding requires validation in larger cohorts with longer-term follow-up.",
-      "journal": "Neuroradiology",
+      "pmid": "42927075",
+      "doi": "10.7759/cureus.116835",
+      "title": "Comparative Effectiveness and Safety of Rebamipide Versus Diquafosol in the Treatment of Dry Eye Disease: A Systematic Review and Meta-Analysis.",
+      "abstract": "This systematic review and meta-analysis aimed to compare the efficacy and tolerability of rebamipide (REB) and diquafosol (DQS), two widely used mucin secretagogues, in the treatment of dry eye disease. A comprehensive search of PubMed, Embase, Web of Science, Cochrane CENTRAL, and Scopus was conducted following Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, identifying six\u00a0comparative studies enrolling 277 patients across South Korea and Japan. Pooled analyses were performed using random-effects models,\u00a0standardized mean differences (SMDs) for continuous outcomes and risk ratios (RRs) for dichotomous outcomes with 95% confidence intervals (CIs). Tear break-up time showed no significant difference between REB and DQS (SMD = -0.21 seconds, 95% CI: -0.52 to 0.11, p=0.20). Subjective symptom scores were also comparable (SMD=0.11, 95% CI: -0.16 to 0.38, p=0.40). Corneal staining scores were nearly identical (SMD=-0.002, 95% CI: -0.324 to 0.321, p=0.993), while conjunctival staining showed a nonsignificant trend favoring REB (SMD=-0.403, 95% CI: -1.508 to 0.702, p=0.475, I\u00b2=87.6%). These findings suggest comparable efficacy between both agents as first-line mucin secretagogues in the available studies, though formal equivalence cannot be established from this evidence base, and more large-scale trials are required to validate the findings.",
+      "journal": "Cureus",
       "year": "2026",
       "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42920704",
-      "doi": "10.3389/fmicb.2026.1979316",
-      "title": "Antimicrobial activity of ginsenoside Rh2 against Enterococcus faecalis and its biofilm.",
-      "abstract": "Enterococcus faecalis (E. faecalis) is frequently associated with persistent root canal infections and treatment failure, and effective strategies for its elimination remain limited. Plant-derived compounds may provide alternative antimicrobial strategies for endodontic treatment. In the present study, we evaluated the antimicrobial activity of 20(S)-ginsenoside Rh2 (Rh2), a bioactive compound derived from ginseng, against planktonic and biofilm forms of E. faecalis. The effects of Rh2 on extracellular polysaccharide (EPS)-associated carbohydrate content and biofilm metabolic activity were evaluated using the phenol-sulfuric acid and MTT assays, respectively. Biofilm structural alterations were examined by scanning electron microscopy (SEM) and confocal laser scanning microscopy (CLSM). The cytotoxicity of Rh2 toward L929 cells was assessed using an MTT assay, with sodium hypochlorite (NaClO) serving as the reference antimicrobial agent. Rh2 exhibited antibacterial activity against planktonic E. faecalis, with a minimum inhibitory concentration (MIC) of 3.125\u202f\u03bcg/mL and a minimum bactericidal concentration (MBC) of 6.250\u202f\u03bcg/mL. Rh2 inhibited biofilm formation and reduced the biomass of established biofilms at 2\u202f\u00d7\u202fMIC and 4\u202f\u00d7\u202fMIC. Rh2 also markedly reduced EPS-associated carbohydrate content, altered biofilm architecture, and decreased the metabolic activity of biofilm-associated bacteria. Under the tested conditions, Rh2 exhibited favorable cellular compatibility at concentrations with antibacterial activity against E. faecalis. These findings demonstrate the in vitro antibacterial and antibiofilm activities of Rh2 against E. faecalis and support further investigation of its potential as an intracanal antimicrobial agent.",
-      "journal": "Frontiers in microbiology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42880706",
-      "doi": "10.1016/j.wneu.2026.125423",
-      "title": "Sinonasal and Olfactory Quality of Life Following Endonasal Transsphenoidal Surgery for Pituitary Adenoma: A Multicenter Prospective Cohort Triphasic Recovery Analysis in Ethiopia.",
-      "abstract": "To characterize the sinonasal and olfactory quality of life (QoL) trajectory. A multicenter prospective cohort study was conducted on 91 patients undergoing TSS at Addis Ababa University teaching hospitals between May 2024 and August 2025. QoL was evaluated using the Sino-Nasal Outcome Test (SNOT-22) questionnaire v4 preoperatively and at 3- and 6-month postoperatively. Analysis revealed a characteristic triphasic recovery pattern: low preoperative baseline, a transient peak in morbidity at 3 months, and an improvement toward baseline by 6 months for most systemic domains. At 3 months, significant score worsening occurred for loss of smell/taste (mean: 1.7, p < 0.001), thick discharge (mean: 1.0, p < 0.001), congestion (mean: 1.0, p < 0.001), postnasal discharge (mean: 0.7, p < 0.001), and runny nose (mean: 0.5, p = 0.003). By 6 months, persistence was confined to loss of smell/taste (p < 0.001), thick discharge (p < 0.001), and congestion (p = 0.005). Exploratory analysis in the nasoseptal flap cohort (n = 3) showed higher scores. Preliminary findings of delayed ear pain/fullness in acromegaly at 6 months hypothesized to reflect a link between growth hormone normalization and altered Eustachian tube function. Poorer sleep with binostril access (p = 0.017) speculatively associated with bilateral synechiae under limited postoperative care. Unlike Western cohorts, protracted recovery may reflect lack of standardized high-volume saline irrigation and scheduled debridement. TSS demonstrates a favorable long-term QoL profile; however, localized sinonasal and olfactory deficits often persist at 6 months.",
-      "journal": "World neurosurgery",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Review"
       ]
     },
     {
@@ -258,34 +322,11 @@
       ]
     },
     {
-      "pmid": "42911608",
-      "doi": "10.1080/13854046.2025.2537335",
-      "title": "Neuroendocrine dysfunction after TBI: A guide for the clinical neuropsychologist.",
-      "abstract": "This review aims to provide neuropsychologists with a comprehensive understanding of neuroendocrine dysfunction following traumatic brain injury (TBI), emphasizing post-traumatic hypopituitarism (PTHP) and its implications for cognitive function and rehabilitation. A critical review of current literature on neuroendocrine dysfunction following TBI, including studies on pituitary function, hormone deficiencies, and their effects on cognition, mood, and fatigue. The review integrates findings from endocrinology, neuroscience, and clinical neuropsychology to highlight the importance of interdisciplinary management. Research indicates that a high proportion of moderate to severe TBI cases may develop PTHP, with growth hormone deficiency (GHD) as the most prevalent dysfunction. While less extensively studied, evidence suggests that individuals with persistent post-mild TBI symptoms may exhibit neuroendocrine dysfunction at similar rates to moderate to severe TBI patients. The impact of hormonal dysregulation on cognition and neuropsychological performance underscores the need for targeted assessment and intervention. Emerging data also suggest that metabolic disturbances, such as altered gut microbiota and amino acid imbalances, may contribute to post-TBI fatigue and cognitive impairment. Neuropsychologists play a vital role in identifying and referring patients with suspected neuroendocrine dysfunction for appropriate testing and treatment. Recognizing PTHP as a potential contributor to chronic TBI symptoms may lead to improved patient outcomes through targeted hormonal therapies and interdisciplinary rehabilitation strategies. Increased awareness of the relationship between TBI, pituitary dysfunction, and cognition is essential for optimizing clinical care.",
-      "journal": "The Clinical neuropsychologist",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "42920751",
-      "doi": "10.1002/fsn3.72496",
-      "title": "Encapsulation of Peppermint Essential Oil (Mentha piperita L.) in Gelatin-Coated Solid Lipid Nanocarriers (PEO-SLNs): Characterization and Its Effect on Microbial Quality of Trout Fillet (Oncorhynchus mykiss).",
-      "abstract": "The primary objective of this work was to develop peppermint essential oil-loaded solid lipid nanoparticles (PEO-SLNs) and evaluate their effectiveness on microbial quality of trout fillets. PEO-SLNs were prepared by bath sonication and characterized using dynamic light scattering (DLS), X-ray diffraction (XRD), and Fourier transform infrared (FTIR). The optimized nanoparticles exhibited a zeta potential of -21.84\u2009\u00b1\u20092.25\u2009mV, a mean particle size of 124.18\u2009\u00b1\u20090.22\u2009nm, and a polydispersity index (PDI) of 0.20\u2009\u00b1\u20090.02. Trout fillets were randomly assigned to four treatment groups: Group 1, uncoated fillets; Group 2, fillet coated with 5% fish gelatin; Group 3, fillets coated with 5% fish gelatin containing 0.2% PEO; and Group 4, fillets coated with 5% fish gelatin containing 0.2% PEO-SLNs. The treated fillets were stored at 4\u00b0C\u2009\u00b1\u20091\u00b0C for 12\u2009days, and microbiological analysis were performed throughout the storage. The highest reduction rates of total viable bacteria (1.20 log CFU/g), total psychrophilic bacteria (1.04 log CFU/g), Pseudomonas spp. (0.74 log CFU/g), Enterobacteriaceae (0.93 log CFU/g), Shewanella putrefaciens (0.73 log CFU/g), yeast and mold count (0.91 log CFU/g) were observed in the samples treated with gelatin-loaded SLNs containing PEO. PEO-SLNs demonstrated the highest overall microbial reduction, with statistically significant improvements compared with free PEO for four of the six evaluated microbial indicators. However, no significant difference was observed for Shewanella putrefaciens and Enterobacteriaceae. In addition, encapsulation of PEO in SLNs resulted in greater antibacterial activity than free PEO. These findings demonstrate that fish gelatin coatings incorporating PEO-SLNs represent a promising natural preservation strategy for improving the microbial quality of trout fillets.",
-      "journal": "Food science & nutrition",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42920732",
-      "doi": "10.3389/fped.2026.1919601",
-      "title": "Common peroneal nerve entrapment in an adolescent during a growth spurt: a case report and hypothesis on growth-related vulnerability.",
-      "abstract": "Common peroneal nerve entrapment at the fibular neck is a well-recognized cause of foot drop, but atraumatic cases in adolescents may be diagnostically challenging. Rapid growth during adolescence may increase local nerve vulnerability through growth-related neuro-musculoskeletal factors, although direct evidence remains limited. We report a 16-year-old male who presented with a two-week history of weakness in the left ankle and hallux dorsiflexion without a clear history of trauma, habitual leg crossing, prolonged squatting, tight footwear, systemic disease, or family history of hereditary neuropathy. He had experienced a rapid growth period over the preceding six months, with an increase in height of approximately 6\u2005cm and one shoe size. Physical examination revealed marked weakness of ankle and hallux dorsiflexion, sensory reduction over the lateral leg and dorsum of the foot, and a positive Tinel sign at the fibular neck. High-resolution ultrasonography demonstrated focal enlargement of the left common peroneal nerve at the fibular neck, and electrodiagnostic testing-including fibrillation potentials, motor unit action potentials (MUAPs), and reduced recruitment on needle electromyography of the tibialis anterior-was compatible with focal common peroneal neuropathy. Conservative treatment was unsuccessful. Surgical exploration revealed a discrete, tendon-like fibrous band compressing the nerve at the lower fibular neck; after division of the band, the nerve was fully decompressed. At 14 days postoperatively, dorsiflexion strength and sensory symptoms had improved, and at 3 months, the patient's mother reported continued improvement. This case suggests that common peroneal nerve entrapment should be considered in adolescents with atraumatic foot drop; a recent growth spurt may be a potential predisposing factor, although causality cannot be established. Ultrasonography and electrodiagnostic testing may help localize the lesion. Surgical decompression may be effective when symptoms are severe or conservative treatment fails. Because the proposed growth-related vulnerability is inferred from a temporal association in a single case, this report is intended to generate-rather than to prove-a clinically relevant hypothesis that warrants testing in larger, prospective series.",
-      "journal": "Frontiers in pediatrics",
+      "pmid": "42923192",
+      "doi": "10.1210/jcemcr/luag325",
+      "title": "Tumor-to-tumor metastasis of colorectal adenocarcinoma within a gonadotroph pituitary adenoma.",
+      "abstract": "Pituitary metastases are uncommon, and most cases originate from breast or lung cancer. Tumor-to-tumor metastasis, in which one neoplasm metastasizes into another, is particularly rare in the sellar region. We report a 66-year-old man with metastatic sigmoid colon adenocarcinoma treated with modified FOLFOX6 (5-fluorouracil, L-leucovorin, and oxaliplatin) plus panitumumab; extracranial disease was controlled, whereas a sellar mass initially suspected as a pituitary adenoma slowly enlarged over 2 years. Endocrine testing showed anterior hypopituitarism without arginine vasopressin deficiency. Endoscopic transsphenoidal surgery was performed for continued enlargement and diagnostic uncertainty. Histopathology demonstrated a gonadotroph pituitary adenoma infiltrated by colorectal adenocarcinoma, with extensive intermingling of the 2 components rather than discrete nests, favoring tumor-to-tumor metastasis over a collision tumor. The metastatic component consisted of viable tumor cells without necrosis or convincing treatment effect despite prolonged chemotherapy. This case underscores that metastatic tumor within a pituitary adenoma may enlarge despite favorable systemic therapy outcomes. Metastasis should therefore remain a key differential diagnosis for a sellar mass radiologically suggestive of a pituitary adenoma.",
+      "journal": "JCEM case reports",
       "year": "2026",
       "publication_types": [
         "Case Reports",
@@ -293,71 +334,25 @@
       ]
     },
     {
-      "pmid": "42920722",
-      "doi": "10.3389/fpsyt.2026.1970464",
-      "title": "The evolution of direct transcranial photobiomodulation: a history of dose, depth, and delivery.",
-      "abstract": "Direct transcranial photobiomodulation (dtPBM) delivers red or near-infrared light through the scalp and skull with the aim of affecting brain tissue. The field has produced encouraging findings but inconsistent clinical results. We reconstruct its development as a history of scientific and engineering decisions in which optical access, target depth, and dose repeatedly shaped what could be tested. The clinical lineage began with light therapy for ischemic myocardium and moved to stroke, where cadaver measurements established that near-infrared light could traverse the human scalp and skull and defined a historical design target of approximately 7.5 mW/cm2 at the dura. The NEST clinical program then carried a fixed 808-nm regimen into three stroke trials: NEST-1 met its primary endpoint, NEST-2 showed a nonsignificant overall trend (p = 0.094) with a published post hoc signal in moderate stroke (p = 0.044), and NEST-3 stopped for futility. An unpublished, exploratory NEST-2 reanalysis described larger treatment differences for superficial lesions; this observation motivates prospective testing but does not establish depth-dependent efficacy. After NEST, treatment moved to the forehead, where target geometry was more reproducible. The ELATED trials adopted a more practical LED platform at substantially lower irradiance while preserving broadly similar treatment-site radiant exposure, whereas the TRIADE R61 trial deliberately varied optical parameters and found optical-parameter-dependent, bidirectional BOLD power responses. The historical record also leaves biological mechanism unresolved: mitochondrial/redox, neurovascular, glial-inflammatory, network-mediated, and diffuse or systemic pathways remain plausible at different levels of evidence, and a distributed physiological response does not by itself identify where the effect begins. These observations support a constrained historical inference: dose, depth, and delivery site are biological variables, not merely device specifications. We distinguish focal-local, diffuse/systemic, and local-stimulation/network-mediated accounts of action and identify prospective tests that can discriminate among them. The next phase of dtPBM development should prioritize indications in which optical access, target engagement, and a disease-relevant network or biomarker can be specified prospectively rather than inferred after a clinical outcome.",
-      "journal": "Frontiers in psychiatry",
+      "pmid": "42927074",
+      "doi": "10.1007/s10616-026-01073-w",
+      "title": "Silymarin attenuates neuroinflammation after subarachnoid hemorrhage by inducing M2 microglial polarization via activation of the JAK1/STAT6 signaling pathway.",
+      "abstract": "Neuroinflammation represents a key pathological process in early brain injury (EBI) following subarachnoid hemorrhage (SAH) and contributes significantly to poor outcomes. Silymarin, known for its anti-inflammatory and antioxidant activities, has been shown to exert neuroprotective effects. Nevertheless, the molecular mechanisms underlying these effects remain to be clarified. An in vivo endovascular perforation model and an in vitro hemoglobin-stimulated model were used to investigate the pharmacological effects of silymarin in SAH. Neurological function was assessed using SAH scores and neurobehavioral scores. Neuronal apoptosis was evaluated by TUNEL staining. Neuroinflammation was measured by ELISA or qPCR, and microglial polarization status was determined by assessing CD86 and CD206 expression via Western blotting (WB) or immunofluorescence (IF) staining. Ruxolitinib and AS1517499 were applied to block the JAK1/STAT6 pathway. Silymarin attenuated early brain injury (EBI) after SAH, as indicated by improved neurological scores, reduced neuronal apoptosis, and lower brain water content. In vivo, silymarin treatment was associated with JAK1/STAT6 activation, elevated M2 markers, and decreased pro\u2011inflammatory cytokines. In vitro, silymarin activated the JAK1/STAT6 pathway, promoted M2 microglial polarization, and suppressed inflammatory cytokine production. In addition, pharmacological blockade of JAK1/STAT6 reversed silymarin's protective effects, confirming a causal role of this pathway in the cellular context. Our in vitro data demonstrate that silymarin directly stimulates JAK1/STAT6 to drive M2 polarization and anti\u2011inflammatory responses. In vivo, we observed a correlation between pathway activation and neuroprotective benefits. Together, these findings provide a rationale for further exploring silymarin\u2011based therapies in SAH. The online version contains supplementary material available at https://doi.org/10.1007/s10616-026-01073-w.",
+      "journal": "Cytotechnology",
       "year": "2026",
       "publication_types": [
         "Journal Article"
       ]
     },
     {
-      "pmid": "42831607",
-      "doi": "10.14712/23362936.2026.27",
-      "title": "A Clinical Insight into Von Hippel-Lindau Syndrome: Diagnostic Challenges.",
-      "abstract": "Von Hippel-Lindau (VHL) syndrome is a rare hereditary disorder characterised by the development of multiple benign and malignant tumours across various organs. Caused by mutations in the VHL tumour suppressor gene, it presents a wide range of clinical manifestations, including retinal haemangioblastomas, central nervous system tumours, renal cell carcinoma, pancreatic lesions, and phaeochromocytomas. This report describes the case of a 35-year-old woman who presented with visual impairment and abdominal masses. Imaging revealed typical VHL manifestations, including bilateral renal lesions and pancreatic involvement. Genetic testing confirmed the diagnosis. The patient underwent staged partial nephrectomies, with histopathology confirming clear cell renal cell carcinoma in both kidneys. This case highlights the importance of recognising the variable clinical and radiological presentations of VHL syndrome. Early diagnosis and multidisciplinary management are essential to reduce morbidity and mortality. Increased awareness and regular surveillance are critical for timely detection and intervention in patients with VHL syndrome.",
-      "journal": "Prague medical report",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Case Reports"
-      ]
-    },
-    {
-      "pmid": "42890916",
-      "doi": "10.7573/dic.2026-7-5",
-      "title": "Pegvisomant in severe, treatment-resistant thyroid eye disease: a case report.",
-      "abstract": "Teprotumumab, a monoclonal antibody against the IGF1 receptor, has proven effective in the treatment of thyroid eye disease (TED). Pegvisomant reduces IGF1 levels through selective inhibition of growth hormone receptors. Here, we present a hypothesis-generating case of a 69-year-old patient with progressive TED. Pegvisomant 20 mg was administered daily for 90 days. IGF1 levels declined and remained low-normal during treatment. Clinical activity scores and VISA (vision, inflammation, strabismus and appearance) scores improved rapidly. MRI assessment showed that water content of both extraocular muscles and orbital connective tissue decreased after treatment. 99mTc-DTPA SPECT confirmed the decrease in disease activity. Further studies may confirm the efficacy of pegvisomant in TED. A 69-year-old female patient with severe, active thyroid eye disease (TED) \u2013 a condition linked to Graves\u2019 disease where the body\u2019s immune system attacks tissues around the eyes \u2013 presented with bulging eyes (proptosis), double vision, eye redness, swelling and reduced visual sharpness.Prior treatments with standard therapies for TED, including intravenous steroid courses, radiation therapy targeting the orbit (eye socket) and the biological drug rituximab, failed to achieve improvement. TED progresses in part because proteins called IGF1 receptors on the surface of eye-socket tissues are overactivated. The researchers hypothesized that using pegvisomant, which is a medication typically used for acromegaly (hormone imbalance) that lowers insulin-like growth factor 1 (IGF1) levels in the blood, would reduce activation of these receptors and ease eye inflammation.The patient received a daily 20 mg injection of pegvisomant for 90 days. Symptom improvement The patient experienced a rapid reduction in eye pain, redness and swelling, alongside marked improvement in visual sharpness and colour vision within 8 weeks.MRI and imaging results Orbital MRI and nuclear imaging showed a distinct drop in tissue inflammation and fluid accumulation (oedema) in the muscles around the eye.Proptosis and double vision Eye bulging and double vision did not significantly change during the trial.Safety Pegvisomant was well tolerated with no reported side effects, and her blood sugar and liver function remained stable. Blood IGF1 levels dropped as expected and returned to normal after treatment ended. Pegvisomant rapidly reduced eye inflammation and improved vision in a patient whose TED had resisted standard therapies. However, because this was a single case study, the delayed effects from previous treatments cannot be entirely ruled out. Further clinical trials are needed to determine if pegvisomant is effective at higher doses or when given earlier in the disease course.",
-      "journal": "Drugs in context",
+      "pmid": "42927048",
+      "doi": "10.7759/cureus.116800",
+      "title": "Fumarate Hydratase-Deficient Renal Cell Carcinoma in a Solitary Kidney: Diagnostic Pitfalls and Onco-Nephrology Constraints in an Older Adult With Chronic Kidney Disease.",
+      "abstract": "Fumarate hydratase-deficient renal cell carcinoma (FH-dRCC) is a rare, aggressive subtype that is recognized as its own\u00a0distinct entity in the 2022 WHO classification. It is frequently\u00a0misclassified as papillary renal cell carcinoma (RCC). Older-onset disease and management in patients with a solitary kidney and chronic kidney disease (CKD) are not well characterized. A 76-year-old man with a remote right nephrectomy for clear cell RCC and stage 3b CKD presented with two to three years of progressive fatigue. Imaging of the solitary left kidney showed a 4.5-5.2 cm upper-pole mass with bulky retroperitoneal, mediastinal, and hilar adenopathy with multiple pulmonary nodules. Core biopsy findings were initially read as papillary RCC; however, the extensive metastatic burden appeared disproportionate to the relatively modest renal primary.\u00a0 Re-review demonstrated loss of FH on immunohistochemistry, and tumor sequencing confirmed a pathogenic FH p.G397R missense variant with programmed death-ligand 1 (PD-L1) tumor proportion score 20%, revising the diagnosis to FH-dRCC (cT1bN1M1). Cytoreductive nephrectomy was not pursued because of the patient's solitary-kidney status, baseline CKD, and disease burden. First-line nivolumab plus cabozantinib was selected; therapy was briefly held for immune-related uveitis, then resumed. This case highlights two important issues: metastatic burden disproportionate to primary tumor size - especially in tumors initially labeled papillary RCC - warrants pathology re-review with FH immunohistochemistry; and a solitary kidney with CKD reshapes the surgical and systemic-therapy calculus in FH-dRCC. Onco-nephrology input is valuable when balancing nephrotoxicity, contrast exposure, and disease-directed therapy.",
+      "journal": "Cureus",
       "year": "2026",
       "publication_types": [
         "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42911665",
-      "doi": "10.1172/JCI206184",
-      "title": "Polygenic risk score identifies alternative etiologies in misdiagnosed cases of primary adrenal insufficiency.",
-      "abstract": "Primary adrenal insufficiency (PAI) is commonly caused by autoimmunity in adults, known as autoimmune Addison's disease (AAD). Autoantibodies against 21-hydroxylase are a hallmark of AAD but are absent in some patients diagnosed with AAD, posing a challenge to their clinical management. We tested a polygenic risk score for AAD (PRS14AAD) to prioritize seronegative patients for etiologic reevaluation. The PRS14AAD was calculated in patients diagnosed with AAD but lacking 21-hydroxylase autoantibodies (n = 124). Patients with low (n = 35) or high (n = 10) genetic susceptibility to AAD underwent clinical re-evaluation and whole-genome sequencing. Of the 34 patients with low PRS14AAD, 14 (41%) were re-diagnosed with non-autoimmune adrenal insufficiency, whereas no alternative etiologies were identified in patients with high PRS14AAD. The low PRS group included six patients (17%) with confirmed monogenic PAI and eight patients (23%) with adrenal insufficiency due to either tuberculosis or non-primary causes. Notably, four of the six confirmed monogenic cases developed PAI in adulthood, consistent with late-onset disease caused by hypomorphic variants. Additionally, seven patients (20%) carried genetic variants suspected of causing monogenic disease. These findings support considering genetic evaluation in patients with seronegative PAI, regardless of the age at diagnosis.",
-      "journal": "The Journal of clinical investigation",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42866309",
-      "doi": "10.1097/MS9.0000000000005688",
-      "title": "Medullary thyroid carcinoma with pheochromocytoma and cystic parathyroid degeneration in a ret-negative patient: a case report.",
-      "abstract": "Multiple endocrine neoplasia type 2A (MEN2A) is a rare autosomal dominant hereditary cancer syndrome, predominantly caused by mutations of the RET proto-oncogene on chromosome 10q11.2. It typically presents with medullary thyroid carcinoma (MTC), pheochromocytoma, and primary hyperparathyroidism. Cases with a MEN2A phenotype but negative RET testing are uncommon, posing challenges for diagnosis and patient management. We report the case of a 63-year-old female who was diagnosed with MTC and pheochromocytoma. and cystic parathyroid gland. Genetic workup was negative for RET proto-oncogene mutations but positive for a heterozygous variant in the TMEM127 tumor suppressor gene. MEN2A is associated with pathogenic germline variants in the RET proto-oncogene in approximately 95-99% of cases. Our patient, however, exhibited a MEN2A-like clinical phenotype in the absence of an identifiable RET mutation, with a pathogenic TMEM127 variant instead. Although TMEM127 is an established susceptibility gene for pheochromocytoma and paraganglioma, its association with the broader MEN2A phenotype remains unclear. This unusual genotype-phenotype discordance raises important questions regarding the potential role of alternative genetic pathways in MEN2-like syndromes and creates uncertainty regarding postoperative surveillance and the appropriate extent of screening and genetic counseling for family members. Our case represents an unusual scenario where the patient presents with a clinical phenotype of MEN2A but is RET negative and positive heterozygous for a variant in the TMEM127. This atypical genetic finding introduces complexities in determining the appropriate follow-up protocol and the scope of familial screening necessary.",
-      "journal": "Annals of medicine and surgery (2012)",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42920736",
-      "doi": "10.3389/fbinf.2026.1894725",
-      "title": "Establishing standardized evaluation protocols for peptide-target interaction prediction: the PTI-TAPE consensus framework eDelphi.",
-      "abstract": "Computational peptide-target interaction (PTI) prediction has advanced rapidly as a tool for drug discovery, yet the field lacks agreed evaluation standards. Discrepancies in metrics, negative sampling strategies, and dataset construction across publications currently render cross-study comparisons methodologically intractable, ultimately impeding the clinical translation of therapeutic peptides. To resolve this, we present PTI-TAPE (Peptide-Target Interaction-Tasks Assessing Peptide Engagement), a standardised benchmarking framework developed via a structured three-round eDelphi consensus study with 15 international experts spanning computational biology, machine learning, and regulatory science. Operating under a robust consensus threshold (>80% agreement), the panel established 26 definitive standards across eight domains, governed by the new STRIDE (Standardisation, Transparency, Representativeness, Integration, Discovery, Evidence) framework. Key outcomes include mandating specific primary metrics for affinity and structure, enforcing a tiered negative sampling hierarchy that prioritizes experimental non-binders, and requiring mandatory temporal dataset splits. By providing a unified reporting checklist, benchmark specifications, and a biennial governance structure, PTI-TAPE ensures reproducible evaluation and fair method comparison, bridging the gap between computational PTI predictions and genuine therapeutic benefit.",
-      "journal": "Frontiers in bioinformatics",
-      "year": "2026",
-      "publication_types": [
         "Journal Article"
       ]
     },
@@ -374,11 +369,11 @@
       ]
     },
     {
-      "pmid": "42920747",
-      "doi": "10.1016/j.idcr.2026.e02805",
-      "title": "Acute cerebellitis as a post-infectious complication of primary varicella in an immunocompetent young adult: A case report.",
-      "abstract": "Acute cerebellitis is a well-documented neurological sequela of primary varicella-zoster virus (VZV) infection. Although frequently reported in children, this complication remains uncommon in adults and may present diagnostic difficulties, especially when neuroimaging studies are normal. A previously healthy, immunocompetent 20-year-old man was admitted with a four-day history of progressive gait instability and imbalance. Nine days prior to admission, he had developed a generalized vesicular rash consistent with primary varicella, initially involving the trunk and subsequently spreading to the face and extremities. He also reported occipital and frontal headaches, undocumented fever during the active phase of the rash, and postprandial nausea with vomiting. Neurological examination revealed intact consciousness, normal cranial nerve function, truncal ataxia, a wide-based gait, impaired tandem gait, and inability to maintain balance during Romberg testing even with eyes open. No appendicular ataxia was detected. Laboratory studies showed a normal complete blood count and an erythrocyte sedimentation rate of 13\u202fmm/hour. Brain computed tomography and magnetic resonance imaging revealed no acute pathological findings. Cerebrospinal fluid polymerase chain reaction (PCR) was positive for VZV. Intravenous acyclovir (750\u202fmg three times daily) was initiated, with subsequent gradual clinical improvement. Post-varicella cerebellitis should be included in the differential diagnosis of adults presenting with acute truncal ataxia following recent primary varicella infection, even when neuroimaging is normal. Cerebrospinal fluid VZV PCR is a valuable diagnostic aid, and early antiviral therapy may be associated with favorable outcomes.",
-      "journal": "IDCases",
+      "pmid": "42877914",
+      "doi": "10.7759/cureus.116229",
+      "title": "A Case of MEN 2A Syndrome With Bilateral Recurrent Pheochromocytoma: A Case Report and Literature Review.",
+      "abstract": "Pheochromocytoma is a neuroendocrine tumor arising from chromaffin cells and producing catecholamines. Due to the excessive release of catecholamines, these tumors can present with paroxysmal episodes of high blood pressure, headache, diaphoresis, and palpitations. We present the case of a 23-year-old female patient who presented to the clinic with a history of headache, palpitations, and vomiting for two months. She was admitted for further investigations and management. Laboratory studies revealed elevated urinary and plasma catecholamine levels. Further work-up revealed bilateral adrenal masses diagnosed as pheochromocytoma and medullary thyroid cancer. The patient was diagnosed with multiple endocrine neoplasia (MEN) type 2 and underwent bilateral laparoscopic adrenalectomy and total thyroidectomy with central and lateral neck dissection, and during surveillance, she was found to have recurrent pheochromocytoma. We also discuss the diagnosis and management of recurrent pheochromocytoma in MEN syndrome.",
+      "journal": "Cureus",
       "year": "2026",
       "publication_types": [
         "Case Reports",
@@ -386,15 +381,14 @@
       ]
     },
     {
-      "pmid": "42920755",
-      "doi": "10.1016/j.isci.2026.117935",
-      "title": "GClnc1 as an emerging oncogenic regulator with mechanistic insights and clinical implications in human cancers.",
-      "abstract": "Gastric cancer-related long non-coding RNA1 (GClnc1) is an emerging oncogenic regulator in multiple malignancies, including gastric, colorectal, ovarian, and bladder cancers, as well as osteosarcoma. It promotes proliferation, inhibits apoptosis, and enhances drug resistance and metastasis. Mechanistically, GClnc1 dysregulates key cancer-related regulators and pathways, such as p53, MYC, NF-\u03baB, and the SIRT3/SOD2 axis. Clinically, GClnc1 shows diagnostic and prognostic potential across cancers, with aberrant expression in tissues and altered circulating levels. Notably, exosomal GClnc1 serves as a circulating biomarker for early gastric cancer detection and predicts response to fluorouracil-based chemotherapy. This review summarizes current evidence on GClnc1's regulatory mechanisms and discusses its translational applications. GClnc1 may serve as a multi-cancer biomarker and a promising therapeutic target.",
-      "journal": "iScience",
+      "pmid": "42927065",
+      "doi": "10.1016/j.sleepx.2026.100203",
+      "title": "Integrated assessment of driving performance, eye movements, and cognitive function in obstructive sleep apnea: A pilot study.",
+      "abstract": "Motor vehicle accident (MVA) risk is greater in patients with obstructive sleep apnea (OSA), yet the functional domains most closely linked to driving-related impairment remain incompletely understood. This exploratory pilot study aimed to perform an integrated assessment of driving performance, eye movements, vigilance, and cognitive function in OSA and to examine their relationships with disease severity and treatment response. Adult drivers with suspected OSA underwent assessment using a driving simulator, Psychomotor Vigilance Test (PVT), eye-tracking, and the Cambridge Neuropsychological Test Automated Battery (CANTAB). Participants with moderate-to-severe OSA (apnea-hypopnea index \u226520) who initiated continuous positive airway pressure (CPAP) therapy underwent re-evaluation after 6-12 months. At baseline, single-task reaction time in the driving simulator was positively correlated with apnea severity. In contrast, response accuracy under multitask plus steering conditions was associated with nocturnal hypoxemia (T90), suggesting differential contributions of apnea frequency and oxygen desaturation to driving performance. Eye-tracking parameters, including saccade amplitude and fixation duration, were significantly correlated with both driving performance and spatial working memory error scores. Following CPAP therapy, simple reaction times improved in both the driving simulator and PVT, whereas changes in multitasking performance and CANTAB measures were not statistically significant. Basic psychomotor speed was associated with OSA severity and improved following CPAP therapy, suggesting within-subject improvement of vigilance-dependent processes. In contrast, integrated oculomotor and executive function measures were more closely linked to complex driving performance, indicating that multidomain assessment may better characterize driving-related impairment in OSA. These findings provide preliminary evidence to guide future hypothesis-driven studies.",
+      "journal": "Sleep medicine: X",
       "year": "2026",
       "publication_types": [
-        "Journal Article",
-        "Review"
+        "Journal Article"
       ]
     }
   ]
