@@ -144,6 +144,7 @@
     "42878120",
     "42878776",
     "42886353",
+    "42886865",
     "42887023",
     "42888277",
     "42888280",
@@ -164,7 +165,9 @@
     "42911665",
     "42920069",
     "42920788",
-    "42923192"
+    "42923192",
+    "42927326",
+    "42928242"
   ],
   "sessions": [
     {
@@ -2526,6 +2529,49 @@
           "quiz_question": "A 9-year-old male with a known de novo GNAI2 activating variant, anterior pituitary hypoplasia on MRI, and short stature is on recombinant GH therapy but shows persistently low IGF-1 and suboptimal height velocity. What additional pituitary axes should be monitored closely over time, and why?",
           "quiz_answer": "Based on this MAGIS syndrome case, prolactin, gonadotropins (LH/FSH), and thyroid axis (central hypothyroidism) should all be monitored longitudinally, as the endocrine phenotype appears progressive. The evolving deficiencies in this case illustrate that initial hormonal assessments may underestimate the full degree of hypopituitarism, and regular re-evaluation is essential.",
           "journal": "Hormones (Athens, Greece)",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-16",
+      "items": [
+        {
+          "pmid": "42886865",
+          "doi": "10.1093/ejendo/lvag189",
+          "title": "Machine learning quantifies within-subject facial change in acromegaly.",
+          "category": "notable",
+          "summary": "In this multicenter international cohort study, a face-recognition machine-learning model was able to detect measurable within-person facial shifts toward an acromegaly-associated pattern over time, with 76% of acromegaly patients moving in the predicted direction (P=0.0003) versus no significant shift in aging controls. The model achieved an AUC of 0.858 separating advanced acromegaly from controls on held-out photographs, and prediagnosis untreated baselines already showed modest separation from controls (AUC 0.65), raising the possibility of earlier recognition from ordinary photographs. This approach could eventually complement clinical screening by flagging subtle acromegaloid facial evolution before overt diagnosis, particularly in the primary care setting.",
+          "caveat": "The sample with two usable timepoints was small (n=69), the longitudinal contrast strata trend was not statistically significant (P=0.15), and the study was cross-sectional/retrospective in design \u2014 prospective validation with standardized photography protocols is needed before any clinical deployment.",
+          "quiz_question": "A 38-year-old patient presents with subtle coarsening of facial features over the past 4 years. IGF-1 is mildly elevated at 1.2\u00d7 ULN; random GH is 1.1 ng/mL. Based on the machine-learning facial-change study published in EJE 2026, which statement best describes the potential utility of longitudinal photograph-based analysis in this scenario?",
+          "quiz_answer": "The study demonstrated that acromegaly-associated facial change is measurable within individuals from ordinary photographs using a face-recognition model, and prediagnosis untreated faces already showed modest separation from controls (AUC 0.65). This suggests that longitudinal photograph-based scoring could serve as a non-invasive adjunct to biochemical testing to support earlier recognition, though it is not yet validated for clinical use and requires prospective confirmation.",
+          "journal": "European journal of endocrinology",
+          "year": "2026"
+        },
+        {
+          "pmid": "42928242",
+          "doi": "10.1186/s12902-026-02444-2",
+          "title": "Comparison of demographic, clinical and follow-up data of patients with micromegaly and acromegaly: a retrospective analysis from a single tertiary center.",
+          "category": "notable",
+          "summary": "In this single-center retrospective review of 117 acromegaly patients, 14 (12%) met criteria for 'micromegaly' \u2014 defined by IGF-1 above ULN with GH <2 ng/mL and/or suppressed GH nadir <1 ng/mL plus classic clinical features. Despite lower GH levels and smaller, more often microadenoma-sized tumors, patients with micromegaly had comparable comorbidity profiles and clinical manifestations to classical acromegaly, underscoring that biochemically milder GH excess does not equate to clinically milder disease. Micromegaly patients had higher early postoperative biochemical control rates, but long-term remission rates were similar to classical acromegaly.",
+          "caveat": "Single-center retrospective design with a small micromegaly subgroup (n=14) limits generalizability. The biochemical definition of micromegaly lacks consensus standardization, and sensitivity analyses using alternative definitions were explored but a universally agreed threshold does not yet exist.",
+          "quiz_question": "A 45-year-old woman has classic acromegaloid features \u2014 enlarged hands, prognathism, and hyperhidrosis \u2014 with IGF-1 at 1.4\u00d7 ULN but a GH nadir of 0.8 ng/mL on OGTT and a baseline GH of 1.6 ng/mL. Imaging shows a 6 mm pituitary microadenoma. Based on the micromegaly study, what should guide your management approach?",
+          "quiz_answer": "This presentation is consistent with 'micromegaly.' The study found that despite lower GH levels and smaller tumors, these patients have comorbidity and symptom burdens comparable to classical acromegaly. Apparently low GH does not indicate clinically mild disease, so full evaluation and treatment (including surgical consideration) remain warranted, similar to the approach for classical acromegaly.",
+          "journal": "BMC endocrine disorders",
+          "year": "2026"
+        },
+        {
+          "pmid": "42927326",
+          "doi": "10.1016/j.esmogo.2026.100428",
+          "title": "Prevention and management of hormonal crisis in neuroendocrine tumors undergoing PRRT (peptide receptor radionuclide therapy): a systematic review.",
+          "category": "notable",
+          "summary": "This systematic review of 28 studies examined hormonal crises during PRRT for functioning NETs, including carcinoid crisis (~1% incidence in available cohorts), insulinoma-related hypoglycemia, VIPoma crises, ectopic Cushing syndrome exacerbation, and catecholaminergic crisis in pheochromocytoma/paraganglioma. Hypoglycemic crises in insulinoma patients clustered around the first PRRT cycle, supporting inpatient glucose monitoring at that stage. Evidence across all syndromes was limited and heterogeneous, but consistently pointed toward pretreatment endocrine optimization, syndrome-specific prophylaxis, and multidisciplinary coordination as key safety pillars.",
+          "caveat": "The evidence base is heavily case-report/retrospective-series dependent (18/28 studies); definitions of 'hormonal crisis' varied widely across studies, making incidence estimates unreliable. No firm protocol recommendations are possible from current data, and pheochromocytoma/paraganglioma crises during PRRT are represented by only small series.",
+          "quiz_question": "You are preparing a patient with a functioning paraganglioma and somatostatin-receptor-positive metastatic disease for PRRT. Based on the 2026 systematic review on hormonal crises during PRRT, what pre-treatment considerations are most important for this patient's safety?",
+          "quiz_answer": "The review identified catecholaminergic crisis as a recognized, albeit rare, complication of PRRT in pheochromocytoma/paraganglioma patients. Evidence \u2014 though limited to small series \u2014 consistently emphasized pretreatment endocrine optimization (adequate alpha-blockade, hemodynamic preparation), syndrome-specific prophylaxis, early recognition protocols, and multidisciplinary management. Structured risk assessment and periprocedural monitoring are considered essential, as harmonized management algorithms are not yet established.",
+          "journal": "ESMO gastrointestinal oncology",
           "year": "2026"
         }
       ],
