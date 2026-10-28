@@ -170,7 +170,10 @@
     "42928242",
     "42935875",
     "42941705",
-    "42942541"
+    "42942390",
+    "42942541",
+    "42945770",
+    "42946534"
   ],
   "sessions": [
     {
@@ -2617,6 +2620,49 @@
           "caveat": "Retrospective design, modest sample size (especially the MACS group, n=39), and cross-sectional nature preclude causal inference. The borderline statistical thresholds (some p-values at 0.047\u20130.056) and lack of histologic validation (liver biopsy) limit confidence; prospective studies are needed before this influences routine practice.",
           "quiz_question": "A 55-year-old woman is referred for an incidentally found 2.3 cm lipid-rich left adrenal nodule. Her 1-mg overnight DST cortisol is 2.8 \u00b5g/dL (reference <1.8). She has no overt Cushingoid features but has BMI 29, mild hypertension, and borderline fasting glucose. Routine abdominal CT shows a liver attenuation of 48 HU and spleen attenuation of 62 HU. How does this imaging finding relate to her adrenal diagnosis?",
           "quiz_answer": "The liver-spleen attenuation difference is negative (liver 48 HU vs. spleen 62 HU), consistent with hepatic steatosis. According to this study, MACS\u2014which her post-DST cortisol of 2.8 \u00b5g/dL suggests\u2014is associated with subtle CT-derived hepatic fat accumulation, most sensitively detected by the liver-spleen attenuation difference rather than conventional steatosis thresholds. This reinforces the metabolic consequences of even mild autonomous cortisol excess and supports comprehensive cardiometabolic evaluation in MACS patients.",
+          "journal": "Medicina (Kaunas, Lithuania)",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-24",
+      "items": [
+        {
+          "pmid": "42946534",
+          "doi": "10.1093/eurheartj/ehag827",
+          "title": "Cortisol in cardio-kidney-metabolic disease.",
+          "category": "practice-changing",
+          "summary": "This review synthesizes emerging evidence that hypercortisolism\u2014spanning mild autonomous cortisol secretion (MACS) to overt Cushing syndrome\u2014is a substantially underrecognized driver of cardio-kidney-metabolic (CKM) disease. Prospective data cited include a 24% prevalence of hypercortisolism in difficult-to-control T2DM (CATALYST trial) and 27% in resistant hypertension (MOMENTUM trial), with MACS carrying a 2.5-fold higher risk of cardiovascular death. The authors propose the 1 mg overnight dexamethasone suppression test as the diagnostic test of choice and outline a therapeutic algorithm spanning steroidogenesis inhibitors, glucocorticoid receptor antagonists, and surgery for remediable disease.",
+          "caveat": "Prevalence figures come from selected, phenotypically enriched cohorts rather than unselected CKM populations, so generalizability is uncertain. The review calls explicitly for standardized diagnostic thresholds and clinical trials before cortisol-targeted strategies can be routinely integrated into CKM care pathways.",
+          "quiz_question": "A 55-year-old woman with obesity, longstanding resistant hypertension on four agents, and poorly controlled type 2 diabetes has no classic Cushingoid features. Based on the evidence summarized in this review, what screening test should you consider, and what prevalence of hypercortisolism might you expect in this phenotype?",
+          "quiz_answer": "The 1 mg overnight dexamethasone suppression test is the recommended first-line screen. In the MOMENTUM cohort of patients with resistant hypertension, the prevalence of hypercortisolism was approximately 27%, making biochemical screening reasonable in this high-pretest-probability CKM phenotype even without overt Cushingoid stigmata.",
+          "journal": "European heart journal",
+          "year": "2026"
+        },
+        {
+          "pmid": "42945770",
+          "doi": "10.1016/j.jocn.2026.112367",
+          "title": "Optimizing inferior petrosal sinus sampling: results of a multicenter study.",
+          "category": "notable",
+          "summary": "This multicenter RAPID registry analysis of 93 confirmed Cushing's disease patients evaluated whether IPSS protocols could be streamlined without sacrificing diagnostic sensitivity. At baseline, 77% of patients met a \u22652X central:peripheral ACTH ratio, and sensitivity rose to 91.4% by 15 minutes post-stimulation, with diagnostic yield plateauing at that point. The best post-stimulation ACTH responses occurred at 2\u20135 minutes, and the authors conclude that baseline plus a limited set of early post-stimulation samples (through 15 minutes) captures the vast majority of cases, potentially reducing laboratory and interpretive burden.",
+          "caveat": "This is a retrospective, hypothesis-generating study limited to a surgically confirmed CD cohort, so the figures represent sensitivity rather than overall diagnostic accuracy (specificity cannot be assessed). Prospective validation with a standardized protocol is needed before protocol changes are adopted broadly. The 78% MRI-negative rate in this cohort may limit generalizability.",
+          "quiz_question": "During an IPSS for a patient with biochemically confirmed ACTH-dependent Cushing's syndrome and a negative pituitary MRI, at what post-stimulation time point is the central:peripheral ACTH ratio most likely to peak, and at what time point does adding further samples yield negligible additional diagnostic information?",
+          "quiz_answer": "According to this study, the highest fold-increase in C:P ACTH ratio occurred at 2\u20135 minutes post-stimulation. Diagnostic yield plateaued by 15 minutes, with negligible incremental gain from samples collected beyond that point, suggesting a streamlined protocol through 15 minutes post-stimulation is sufficient.",
+          "journal": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+          "year": "2026"
+        },
+        {
+          "pmid": "42942390",
+          "doi": "10.3390/medicina62101859",
+          "title": "Evaluation of Diastolic Dysfunction in Pituitary Adenomas: A Comparative Single-Center Study Among Acromegaly, Prolactinoma, and Nonfunctioning Pituitary Adenomas.",
+          "category": "notable",
+          "summary": "This cross-sectional study of 214 participants compared echocardiographic and cardiometabolic profiles across acromegaly, prolactinoma, NFPA, and healthy controls. Left ventricular diastolic dysfunction (LVDD) was present in 46% of acromegaly patients versus only 5.8% of controls, and all three pituitary adenoma subtypes showed independently elevated LVDD odds compared to controls on multivariable analysis. Acromegaly was associated with the highest cardiometabolic burden (insulin resistance, glucose impairment) and the most pronounced diastolic abnormalities including elevated E/e' and reduced lateral e' velocity, predominantly grade I impaired relaxation.",
+          "caveat": "Single-center, cross-sectional design precludes causal inference, and the very wide confidence intervals (e.g., OR 167.5 for acromegaly, 95% CI 10.3\u20132721.4) reflect small subgroup sizes\u2014particularly the acromegaly group (n=26)\u2014and should be interpreted with caution. Disease activity and treatment duration were not uniformly controlled across groups.",
+          "quiz_question": "A 48-year-old man with biochemically active acromegaly reports no cardiac symptoms. Routine echocardiography is ordered. Based on this study's findings, what is the most likely diastolic dysfunction pattern you would expect, and what cardiometabolic parameter was most strongly elevated in the acromegaly group compared to controls?",
+          "quiz_answer": "The most likely finding is grade I diastolic dysfunction (impaired relaxation pattern), which accounted for 84.8% of all LVDD cases in the cohort and was present in 46% of acromegaly patients. Fasting glucose, HbA1c, insulin, and HOMA-IR were all highest in the acromegaly group, reflecting the prominent insulin-resistant phenotype associated with GH/IGF-1 excess.",
           "journal": "Medicina (Kaunas, Lithuania)",
           "year": "2026"
         }
