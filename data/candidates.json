@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-10-28",
+  "fetched_at": "2026-10-29",
   "date_window": {
-    "from": "2016/10/30",
-    "to": "2026/10/28"
+    "from": "2016/10/31",
+    "to": "2026/10/29"
   },
   "already_covered_pmids": [
     "41730814",
@@ -175,9 +175,35 @@
     "42928242",
     "42935875",
     "42941705",
-    "42942541"
+    "42942390",
+    "42942541",
+    "42945770",
+    "42946534"
   ],
   "candidates": [
+    {
+      "pmid": "42952564",
+      "doi": "10.3389/fphar.2026.1877367",
+      "title": "Short-course versus standard- or longer-course oral antibiotic therapy for pneumonia and lower respiratory tract infection in children: a systematic review and meta-analysis of randomized controlled trials.",
+      "abstract": "Reducing unnecessary antibiotic exposure is a major priority in pediatric antimicrobial stewardship. The comparative effectiveness of short-course versus standard- or longer-course oral antibiotic therapy for uncomplicated bacterial infections in children remains uncertain. To evaluate whether short-course oral antibiotic therapy increases clinical treatment failure compared with standard- or longer-course therapy in children with uncomplicated bacterial infections, with a primary focus on same-antibiotic pediatric pneumonia/lower respiratory tract infection (LRTI) trials. We conducted a systematic review and meta-analysis of randomized controlled trials. MEDLINE/PubMed, Embase, Web of Science, and CENTRAL were searched, supplemented by citation searching and trial registry review. Eligible studies enrolled children aged 0-18 years with uncomplicated bacterial infections treated with oral antibiotics in outpatient or ambulatory settings. The primary outcome was clinical treatment failure; broader pneumonia/LRTI and all-infection analyses were treated as sensitivity or exploratory analyses. Random-effects meta-analysis used risk ratios (RRs) and risk differences (RDs) with 95% confidence intervals (CIs). Risk of bias was assessed with the Cochrane risk-of-bias tool. The review was registered in PROSPERO (CRD420261339263). Fourteen randomized trials were included; nine same-antibiotic pneumonia/LRTI comparisons contributed to the primary pooled analysis. Short-course therapy was not associated with increased treatment failure (RR, 1.01; 95% CI, 0.92-1.11; I2 = 0.0%), and the absolute-effect analysis showed no meaningful difference (RD, 0.001; 95% CI, -0.010 to 0.013; I2 = 10.0%). A broad pneumonia/LRTI sensitivity analysis including different-antibiotic comparisons was also non-significant (RR, 0.94; 95% CI, 0.66-1.33) but heterogeneous. The all-infection exploratory analysis was similarly non-significant (RR, 0.89; 95% CI, 0.63-1.25) and interpreted cautiously given clinical heterogeneity. Of the 14 trials, 5 were at low risk of bias, 2 had some concerns, and 7 were at high risk. In same-antibiotic pediatric pneumonia/LRTI trials, short-course therapy was not associated with increased clinical treatment failure compared with standard- or longer-course therapy. Broader analyses across different antibiotic strategies and infection syndromes did not materially change this interpretation but showed substantial heterogeneity. These findings support cautious, infection-specific antibiotic duration reduction rather than broad generalization across all uncomplicated pediatric bacterial infections. https://www.crd.york.ac.uk/PROSPERO/view/CRD420261339263, identifier CRD420261339263.",
+      "journal": "Frontiers in pharmacology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ]
+    },
+    {
+      "pmid": "42951065",
+      "doi": "10.1016/j.ando.2026.103116",
+      "title": "Clinical contribution of the PANOMEN-3 classification in predicting prognosis in pituitary neuroendocrine tumor.",
+      "abstract": "Pituitary neuroendocrine tumors (PitNETs) are heterogeneous intracranial neoplasms with variable clinical behavior. Reliable prognostic tools are needed for postoperative risk stratification. We aimed to evaluate the prognostic performance of the PANOMEN-3 classification in a real-world surgical cohort of patients with PitNETs. This single-center retrospective observational cohort study included 92 consecutive adult patients with histologically confirmed PitNETs who underwent pituitary surgery at a tertiary academic center in northern Portugal between 2017 and 2024. Postoperative PANOMEN-3 scores were calculated from clinical, biochemical, radiological and histopathological variables. Progression-free survival (PFS) was analyzed using Kaplan-Meier curves (log-rank test) and Cox proportional hazards regression. Median follow-up was 69 months (IQR 36). Postoperatively, 5.4% of patients were classified as grade 0, 27.2% as grade 1, 57.6% as grade 2 and 9.8% as grade 3. Increasing PANOMEN-3 grade was associated with progressively shorter PFS (log-rank p < 0.001). Median PFS was not reached for grades 0 and 1, was 43 months (95% CI 10-NR) for grade 2, and only 5 months (95% CI 1-NR) for grade 3. On multivariate Cox regression, grade 2 tumors showed a more than 6-fold increase in progression risk (HR 6.13; 95% CI 2.15-17.51; p = 0.001) and grade 3 tumors an approximately 15-fold increase (HR 15.58; 95% CI 4.32-56.26; p < 0.001), compared with grades 0-1 combined. Gender and age were not independently associated with outcome. The PANOMEN-3 classification effectively stratified postoperative progression risk in surgically treated PitNETs, supporting its role in personalized postoperative surveillance and treatment planning.",
+      "journal": "Annales d'endocrinologie",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
     {
       "pmid": "42948668",
       "doi": "10.7759/cureus.118537",
@@ -191,11 +217,102 @@
       ]
     },
     {
-      "pmid": "42946534",
-      "doi": "10.1093/eurheartj/ehag827",
-      "title": "Cortisol in cardio-kidney-metabolic disease.",
-      "abstract": "Despite guideline-directed therapy, many patients with cardio-kidney-metabolic (CKM) disease remain uncontrolled due to therapeutic inertia, adherence barriers, and underrecognized secondary causes. Hypercortisolism, ranging from mild autonomous cortisol secretion (MACS) to overt Cushing syndrome, is an increasingly recognized contributor. MACS is associated with a 2.5-fold higher risk of cardiovascular death and increased prevalence of hypertension, type 2 diabetes mellitus (T2DM), and kidney impairment. Cortisol excess promotes muscle insulin resistance, hepatic gluconeogenesis, \u03b2-cell dysfunction, sodium retention, and vascular remodelling, worsening glycaemia and blood pressure, leading to poor CKM outcomes. Recent prospective studies suggest that hypercortisolism is more prevalent than previously suspected in selected CKM phenotypes, including 24% in patients with difficult-to-control T2DM in CATALYST and 27% in patients with resistant hypertension in MOMENTUM. The overnight 1 mg dexamethasone suppression test remains the diagnostic test of choice. Therapeutic strategies include adrenal steroidogenesis inhibitors, glucocorticoid receptor antagonists, and pituitary-directed therapies in selected cases, while surgery remains the first-line treatment for surgically remediable disease. This review summarizes the epidemiology and mechanisms linking cortisol excess to CKM dysfunction, and also highlights the need for clinical trials, standardized diagnostic thresholds, and assays to enable integration of cortisol-targeted therapies into management pathways to mitigate residual CKM risk. This review will serve as a practical guide for cardiologists to manage a potentially reversible contributor to poor CKM control.",
-      "journal": "European heart journal",
+      "pmid": "42952575",
+      "doi": "10.3389/fvets.2026.1969225",
+      "title": "Dietary Moringa oleifera leaf powder and xylanase supplementation as a sustainable nutritional strategy: effects on growth performance, serum biochemistry, and selected cecal bacterial populations in broiler chickens.",
+      "abstract": "Phytogenic feed additives and exogenous enzymes have attracted increasing interest as sustainable nutritional strategies for improving poultry production. This study evaluated the effects of dietary Moringa oleifera leaf powder (MLP) and xylanase, individually and in combination, on growth performance, carcass traits, serum biochemical indices, thyroid hormones, and cecal bacterial populations in broilers. A total of 160 one-day-old Cobb broiler chicks were randomly assigned to four dietary treatments in a 2\u202f\u00d7\u202f2 factorial arrangements consisting of two levels of MLP (0 or 4\u202fg/kg diet) and two levels of xylanase (0 or 1.5\u202fg/kg diet). Each treatment included five replicate pens of eight birds and was fed for 42 d. Growth performance, carcass characteristics, serum metabolites, and cecal bacterial populations were determined. Dietary treatments significantly affected growth performance variables. Birds receiving the combined MLP and xylanase supplementation exhibited greater final body weight and body weight gain and lower feed conversion ratio than birds fed the control diet (p\u202f<\u202f0.05). Feed intake was reduced by MLP supplementation, particularly during the grower and overall experimental periods. Relative liver weight was reduced in xylanase-supplemented birds (p\u202f<\u202f0.05), whereas dressing percentage and the relative weights of other organs were not affected. Dietary treatments also influenced serum biochemical traits and thyroid hormones. MLP supplementation reduced serum glucose concentration, whereas MLP alone reduced serum total lipid concentration, whereas xylanase affected circulating thyroid hormone concentrations (p\u202f<\u202f0.05). Serum total protein, albumin, globulin, and albumin-to-globulin ratio were not altered by dietary treatment. Cecal bacterial enumeration showed MLP alone increased Lactobacillus counts, whereas all supplemented treatments reduced E. coli counts compared with the control group (p\u202f<\u202f0.05). Significant MLP\u202f\u00d7\u202fxylanase interactions were observed for biochemical variables. Dietary supplementation with MLP and xylanase influenced growth performance, thyroid hormone concentrations, and cultivable cecal bacterial populations in broiler chickens. The combined supplementation resulted in the most favorable growth performance and feed efficiency among the evaluated treatments. These findings support the potential application of MLP and xylanase as components of sustainable nutritional strategies in broiler production. Further studies are warranted to elucidate the biological mechanisms underlying these responses.",
+      "journal": "Frontiers in veterinary science",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42949010",
+      "doi": "10.5603/ep.110211",
+      "title": "Management of congenital adrenal hyperplasia due to 21-hydroxylase deficiency: an update.",
+      "abstract": "Congenital adrenal hyperplasia (CAH) represents a group of autosomal recessive disorders characterized by enzyme deficiencies thatimpair adrenal steroidogenesis, most commonly due to 21-hydroxylase deficiency. The biochemical defects in CAH translate to a spectrumof clinical consequences, which include adrenal insufficiency, genital ambiguity or disordered sex development, infertility, short stature,and an increased risk of metabolic syndrome during adolescence and adulthood. The severity and clinical features of CAH vary dependingon the enzymatic defect, residual enzymatic activity, the age of presentation, and genotype. This review comprehensively covers the genetic background, classification, and clinical spectrum of CAH, including classical and non-classical forms. We discuss the importance and implementation of neonatal screening programs for early diagnosis and intervention. Specialattention is given to differences in treatment approaches between children and adolescents, highlighting the challenges of optimizingglucocorticoid and mineralocorticoid therapy across developmental stages. Furthermore, we present emerging novel pharmacologicalagents currently in clinical trials aimed at improving disease management. The review also addresses potential complications associatedwith CAH, such as metabolic syndrome, cardiovascular risks, and bone health issues. Emphasizing a patient-centered approach, wehighlight the critical role of experienced endocrinologists in delivering individualized care to improve long-term outcomes. Our review summarizes the current knowledge, aims to guide clinicians in evidence-based management and highlights ongoing research into innovativetherapies for CAH.",
+      "journal": "Endokrynologia Polska",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42952565",
+      "doi": "10.3389/froh.2026.1945885",
+      "title": "Maxillary foreign body management in odontogenic sinusitis: an algorithm based on a single centre experience.",
+      "abstract": "This study aimed to evaluate the management of patients with odontogenic maxillary sinusitis associated with foreign bodies. We retrospectively reviewed 165 patients treated at our institution; 48 met the inclusion criteria and were analyzed. All presented odontogenic sinusitis with a maxillary sinus foreign body and underwent surgery according to a multidisciplinary treatment algorithm based on clinical and radiological findings. Thirty-two patients were treated with a simultaneous combined oral and nasal approach, 12 with an oral approach alone, and 4 with a nasal approach alone. Complete removal of the foreign body and complete symptom resolution were achieved in all cases. In this retrospective series, surgical treatment was successful in all 48 patients. Our results support that a multidisciplinary approach was the most frequently utilized strategy in our cohort and proved highly effective in appropriately selected patients for the management of odontogenic sinusitis associated with maxillary foreign bodies, allowing surgeons to tailor the surgical approach to the specific anatomical and clinical presentation.",
+      "journal": "Frontiers in oral health",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42931764",
+      "doi": "10.1210/endrev/bnag042",
+      "title": "\"Paraneoplastic syndromes secondary to \u039deuroendocrine \u039deoplasms\".",
+      "abstract": "Paraneoplastic syndromes (PNS) represent uncommon but clinically significant manifestations of neuroendocrine neoplasms (NENs) arising from ectopic hormone secretion, aberrant peptide processing, cytokine-mediated effects, or immune-mediated mechanisms. Although NENs are intrinsically capable of producing bioactive substances leading to PNS, the true prevalence of PNS in NENs remains uncertain and is likely underestimated. Paraneoplastic manifestations may precede tumor diagnosis, represent the first indication of an otherwise occult neoplasm, or emerge during disease progression, thereby providing valuable diagnostic, prognostic, and therapeutic information. Endocrine PNS, including ectopic adrenocorticotrophic hormone secretion, carcinoid syndrome, paraneoplastic hypercalcemia, syndrome of inappropriate antidiuretic hormone secretion, hypoglycemia and ectopic acromegaly, account for the majority of cases, whereas neurological PNS are rarer and predominantly associated with high-grade neuroendocrine carcinomas (NECs). Recent advances in molecular biology have revealed the importance of neuroendocrine lineage plasticity, transcriptional dysregulation, epigenetic reprogramming, and abnormal prohormone processing in the pathogenesis of these syndromes. Concurrently, improvements in biochemical testing, functional imaging, liquid biopsy technologies, and molecular profiling have enhanced diagnostic accuracy and disease monitoring. Management requires a multidisciplinary approach combining syndrome-directed therapies with tumor-targeted interventions, including surgery, somatostatin analogs, peptide receptor radionuclide therapy, targeted agents, specific chemotherapy regimens and emerging immunotherapeutic strategies. Despite substantial progress, significant gaps remain regarding epidemiology, accurate biomarkers, prognostic significance, and optimal management. This review summarizes current knowledge on pathophysiology, clinical spectrum, diagnosis, prognostic implications, and treatment of PNS associated with gastroenteropancreatic and lung NENs, while highlighting future research priorities and unmet clinical needs.",
+      "journal": "Endocrine reviews",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42952554",
+      "doi": "10.3389/fpsyt.2026.1815025",
+      "title": "Projecting the real through active inference: a unified model of reality construction from neuronal dynamics to social consensus a neuroscientific framework for psychopathology.",
+      "abstract": "How does the brain transform a chaotic stream of sensory signals into a stable, shared experience of reality? This theoretical paper proposes that the brain does not passively receive the world, but actively projects it - it continuously generates predictions about sensory inputs and updates its internal model when predictions fail, a process formally described by the free energy principle and active inference. We argue that this process can be understood through an analogy with quantum decoherence - the collapse of multiple possibilities into a single actuality. By integrating insights from this analogy with active inference, we show how the brain resolves sensory uncertainty into a coherent projection of reality. A central question we address is whether projecting reality changes it. We argue that it does: a strong, coherent projection reduces uncertainty, while a weak or fragmented one amplifies prediction errors, and a distorted one - diverging from social consensus - leads to alternative realities that resist correction. This projection operates in discrete, rhythmic cycles governed by brain waves and is fine-tuned by neurochemicals that determine how much we \"trust\" our predictions versus new sensory data. The Default Mode Network - the brain's inner \"sea\" of self-awareness, memories, and context - acts as a central hub that integrates and updates these projections. Crucially, individual projections are stabilized into a shared, \"solid\" reality through social interaction, language, and culture - a process we call collective active inference. Within this framework, psychiatric disorders are understood as disorders of projection - distortions in how the brain generates and stabilizes its model of reality. This perspective reverses the traditional explanatory gradient: psychopathology is not merely a sensory or chemical problem, but a fundamental disruption of the brain's capacity to project a coherent world. This unifying framework offers a new foundation for both pharmacological and psychotherapeutic interventions, grounding them in a common computational logic.",
+      "journal": "Frontiers in psychiatry",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42936421",
+      "doi": "10.7759/cureus.116978",
+      "title": "Beyond Digoxin Toxicity: A Fatal Case of BRASH Syndrome Triggered by Community-Acquired Pneumonia.",
+      "abstract": "Bradycardia, renal failure, atrioventricular (AV) nodal blockade, shock, and hyperkalemia (BRASH) syndrome is a rare, life-threatening clinical condition caused by the synergistic interaction between hyperkalemia, renal dysfunction, and AV nodal blocking agents, resulting in severe bradycardia and hemodynamic instability. Early recognition is often challenging due to its nonspecific presentation. We report the case of an 82-year-old man with atrial fibrillation, ischemic heart disease, congestive cardiac failure, chronic kidney disease, and chronic digoxin therapy who presented with abdominal pain, confusion, dizziness, hypotension, and profound bradycardia. Investigations demonstrated severe hyperkalemia, acute kidney injury on top of chronic kidney disease, hyponatremia, and electrocardiographic changes consistent with hyperkalemia. Initial differential diagnoses included mesenteric ischemia, adrenal insufficiency, and digoxin toxicity; however, imaging excluded bowel ischemia, cortisol levels were normal, and serum digoxin at the therapeutic level. Community-acquired pneumonia complicated by sepsis was identified as the precipitating trigger for BRASH syndrome. Despite intensive treatment, including hyperkalemia management, isoprenaline infusion, antibiotics, corticosteroids, and supportive care, the patient's condition progressively deteriorated, culminating in multiorgan failure and death shortly afterward. This case highlights the diagnostic complexity of BRASH syndrome and emphasizes the importance of early recognition and targeted management to interrupt the vicious cycle and improve clinical outcomes.",
+      "journal": "Cureus",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42952531",
+      "doi": "10.7759/cureus.117024",
+      "title": "Scleroderma-Like Phenotype in a Patient With Transthyretin Cardiac Amyloidosis and Acromegaly: A Triple Diagnostic Challenge.",
+      "abstract": "Systemic sclerosis, transthyretin cardiac amyloidosis, and acromegaly are rare disorders that share several clinical manifestations, including skin thickening, heart failure, dysphagia, fatigue, and soft tissue enlargement. Their coexistence is exceptionally rare and poses a significant diagnostic challenge, increasing the risk of premature diagnostic closure. We report a 78-year-old man who developed progressive diffuse skin thickening following spinal cord stimulator revision. Positive RNA polymerase III antibodies supported a diagnosis of diffuse systemic sclerosis. Evaluation of worsening edema and exertional dyspnea revealed severe concentric left ventricular hypertrophy with relative apical sparing on echocardiography, and technetium-99m pyrophosphate scintigraphy confirmed transthyretin cardiac amyloidosis. Persistent macroglossia, coarse facial features, prior carpal tunnel syndrome, and a remote history of increasing ring and shoe size prompted endocrine evaluation, which demonstrated elevated insulin-like growth factor-1 levels, failure of growth hormone suppression, and a pituitary macroadenoma consistent with acromegaly. The patient underwent successful transsphenoidal resection with biochemical remission. This case highlights the importance of reconsidering the differential diagnosis when clinical features are not fully explained by an established diagnosis.\u00a0Recognizing atypical and discordant findings prevented premature diagnostic closure and led to the identification of transthyretin cardiac amyloidosis and acromegaly in a patient with a rapidly progressive scleroderma-like phenotype.",
+      "journal": "Cureus",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42936300",
+      "doi": "10.3389/fendo.2026.1928818",
+      "title": "Diagnostic delay length and disease severity are the main predictors of sleep apnea in acromegaly patients.",
+      "abstract": "Obstructive sleep apnea (OSA) affects up to 80% of patients at diagnosis of acromegaly and often persists despite treatment. Currently, patients at risk for OSA are recommended to be identified to offer polygraphy evaluation. To study the prevalence and risk factors for OSA in patients with acromegaly. Prospective, single-center study; polygraphy was performed on 36 patients with acromegaly (age 54.1\u00a0\u00b1\u00a012.9 years). OSA was found in 17 patients (47.2%), mostly mild (64.7%). Patients with OSA were older both at diagnosis (p = 0.02) and at polygraphy (p = 0.008), had a longer diagnostic delay (p = 0.003) and higher BMI (p = 0.03). Patients with uncontrolled acromegaly exhibited a significantly higher number of apneas (p=0.02) and obstructive apneas (p=0.04) and had significantly lower minimum oxygen saturations (p=0.02) and a higher percentage of time spent with oxygen saturation <90% (p=0.03) as compared to those with full disease control. Diagnostic delay was the best predictor of apnea-ipopnea index (AHI, p=0.04) and oxygen desaturation index (ODI, p=0.04) scores, independently on BMI. Insulin resistance (p = 0.05), glucose profile impairment (p = 0.05) and STOP-Bang score (p=0.001), but not Epworth Sleepiness Scale score (p = 0.96), were significantly higher in patients with OSA as compared to those without. Diagnostic delay and patients' age, rather than disease status, appear to predict the development of OSA and influence its severity. These findings reinforce the importance of early identification of patients at higher risk for OSA.",
+      "journal": "Frontiers in endocrinology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42952556",
+      "doi": "10.3389/fmolb.2026.1968646",
+      "title": "Exogenous hydrogen sulfide alleviates cerebral ischemia/reperfusion injury via inhibiting RIPK1-mediated neuronal necroptosis and ROS overaccumulation.",
+      "abstract": "Cerebral I/R injury is a significant pathological factor contributing to neuronal death and neurological dysfunction following stroke. Necroptosis and excessive oxidative stress are pivotal mechanisms that drive ischemic neuronal damage. H2S has been identified as a neuroprotective gaseous signaling molecule; however, its regulatory role in neuronal necroptosis during cerebral I/R injury remains inadequately understood. In vitro, we established a cell OGD model to simulate neuronal I/R injury. Following pretreatment with NaHS or Necrostatin-1, we assessed cell viability, the necroptotic rate, intracellular ROS levels, mitochondrial membrane potential, and the expression of necroptosis-related proteins. In vivo, we established a mouse model of MCAO/R. After NaHS and Nec-1 intervention, we evaluated neurological deficit scores, cerebral blood perfusion, brain water content, cerebral infarct volume, neuronal ultrastructure, and the expression of RIPKs proteins. OGD treatment resulted in a time-dependent decline in SH-SY5Y cell viability, a significant increase in the rate of neuronal necroptosis, excessive accumulation of ROS, mitochondrial dysfunction, and elevated expression levels of RIPKs and MLKL. Pretreatment with moderate doses of NaHS significantly enhanced cell viability, mitigated ROS overproduction, restored mitochondrial membrane potential, and inhibited OGD-induced neuronal necroptosis. Both NaHS and Nec-1 effectively suppressed the activation of the RIPK1 mediated signaling pathway. In vivo, MCAO/R induced severe neurological dysfunction, cerebral hypoperfusion, brain edema, extensive cerebral infarction, and neuronal ultrastructural damage. NaHS or Nec-1 treatment significantly improved neurological deficits, restored regional cerebral blood flow, reduced brain edema and infarct volume, and alleviated neuronal morphological damage by downregulating the expression of RIPK1 and RIPK3. Necroptosis played a crucial role in acute cerebral I/R injury, both in vitro and in vivo, mediated by RIPK1. Exogenous H2S or Nec-1 exhibited significant neuroprotective effects against cerebral I/R injury by suppressing RIPK1-mediated neuronal necroptosis and inhibiting ROS. These findings provided a novel theoretical basis for the clinical management of ischemic stroke.",
+      "journal": "Frontiers in molecular biosciences",
       "year": "2026",
       "publication_types": [
         "Journal Article"
@@ -214,14 +331,73 @@
       ]
     },
     {
-      "pmid": "42936421",
-      "doi": "10.7759/cureus.116978",
-      "title": "Beyond Digoxin Toxicity: A Fatal Case of BRASH Syndrome Triggered by Community-Acquired Pneumonia.",
-      "abstract": "Bradycardia, renal failure, atrioventricular (AV) nodal blockade, shock, and hyperkalemia (BRASH) syndrome is a rare, life-threatening clinical condition caused by the synergistic interaction between hyperkalemia, renal dysfunction, and AV nodal blocking agents, resulting in severe bradycardia and hemodynamic instability. Early recognition is often challenging due to its nonspecific presentation. We report the case of an 82-year-old man with atrial fibrillation, ischemic heart disease, congestive cardiac failure, chronic kidney disease, and chronic digoxin therapy who presented with abdominal pain, confusion, dizziness, hypotension, and profound bradycardia. Investigations demonstrated severe hyperkalemia, acute kidney injury on top of chronic kidney disease, hyponatremia, and electrocardiographic changes consistent with hyperkalemia. Initial differential diagnoses included mesenteric ischemia, adrenal insufficiency, and digoxin toxicity; however, imaging excluded bowel ischemia, cortisol levels were normal, and serum digoxin at the therapeutic level. Community-acquired pneumonia complicated by sepsis was identified as the precipitating trigger for BRASH syndrome. Despite intensive treatment, including hyperkalemia management, isoprenaline infusion, antibiotics, corticosteroids, and supportive care, the patient's condition progressively deteriorated, culminating in multiorgan failure and death shortly afterward. This case highlights the diagnostic complexity of BRASH syndrome and emphasizes the importance of early recognition and targeted management to interrupt the vicious cycle and improve clinical outcomes.",
+      "pmid": "42924757",
+      "doi": "10.3390/ijns12040080",
+      "title": "Newborn Screening for X-Linked Adrenoleukodystrophy: A Systematic Literature Review.",
+      "abstract": "X-linked adrenoleukodystrophy (X-ALD) is the most common leukodystrophy and peroxisomal disorder. It was added to newborn screening (NBS) programs following its first implementation in New York in 2013. Since then, X-ALD screening has expanded rapidly, although important differences exist among programs. This systematic review aimed to evaluate the global implementation of NBS for X-ALD, including screening methodologies, screening performance, prevalence estimates, genetic findings, and clinical follow-up outcomes. A systematic search of PubMed and EMBASE identified 13 publications describing NBS programs conducted between 2013 and June 2026. All programs used C26:0-lysophosphatidylcholine (C26:0-LPC) as the primary biomarker, although substantial heterogeneity was observed in analytical methodologies, cut-off values, screening algorithms, and follow-up strategies. Positive predictive values ranged from 9.1% to 100%, while screening detection rates varied from 1:3118 to 1:51,081, reflecting differences in study design, screening population, sample size, and screening approaches. Variants of uncertain significance (VUS) accounted for 52.6% of individuals detected with classified ABCD1 variant findings, representing a major challenge for genetic counseling and clinical management. Most identified newborns were asymptomatic at diagnosis, supporting the role of NBS in enabling early surveillance for adrenal insufficiency and cerebral disease before irreversible manifestations occur. In addition, differences between universal and sex-specific screening strategies highlight ongoing clinical and ethical debates regarding the scope of X-ALD NBS. Overall, current evidence supports the feasibility of NBS for X-ALD and its ability to enable presymptomatic ascertainment and early clinical surveillance; however, greater harmonization of screening protocols, improved variant interpretation, and long-term outcome studies are needed to optimize program performance and clinical benefit.",
+      "journal": "International journal of neonatal screening",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42877914",
+      "doi": "10.7759/cureus.116229",
+      "title": "A Case of MEN 2A Syndrome With Bilateral Recurrent Pheochromocytoma: A Case Report and Literature Review.",
+      "abstract": "Pheochromocytoma is a neuroendocrine tumor arising from chromaffin cells and producing catecholamines. Due to the excessive release of catecholamines, these tumors can present with paroxysmal episodes of high blood pressure, headache, diaphoresis, and palpitations. We present the case of a 23-year-old female patient who presented to the clinic with a history of headache, palpitations, and vomiting for two months. She was admitted for further investigations and management. Laboratory studies revealed elevated urinary and plasma catecholamine levels. Further work-up revealed bilateral adrenal masses diagnosed as pheochromocytoma and medullary thyroid cancer. The patient was diagnosed with multiple endocrine neoplasia (MEN) type 2 and underwent bilateral laparoscopic adrenalectomy and total thyroidectomy with central and lateral neck dissection, and during surveillance, she was found to have recurrent pheochromocytoma. We also discuss the diagnosis and management of recurrent pheochromocytoma in MEN syndrome.",
       "journal": "Cureus",
       "year": "2026",
       "publication_types": [
         "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42941365",
+      "doi": "10.3390/jcm15207850",
+      "title": "Retinal Microvascular and Peripapillary Profiles in Mild Autonomous Cortisol Secretion Versus Nonfunctioning Adrenal Adenomas.",
+      "abstract": "Background/Objectives: Mild autonomous cortisol secretion (MACS) is associated with increased cardiometabolic morbidity, but its relationship with the retinal microcirculation is unknown. We compared retinal and peripapillary microvascular parameters between MACS and nonfunctioning adrenal adenoma (NFA) and, secondarily, examined their associations with continuously modeled post-dexamethasone cortisol. Methods: In this single-center, retrospective, cross-sectional study, 98 patients (45 NFA, 53 MACS) were included, and optical coherence tomography angiography (OCTA) and structural OCT data from one eye per patient were analyzed. The primary outcome was whole-image deep capillary plexus (DCP) vessel density. Multivariable models were adjusted for age, sex, body mass index, and cardiometabolic comorbidities; secondary analyses were corrected using the Benjamini-Hochberg false discovery rate (q values). Results: OCTA was evaluable in 89 patients. The primary outcome did not differ significantly between groups in the main analysis (NFA vs. MACS, 48.64 \u00b1 5.71% vs. 47.31 \u00b1 5.77%; adjusted difference -1.29 percentage points, 95% CI -3.97 to 1.38; p = 0.339) or in any sensitivity analysis. In secondary analyses, superior retinal nerve fiber layer (RNFL) thickness was greater in MACS (\u03b2 = 17.38 \u00b5m; q < 0.001) and increased with ln(post-dexamethasone cortisol) (\u03b2 = 13.74 \u00b5m; q = 0.010). Higher ln(post-dexamethasone cortisol) was also associated with lower parafoveal DCP (\u03b2 = -2.72 percentage points; p = 0.013) and inside-disc radial peripapillary capillary vessel density (\u03b2 = -3.13 percentage points; p = 0.026), which did not survive multiplicity correction; no superficial capillary plexus sector was associated with either exposure (all p \u2265 0.37). Conclusions: MACS was not significantly associated with whole-image DCP vessel density. The secondary associations with continuous cortisol are cross-sectional and hypothesis-generating and require prospective confirmation.",
+      "journal": "Journal of clinical medicine",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42952572",
+      "doi": "10.3389/fonc.2026.1977843",
+      "title": "Primary enteric-type adenocarcinoma of the renal parenchyma in a patient with bilateral renal malrotation: a case report and review of the literature.",
+      "abstract": "Primary enteric-type adenocarcinoma of the renal parenchyma is an exceptionally rare malignancy, accounting for less than 1% of renal epithelial tumors. Due to its morphological and immunohistochemical overlap with metastatic gastrointestinal malignancy, establishing a primary renal origin presents a considerable diagnostic challenge. Radical nephroureterectomy has traditionally been the standard surgical treatment. We report a 47-year-old asymptomatic female with an incidental 68\u00a0mm cystic-solid left renal mass detected during a trauma evaluation. Imaging suggested Bosniak category IV on computed tomography and cystic teratoma on magnetic resonance imaging. Notably, the patient had bilateral renal malrotation. Serum tumor markers (CEA and CA19-9) were within normal limits. The patient underwent successful robotic-assisted partial nephrectomy with a warm ischemia time of 15 minutes. Histopathology revealed adenocarcinoma with an enteric immunophenotype: positive for CK20, CDX-2, SATB2, and Villin, with complete loss of PAX-8 and GATA-3. Postoperative gastrointestinal endoscopy and 18F-FDG PET-CT excluded primary gastrointestinal or distant occult malignancies, confirming a primary renal parenchymal origin. At one-month follow-up, the patient showed no evidence of recurrence without adjuvant therapy. This case represents the first reported association of primary enteric-type renal adenocarcinoma with bilateral renal malrotation and demonstrates that robotic-assisted partial nephrectomy can be a feasible nephron-sparing approach for selected patients with this aggressive tumor. A systematic diagnostic approach including surgical resection, immunohistochemical profiling, and exclusion of gastrointestinal metastasis is essential for accurate diagnosis and optimal management.",
+      "journal": "Frontiers in oncology",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42951634",
+      "doi": "10.11406/rinketsu.67.1194",
+      "title": "[Reference guide for the clinical management of adult Langerhans cell histiocytosis (key points from the first edition, 2025)].",
+      "abstract": "According to the registry of the Japanese Society of Hematology, adult histiocytic neoplasms are extremely rare, with approximately 40 cases reported annually, and the most common among them is Langerhans cell histiocytosis (LCH). Lesions may involve multiple organs, including bone, skin, lung, the central nervous system, and the endocrine system. Without a hematology perspective, the neoplastic nature of LCH may not be apparent, resulting in missed diagnoses. Central diabetes insipidus, anterior pituitary dysfunction, and LCH-associated neurodegeneration, once developed, often result in irreversible impairment. Because delayed therapeutic intervention can result in permanent organ damage, it is essential for hematologists to understand the \"minimum initial management\" required to protect patient outcomes. This review summarizes the key points of diagnosis and initial management in adult LCH based on the first edition of the Adult LCH Clinical Reference Guide (2025).",
+      "journal": "[Rinsho ketsueki] The Japanese journal of clinical hematology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "English Abstract"
+      ]
+    },
+    {
+      "pmid": "42927587",
+      "doi": "10.1007/s11102-026-01778-3",
+      "title": "Proteomic profiling of somatotropinoma subtypes reveals TNIP1 overexpression in sparsely granulated tumors in a small discovery cohort.",
+      "abstract": "The molecular mechanisms underlying the clinical differences between densely granulated (DG) and sparsely granulated (SG) somatotroph tumors remain poorly understood. To identify significant molecular differences between these subtypes, we performed quantitative mass spectrometry-based proteomic profiling followed by validation of the differentially-identified proteins. Label-free quantitative proteomic analysis was performed on SG somatotroph adenomas (SGSAs, n\u2009=\u20093) and DG somatotroph adenomas (DGSAs, n\u2009=\u20093), with each sample analyzed in technical triplicate. Key findings were subsequently validated using immunohistochemistry (IHC, n\u2009=\u200964), immunofluorescence (IF, n\u2009=\u200924), and Western blotting (WB, n\u2009=\u200918). Proteomic profiling identified TNFAIP3-interacting protein 1 (TNIP1) as the most significantly over-expressed protein, and coenzyme Q6 monooxygenase (COQ6) as the most significantly under-expressed protein, in SGSAs compared with DGSAs. Higher TNIP1 expression in SGSAs was significantly associated with IGF-1 [%ULN], larger tumor diameter, greater tumor volume, higher Knosp grade and SSTR5 expression. In contrast, COQ6 expression showed significant negative correlations with tumor diameter, tumor volume, Knosp grade, and SSTR5 expression. These findings indicate strong associations between TNIP1 and COQ6 expression and tumor characteristics, along with differences in cell adhesion and signaling pathways. SGSAs and DGSAs exhibit distinct proteomic profiles. Increased TNIP1 and reduced COQ6 expression, together with alterations in cell adhesion and signaling pathways in SGSA, may contribute to the molecular and phenotypic differences underlying these somatotroph tumor subtypes.",
+      "journal": "Pituitary",
+      "year": "2026",
+      "publication_types": [
         "Journal Article"
       ]
     },
@@ -238,85 +414,14 @@
       ]
     },
     {
-      "pmid": "42949619",
-      "doi": "10.1002/epd2.70443",
-      "title": "Comparative efficacy of first-line antiseizure monotherapy in pediatric focal epilepsy: An umbrella review of systematic reviews and meta-analyses.",
-      "abstract": "First-line antiseizure medication (ASM) monotherapy remains the recommended initial treatment for pediatric focal epilepsy. Although several ASMs are available, uncertainty persists regarding their comparative efficacy, safety, and tolerability, particularly in children. This umbrella review aimed to synthesize and map the available evidence from systematic reviews and meta-analyses evaluating first-line ASM monotherapies for focal epilepsy, with a focus on informing pediatric treatment decisions. This umbrella review was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidance. Systematic reviews and meta-analyses evaluating first-line ASM monotherapy for focal epilepsy were identified through comprehensive database searches. Data on study characteristics, patient populations, ASM comparisons, epilepsy subtypes, follow-up duration, efficacy, safety, and tolerability outcomes were extracted and synthesized descriptively. Evidence mapping was performed to summarize the findings, and potential overlap of primary studies across the included reviews was considered. Where available, outcome-specific certainty-of-evidence ratings reported by the source reviews using GRADE or CINeMA were also extracted and summarized. Sixteen systematic reviews and meta-analyses were included, comprising randomized controlled trials and individual participant data analyses from pediatric and mixed-age populations. Frequently evaluated ASMs included carbamazepine, lamotrigine, levetiracetam, oxcarbazepine, valproate, phenytoin, and several newer-generation agents. Across the included reviews, no single first-line ASM showed consistent superiority for seizure control outcomes. Selected comparisons suggested tolerability advantages for lamotrigine, levetiracetam, and some newer-generation ASMs; however, these findings were not uniform across outcomes or reviews. Several comparative estimates were imprecise, with confidence intervals encompassing potentially clinically meaningful effects, and substantial heterogeneity was present across epilepsy subtype definitions, patient populations, follow-up durations, and outcome reporting. The frequent inclusion of mixed-age populations further limited the strength and direct applicability of pediatric-specific conclusions. Current umbrella-level evidence does not establish clear superiority of one first-line ASM over another for seizure control in pediatric focal epilepsy. Importantly, the absence of statistically significant differences should not be interpreted as evidence of therapeutic equivalence, because several estimates remain imprecise and clinically meaningful differences cannot be excluded. Interpretation is further limited by the scarcity of pediatric-specific comparative data, the frequent inclusion of mixed-age populations, and methodological and outcome heterogeneity across reviews. Safety and tolerability should therefore be considered alongside efficacy when individualizing treatment selection. Well-designed pediatric-specific comparative studies using standardized outcome measures are needed to strengthen evidence-based treatment recommendations.",
-      "journal": "Epileptic disorders : international epilepsy journal with videotape",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "42941365",
-      "doi": "10.3390/jcm15207850",
-      "title": "Retinal Microvascular and Peripapillary Profiles in Mild Autonomous Cortisol Secretion Versus Nonfunctioning Adrenal Adenomas.",
-      "abstract": "Background/Objectives: Mild autonomous cortisol secretion (MACS) is associated with increased cardiometabolic morbidity, but its relationship with the retinal microcirculation is unknown. We compared retinal and peripapillary microvascular parameters between MACS and nonfunctioning adrenal adenoma (NFA) and, secondarily, examined their associations with continuously modeled post-dexamethasone cortisol. Methods: In this single-center, retrospective, cross-sectional study, 98 patients (45 NFA, 53 MACS) were included, and optical coherence tomography angiography (OCTA) and structural OCT data from one eye per patient were analyzed. The primary outcome was whole-image deep capillary plexus (DCP) vessel density. Multivariable models were adjusted for age, sex, body mass index, and cardiometabolic comorbidities; secondary analyses were corrected using the Benjamini-Hochberg false discovery rate (q values). Results: OCTA was evaluable in 89 patients. The primary outcome did not differ significantly between groups in the main analysis (NFA vs. MACS, 48.64 \u00b1 5.71% vs. 47.31 \u00b1 5.77%; adjusted difference -1.29 percentage points, 95% CI -3.97 to 1.38; p = 0.339) or in any sensitivity analysis. In secondary analyses, superior retinal nerve fiber layer (RNFL) thickness was greater in MACS (\u03b2 = 17.38 \u00b5m; q < 0.001) and increased with ln(post-dexamethasone cortisol) (\u03b2 = 13.74 \u00b5m; q = 0.010). Higher ln(post-dexamethasone cortisol) was also associated with lower parafoveal DCP (\u03b2 = -2.72 percentage points; p = 0.013) and inside-disc radial peripapillary capillary vessel density (\u03b2 = -3.13 percentage points; p = 0.026), which did not survive multiplicity correction; no superficial capillary plexus sector was associated with either exposure (all p \u2265 0.37). Conclusions: MACS was not significantly associated with whole-image DCP vessel density. The secondary associations with continuous cortisol are cross-sectional and hypothesis-generating and require prospective confirmation.",
-      "journal": "Journal of clinical medicine",
+      "pmid": "42952560",
+      "doi": "10.3389/fonc.2026.1925326",
+      "title": "Predicting recurrence risk after neoadjuvant therapy in breast cancer: a single-center retrospective cohort study integrating residual cancer burden and immune microenvironment features.",
+      "abstract": "Residual cancer burden (RCB) after neoadjuvant therapy (NAT) provides prognostic information, but its combination with immune microenvironment features for recurrence prediction remains underexplored. This single-center retrospective cohort study included 420 consecutive patients with breast cancer who underwent neoadjuvant therapy followed by definitive surgery between January 2015 and June 2024. Residual cancer burden (RCB) and post-neoadjuvant immune features, including tumor-infiltrating lymphocytes (TILs), CD8, FOXP3, and the proportion of CD163-positive among CD68-positive macrophages, were assessed. Patients were stratified by calendar era and randomly partitioned within strata into a training cohort (n=294) and an internal hold-out validation cohort (n=126). A LASSO-penalized Cox workflow was used for predictor selection, followed by unpenalized Cox refitting. Model performance was evaluated using C-statistics, time-specific Brier scores, calibration, bootstrap internal validation, and 5-year time-dependent decision curve analysis. During a median follow-up of 61 months, 126 first recurrence events were observed (88 training and 38 validation). The final combined model retained RCB category, triple-negative breast cancer (TNBC), CD8 status, and CD163-positive macrophage proportion. The combined model achieved C-statistics of 0.79 (95% CI 0.75-0.83) in the training cohort and 0.75 (95% CI 0.69-0.81) in the internal validation cohort, with corresponding 5-year Brier scores of 0.142 and 0.158. Bootstrap internal validation yielded an optimism-corrected C-statistic of 0.772 and calibration slope of 0.92. The combined model provided the greatest net benefit among the evaluated models over 5-year threshold probabilities of approximately 15%-45%. Integration of RCB with TNBC status and post-neoadjuvant CD8 and CD163-positive macrophage features may provide incremental prognostic information for recurrence after neoadjuvant therapy. The model showed acceptable internal discrimination and calibration, but external validation is required before clinical implementation or treatment-directed use.",
+      "journal": "Frontiers in oncology",
       "year": "2026",
       "publication_types": [
         "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42890916",
-      "doi": "10.7573/dic.2026-7-5",
-      "title": "Pegvisomant in severe, treatment-resistant thyroid eye disease: a case report.",
-      "abstract": "Teprotumumab, a monoclonal antibody against the IGF1 receptor, has proven effective in the treatment of thyroid eye disease (TED). Pegvisomant reduces IGF1 levels through selective inhibition of growth hormone receptors. Here, we present a hypothesis-generating case of a 69-year-old patient with progressive TED. Pegvisomant 20 mg was administered daily for 90 days. IGF1 levels declined and remained low-normal during treatment. Clinical activity scores and VISA (vision, inflammation, strabismus and appearance) scores improved rapidly. MRI assessment showed that water content of both extraocular muscles and orbital connective tissue decreased after treatment. 99mTc-DTPA SPECT confirmed the decrease in disease activity. Further studies may confirm the efficacy of pegvisomant in TED. A 69-year-old female patient with severe, active thyroid eye disease (TED) \u2013 a condition linked to Graves\u2019 disease where the body\u2019s immune system attacks tissues around the eyes \u2013 presented with bulging eyes (proptosis), double vision, eye redness, swelling and reduced visual sharpness.Prior treatments with standard therapies for TED, including intravenous steroid courses, radiation therapy targeting the orbit (eye socket) and the biological drug rituximab, failed to achieve improvement. TED progresses in part because proteins called IGF1 receptors on the surface of eye-socket tissues are overactivated. The researchers hypothesized that using pegvisomant, which is a medication typically used for acromegaly (hormone imbalance) that lowers insulin-like growth factor 1 (IGF1) levels in the blood, would reduce activation of these receptors and ease eye inflammation.The patient received a daily 20 mg injection of pegvisomant for 90 days. Symptom improvement The patient experienced a rapid reduction in eye pain, redness and swelling, alongside marked improvement in visual sharpness and colour vision within 8 weeks.MRI and imaging results Orbital MRI and nuclear imaging showed a distinct drop in tissue inflammation and fluid accumulation (oedema) in the muscles around the eye.Proptosis and double vision Eye bulging and double vision did not significantly change during the trial.Safety Pegvisomant was well tolerated with no reported side effects, and her blood sugar and liver function remained stable. Blood IGF1 levels dropped as expected and returned to normal after treatment ended. Pegvisomant rapidly reduced eye inflammation and improved vision in a patient whose TED had resisted standard therapies. However, because this was a single case study, the delayed effects from previous treatments cannot be entirely ruled out. Further clinical trials are needed to determine if pegvisomant is effective at higher doses or when given earlier in the disease course.",
-      "journal": "Drugs in context",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42877914",
-      "doi": "10.7759/cureus.116229",
-      "title": "A Case of MEN 2A Syndrome With Bilateral Recurrent Pheochromocytoma: A Case Report and Literature Review.",
-      "abstract": "Pheochromocytoma is a neuroendocrine tumor arising from chromaffin cells and producing catecholamines. Due to the excessive release of catecholamines, these tumors can present with paroxysmal episodes of high blood pressure, headache, diaphoresis, and palpitations. We present the case of a 23-year-old female patient who presented to the clinic with a history of headache, palpitations, and vomiting for two months. She was admitted for further investigations and management. Laboratory studies revealed elevated urinary and plasma catecholamine levels. Further work-up revealed bilateral adrenal masses diagnosed as pheochromocytoma and medullary thyroid cancer. The patient was diagnosed with multiple endocrine neoplasia (MEN) type 2 and underwent bilateral laparoscopic adrenalectomy and total thyroidectomy with central and lateral neck dissection, and during surveillance, she was found to have recurrent pheochromocytoma. We also discuss the diagnosis and management of recurrent pheochromocytoma in MEN syndrome.",
-      "journal": "Cureus",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42949010",
-      "doi": "10.5603/ep.110211",
-      "title": "Management of congenital adrenal hyperplasia due to 21-hydroxylase deficiency: an update.",
-      "abstract": "Congenital adrenal hyperplasia (CAH) represents a group of autosomal recessive disorders characterized by enzyme deficiencies thatimpair adrenal steroidogenesis, most commonly due to 21-hydroxylase deficiency. The biochemical defects in CAH translate to a spectrumof clinical consequences, which include adrenal insufficiency, genital ambiguity or disordered sex development, infertility, short stature,and an increased risk of metabolic syndrome during adolescence and adulthood. The severity and clinical features of CAH vary dependingon the enzymatic defect, residual enzymatic activity, the age of presentation, and genotype. This review comprehensively covers the genetic background, classification, and clinical spectrum of CAH, including classical and non-classical forms. We discuss the importance and implementation of neonatal screening programs for early diagnosis and intervention. Specialattention is given to differences in treatment approaches between children and adolescents, highlighting the challenges of optimizingglucocorticoid and mineralocorticoid therapy across developmental stages. Furthermore, we present emerging novel pharmacologicalagents currently in clinical trials aimed at improving disease management. The review also addresses potential complications associatedwith CAH, such as metabolic syndrome, cardiovascular risks, and bone health issues. Emphasizing a patient-centered approach, wehighlight the critical role of experienced endocrinologists in delivering individualized care to improve long-term outcomes. Our review summarizes the current knowledge, aims to guide clinicians in evidence-based management and highlights ongoing research into innovativetherapies for CAH.",
-      "journal": "Endokrynologia Polska",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "42945770",
-      "doi": "10.1016/j.jocn.2026.112367",
-      "title": "Optimizing inferior petrosal sinus sampling: results of a multicenter study.",
-      "abstract": "Inferior petrosal sinus sampling (IPSS) confirms a central source of adrenocorticotropic hormone (ACTH) secretion in Cushing's disease (CD). We explored IPSS protocols to optimize diagnostic sensitivity and reduce laboratory testing burden. Patients from the multicenter Registry of Adenomas of the Pituitary and Related Disorders (RAPID) who underwent IPSS for management of CD, and in whom central:peripheral (C:P) ACTH levels were evaluated, were included. A total of 93 patients (mean age 44\u202f\u00b1\u202f13\u202fyears, 17% male; 78% MRI-negative, 84% long-term remission) were analyzed. At baseline, 77% of patients showed a C:P ACTH ratio \u22652X, and all of these patients reached \u22653X C:P ACTH after stimulation. Among patients with a baseline ratio <2X, 57% (n\u202f=\u202f12/21) crossed the \u22653X threshold after stimulation, prolactin normalization confirmed one additional patient, with two further patients remaining indeterminate. Stimulation produced 3.1-, 2.8-, and 1.9-fold increases in C:P ACTH at 2, 5, and 10\u202fmin post-stimulation, respectively, with the best response at 2-5\u202fmin. Cumulatively, 77%, 79%, 88%, 90%, and 91% of patients met criteria for CD by 0, 2, 5, 10, and 15\u202fmin, respectively. In this confirmed-CD cohort these proportions represent test sensitivity, rising from 77.4% (95% CI 67.6-85.4%) at baseline to 91.4% (95% CI 83.8-96.2%) by 15\u202fmin. Because all patients had surgically confirmed CD, these values reflect test sensitivity rather than overall diagnostic accuracy. Diagnostic yield plateaued by 15\u202fmin with negligible gain thereafter, and baseline together with a limited number of early post-stimulation samples captured most cases. These retrospective, hypothesis-generating findings suggest that a streamlined protocol may reduce laboratory and interpretive burden while preserving sensitivity, pending prospective validation.",
-      "journal": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42942390",
-      "doi": "10.3390/medicina62101859",
-      "title": "Evaluation of Diastolic Dysfunction in Pituitary Adenomas: A Comparative Single-Center Study Among Acromegaly, Prolactinoma, and Nonfunctioning Pituitary Adenomas.",
-      "abstract": "Background and Objectives: Pituitary adenomas may be associated with metabolic and cardiovascular abnormalities, but comparative evidence across subtypes is limited. We compared cardiometabolic and echocardiographic profiles, left ventricular diastolic dysfunction (LVDD), and carotid intima-media thickness (CIMT) among patients with prolactinoma, acromegaly, or nonfunctioning pituitary adenoma (NFPA) and healthy controls and investigated factors associated with LVDD. Materials and Methods: This cross-sectional comparative study included 214 participants evaluated between 2016 and 2018: 91 with prolactinoma, 26 with acromegaly, 45 with NFPA, and 52 healthy controls. Participants underwent clinical, biochemical, echocardiographic, and CIMT assessment. LVDD was diagnosed and graded according to the 2016 American Society of Echocardiography (ASE) and European Association of Cardiovascular Imaging (EACVI) recommendations. Factors associated with LVDD were evaluated using multivariable logistic regression. Results: The mean age was 41.3 \u00b1 12.4 years, and 64.5% of participants were women. Acromegaly was associated with the highest fasting glucose, HbA1c, insulin, and homeostasis model assessment of insulin resistance (HOMA-IR) values (all p < 0.001) and, compared with controls, a higher left atrial volume index (LAVI) and average E/e' ratio and lower left ventricular ejection fraction (despite preserved ejection fraction), E/A ratio, and lateral e' velocity. CIMT was higher in NFPA than in prolactinoma. LVDD was present in 21.5% of the cohort and in 5.8%, 19.8%, 46.2%, and 28.9% of the control, prolactinoma, acromegaly, and NFPA groups, respectively (p < 0.001); 84.8% of cases were grade I. Increasing age was independently associated with LVDD (OR 1.265 per year, 95% CI 1.155-1.385; p < 0.001), and diagnostic group was independently associated with LVDD overall (p = 0.004). Compared with controls, adjusted LVDD odds were higher in prolactinoma (OR 10.9, 95% CI 1.34-89.68), acromegaly (OR 167.5, 95% CI 10.3-2721.4), and NFPA (OR 12.0, 95% CI 1.4-104.8). Conclusions: Pituitary adenoma subtypes were associated with distinct cardiometabolic and echocardiographic profiles and a higher prevalence of LVDD than in healthy controls, particularly in acromegaly. Most LVDD cases were grade I, indicating predominantly impaired relaxation. Although age and diagnostic group were associated with LVDD in the adjusted analysis, the wide confidence intervals warrant cautious interpretation and validation in larger cohorts.",
-      "journal": "Medicina (Kaunas, Lithuania)",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Comparative Study"
       ]
     },
     {
@@ -328,130 +433,6 @@
       "year": "2026",
       "publication_types": [
         "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42949607",
-      "doi": "10.1002/hast.70082",
-      "title": "The Trouble with \"Cure\" in Sickle Cell Gene Therapy.",
-      "abstract": "This letter responds to the essay \"Transformed but Not Cured: The Ethics of Describing Gene-Editing Therapy for Sickle Cell Disease,\" by Jada Wiggleton-Little, Shameka Poetry Thomas, Kristin Walters, and Consuela Albright, in the May-June 2026 issue of the Hastings Center Report.",
-      "journal": "The Hastings Center report",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Letter"
-      ]
-    },
-    {
-      "pmid": "42949610",
-      "doi": "10.1002/hast.70107",
-      "title": "Tyler Tate, Jenny Clark Schiff, Karolina Grekov, and Akilah Burford Reply.",
-      "abstract": "This is a response to the letter \"Refining Relational Potential: The Concept of Relational Salience,\" by Aaron Wightman, Jennifer Kett, Georgina Campelia, and Benjamin S. Wilfond, in the September-October 2026 issue of the Hastings Center Report.",
-      "journal": "The Hastings Center report",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Letter"
-      ]
-    },
-    {
-      "pmid": "42924757",
-      "doi": "10.3390/ijns12040080",
-      "title": "Newborn Screening for X-Linked Adrenoleukodystrophy: A Systematic Literature Review.",
-      "abstract": "X-linked adrenoleukodystrophy (X-ALD) is the most common leukodystrophy and peroxisomal disorder. It was added to newborn screening (NBS) programs following its first implementation in New York in 2013. Since then, X-ALD screening has expanded rapidly, although important differences exist among programs. This systematic review aimed to evaluate the global implementation of NBS for X-ALD, including screening methodologies, screening performance, prevalence estimates, genetic findings, and clinical follow-up outcomes. A systematic search of PubMed and EMBASE identified 13 publications describing NBS programs conducted between 2013 and June 2026. All programs used C26:0-lysophosphatidylcholine (C26:0-LPC) as the primary biomarker, although substantial heterogeneity was observed in analytical methodologies, cut-off values, screening algorithms, and follow-up strategies. Positive predictive values ranged from 9.1% to 100%, while screening detection rates varied from 1:3118 to 1:51,081, reflecting differences in study design, screening population, sample size, and screening approaches. Variants of uncertain significance (VUS) accounted for 52.6% of individuals detected with classified ABCD1 variant findings, representing a major challenge for genetic counseling and clinical management. Most identified newborns were asymptomatic at diagnosis, supporting the role of NBS in enabling early surveillance for adrenal insufficiency and cerebral disease before irreversible manifestations occur. In addition, differences between universal and sex-specific screening strategies highlight ongoing clinical and ethical debates regarding the scope of X-ALD NBS. Overall, current evidence supports the feasibility of NBS for X-ALD and its ability to enable presymptomatic ascertainment and early clinical surveillance; however, greater harmonization of screening protocols, improved variant interpretation, and long-term outcome studies are needed to optimize program performance and clinical benefit.",
-      "journal": "International journal of neonatal screening",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "42936300",
-      "doi": "10.3389/fendo.2026.1928818",
-      "title": "Diagnostic delay length and disease severity are the main predictors of sleep apnea in acromegaly patients.",
-      "abstract": "Obstructive sleep apnea (OSA) affects up to 80% of patients at diagnosis of acromegaly and often persists despite treatment. Currently, patients at risk for OSA are recommended to be identified to offer polygraphy evaluation. To study the prevalence and risk factors for OSA in patients with acromegaly. Prospective, single-center study; polygraphy was performed on 36 patients with acromegaly (age 54.1\u00a0\u00b1\u00a012.9 years). OSA was found in 17 patients (47.2%), mostly mild (64.7%). Patients with OSA were older both at diagnosis (p = 0.02) and at polygraphy (p = 0.008), had a longer diagnostic delay (p = 0.003) and higher BMI (p = 0.03). Patients with uncontrolled acromegaly exhibited a significantly higher number of apneas (p=0.02) and obstructive apneas (p=0.04) and had significantly lower minimum oxygen saturations (p=0.02) and a higher percentage of time spent with oxygen saturation <90% (p=0.03) as compared to those with full disease control. Diagnostic delay was the best predictor of apnea-ipopnea index (AHI, p=0.04) and oxygen desaturation index (ODI, p=0.04) scores, independently on BMI. Insulin resistance (p = 0.05), glucose profile impairment (p = 0.05) and STOP-Bang score (p=0.001), but not Epworth Sleepiness Scale score (p = 0.96), were significantly higher in patients with OSA as compared to those without. Diagnostic delay and patients' age, rather than disease status, appear to predict the development of OSA and influence its severity. These findings reinforce the importance of early identification of patients at higher risk for OSA.",
-      "journal": "Frontiers in endocrinology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42949621",
-      "doi": "10.1128/jb.00309-26",
-      "title": "Genetic basis of glycine and L-serine toxicity in Staphylococcus aureus and the case for glycine as an antibiotic adjuvant.",
-      "abstract": "The toxicity of the amino acids glycine and L-serine at high concentrations in bacteria was discovered decades ago. In this work, we used transposon insertion sequencing (Tn-seq) experiments to determine the genes necessary to tolerate excess L-serine, diglycine, or glycine in the human pathogen Staphylococcus aureus. Our results indicate that intracellular accumulation of specific counterbalancing amino acids-such as alanine in the presence of excess glycine-is the primary mechanism of resistance to amino acid toxicity. Consistent with this model, specific amino acid and peptide uptake transporters were required for fitness in each treatment; the peptide transporter DtpT was crucial for fitness in excess L-serine or glycine, and the alanine transporter AapA was necessary for fitness in diglycine. Tn-seq results also identified the cystine/cysteine uptake transporter TcyABC as necessary in excess L-serine, suggesting that both peptide and cysteine uptake contribute to L-serine tolerance. In addition to uptake mechanisms, glycine and diglycine toxicity is neutralized by D-alanine aminotransferase (Dat), which is required for D-alanine synthesis. The requirement for Dat and DtpT function-but not AapA-in excess glycine is explained by excess glycine inhibiting alanine uptake. Building on this finding, we found that combined treatment with glycine and the alanine analog antibiotic D-cycloserine was strongly synergistic in inhibiting S. aureus growth. Overall, our findings identify targetable mechanisms underlying excess amino acid tolerance in S. aureus, with implications for developing novel combination treatments using the accessible and biocompatible amino acids glycine and L-serine. Growing evidence supports the beneficial effects of glycine and L-serine supplementation in combating bacterial infections. Previous researchers have found that combining antibiotic treatment with high glycine concentrations has additive effects with many antibiotics, even reversing resistance to antibiotics in some bacteria. In vivo, activating glycine and L-serine metabolism heightens the sensitivity of bacterial pathogens to the host complement system, and studies of glycine or L-serine treatments show low toxicity and reduced inflammation in mouse and human subjects. This study reveals that glycine may be an effective antibiotic adjuvant with D-cycloserine, and treatment with glycine or L-serine could potentiate other drugs that target alanine or cysteine metabolism, respectively.",
-      "journal": "Journal of bacteriology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42949618",
-      "doi": "10.1002/hast.70075",
-      "title": "Free Speech, Professional Judgment, and Medical Standards after Chiles.",
-      "abstract": "Medicine is not a marketplace of ideas. Its legitimacy rests on the ability of licensed professionals to distinguish helpful interventions from harmful ones and to act on that distinction. Chiles v. Salazar threatens that lifeblood of medical practice. In Chiles, the Supreme Court held that state laws prohibiting licensed therapists from providing conversion therapy to minors violate the First Amendment. The Court reasoned that conversion therapy consists of protected speech rather than professional conduct subject to ordinary health-and-safety regulation. This essay argues that the Court's analysis misconstrues the nature of clinical practice and threatens the foundations of professional self-governance. In many therapeutic settings, conversation is not merely a vehicle for expressing ideas but the clinical intervention itself. By treating professional counseling as ordinary speech, Chiles weakens the authority of professional judgment and undermines the long-standing social compact under which licensed clinicians receive exclusive privileges in exchange for adherence to clinical norms. Medicine must not remain neutral among competing viewpoints about evidence-based practice. The essay proposes professional, legislative, and judicial responses to preserve accountability for harmful departures from standards of care.",
-      "journal": "The Hastings Center report",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42931764",
-      "doi": "10.1210/endrev/bnag042",
-      "title": "\"Paraneoplastic syndromes secondary to \u039deuroendocrine \u039deoplasms\".",
-      "abstract": "Paraneoplastic syndromes (PNS) represent uncommon but clinically significant manifestations of neuroendocrine neoplasms (NENs) arising from ectopic hormone secretion, aberrant peptide processing, cytokine-mediated effects, or immune-mediated mechanisms. Although NENs are intrinsically capable of producing bioactive substances leading to PNS, the true prevalence of PNS in NENs remains uncertain and is likely underestimated. Paraneoplastic manifestations may precede tumor diagnosis, represent the first indication of an otherwise occult neoplasm, or emerge during disease progression, thereby providing valuable diagnostic, prognostic, and therapeutic information. Endocrine PNS, including ectopic adrenocorticotrophic hormone secretion, carcinoid syndrome, paraneoplastic hypercalcemia, syndrome of inappropriate antidiuretic hormone secretion, hypoglycemia and ectopic acromegaly, account for the majority of cases, whereas neurological PNS are rarer and predominantly associated with high-grade neuroendocrine carcinomas (NECs). Recent advances in molecular biology have revealed the importance of neuroendocrine lineage plasticity, transcriptional dysregulation, epigenetic reprogramming, and abnormal prohormone processing in the pathogenesis of these syndromes. Concurrently, improvements in biochemical testing, functional imaging, liquid biopsy technologies, and molecular profiling have enhanced diagnostic accuracy and disease monitoring. Management requires a multidisciplinary approach combining syndrome-directed therapies with tumor-targeted interventions, including surgery, somatostatin analogs, peptide receptor radionuclide therapy, targeted agents, specific chemotherapy regimens and emerging immunotherapeutic strategies. Despite substantial progress, significant gaps remain regarding epidemiology, accurate biomarkers, prognostic significance, and optimal management. This review summarizes current knowledge on pathophysiology, clinical spectrum, diagnosis, prognostic implications, and treatment of PNS associated with gastroenteropancreatic and lung NENs, while highlighting future research priorities and unmet clinical needs.",
-      "journal": "Endocrine reviews",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42949629",
-      "doi": "10.1128/aac.00227-26",
-      "title": "An open-label, Phase 1 study to evaluate the drug-drug interaction between ulonivirine and the combined oral contraceptive levonorgestrel/ethinyl estradiol in female participants without HIV with a validated liquid chromatograph.",
-      "abstract": "Ulonivirine is a non-nucleoside reverse transcriptase inhibitor in development as an oral, once-weekly treatment for HIV-1 in combination with investigational islatravir. The effect of ulonivirine on the pharmacokinetics of an oral contraceptive, levonorgestrel (LNG)/ethinyl estradiol (EE) was evaluated in females without HIV. In this Phase 1 study (MK-8507-009), postmenopausal or oophorectomized females received a single dose of LNG/EE (0.1 mg/0.02 mg), followed by a 5-day washout period. Participants then received ulonivirine 400 mg once-weekly for 3 weeks, and LNG/EE was co-administered with the third dose. Blood samples were collected for pharmacokinetics analysis. Safety and tolerability were monitored by clinical and laboratory assessments. Twenty adults (90% White; 100% Hispanic or Latina) were enrolled (median age, 56 years; range, 47-66 years). Two participants discontinued for reasons considered unrelated to ulonivirine. The geometric mean ratios ([LNG/EE + ulonivirine]/[LNG/EE]; 90% CI) for plasma AUC0-inf of LNG and EE were 0.88 (0.84-0.93) and 0.85 (0.82-0.89). Maximum plasma concentration of LNG and EE decreased (26% and 20%, respectively) with LNG/EE + ulonivirine versus LNG/EE alone. Ulonivirine pharmacokinetics were similar for LNG/EE + ulonivirine and LNG/EE alone. Four participants (20%) experienced \u22651 adverse event: 2 (10%) after administration of LNG/EE alone and 2 (10.5%) after co-administration of LNG/EE + ulonivirine. All adverse events were mild and considered unrelated to study intervention. Co-administration of ulonivirine 400 mg once-weekly with a single dose of LNG/EE had no clinically meaningful effect on the pharmacokinetics of LNG or EE in females without HIV and was generally well tolerated.",
-      "journal": "Antimicrobial agents and chemotherapy",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42949617",
-      "doi": "10.1080/21645515.2026.2745405",
-      "title": "A qualitative evaluation of a STEAM (Science, technology, engineering, arts, and mathematics) peer education intervention on teenagers' knowledge, confidence, and advocacy for HPV vaccine communication.",
-      "abstract": "Vaccine hesitancy is a rising global phenomenon. Ireland experienced a crisis in confidence and vaccine decline for the Human Papillomavirus (HPV) vaccine in 2015, with rapid national efforts to address concerns and improve uptake rates. We developed a unique STEAM (Science, Technology, Engineering, Arts and Mathematics) peer education intervention through an interdisciplinary team (immunologist, educationalist, designer, filmmaker, and psychologist) to address vaccine hesitancy and utilize peer education, which is promising but underused in the literature. We aimed to evaluate the effect of our STEAM intervention on Irish teenagers' knowledge and confidence in advocacy for the HPV vaccine to their younger peers facing their HPV vaccine offer. We used qualitative methods consisting of 12 focus group discussions with teens (n\u2009=\u200953), one qualitative in-class evaluation among younger peers (n\u2009=\u200935), and knowledge exit slips (n\u2009=\u2009300) to evaluate teenagers' knowledge, confidence, advocacy, and younger peers' knowledge. Data were analyzed inductively using reflexive thematic analysis. Our overall egalitarian theme indicated democratic participation by teenagers with three related themes that were compatible with behavior as a vaccine advocate. Teenagers reported positive changes overall in HPV knowledge, confidence, and advocacy beliefs following the intervention. Younger peers could recall HPV facts and knowledge during in-class evaluations and exit slips. We conclude that scaffolding through our STEAM intervention enabled Irish teenagers to feel empowered to act as vaccine advocates. Peer education within our intervention shows promise in raising HPV awareness and knowledge and could be explored in wider contexts.",
-      "journal": "Human vaccines & immunotherapeutics",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42927587",
-      "doi": "10.1007/s11102-026-01778-3",
-      "title": "Proteomic profiling of somatotropinoma subtypes reveals TNIP1 overexpression in sparsely granulated tumors in a small discovery cohort.",
-      "abstract": "The molecular mechanisms underlying the clinical differences between densely granulated (DG) and sparsely granulated (SG) somatotroph tumors remain poorly understood. To identify significant molecular differences between these subtypes, we performed quantitative mass spectrometry-based proteomic profiling followed by validation of the differentially-identified proteins. Label-free quantitative proteomic analysis was performed on SG somatotroph adenomas (SGSAs, n\u2009=\u20093) and DG somatotroph adenomas (DGSAs, n\u2009=\u20093), with each sample analyzed in technical triplicate. Key findings were subsequently validated using immunohistochemistry (IHC, n\u2009=\u200964), immunofluorescence (IF, n\u2009=\u200924), and Western blotting (WB, n\u2009=\u200918). Proteomic profiling identified TNFAIP3-interacting protein 1 (TNIP1) as the most significantly over-expressed protein, and coenzyme Q6 monooxygenase (COQ6) as the most significantly under-expressed protein, in SGSAs compared with DGSAs. Higher TNIP1 expression in SGSAs was significantly associated with IGF-1 [%ULN], larger tumor diameter, greater tumor volume, higher Knosp grade and SSTR5 expression. In contrast, COQ6 expression showed significant negative correlations with tumor diameter, tumor volume, Knosp grade, and SSTR5 expression. These findings indicate strong associations between TNIP1 and COQ6 expression and tumor characteristics, along with differences in cell adhesion and signaling pathways. SGSAs and DGSAs exhibit distinct proteomic profiles. Increased TNIP1 and reduced COQ6 expression, together with alterations in cell adhesion and signaling pathways in SGSA, may contribute to the molecular and phenotypic differences underlying these somatotroph tumor subtypes.",
-      "journal": "Pituitary",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42949623",
-      "doi": "10.1039/d6ay01742h",
-      "title": "Development of a phage-displayed antigen-binding fragment-based enzyme immunoassay for sensitive detection of deoxynivalenol in corn samples.",
-      "abstract": "Deoxynivalenol (DON) is a widely prevalent mycotoxin in food crops and poses a potential threat to human and animal health due to its multiple toxic effects. Therefore, sensitive detection tools are urgently required for monitoring DON in food. In this study, we developed a phage enzyme-linked immunosorbent assay (P-ELISA) using a phage-displayed antigen-binding fragment (Fab) as the detection probe of DON in corn samples. By constructing a pDong-VL-VH plasmid, Fab fragments were successfully displayed on the surface of the phage (Fab-phage) through phage rescue. The proposed method for DON was achieved by utilizing the principle of DON competing with the coating antigen bovine serum albumin-conjugated DON (DON-BSA) to bind to the Fab-phage. After optimization, the P-ELISA demonstrated a limit of detection of 0.33 ng mL-1, a half inhibitory concentration (IC50) of 3.83 ng mL-1, and a linear range (IC20-IC80) of 0.82-29.85 ng mL-1. No cross-reactions were observed between the Fab-phage and four common mycotoxins. The spiked recovery experiments demonstrated good accuracy and precision. In actual corn sample testing, the results obtained by HPLC-UVD showed a good correlation to those of the P-ELISA (R2 = 0.997). Thus, the Fab-based P-ELISA was successfully developed and demonstrated to be accurate, reliable, and suitable for detecting DON in corn samples.",
-      "journal": "Analytical methods : advancing methods and applications",
-      "year": "2026",
-      "publication_types": [
         "Journal Article"
       ]
     }

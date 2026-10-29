@@ -168,12 +168,15 @@
     "42923192",
     "42927326",
     "42928242",
+    "42931764",
     "42935875",
+    "42936300",
     "42941705",
     "42942390",
     "42942541",
     "42945770",
-    "42946534"
+    "42946534",
+    "42951065"
   ],
   "sessions": [
     {
@@ -2664,6 +2667,49 @@
           "quiz_question": "A 48-year-old man with biochemically active acromegaly reports no cardiac symptoms. Routine echocardiography is ordered. Based on this study's findings, what is the most likely diastolic dysfunction pattern you would expect, and what cardiometabolic parameter was most strongly elevated in the acromegaly group compared to controls?",
           "quiz_answer": "The most likely finding is grade I diastolic dysfunction (impaired relaxation pattern), which accounted for 84.8% of all LVDD cases in the cohort and was present in 46% of acromegaly patients. Fasting glucose, HbA1c, insulin, and HOMA-IR were all highest in the acromegaly group, reflecting the prominent insulin-resistant phenotype associated with GH/IGF-1 excess.",
           "journal": "Medicina (Kaunas, Lithuania)",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-23",
+      "items": [
+        {
+          "pmid": "42951065",
+          "doi": "10.1016/j.ando.2026.103116",
+          "title": "Clinical contribution of the PANOMEN-3 classification in predicting prognosis in pituitary neuroendocrine tumor.",
+          "category": "notable",
+          "summary": "This single-center Portuguese cohort of 92 surgically treated PitNETs validated the PANOMEN-3 postoperative risk classification, showing strongly graded progression-free survival by score: median PFS was not reached for grades 0\u20131, fell to 43 months for grade 2, and collapsed to just 5 months for grade 3. On multivariate Cox regression, grade 2 conferred a >6-fold and grade 3 a ~15-fold increase in progression risk versus grades 0\u20131 combined. The tool integrates clinical, biochemical, radiological, and histopathological variables into a practical postoperative surveillance framework. These data support incorporating PANOMEN-3 grading into routine postoperative planning for PitNETs.",
+          "caveat": "Retrospective, single-center design with only 92 patients and relatively few grade 3 tumors (n=9); external multicenter validation is needed before broad adoption. Median follow-up of 69 months is reasonable but longer follow-up may shift PFS estimates, particularly for grade 2.",
+          "quiz_question": "A 52-year-old woman undergoes transsphenoidal resection of a PitNET. Postoperative assessment places her in PANOMEN-3 grade 2. Based on this cohort's findings, what is her approximate median progression-free survival, and how does her risk compare to grade 0\u20131 patients?",
+          "quiz_answer": "Median PFS for PANOMEN-3 grade 2 was approximately 43 months, with a greater than 6-fold increase in progression risk (HR ~6.13) compared to grades 0\u20131 combined. This would justify more intensive postoperative imaging and biochemical surveillance intervals than for lower-grade tumors.",
+          "journal": "Annales d'endocrinologie",
+          "year": "2026"
+        },
+        {
+          "pmid": "42936300",
+          "doi": "10.3389/fendo.2026.1928818",
+          "title": "Diagnostic delay length and disease severity are the main predictors of sleep apnea in acromegaly patients.",
+          "category": "notable",
+          "summary": "In this prospective single-center study of 36 acromegaly patients undergoing objective polygraphy, OSA prevalence was 47.2%, predominantly mild. Diagnostic delay was the strongest independent predictor of both apnea-hypopnea index and oxygen desaturation index, outperforming BMI and disease control status. Patients with uncontrolled acromegaly had significantly more obstructive apneas and worse oxygenation parameters than those in remission. Notably, the Epworth Sleepiness Scale did not discriminate OSA status, underscoring that subjective sleepiness tools are insufficient for screening in this population.",
+          "caveat": "Small cohort (n=36) from a single center limits statistical power; the cross-sectional nature precludes establishing causality between diagnostic delay and OSA development. Residual confounding by comorbidities (e.g., hypertension, insulin resistance) is possible despite multivariate adjustment.",
+          "quiz_question": "A 58-year-old man is newly diagnosed with acromegaly after a 6-year diagnostic delay. He denies excessive daytime sleepiness and his Epworth score is 7. Should he be referred for objective sleep evaluation, and what does this study suggest about using subjective sleepiness tools in acromegaly?",
+          "quiz_answer": "Yes, objective polygraphy (or polysomnography) should be obtained regardless of subjective sleepiness. This study found that Epworth Sleepiness Scale scores did not differ between acromegaly patients with and without OSA (p=0.96), making it an unreliable screening tool. Long diagnostic delay was the strongest predictor of OSA severity, so this patient is at elevated risk and warrants objective sleep testing.",
+          "journal": "Frontiers in endocrinology",
+          "year": "2026"
+        },
+        {
+          "pmid": "42931764",
+          "doi": "10.1210/endrev/bnag042",
+          "title": "\"Paraneoplastic syndromes secondary to \u039deuroendocrine \u039deoplasms\".",
+          "category": "notable",
+          "summary": "This comprehensive review in Endocrine Reviews synthesizes the pathophysiology, clinical spectrum, diagnostic approach, and management of paraneoplastic syndromes (PNS) arising from gastroenteropancreatic and lung neuroendocrine neoplasms. Endocrine PNS \u2014 including ectopic ACTH secretion, carcinoid syndrome, paraneoplastic hypercalcemia, SIADH, hypoglycemia, and ectopic acromegaly \u2014 constitute the majority of cases and may precede or herald the primary tumor. The review highlights advances in molecular biology (neuroendocrine lineage plasticity, epigenetic reprogramming, aberrant prohormone processing) and improved diagnostic tools (liquid biopsy, functional imaging, molecular profiling) that enhance detection. Management requires coordinated syndrome-directed and tumor-targeted therapies including SSAs, PRRT, and emerging immunotherapeutic strategies.",
+          "caveat": "As a narrative review, this paper does not provide new primary data; recommendations reflect synthesis of existing evidence with acknowledged gaps in epidemiology, prognostic biomarkers, and optimal treatment sequencing. The true prevalence of PNS in NENs is stated to be underestimated, limiting any quantitative guidance.",
+          "quiz_question": "A 44-year-old woman presents with hypokalemia, proximal myopathy, severe hyperglycemia, and hypertension. CT chest reveals a 2.1 cm pulmonary carcinoid. Plasma ACTH is markedly elevated and not suppressed by high-dose dexamethasone. What syndrome should be prioritized, and what is its significance in the context of NEN-related paraneoplastic disease?",
+          "quiz_answer": "Ectopic ACTH secretion causing Cushing's syndrome is the diagnosis. Per this review, ectopic ACTH secretion is one of the most clinically significant endocrine paraneoplastic syndromes associated with neuroendocrine neoplasms, including pulmonary carcinoids, and may precede or coincide with the tumor diagnosis. Prompt recognition is essential because hypercortisolism-related complications (infection, hyperglycemia, hypertension, hypokalemia) dominate morbidity and require syndrome-directed therapy (steroidogenesis inhibitors or bilateral adrenalectomy) alongside tumor-targeted treatment.",
+          "journal": "Endocrine reviews",
           "year": "2026"
         }
       ],
