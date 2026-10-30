@@ -176,7 +176,10 @@
     "42942541",
     "42945770",
     "42946534",
-    "42951065"
+    "42951065",
+    "42953901",
+    "42955476",
+    "42960688"
   ],
   "sessions": [
     {
@@ -2710,6 +2713,49 @@
           "quiz_question": "A 44-year-old woman presents with hypokalemia, proximal myopathy, severe hyperglycemia, and hypertension. CT chest reveals a 2.1 cm pulmonary carcinoid. Plasma ACTH is markedly elevated and not suppressed by high-dose dexamethasone. What syndrome should be prioritized, and what is its significance in the context of NEN-related paraneoplastic disease?",
           "quiz_answer": "Ectopic ACTH secretion causing Cushing's syndrome is the diagnosis. Per this review, ectopic ACTH secretion is one of the most clinically significant endocrine paraneoplastic syndromes associated with neuroendocrine neoplasms, including pulmonary carcinoids, and may precede or coincide with the tumor diagnosis. Prompt recognition is essential because hypercortisolism-related complications (infection, hyperglycemia, hypertension, hypokalemia) dominate morbidity and require syndrome-directed therapy (steroidogenesis inhibitors or bilateral adrenalectomy) alongside tumor-targeted treatment.",
           "journal": "Endocrine reviews",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-17",
+      "items": [
+        {
+          "pmid": "42955476",
+          "doi": "10.1007/s12020-026-04817-y",
+          "title": "Diagnostic insights from twenty years of bilateral inferior petrosal sinus sampling for cushing disease at mayo clinic.",
+          "category": "notable",
+          "summary": "This 20-year, single-center retrospective review of 143 evaluable BIPSS cases found high sensitivity (98.9%) for distinguishing pituitary from ectopic ACTH-dependent Cushing syndrome, but only modest specificity (85.7%). Critically, the inter-petrosal gradient correctly lateralized the adenoma in only 59\u201360% of cases at baseline and post-stimulation, respectively, a sobering reminder that lateralization accuracy has not meaningfully improved. The cohort also provides a useful oCRH-era reference benchmark as many centers transition to desmopressin as the stimulant of choice.",
+          "caveat": "Retrospective single-center design with only 109 of 143 patients having a definitive final diagnosis available for the diagnostic analysis; referral-center selection bias may inflate sensitivity. Lateralization denominator (n=100) differs from the full cohort, limiting generalizability.",
+          "quiz_question": "A 38-year-old woman with biochemically confirmed ACTH-dependent Cushing syndrome has an equivocal pituitary MRI. BIPSS is performed with desmopressin stimulation; the central-to-peripheral ACTH ratio peaks at 4.8, and the right-to-left inter-petrosal ratio is 2.3:1. How should you counsel her regarding what BIPSS tells us about where to direct the surgeon?",
+          "quiz_answer": "The post-stimulation central-to-peripheral ratio \u22653.0 confirms a pituitary source with high sensitivity (~99%). However, this large Mayo series demonstrates that the inter-petrosal lateralization gradient correctly identifies the side of the adenoma in only about 60% of cases, so the right-sided gradient should be considered suggestive but not definitive. The surgeon should integrate MRI findings and intraoperative inspection rather than relying solely on the lateralization result.",
+          "journal": "Endocrine",
+          "year": "2026"
+        },
+        {
+          "pmid": "42960688",
+          "doi": "10.1210/endrev/bnag040",
+          "title": "Non-Classical Apparent Mineralocorticoid Excess Syndrome: Current Evidence and Future Challenges.",
+          "category": "practice-changing",
+          "summary": "This Scientific Statement formally defines non-classical apparent mineralocorticoid excess (NC-AME) as a syndrome of partial 11\u03b2-HSD2 insufficiency (without biallelic HSD11B2 mutations) causing cortisol-mediated mineralocorticoid receptor overactivation\u2014characterized biochemically by an elevated cortisol-to-cortisone (F/E) ratio, low cortisone, low renin, and normal-to-low aldosterone with hypertension. The panel proposes an LC-MS/MS-based diagnostic algorithm and endorses mineralocorticoid receptor antagonists as mechanism-directed first-line therapy, with blood pressure and renin normalization as co-primary treatment targets. NC-AME is proposed as a prevalent but underrecognized contributor to the large pool of low-renin hypertension, potentially reframing how endocrinologists approach patients who fall short of classical AME or primary aldosteronism.",
+          "caveat": "This is a consensus Scientific Statement rather than a prospective clinical trial; diagnostic thresholds for the F/E ratio are not yet standardized across laboratories, and multicenter validation studies are explicitly listed as a future research priority. LC-MS/MS is not universally available, limiting immediate implementation in lower-resource settings.",
+          "quiz_question": "A 52-year-old man is referred for low-renin hypertension resistant to three agents. Plasma aldosterone is 8 ng/dL with suppressed renin (<0.5 ng/mL/hr), making primary aldosteronism less likely. Serum potassium is 3.6 mEq/L. An LC-MS/MS steroid panel returns an elevated urinary cortisol-to-cortisone ratio. What syndrome should you consider, and what is the mechanism-directed first-line therapy according to this Scientific Statement?",
+          "quiz_answer": "The clinical and biochemical picture fits non-classical apparent mineralocorticoid excess (NC-AME), caused by partial insufficiency of 11\u03b2-HSD2 leading to cortisol-mediated activation of the mineralocorticoid receptor. The endorsed first-line therapy is a mineralocorticoid receptor antagonist (e.g., spironolactone or eplerenone), with normalization of blood pressure and renin as co-primary treatment targets.",
+          "journal": "Endocrine reviews",
+          "year": "2026"
+        },
+        {
+          "pmid": "42953901",
+          "doi": "10.1097/pq9.0000000000000939",
+          "title": "Improving Medication Safety for Patients with Adrenal Insufficiency Using Electronic Health Record Optimization.",
+          "category": "notable",
+          "summary": "This pediatric quality improvement initiative used EHR-based interventions\u2014including a best practice advisory, standardized stress-dose order sets, and steroid action plans\u2014to reduce emergency department stress-dosing errors (defined as suboptimal hydrocortisone sodium succinate <50 mg/m\u00b2) from a baseline of 21% to 13.9% over ~4 years across 776 patients and 920 ED encounters. The interval between safety incident reports related to adrenal insufficiency medication errors rose dramatically from 74 days to 775 days. Process measure uptake reached \u226560% for most EHR tools, though education documentation lagged at 34%.",
+          "caveat": "Single-center pediatric study with a pre/post design and no concurrent control arm, making it difficult to exclude secular trends; the 13.9% residual error rate indicates substantial room for further improvement. Findings may not translate directly to adult EDs or institutions with different EHR architectures.",
+          "quiz_question": "Your institution is reviewing adrenal crisis prevention protocols after a near-miss event. Based on this quality improvement study, which EHR-based interventions most reliably reduced stress-dosing errors in the ED for adrenal-insufficient patients, and what is the target stress dose of IV hydrocortisone sodium succinate used as the quality metric?",
+          "quiz_answer": "The most impactful interventions were a best practice advisory that flagged adrenal insufficiency at ED triage, standardized stress-dose order sets, and steroid action plans embedded in the chart\u2014all achieving \u226560% uptake. The study defined an ED medication error as administration of hydrocortisone sodium succinate at a dose <50 mg/m\u00b2, making 50 mg/m\u00b2 the minimum adequate stress dose benchmark used in this quality metric.",
+          "journal": "Pediatric quality & safety",
           "year": "2026"
         }
       ],
