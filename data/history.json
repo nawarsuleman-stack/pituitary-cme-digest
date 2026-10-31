@@ -179,7 +179,10 @@
     "42951065",
     "42953901",
     "42955476",
-    "42960688"
+    "42958417",
+    "42960688",
+    "42962234",
+    "42963766"
   ],
   "sessions": [
     {
@@ -2756,6 +2759,49 @@
           "quiz_question": "Your institution is reviewing adrenal crisis prevention protocols after a near-miss event. Based on this quality improvement study, which EHR-based interventions most reliably reduced stress-dosing errors in the ED for adrenal-insufficient patients, and what is the target stress dose of IV hydrocortisone sodium succinate used as the quality metric?",
           "quiz_answer": "The most impactful interventions were a best practice advisory that flagged adrenal insufficiency at ED triage, standardized stress-dose order sets, and steroid action plans embedded in the chart\u2014all achieving \u226560% uptake. The study defined an ED medication error as administration of hydrocortisone sodium succinate at a dose <50 mg/m\u00b2, making 50 mg/m\u00b2 the minimum adequate stress dose benchmark used in this quality metric.",
           "journal": "Pediatric quality & safety",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-24",
+      "items": [
+        {
+          "pmid": "42962234",
+          "doi": "10.3171/2026.5.JNS252348",
+          "title": "Selective resection of the cavernous sinus medial wall in functional pituitary adenomas: opening the gate to the cavernous sinus from medial to lateral.",
+          "category": "notable",
+          "summary": "This single-center retrospective series of 35 patients with hormone-secreting pituitary adenomas (acromegaly, Cushing's disease, TSH-secreting) describes intentional resection of the cavernous sinus medial wall (MWCS) during endoscopic endonasal surgery to access tumor invading the CS. Early endocrine remission was achieved in 91.4% of patients, including those with Knosp grade 2\u20133 invasion. Complication rates were low\u2014transient DI and hypopituitarism each occurred in ~14%, and there were no ICA injuries or CSF leaks\u2014suggesting that in experienced hands this anatomically targeted approach can extend the reach of curative surgery without a prohibitive safety cost.",
+          "caveat": "Small retrospective single-center cohort (n=35) with relatively short and variable follow-up (4\u201333 months); no control arm for comparison with standard resection. Selection bias is likely given that only surgeons with advanced anatomical expertise performed MWCS resection.",
+          "quiz_question": "A 38-year-old woman with Cushing's disease has a 1.2 cm ACTH-secreting adenoma with Knosp grade 2 cavernous sinus invasion confirmed on MRI. Her surgeon plans endoscopic endonasal transsphenoidal resection. Based on the MWCS resection series, what is the rationale for selectively resecting the cavernous sinus medial wall, and what was the early remission rate reported in this cohort?",
+          "quiz_answer": "Resection of the medial wall of the cavernous sinus removes tumor embedded within that structure and provides direct access to the superior, posterior, and inferior CS compartments, enabling more complete removal of invading tumor without violating the lateral CS. In this 35-patient series, early endocrine remission was achieved in 91.4% of patients across Knosp grades 1\u20134, with no permanent neurological or vascular complications.",
+          "journal": "Journal of neurosurgery",
+          "year": "2026"
+        },
+        {
+          "pmid": "42963766",
+          "doi": "10.1186/s12902-026-02459-9",
+          "title": "Preoperative HbA1c and postoperative day 1 fasting plasma glucose are associated with early glycemic improvement after transsphenoidal surgery in patients with acromegaly and preoperative dysglycemia: a retrospective cohort study.",
+          "category": "notable",
+          "summary": "In this retrospective cohort of 175 acromegalic patients with preoperative dysglycemia, early glycemic improvement (~1 month post-transsphenoidal surgery) occurred in 48% overall. Higher preoperative HbA1c independently predicted lower odds of improvement (OR 0.60 per unit), and a postoperative day-1 fasting plasma glucose in the 5.5\u20137.0 mmol/L range was associated with significantly higher improvement rates (61.9% vs. 35.2%) versus those outside this window. These two readily available markers may help stratify which patients are likely to achieve rapid glycemic normalization after successful surgery.",
+          "caveat": "Retrospective, single-center design with ~1-month follow-up as the primary endpoint\u2014durability of glycemic benefit and long-term outcomes are not addressed. Biochemical remission of acromegaly itself was not uniformly confirmed as a covariate, which could confound the glycemic results.",
+          "quiz_question": "You are counseling a patient with acromegaly and poorly controlled type 2 diabetes (HbA1c 9.8%) prior to transsphenoidal surgery. Based on this study's findings, how should you frame expectations for early postoperative glycemic improvement, and what postoperative day-1 glucose range was associated with the best odds of improvement?",
+          "quiz_answer": "Patients with higher preoperative HbA1c had significantly lower odds of early glycemic improvement (OR 0.60 per unit increase), and improvement rates decreased across HbA1c tertiles from ~70% to ~35%. A postoperative day-1 fasting plasma glucose in the 5.5\u20137.0 mmol/L range was associated with the highest early improvement rate (61.9%), so this patient should be counseled that early glycemic normalization is less likely given the degree of baseline hyperglycemia, and close postoperative glucose monitoring remains essential.",
+          "journal": "BMC endocrine disorders",
+          "year": "2026"
+        },
+        {
+          "pmid": "42958417",
+          "doi": "10.1186/s13256-026-06442-9",
+          "title": "A case report of osilodrostat treatment in primary bilateral macronodular adrenal hyperplasia associated with bilateral adrenal mass reduction.",
+          "category": "preliminary",
+          "summary": "This case report describes a 60-year-old woman with ARMC5-mutation\u2013confirmed PBMAH who was treated with osilodrostat (11\u03b2-hydroxylase inhibitor) after failed adrenal artery embolization. After 23 weeks of therapy, 24-hour urinary free cortisol normalized, and imaging demonstrated significant shrinkage of both adrenal glands. Biochemical control was maintained for 11 months after drug discontinuation, raising the hypothesis that osilodrostat may have disease-modifying effects on adrenal gland size beyond simple cortisol suppression.",
+          "caveat": "Single case report; prior adrenal artery embolization (which itself failed to control cortisol) significantly confounds attribution of tumor shrinkage to osilodrostat. No mechanistic explanation for persistent post-treatment remission is established. This observation is hypothesis-generating only and should not alter current PBMAH management protocols.",
+          "quiz_question": "A 55-year-old woman with ARMC5-confirmed PBMAH is intolerant of surgery and has failed conservative measures. Her endocrinologist considers osilodrostat. Beyond cortisol normalization, what intriguing observation was reported in this case, and why must it be interpreted with significant caution?",
+          "quiz_answer": "Bilateral adrenal mass reduction was observed on imaging during osilodrostat treatment\u2014a novel finding for this drug class in PBMAH. However, prior adrenal artery embolization confounds causal attribution, the observation comes from a single patient, and no prospective or controlled data exist. Until further evidence accumulates, this should be considered a hypothesis-generating signal rather than an established treatment effect.",
+          "journal": "Journal of medical case reports",
           "year": "2026"
         }
       ],
