@@ -182,7 +182,10 @@
     "42958417",
     "42960688",
     "42962234",
-    "42963766"
+    "42963766",
+    "42965779",
+    "42966657",
+    "42967023"
   ],
   "sessions": [
     {
@@ -2802,6 +2805,49 @@
           "quiz_question": "A 55-year-old woman with ARMC5-confirmed PBMAH is intolerant of surgery and has failed conservative measures. Her endocrinologist considers osilodrostat. Beyond cortisol normalization, what intriguing observation was reported in this case, and why must it be interpreted with significant caution?",
           "quiz_answer": "Bilateral adrenal mass reduction was observed on imaging during osilodrostat treatment\u2014a novel finding for this drug class in PBMAH. However, prior adrenal artery embolization confounds causal attribution, the observation comes from a single patient, and no prospective or controlled data exist. Until further evidence accumulates, this should be considered a hypothesis-generating signal rather than an established treatment effect.",
           "journal": "Journal of medical case reports",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-17",
+      "items": [
+        {
+          "pmid": "42966657",
+          "doi": "10.1016/j.euf.2026.10.015",
+          "title": "Adrenal Incidentalomas: Do All Patients Require a Biochemical Workup?",
+          "category": "notable",
+          "summary": "This review critically examines the traditional algorithmic approach of biochemical testing for all adrenal incidentalomas, highlighting that the 2023 ESE guideline now provides an important imaging-based nuance: for a homogeneous adrenal mass with \u226410 Hounsfield units on unenhanced CT, the probability of pheochromocytoma is extremely low and biochemical metanephrine testing may reasonably be omitted. In contrast, testing for mild autonomous cortisol secretion (MACS) continues to be broadly recommended given its association with metabolic morbidity even when clinically silent. The authors propose a risk-stratified rather than universal biochemical workup approach, weighing improved imaging accuracy against concerns about false-positive testing and overinvestigation.",
+          "caveat": "This is a narrative review rather than a prospective or registry-based study, so the proposed risk-stratified algorithm has not been prospectively validated; clinicians should exercise caution in applying imaging-only exclusion of pheochromocytoma outside the specific CT attenuation criterion.",
+          "quiz_question": "A 58-year-old woman undergoes CT of the abdomen for an unrelated indication. A 2.1 cm right adrenal mass is incidentally found. The unenhanced CT attenuation measures 7 Hounsfield units and the lesion is homogeneous. She has well-controlled hypertension and no symptoms suggestive of catecholamine excess. According to the 2023 ESE guideline framework reviewed in this paper, which biochemical test can reasonably be omitted?",
+          "quiz_answer": "Biochemical testing for pheochromocytoma (plasma or urine metanephrines) may reasonably be omitted in this scenario, because a homogeneous adrenal mass with \u226410 Hounsfield units on unenhanced CT carries an extremely low probability of pheochromocytoma. Testing for mild autonomous cortisol secretion (e.g., 1 mg overnight dexamethasone suppression test) should still be performed.",
+          "journal": "European urology focus",
+          "year": "2026"
+        },
+        {
+          "pmid": "42965779",
+          "doi": "10.1007/s12020-026-04856-5",
+          "title": "Association between pathological subtypes of PitNETs and postoperative biochemical remission in acromegaly.",
+          "category": "notable",
+          "summary": "In a cohort of acromegaly patients (overall remission rate 51%, 93.4% macroadenomas), neither transcription factor\u2013based (pure vs. non-pure PIT-1 positive) nor hormone-based (pure vs. non-pure GH positive) PitNET pathological subtyping independently predicted postoperative biochemical remission after propensity score overlap weighting to balance confounders. A higher preoperative IGF-1 index was the only significant negative predictor of remission, and only in the transcription factor\u2013based analytical group. These findings challenge the clinical expectation that granulation pattern or PIT-1 co-expression status alone can guide surgical prognosis counseling.",
+          "caveat": "Single-center retrospective design with a relatively modest sample size; the 3-month minimum follow-up may be too short to capture late remissions or recurrences. The predominance of macroadenomas (93.4%) limits generalizability to microadenoma-predominant cohorts.",
+          "quiz_question": "A 45-year-old man with acromegaly has a 2.8 cm pituitary macroadenoma. Pathology after transsphenoidal resection shows a sparsely granulated, non-pure PIT-1 positive PitNET. His preoperative IGF-1 index was 3.2\u00d7 ULN. Based on the findings of this study, which factor is the strongest predictor of failure to achieve biochemical remission?",
+          "quiz_answer": "The high preoperative IGF-1 index (3.2\u00d7 ULN) is the strongest predictor of failure to achieve remission identified in this study. Pathological subtype (pure vs. non-pure PIT-1 positive, or granulation pattern) did not independently predict remission in weighted analyses; only the preoperative IGF-1 index showed significant prognostic value in the transcription factor\u2013based group.",
+          "journal": "Endocrine",
+          "year": "2026"
+        },
+        {
+          "pmid": "42967023",
+          "doi": "10.7759/cureus.117267",
+          "title": "Probable Hypophysitis Recognized More Than Two Years After Pembrolizumab Discontinuation.",
+          "category": "notable",
+          "summary": "This case documents immune checkpoint inhibitor\u2013associated hypophysitis presenting approximately 28 months after the last dose of pembrolizumab \u2014 well beyond the timeframes typically described in the literature. The patient developed central adrenal insufficiency, central hypothyroidism, and suppressed gonadotropins, with new pituitary enlargement on MRI and no evidence of recurrent malignancy or alternative etiology. Clinical recovery followed hydrocortisone replacement (initiated before thyroid hormone), underscoring the standard sequencing principle for combined central deficiencies.",
+          "caveat": "Single case report; causality between pembrolizumab and the delayed hypophysitis cannot be definitively established at more than two years post-exposure. Concurrent septic shock may have contributed to pituitary stress and imaging changes.",
+          "quiz_question": "A 70-year-old man presents with progressive fatigue, confusion, and hemodynamic instability 28 months after completing pembrolizumab for lung cancer. MRI shows new pituitary enlargement. Labs show cortisol 3.3 \u00b5g/dL with ACTH 6.5 pg/mL, low free T4, TSH 2.0, and suppressed gonadotropins. In what order should hormone replacement be initiated, and why?",
+          "quiz_answer": "Hydrocortisone (glucocorticoid replacement) must be initiated first, before thyroid hormone replacement. Starting levothyroxine in the setting of uncorrected adrenal insufficiency can precipitate an adrenal crisis by accelerating cortisol metabolism. Once glucocorticoid replacement is established and the patient is stable, central hypothyroidism can then be treated with levothyroxine. This case also illustrates that ICI-associated hypophysitis can manifest more than two years after drug discontinuation and should remain on the differential in any patient with prior checkpoint inhibitor exposure.",
+          "journal": "Cureus",
           "year": "2026"
         }
       ],
