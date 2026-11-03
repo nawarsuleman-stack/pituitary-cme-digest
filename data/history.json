@@ -188,7 +188,10 @@
     "42963766",
     "42965779",
     "42966657",
-    "42967023"
+    "42967023",
+    "42972079",
+    "42973552",
+    "42975548"
   ],
   "sessions": [
     {
@@ -2894,6 +2897,49 @@
           "quiz_question": "A 35-year-old pregnant woman develops severe hypertension and acute pulmonary edema with echocardiographic apical ballooning during cesarean section. After stabilization, what is the most critical next step in the diagnostic workup that could identify a surgically correctable cause?",
           "quiz_answer": "Measurement of plasma or urine catecholamines/metanephrines and cross-sectional adrenal imaging (CT or MRI) to exclude pheochromocytoma, as demonstrated in this case where TTS during delivery was the unmasking event for an occult pheo. Prompt identification is essential because subsequent anesthetic or surgical procedures without appropriate alpha-blockade carry life-threatening risk.",
           "journal": "AJOG global reports",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-24",
+      "items": [
+        {
+          "pmid": "42975548",
+          "doi": "10.1227/neu.0000000000004273",
+          "title": "Association Between Pituitary Adenoma Excision and Risk of Cerebrovascular Disease and Mortality in Patients With Cushing's Disease: A Propensity Score-Matched Analysis.",
+          "category": "notable",
+          "summary": "In this large retrospective multicenter analysis (TriNetX, 20 years, n=4265 CD patients), Cushing's disease was associated with nearly double the risk of any cerebrovascular disease compared to matched non-CD controls, including ischemic stroke (RR 2.35) and hemorrhagic stroke (RR 1.75). Critically, pituitary adenoma excision was associated with a 32% reduction in cerebrovascular disease risk (RR 0.68), a 50% reduction in ischemic stroke risk (RR 0.50), and a 48% reduction in mortality (RR 0.52) versus unresected CD patients, with clinically meaningful NNTs (25\u201340). These data provide real-world, population-level support for the cerebrovascular and survival benefit of surgical intervention in CD beyond just biochemical remission.",
+          "caveat": "Retrospective database study with propensity score matching cannot exclude residual confounding; medication-based proxies for biochemical remission showed similar but non-significant trends, so whether benefit is driven by cure vs. debulking vs. adjunct therapy remains uncertain. TriNetX relies on coding accuracy across 69 health systems.",
+          "quiz_question": "A 48-year-old woman with newly confirmed Cushing's disease is counseled about transsphenoidal surgery. She asks whether surgery offers benefits beyond controlling cortisol. Based on this study's findings, what can you tell her about cerebrovascular and mortality outcomes associated with adenoma excision?",
+          "quiz_answer": "This study found that pituitary adenoma excision in Cushing's disease was associated with a 32% lower risk of cerebrovascular disease overall, a 50% lower risk of ischemic stroke (NNT ~33), and a 48% lower mortality risk (NNT ~40) compared to CD patients who did not undergo excision \u2014 suggesting meaningful long-term vascular and survival benefits of surgical treatment independent of cortisol normalization alone.",
+          "journal": "Neurosurgery",
+          "year": "2026"
+        },
+        {
+          "pmid": "42973552",
+          "doi": "10.3389/fendo.2026.1930467",
+          "title": "Tumor expression of dopamine receptor and prolactin is associated with acute dopamine agonist response in acromegaly.",
+          "category": "notable",
+          "summary": "In this single-center retrospective cohort of 69 treatment-naive acromegaly patients, high tumoral dopamine receptor D2 (DRD2) gene expression correlated significantly with bromocriptine test response (r=0.53, p\u22640.001), and both DRD2 expression and dopamine agonist responsiveness were associated with higher serum prolactin and tumor prolactin immunostaining. Estrogen receptor \u03b1 expression correlated with prolactin expression and was linked to smaller, less invasive tumors. These findings suggest that co-secretion of prolactin and DRD2 expression may serve as tissue biomarkers to identify acromegaly patients most likely to benefit from dopamine agonist therapy, potentially informing personalized medical management.",
+          "caveat": "Single-center retrospective design with a modest cohort (n=69); bromocriptine testing was routine at this center but is not universally performed, limiting immediate generalizability. The clinical threshold for using these markers to guide treatment decisions has not been prospectively validated.",
+          "quiz_question": "A 55-year-old man with acromegaly has persistent disease after transsphenoidal surgery. His pathology shows strong prolactin immunostaining and high DRD2 gene expression. Based on this study, what does this tumor profile suggest about his likely response to cabergoline therapy?",
+          "quiz_answer": "High DRD2 gene expression and co-expression of prolactin in the tumor were significantly correlated with dopamine agonist test responsiveness in this cohort. This patient's tumor profile would suggest a higher likelihood of response to cabergoline (or other dopamine agonists), making it a reasonable medical option to pursue or prioritize as adjunct therapy.",
+          "journal": "Frontiers in endocrinology",
+          "year": "2026"
+        },
+        {
+          "pmid": "42972079",
+          "doi": "10.1007/s00261-026-05859-6",
+          "title": "Percutaneous and endovascular procedures in adrenal disease: indications, technique, and outcomes.",
+          "category": "notable",
+          "summary": "This review systematically covers the role of image-guided procedures in adrenal disease, including percutaneous biopsy (reserved for hormonally inactive lesions where histology changes management), adrenal venous sampling (AVS) as the reference standard for lateralizing aldosterone excess in primary aldosteronism, thermal ablation for selected aldosterone-producing adenomas and metastases, and transarterial embolization for hemorrhage control and functional aldosteronism treatment. The authors emphasize that each procedure carries adrenal-specific hazards \u2014 including catecholamine crisis during biopsy of occult pheochromocytoma, adrenal insufficiency after bilateral ablation, and non-target embolization \u2014 that must shape patient selection and peri-procedural monitoring. Early multidisciplinary discussion is advocated rather than referral only after surgical refusal.",
+          "caveat": "Evidence for thermal ablation and embolization in aldosteronism is largely from nonrandomized series; only one small RCT supports transarterial embolization for aldosteronism. The review does not provide a formal systematic methodology, and outcomes data remain heterogeneous across institutions with variable AVS expertise.",
+          "quiz_question": "A 62-year-old man with confirmed primary aldosteronism and a 2.1 cm right adrenal adenoma on CT declines surgery due to surgical risk. AVS confirmed right-sided lateralization. He is referred for possible thermal ablation. What adrenal-specific complication risk must be excluded before proceeding, and what procedural hazard is specific to bilateral adrenal intervention?",
+          "quiz_answer": "Before thermal ablation of an adrenal mass, pheochromocytoma must be biochemically excluded to prevent a life-threatening catecholamine crisis during the procedure. If bilateral adrenal intervention were ever contemplated (e.g., bilateral ablation), adrenal insufficiency is a specific risk that requires careful planning and perioperative glucocorticoid coverage.",
+          "journal": "Abdominal radiology (New York)",
           "year": "2026"
         }
       ],
