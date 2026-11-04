@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-11-03",
+  "fetched_at": "2026-11-04",
   "date_window": {
-    "from": "2016/11/05",
-    "to": "2026/11/03"
+    "from": "2016/11/06",
+    "to": "2026/11/04"
   },
   "already_covered_pmids": [
     "41730814",
@@ -193,40 +193,91 @@
     "42963766",
     "42965779",
     "42966657",
-    "42967023"
+    "42967023",
+    "42972079",
+    "42973552",
+    "42975548"
   ],
   "candidates": [
     {
-      "pmid": "42973552",
-      "doi": "10.3389/fendo.2026.1930467",
-      "title": "Tumor expression of dopamine receptor and prolactin is associated with acute dopamine agonist response in acromegaly.",
-      "abstract": "In acromegaly, primary treatment is usually pituitary surgery. Remission rates are approximately 50% with pituitary tumor size and invasiveness playing important roles. Medical therapy is the secondary treatment for many patients. Yet, dopamine agonist responsiveness is variable, and reliable prognostic markers are lacking. We aimed to identify markers of dopamine agonist responsiveness. We hypothesized that (i) dopamine agonist response correlates with high dopamine receptor D2 expression and prolactin expression and secretion and (ii) estrogen receptor \u03b1 expression is associated with tumor properties. Single-center retrospective cohort analysis with treatment-naive patients who had undergone a bromocriptine test as a marker for dopamine agonist response. Sixty-nine patients with newly diagnosed acromegaly between 2008 and 2017 were included. During this period, the bromocriptine test was performed routinely at our center. Baseline hormone concentrations and MR images were evaluated retrospectively. Immunohistochemical staining of hormones and receptors and gene expression of dopamine receptor D2 in tumor tissue were performed and assessed. Dopamine agonist test response and high dopamine receptor D2 gene expression were correlated (r = 0.53; p \u2264 0.001), and both were associated with higher serum prolactin concentration and tumor prolactin expression, assessed by immunohistochemistry. Prolactin and estrogen receptor \u03b1 expression were correlated, and strong expression was associated with smaller and less invasive tumors. Dopamine receptor D2 and prolactin expression are markers for dopamine agonist test response, providing valuable insights for personalized management and optimization of medical therapy in patients with acromegaly. Although prolactin and estrogen receptor \u03b1 expression may be associated with tumor growth, the clinical applicability remains unclear.",
-      "journal": "Frontiers in endocrinology",
+      "pmid": "42979165",
+      "doi": "10.1210/jendso/bvag242",
+      "title": "Germline AIP variants are rare in sporadic unselected pituitary adenomas.",
+      "abstract": "Germline AIP variants are recognized causes of familial isolated pituitary adenoma, associated with young-onset and aggressive pituitary adenomas (PA). In this study, we evaluated the prevalence and phenotype of AIP variants in sporadic PA in the highly consanguineous population of Saudi Arabia. In this prospective cross-sectional study, 188 non-selected patients (53% males, 44% \u226430-year-old, 80.3% macroadenomas) with PAs underwent Sanger sequencing of all exons and exon-intron boundaries of the AIP gene. We also evaluated all curated AIP variants in a local population database of 18 360 whole-exome sequences. Among 188 successfully sequenced cases, only 2 patients (1.1%) harbored AIP variants, both variants of uncertain significance (VUS). The first was a 17-year-old male with a giant prolactinoma, consistent with the classical AIP-associated phenotype, who had a previously reported variant (NM_003977.4:c.563G>A, p.Arg188Gln). The second was a 60-year-old woman with a gonadotroph macroadenoma, atypical for AIP-related disease, who had a variant (c.767C>T, p.Ser256Phe). Neither tumor showed loss of heterozygosity, repeated twice on carefully selected tumor tissue. Thus, the prevalence of VUS was only 2/188, but of pathogenic/likely pathogenic AIP variants was 0/188 (95% CI, 0-1.9%) overall and 0/151 (95% CI, 0-2.4%) among macroadenomas. The institutional database showed only 8 AIP VUS in 20 unrelated subjects (0.11%). Although this cohort included a high proportion of young patients and macroadenomas, no pathogenic or likely pathogenic AIP variant was found. AIP variants are rare in sporadic PAs in this population, supporting highly selective testing for AIP variants in patients with PA.",
+      "journal": "Journal of the Endocrine Society",
       "year": "2026",
       "publication_types": [
         "Journal Article"
       ]
     },
     {
-      "pmid": "42975569",
-      "doi": "10.1002/ksa.70671",
-      "title": "Gracilis tendon harvest for ACL reconstruction impairs gracilis muscle volume recovery and may adversely affect adjacent thigh musculature. MRI-based outcomes from a subgroup of patients enroled in the DOSTAR randomized controlled trial.",
-      "abstract": "Segmentation of magnetic resonance imaging (MRI) allows accurate calculation of muscle volumes. The Dual Or Single Tendon Anterior cruciate ligament Reconstruction (DOSTAR) study is a prospective randomized controlled trial investigating a semitendinosus (ST) graft with adjustable button tibial fixation versus a dual tendon semitendinosus and gracilis (STG) graft with screw tibial fixation in anterior cruciate ligament reconstruction (ACLR). The purpose of the present study is to investigate differences in thigh muscle volume at 6 and 12 months between these treatment groups. Patients were randomized and underwent ACLR using either a ST or STG graft construct. MRI of bilateral thighs was completed at 6 and 12 months post-operatively. Muscle volumes were measured in both thighs at both time points in both groups. A total of 38 patients underwent MRI scanning at 6 and 12 months. There was a significant difference in the interval volume change of gracilis in the STG group compared to the ST group (-1.6\u2009cm3\u2009\u00b1\u20094.6 vs. +2.8\u2009cm3\u2009\u00b1\u20096.8, p\u2009=\u20090.026). Interval gracilis hypertrophy occurred in 35% (7/20) of cases in the STG group and 67% of cases (12/18) in the ST group (p\u2009=\u20090.103). Adductor longus (AddL) also demonstrated a significant difference in interval volume change between the STG and ST group (-2.4\u2009cm3\u2009\u00b1\u200912.0 vs. +11.1\u2009cm3\u2009\u00b1\u200921.2, p\u2009=\u20090.020). AddL hypertrophy occurred in 30% of cases (6/20) in the STG group and 72% (13/18) in the ST group (p\u2009=\u20090.022). All other muscles had no significant differences noted in muscle recovery between groups. Linear regression analysis demonstrated a significant positive relationship between interval changes in gracilis and AddL volumes (p\u2009<\u20090.001). The present study provides MRI evidence that gracilis tendon harvest was associated with persistent impairment of gracilis muscle recovery and may also adversely affect AddL. This adds to the growing body of evidence supporting the use of ST with adjustable button graft constructs for hamstring ACLR. Level II, subgroup analysis of prospective, double-blinded, randomized controlled trial.",
-      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
+      "pmid": "42979274",
+      "doi": "10.1002/jpr3.70271",
+      "title": "When genetics disrupt the gut: Dysmotility and ganglioneuromatosis in multiple endocrine neoplasia type 2B syndrome.",
+      "abstract": "Multiple Endocrine Neoplasia type 2B (MEN2B) is a rare hereditary cancer syndrome characterized by medullary thyroid carcinoma, mucosal neuromas, and pheochromocytoma. Gastrointestinal involvement is common and often manifests as diffuse intestinal ganglioneuromatosis (IGN), which can impair motility and lead to severe constipation, pseudo-obstruction, or megacolon. We report a male infant with known MEN2B who developed progressive abdominal distension and obstructive symptoms refractory to medical management. Initial rectal suction biopsies were unrevealing. Due to persistent symptoms, a diverting ileostomy was created for decompression, during which full-thickness biopsies were obtained, ultimately establishing the definitive diagnosis of colonic ganglioneuromatosis. This case highlights the limitations of mucosal biopsies in detecting deeper neural pathology and underscores the importance of maintaining clinical suspicion for IGN in patients with MEN2B and persistent gastrointestinal symptoms despite a normal initial evaluation.",
+      "journal": "JPGN reports",
       "year": "2026",
       "publication_types": [
         "Journal Article"
       ]
     },
     {
-      "pmid": "42910339",
-      "doi": "10.7759/cureus.116662",
-      "title": "Newly Diagnosed Graves' Disease Followed by the Discovery of a Cavernous Internal Carotid Artery Aneurysm Causing Panhypopituitarism: A Case Report.",
-      "abstract": "Sellar and parasellar vascular lesions are rare causes of pituitary dysfunction and may mimic pituitary adenomas or other sellar masses. Cavernous internal carotid artery (ICA) aneurysms can cause hypopituitarism through compression of the pituitary gland or stalk, but diagnosis may be delayed when symptoms are initially attributed to a more common endocrine disorder. We report a 37-year-old man who presented with six weeks of unintentional weight loss, fatigue, heat intolerance, excessive sweating, anxiety, tremor, and tachycardia. Initial evaluation showed suppressed thyroid-stimulating hormone (TSH), elevated total triiodothyronine (T3), positive thyrotropin receptor antibody, positive thyroid-stimulating immunoglobulin, and a hypervascular thyroid gland on ultrasound, consistent with Graves' disease. He was started on methimazole and atenolol. Although thyroid function tests improved, he developed persistent neck discomfort, prompting contrast-enhanced computed tomography (CT), which revealed an enhancing sellar mass. Magnetic resonance imaging (MRI) showed a T2-hypointense sellar lesion with internal flow artifact, and CT angiography confirmed a saccular aneurysm of the cavernous segment of the right ICA. Pituitary hormone evaluation demonstrated secondary adrenal insufficiency, central hypothyroidism, hypogonadotropic hypogonadism, growth hormone (GH) deficiency, and mild hyperprolactinemia, consistent with panhypopituitarism from pituitary compression. The patient was started on prednisone and levothyroxine, and atenolol and prednisone were subsequently discontinued before endovascular embolization was performed. At follow-up, symptoms improved, but panhypopituitarism persisted. This case highlights the importance of reassessing patients when endocrine symptoms evolve despite an initially appropriate diagnosis.",
-      "journal": "Cureus",
+      "pmid": "42980647",
+      "doi": "10.1080/14740338.2026.2756129",
+      "title": "Momelotinib for the treatment of myelofibrosis in patients with moderate-to-severe anemia: a drug safety evaluation.",
+      "abstract": "Momelotinib is an oral inhibitor of Janus kinase 1 and 2 (JAK1/JAK2) and of activin A receptor type 1 (ACVR1). Its key distinguishing feature is the suppression of hepcidin through ACVR1 inhibition, which mitigates the iron-restricted anemia observed in myelofibrosis (MF) due to the hyperinflammatory state. It is the first agent approved for intermediate- or high-risk MF with potential to treat anemia and reduce transfusion dependence. We review the pharmacology, efficacy, and principally, the safety profile of momelotinib in MF patients with moderate-to-severe anemia. We integrate the controlled safety data of SIMPLIFY-1, SIMPLIFY-2 and MOMENTUM with the rapidly expanding post-marketing real-world evidence (>700 patients across five independent cohorts) and place the profile in the context of the alternative second-line JAK inhibitors fedratinib and pacritinib. Momelotinib reshapes the therapeutic algorithm for the anemic myelofibrosis patient, an unmet need that other JAK inhibitors aggravate rather than relieve. The trial-derived haematological profile is favorable, but real-world monitoring has surfaced two signals - treatment-emergent nephropathy and peripheral neuropathy - that were not fully detected in the registration program and now warrant active monitoring. Outstanding questions concern long-term renal and neurological safety, optimal sequencing, and survival benefit.",
+      "journal": "Expert opinion on drug safety",
       "year": "2026",
       "publication_types": [
-        "Case Reports",
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42979531",
+      "doi": "10.17925/EE.2026.22.2.2",
+      "title": "Non-diabetic endocrine neuropathies: A practical approach to diagnosis and clinical evaluation.",
+      "abstract": "Peripheral neuropathy has diverse etiologies, with endocrine disorders beyond diabetes representing significant, yet frequently underrecognized causes. While diabetic neuropathy is well established, this article specifically excludes a detailed discussion of diabetic neuropathy to focus on less-recognized endocrine causes and presents a practical diagnostic algorithm for their earlier and more accurate identification. A focused narrative review was conducted using PubMed, Scopus and ScienceDirect (2015-2025). From 2,318 screened records, 154 studies were included after full-text review of 298 articles. Evidence was synthesized by etiology, mechanism, clinical presentation and diagnostic relevance. Disorders such as hypothyroidism, acromegaly, adrenal dysfunction and deficiencies of vitamins B12 and D produce distinct neuropathic profiles via metabolic, hormonal, inflammatory or compressive mechanisms. Subclinical nerve involvement is common, with electrophysiological abnormalities detectable in up to 60% of asymptomatic individuals. Characteristic clinical patterns - such as delayed reflexes in hypothyroidism, bilateral carpal tunnel syndrome (CTS) in acromegaly and sensory ataxia in B12 deficiency - provide diagnostic clues. Based on synthesized evidence, a stepwise diagnostic algorithm was developed to guide clinical evaluation. Endocrine disorders are important and often reversible causes of peripheral neuropathy. Early recognition requires a systematic approach. The proposed evidence-based algorithm offers clinicians a practical tool to improve diagnostic efficiency, facilitate timely treatment of the underlying endocrine condition and reduce the risk of irreversible nerve damage.",
+      "journal": "TouchREVIEWS in endocrinology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42980648",
+      "doi": "10.1080/14779072.2026.2757640",
+      "title": "Reversing ticagrelor P2Y12 inhibition in life-threatening haemorrhage: a case-based review.",
+      "abstract": "Ticagrelor is an oral reversible platelet P2Y12 inhibitor that improves ischaemic outcomes in atherosclerotic cardiovascular disease, including the prevention of stent thrombosis after percutaneous coronary intervention, at the cost of increased bleeding risk. A comprehensive literature search was performed across PubMed and Web of Science (inception to January 2026). This case-based review outlines the current guidance surrounding bleeding events and emergent surgery on oral P2Y12 inhibitors, treatment options for reversing their effects, and describes a novel ticagrelor reversal agent in two cases of life-threatening bleeding, one related to gastrointestinal haemorrhage and one associated with emergent coronary artery bypass graft surgery. Ticagrelor is a first-line treatment for acute coronary syndromes but is associated with heightened bleeding risk, especially when combined with aspirin. Ticagrelor's reversibility may offer advantages over the irreversibly-acting thienopyridine P2Y12 inhibitors. Patients treated with potent antiplatelet regimens may require rapid and effective restoration of haemostatic activity in addition to supportive measures in those presenting with life-threatening haemorrhage or requiring emergent surgery. We summarise the current available treatment options to reverse antiplatelet activity and highlight the role of ticagrelor reversal with bentracimab in improving haemostasis in emergency settings.",
+      "journal": "Expert review of cardiovascular therapy",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42951634",
+      "doi": "10.11406/rinketsu.67.1194",
+      "title": "[Reference guide for the clinical management of adult Langerhans cell histiocytosis (key points from the first edition, 2025)].",
+      "abstract": "According to the registry of the Japanese Society of Hematology, adult histiocytic neoplasms are extremely rare, with approximately 40 cases reported annually, and the most common among them is Langerhans cell histiocytosis (LCH). Lesions may involve multiple organs, including bone, skin, lung, the central nervous system, and the endocrine system. Without a hematology perspective, the neoplastic nature of LCH may not be apparent, resulting in missed diagnoses. Central diabetes insipidus, anterior pituitary dysfunction, and LCH-associated neurodegeneration, once developed, often result in irreversible impairment. Because delayed therapeutic intervention can result in permanent organ damage, it is essential for hematologists to understand the \"minimum initial management\" required to protect patient outcomes. This review summarizes the key points of diagnosis and initial management in adult LCH based on the first edition of the Adult LCH Clinical Reference Guide (2025).",
+      "journal": "[Rinsho ketsueki] The Japanese journal of clinical hematology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "English Abstract"
+      ]
+    },
+    {
+      "pmid": "42978598",
+      "doi": "10.1002/iju5.70293",
+      "title": "Durable Complete Response to Pembrolizumab for Postoperative Nodal Recurrence of Lynch Syndrome-Associated Upper Tract Urothelial Carcinoma: A Case Report.",
+      "abstract": "Germline mutations in mismatch repair genes cause Lynch syndrome and are associated with upper tract urothelial carcinoma (UTUC). Tumors with deficient mismatch repair (dMMR) or microsatellite instability-high (MSI-H) may respond favorably to immune checkpoint inhibitors. A 54-year-old woman with Lynch syndrome and a germline MSH2 mutation developed right renal pelvic carcinoma. The tumor was diagnosed as a pT3 high-grade urothelial carcinoma, and the patient underwent laparoscopic nephroureterectomy. She was subsequently administered adjuvant gemcitabine and carboplatin due to a contraindication for cisplatin. Due to nodal recurrence, pembrolizumab was initiated at 200\u2009mg every 3\u2009weeks, achieving a complete radiological and metabolic response after five cycles. The course was complicated by immune-related adrenal insufficiency, which was managed with corticosteroid replacement therapy. Pembrolizumab may achieve a durable complete response in Lynch syndrome-associated UTUC. MSI screening should be considered in UTUC to guide decision-making.",
+      "journal": "IJU case reports",
+      "year": "2026",
+      "publication_types": [
         "Journal Article"
       ]
     },
@@ -243,13 +294,72 @@
       ]
     },
     {
-      "pmid": "42975573",
-      "doi": "10.1556/2006.2026.00414",
-      "title": "Improving the subtyping of gamblers by gambling type.",
-      "abstract": "In gambling research, gambling subtypes have traditionally been used to distinguish between games of skill or competition and games of chance. The former are referred to as strategic games, whereas the latter are classified as non-strategic games. Despite their similarities, individuals who engage in strategic and non-strategic gambling exhibit distinct characteristics. Consequently, a substantial body of research has examined how gamblers differ according to the types of gambling activities in which they engage. These differences in gamblers' profiles have important implications for the clinical assessment and treatment of individuals with gambling problems. Nevertheless, heterogeneous classification methods have been used to define gambling subtypes, compromising the comparability and reproducibility of research findings and hindering the implementation of evidence-based recommendations for the regulation, prevention, and treatment of gambling disorder.",
-      "journal": "Journal of behavioral addictions",
+      "pmid": "42977721",
+      "doi": "10.1093/ejendo/lvag196",
+      "title": "Genetic Correlates of Malignant Behavior in Aggressive Pituitary Tumors.",
+      "abstract": "Aggressive pituitary neuroendocrine tumors (PitNETs) that progress despite surgery, radiotherapy (RT), and medical therapy are heterogenous; only a subset exhibits overtly malignant behavior. We examined genetic determinants of metastatic behavior and poor prognosis. Retrospective genomic cohort study of 39 patients (62 tumor samples) with aggressive PitNETs. Next-generation sequencing was performed using the MSK-IMPACT platform on a sequencing protocol. Genetic alterations were correlated with metastatic status, and progression-free and overall survival (PFS and OS) from first progression following RT. Cell-cycle alterations were found in 23.1% of patients and were more frequently identified in metastatic compared to non-metastatic tumors (42.1% vs 5.0%; OR=12.9; p=0.008). TP53, ATRX, DAXX, and/or SF3B1 alterations were associated with adverse clinical outcomes but did not differ by metastatic status (53% of metastatic vs 60% of non-metastatic tumors). Within the corticotroph lineage, gene-level alterations in TP53, ATRX, and/or DAXX captured corticotrophs with recurrent chromosomal loss-of-heterozygosity (rcLOH), and were associated with shorter PFS (10.1 vs 149.9 months; p=0.009) and OS (116.6 months vs not reached [NR]; p=0.022). A subset of corticotrophs lacking rcLOH harbored gain-of-function USP8 mutations and were associated with longer PFS (149.9 vs 11.5 months; p=0.022). In lactotroph PitNETs, TP53, ATRX, and/or SF3B1 mutations were associated with shorter PFS (4.6 vs 21.5 months; p=0.049). Cell-cycle alterations were enriched in metastatic PitNETs and may contribute to metastatic dissemination. Next-generation sequencing segregates aggressive PitNETs into prognostic subgroups.",
+      "journal": "European journal of endocrinology",
       "year": "2026",
       "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42980638",
+      "doi": "10.1080/15226514.2026.2755977",
+      "title": "Photocatalytic treatment of AO7 and real textile wastewater using green-synthesized ZnO nanoparticles: RSM and Taguchi approach.",
+      "abstract": "In this study, ZnO nanoparticles were synthesized via a green synthesis method using Diospyros kaki L. peel extract, and their photocatalytic performances for the removal of Acid Orange 7 (AO7) dye and real textile wastewater were investigated. The effects of pH, initial dye concentration, and catalyst dosage on AO7 removal were optimized using a Box-Behnken experimental design and Response Surface Methodology (RSM). Under the optimum conditions (pH 10, initial dye concentration of 10\u2009ppm, and catalyst dosage of 0.13\u2009g), 100% dye removal was achieved within 270\u2009min. The photocatalytic treatment of real textile wastewater was optimized using a Taguchi experimental design, and a color removal efficiency of 98.1% was achieved under the optimum conditions (pH 7, constant wastewater volume of 50\u2009mL, and catalyst dosage of 0.13\u2009g). Additionally, radical scavenging experiments performed to elucidate the photocatalytic mechanism indicated that hydroxyl radicals (\u2022OH) play a significant role in the photocatalytic degradation of AO7. The synthesized ZnO nanoparticles exhibited high photocatalytic stability, good reusability and acted as efficient photocatalysts even under low-energy UV light conditions. Overall, the green-synthesized ZnO nanoparticles demonstrated promising potential as an effective photocatalyst for the removal of dyes and color from real textile wastewater. This study comprehensively presents the green synthesis of ZnO nanoparticles using Diospyros kaki L. peel extract and evaluates their effectiveness in the photocatalytic degradation of Acid Orange 7 (AO7) dye and real textile wastewater. Experimental conditions were optimized using the Box\u2013Behnken design and the Taguchi approach. The study\u2019s novelty lies in the application of ZnO nanoparticles derived from Diospyros kaki peel for the photocatalytic degradation of AO7 and the decolorization of real textile wastewater. This approach highlights the effective integration of green nanotechnology with the valorization of biomass waste for environmental remediation. In this regard, the study offers a sustainable and eco-friendly photocatalytic treatment method, presenting a potential solution for decolorization in the textile industry.",
+      "journal": "International journal of phytoremediation",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42955823",
+      "doi": "10.1093/jvimsj/aalag269",
+      "title": "Utility of the ACTH/cortisol ratio for differentiating pituitary microadenomas from macroadenomas in dogs with pituitary-dependent hypercortisolism.",
+      "abstract": "No simple, blood-based biomarker to estimate tumor size in dogs with pituitary-dependent hypercortisolism (PDH) has been evaluated. Determine whether the adrenocorticotropic hormone (ACTH)/cortisol ratio differentiates pituitary microadenomas from macroadenomas in dogs with PDH and correlates with pituitary size. Seventy privately-owned dogs with PDH (microadenomas, n\u00a0=\u00a030; macroadenomas, n\u00a0=\u00a040). Retrospective multicenter observational study. Endogenous ACTH and cortisol concentrations obtained at the same time point before treatment were used to calculate the ACTH/cortisol ratio. Pituitary tumor size was classified using the pituitary-to-brain (P/B) ratio. Diagnostic performance was evaluated using receiver operating characteristic analysis and multivariable logistic regression. Dogs with macroadenomas had significantly higher ACTH/cortisol ratios than dogs with microadenomas (median, 9.12; IQR, 6.46-14.28 vs median, 4.90; IQR, 3.08-8.10; P\u00a0<\u00a0.001). The ratio showed moderate discrimination for differentiating macroadenomas from microadenomas with an area under the curve of 0.77 (95% CI, 0.66-0.89; P\u00a0<\u00a0.001). A cutoff >5.69 yielded 85% sensitivity and 60% specificity (positive likelihood ratio 2.13), whereas a higher ratio\u00a0>11.74 achieved 90% specificity and 35% sensitivity (positive likelihood ratio 3.50). The ACTH/cortisol ratio showed moderate positive correlation with pituitary size (Spearman's \u03c1\u00a0=\u00a00.48; 95% CI, 0.26-0.64; P\u00a0<\u00a0.001) and remained independently associated with macroadenoma classification in multivariable analysis (OR, 1.19; 95% CI, 1.05-1.40). The ACTH/cortisol ratio is associated with pituitary tumor size in dogs with PDH and may support clinical risk stratification, particularly when advanced imaging is unavailable.",
+      "journal": "Journal of veterinary internal medicine",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Observational Study, Veterinary"
+      ]
+    },
+    {
+      "pmid": "42972894",
+      "doi": "10.1002/cns.71244",
+      "title": "Multiple Machine Learning Algorithms for Predicting Postoperative Residual Tumor in Pituitary Neuroendocrine Tumors.",
+      "abstract": "To develop and validate an interpretable machine learning (ML) model for predicting radiologically confirmed postoperative residual tumor (RT) in pituitary neuroendocrine tumors (PitNETs). We retrospectively analyzed 584 surgically treated patients with PitNETs from a single center, using a random 7:3 training-test split and internal cross-validation. The primary endpoint was radiologically confirmed postoperative RT, assessed using MRI obtained within 48\u2009h after surgery and longitudinal follow-up MRI. Candidate variables were selected using LASSO regression, with nine ML algorithms developed. Discrimination, calibration, clinical utility, interobserver agreement, and SHAP-based interpretability were assessed. Postoperative RT occurred in 72 patients (12.3%). Sensitivity analysis showed high agreement between 48-h MRI and follow-up confirmation (96.4%; Cohen's kappa\u2009=\u20090.837). Interobserver agreement was high for retrosellar invasion (kappa\u2009=\u20090.825), internal carotid artery invasion (kappa\u2009=\u20090.960), and Knosp grade (quadratic weighted kappa\u2009=\u20090.994). Eight predictors were retained: maximum sagittal diameter, maximum coronal diameter, age, Knosp grade, internal carotid artery invasion, sphenoid sinus pneumatization, tumor consistency, and retrosellar invasion. In the internal test set, the random forest model achieved high discrimination (AUC\u2009=\u20090.945; accuracy\u2009=\u20090.938), with performance comparable to LightGBM and XGBoost in DeLong testing. LightGBM had the lowest Brier score. Random forest was selected for the web tool after internal evaluation, with discrimination comparable to LightGBM, XGBoost, and SVM. Its generalizability to other centers and future patient cohorts remains unproven because evaluation used only a single-center random split and internal cross-validation. External and temporal validation with calibration assessment is needed before clinical implementation.",
+      "journal": "CNS neuroscience & therapeutics",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42976822",
+      "doi": "10.36849/JDD.10419",
+      "title": "INDIVIDUAL ARTICLE: Cutaneous and Systemic Adverse Events Associated With Topical Corticosteroid Use: A Targeted Literature Review.",
+      "abstract": "Topical corticosteroids (TCS) have been used to treat chronic inflammatory skin conditions since initial approval in 1950, which was followed by reports of cutaneous and systemic adverse events (AEs) over the succeeding decades. A targeted literature review was performed to identify case-report and observational-study publications from August 2015 to 2025 that reported TCS-associated adverse events (AEs). The 42 publications included identification of clinically meaningful cutaneous (69.0%) and systemic AEs, including hypothalamic-pituitary-adrenal axis suppression or adrenal insufficiency (40.5%) and Cushing syndrome (47.6%). AEs ranged from mild to severe and nonserious to serious, and reports implicated prolonged (&ge;12 months, 45.2%) or high-potency (69.0%) TCS use. Overall, these results identified an opportunity to assess TCS access requirements and the need for additional clinician awareness and education to improve TCS prescribing practices, including monitoring of AEs and cumulative steroid exposure. Improving access to anti-inflammatory therapies that have demonstrated short- and long-term safety and efficacy in clinical trials and are not steroids for patients with chronic dermatoses should be prioritized. Often, gaining access to these alternative treatments requires step-through TCS therapy or other utilization management requirements, which unnecessarily puts patients at risk for steroid-associated AEs and delays positive treatment outcomes.",
+      "journal": "Journal of drugs in dermatology : JDD",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42979022",
+      "doi": "10.1016/j.aed.2026.02.003",
+      "title": "Adrenocortical Carcinoma Presenting With Concurrent Cushing Syndrome and Primary Hyperaldosteronism.",
+      "abstract": "Adrenocortical carcinoma (ACC) is a rare and aggressive endocrine malignancy, with approximately half of cases demonstrating hormonal hypersecretion. Cortisol excess resulting in Cushing syndrome is the most common functional presentation. In contrast, aldosterone-producing ACC is distinctly uncommon, and concurrent secretion of both cortisol and aldosterone by a single tumor is rare. We describe a case of dual hormone-secreting ACC and review its diagnostic and therapeutic implications. A 64-year-old woman with long-standing treatment-resistant hypertension and poorly controlled type 2 diabetes mellitus presented with progressive weight gain, proximal muscle weakness, and worsening metabolic control. Biochemical evaluation demonstrated adrenocorticotropic hormone-independent hypercortisolism together with primary hyperaldosteronism. Computed tomography revealed a heterogeneous 4.3-cm left adrenal mass with indeterminate imaging characteristics suspicious for malignancy. Following preoperative endocrine optimization, including correction of hypokalemia and management of hypercortisolism, the patient underwent successful en bloc left adrenalectomy. Histopathologic examination confirmed adrenocortical carcinoma with a Weiss score of 6 and a Ki-67 proliferation index of approximately 25%, consistent with high-risk disease. Final staging was ENSAT stage II. Postoperatively, the patient experienced marked improvement in blood pressure control and glycemic parameters. Given high-risk pathologic features, adjuvant mitotane therapy was initiated. Dual cortisol- and aldosterone-secreting ACC is rare, with only a small number of cases reported in the literature. This phenotype likely reflects disordered steroidogenesis associated with underlying molecular abnormalities. Comprehensive hormonal evaluation of adrenal masses is essential, as early recognition and multidisciplinary management of dual-secreting ACC can lead to improved clinical outcomes.",
+      "journal": "AACE endocrinology and diabetes",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
         "Journal Article"
       ]
     },
@@ -266,46 +376,23 @@
       ]
     },
     {
-      "pmid": "42975574",
-      "doi": "10.1007/s00113-026-01775-y",
-      "title": "[Conservative treatment of non-unions : Options and limitations].",
-      "abstract": "Despite modern medical care, non-unions occur in 2-5% of all fractures. The burden on patients involves prolonged rehabilitation and potentially further surgery. Costs for healthcare systems increase substantially. While surgical intervention represents the standard of care, a\u00a0range of non-surgical treatment options is available. A\u00a0particular advantage of non-surgical treatment is the avoidance of surgery itself. Low-intensity pulsed ultrasound therapy (LIPUS) and the use of pulsed electromagnetic fields (PEMF) are painless and applied by patients themselves once daily. With focused extracorporeal shockwave therapy (ESWT), administration by a\u00a0physician-usually under general anesthesia-ensures the treatment takes effect precisely at the target site. Bony defects up to 5-10\u202fmm in size can be treated without surgery, provided there is no infection and mechanical stability is adequate. Pseudarthrosen treten trotz moderner medizinischer Versorgung bei 2\u20135\u202f% der Frakturen auf. Die Belastung f\u00fcr betroffene PatientInnen ist hoch, die Kosten f\u00fcr das Gesundheitssystem vervielf\u00e4ltigen sich. W\u00e4hrend die operative Therapie den Standard in der Versorgung darstellt, bestehen auch nichtoperative Therapiem\u00f6glichkeiten. Vorteil der nichtoperativen Behandlung ist die Vermeidung einer erneuten Operation, insbesondere bei erh\u00f6htem perioperativen Risiko. Die niedrigdosierte gepulste Ultraschalltherapie (NGU) und die Anwendung pulsierender elektromagnetischer Felder (PEMF) sind schmerzfrei und werden von den PatientInnen selbstst\u00e4ndig durchgef\u00fchrt. Bei der fokussierten extrakorporalen Sto\u00dfwellentherapie (ESWT) ist durch die \u00e4rztliche Applikation, meist im Rahmen einer Allgemeinan\u00e4sthesie, die Wirkung am Zielort sichergestellt. Bei kn\u00f6chernen Defekten bis zu einer Gr\u00f6\u00dfe von 5 bis 10\u202fmm kann eine konservative Therapie in Erw\u00e4gung gezogen werden, sofern kein Infekt vorliegt und mechanische Stabilit\u00e4t gegeben ist.",
-      "journal": "Unfallchirurgie (Heidelberg, Germany)",
+      "pmid": "42953511",
+      "doi": "10.7759/cureus.117047",
+      "title": "Acute Sheehan Syndrome Presenting as Panhypopituitarism and Reversible Cardiac Dysfunction in a Patient With Sickle Cell Disease: A Case Report.",
+      "abstract": "Sheehan syndrome is an uncommon cause of hypopituitarism resulting from ischemic pituitary necrosis following severe postpartum hemorrhage (PPH) and hypotension. Its presentation can be delayed and non-specific, and it is rarely reported in the context of mild PPH with severe hemolysis. Here, we describe a 31-year-old woman with underlying sickle cell disease (SCD) who developed panhypopituitarism and reversible cardiac dysfunction after an 11-week period of progressive symptoms following spontaneous vaginal delivery complicated by an estimated blood loss of 700 mL and severe hemolysis. Pituitary hormonal replacement therapy, together with heart failure treatment, resulted in marked clinical and biochemical improvement, with normalization of metabolic abnormalities and recovery of cardiac function. This case suggests a possible association between Sheehan syndrome and postpartum blood loss of 700 mL accompanied by severe hemolysis, though this remains hypothetical based on a single case.",
+      "journal": "Cureus",
       "year": "2026",
       "publication_types": [
-        "English Abstract",
+        "Case Reports",
         "Journal Article"
       ]
     },
     {
-      "pmid": "42975589",
-      "doi": "10.1007/s11910-026-01539-6",
-      "title": "Sexual Health in Females with Multiple Sclerosis of Reproductive Age.",
-      "abstract": "Sexual dysfunction is highly prevalent among females with multiple sclerosis (FwMS), yet it remains under-recognized and inadequately integrated into routine care. This review examines sexual health in FwMS of reproductive age, with particular attention to assessment, reproductive considerations, and management. Sexual dysfunction in FwMS is often multifactorial, with contributions from neurological, physical, psychological, and relationship-related factors. Sexual dysfunction and disease-related factors may indirectly influence sexual activity, conception, and reproductive decision-making. Preconception counselling should incorporate sexual health alongside disease activity and treatment considerations. Evidence regarding sexual function during pregnancy and postpartum in FwMS remains limited. Management is individualized and may include symptom optimization, pelvic floor therapy, exercise, psychological and couples-based interventions, and selected pharmacologic therapies. Sexual health should be incorporated into comprehensive MS care, particularly during reproductive transitions. Prospective studies across preconception, pregnancy, and postpartum periods and randomized trials of interventions in FwMS are needed to guide evidence-based care.",
-      "journal": "Current neurology and neuroscience reports",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "42972894",
-      "doi": "10.1002/cns.71244",
-      "title": "Multiple Machine Learning Algorithms for Predicting Postoperative Residual Tumor in Pituitary Neuroendocrine Tumors.",
-      "abstract": "To develop and validate an interpretable machine learning (ML) model for predicting radiologically confirmed postoperative residual tumor (RT) in pituitary neuroendocrine tumors (PitNETs). We retrospectively analyzed 584 surgically treated patients with PitNETs from a single center, using a random 7:3 training-test split and internal cross-validation. The primary endpoint was radiologically confirmed postoperative RT, assessed using MRI obtained within 48\u2009h after surgery and longitudinal follow-up MRI. Candidate variables were selected using LASSO regression, with nine ML algorithms developed. Discrimination, calibration, clinical utility, interobserver agreement, and SHAP-based interpretability were assessed. Postoperative RT occurred in 72 patients (12.3%). Sensitivity analysis showed high agreement between 48-h MRI and follow-up confirmation (96.4%; Cohen's kappa\u2009=\u20090.837). Interobserver agreement was high for retrosellar invasion (kappa\u2009=\u20090.825), internal carotid artery invasion (kappa\u2009=\u20090.960), and Knosp grade (quadratic weighted kappa\u2009=\u20090.994). Eight predictors were retained: maximum sagittal diameter, maximum coronal diameter, age, Knosp grade, internal carotid artery invasion, sphenoid sinus pneumatization, tumor consistency, and retrosellar invasion. In the internal test set, the random forest model achieved high discrimination (AUC\u2009=\u20090.945; accuracy\u2009=\u20090.938), with performance comparable to LightGBM and XGBoost in DeLong testing. LightGBM had the lowest Brier score. Random forest was selected for the web tool after internal evaluation, with discrimination comparable to LightGBM, XGBoost, and SVM. Its generalizability to other centers and future patient cohorts remains unproven because evaluation used only a single-center random split and internal cross-validation. External and temporal validation with calibration assessment is needed before clinical implementation.",
-      "journal": "CNS neuroscience & therapeutics",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42972079",
-      "doi": "10.1007/s00261-026-05859-6",
-      "title": "Percutaneous and endovascular procedures in adrenal disease: indications, technique, and outcomes.",
-      "abstract": "Adrenal masses are found on roughly 4-5% of abdominal imaging studies, and the proportion rises with age. Most are benign, non-functioning adenomas that need imaging characterization and hormonal screening but no intervention. The remainder, comprising metastases, adrenocortical carcinoma, pheochromocytoma and hormonally active adenomas, raise questions that computed tomography and magnetic resonance imaging cannot always settle; in these cases image-guided procedures can help. Percutaneous biopsy is reserved for hormonally inactive lesions whose benignity imaging has not established and whose histology would change management. Adrenal venous sampling remains the reference method for lateralizing aldosterone excess in primary aldosteronism and therefore decides who is offered adrenalectomy, although success depends heavily on operator experience and local protocol. Thermal ablation has produced biochemical and blood-pressure responses in selected aldosterone-producing adenomas and local control of limited metastases, but the evidence is largely nonrandomized and does not establish equivalence with surgery. Transarterial embolization serves three purposes: hemostasis in adrenal hemorrhage, devascularization before resection of hypervascular tumors, and functional treatment of aldosteronism, now supported by one small randomized trial. Each procedure carries hazards peculiar to the gland (catecholamine crisis, adrenal insufficiency after bilateral treatment, non-target embolization) that shape patient selection and periprocedural monitoring. This review covers indications, technique, outcomes and complications for each. Surgery remains the treatment of choice for most operable patients. Interventional radiology is most useful when the indications for sampling, ablation or embolization are recognized early and discussed at the multidisciplinary meeting, not only after surgery has been declined.",
-      "journal": "Abdominal radiology (New York)",
+      "pmid": "42980656",
+      "doi": "10.7754/Clin.Lab.2026.260727",
+      "title": "Recent Advances in Metal-Based Nanomaterials for the Diagnosis and Treatment of Hematological Malignancies.",
+      "abstract": "Hematological malignancies, including leukemias, lymphomas and multiple myeloma, remain a major clinical challenge due to the limitations of conventional therapies, such as multidrug resistance, off-target toxicity, and the limited specificity of targeted agents to distinct molecular subtypes. Metal-based nanomaterials (M-NMs) have recently garnered considerable interest as multifunctional platforms capable of overcoming these obstacles, owing to their unique physicochemical properties, including surface plasmon resonance, superparamagnetism, facile surface functionalization and responsiveness to exogenous stimuli. This narrative review comprehensively examines recent advances in M-NMs for the diagnosis and treatment of hematological malignancies, with a focus on their transition from inert drug carriers to active theranostic agents. The review first examines the design principles of M-NMs as intelligent delivery systems, highlighting active targeting strategies via antibody-antigen or aptamer recognition, stimuli-responsive controlled release triggered by tumor microenvironmental signals or external physical fields, and synergistic delivery with chemotherapeutics to overcome drug resistance. We then elucidate the direct therapeutic mechanisms based on metal activity, encompassing Fenton chemistry-driven oxidative stress, ferroptosis, magnetic hyperthermia and photothermal conversion, as well as their integration with immunomodulation and multimodal imaging for theranostic applications. Current evidence highlights several biological barriers specific to hematological malignancies, including blood compatibility, circulation kinetics and the protective bone marrow microenvironment, while nanotechnology-based strategies may help address these challenges. Long-term biosafety remains an important consideration for non-biodegradable M-NMs, with emerging approaches focusing on biodegradable or renally clearable architectures. Despite substantial progress, clinical translation remains constrained by target heterogeneity, manufacturing complexity and incomplete understanding of therapeutic sensitivity determinants. We conclude that future development should prioritize the engineering of biocompatible, degradable nanoplatforms with integrated imaging and immunostimulatory functions, and emphasize that deeper mechanistic insights into metal-cell interactions and microenvironmental modulation will be important for advancing the development and clinical translation of M-NMs in precision hematology.",
+      "journal": "Clinical laboratory",
       "year": "2026",
       "publication_types": [
         "Journal Article",
@@ -324,11 +411,22 @@
       ]
     },
     {
-      "pmid": "42966941",
-      "doi": "10.7759/cureus.117262",
-      "title": "Addison's Disease Mimicking Cerebral Salt Wasting Syndrome: A Case of Severe Hyponatremia.",
-      "abstract": "Hyponatremia is a common electrolyte abnormality with varying degrees of severity. It can be asymptomatic if mild and can cause convulsions and coma if severe. Systematic investigation of hyponatremia helps to find out the etiology and proper management. Here, we are presenting the case of a 67-year-old man who presented with vomiting, hyperpigmentation, and hypovolemic hyponatremia due to Addison's disease. Evaluation of hyponatremia showed elevated urinary sodium as expected in Addison's disease, but there was hypouricemia with increased fractional excretion of uric acid suggestive of cerebral salt wasting syndrome. Even with the correct diagnosis, wrong medication interval can cause inadequate rise in serum sodium. Mild thyroid-stimulating hormone elevation can occur in untreated isolated Addison's disease. Addison's disease should always be considered in unexplained hyponatremia even if laboratory findings are suggestive of cerebral salt wasting syndrome. Hyponatremia in Addison's disease may respond poorly to hypertonic saline until glucocorticoid deficiency is corrected, and steroid and fluid replacement is essential and lifesaving.",
-      "journal": "Cureus",
+      "pmid": "42980633",
+      "doi": "10.1016/j.jacc.2026.10.047",
+      "title": "Percutaneous Transcatheter Mitral Valve Replacement for Symptomatic Mitral Regurgitation: 2-Year Outcomes From the ENCIRCLE Trial.",
+      "abstract": "Transcatheter mitral valve replacement (TMVR) is an approved treatment option for select high-risk patients with symptomatic mitral regurgitation (MR). The main cohort of the ENCIRCLE trial, evaluating fully percutaneous transseptal TMVR with the SAPIEN M3 system, demonstrated 13.9% mortality, significant MR reduction, and improved functional and health status outcomes at 1 year. We report 2-year outcomes from the main cohort of the ENCIRCLE trial. Eligible symptomatic patients with \u22653+ MR who were not suitable for surgery or transcatheter edge-to-edge repair underwent TMVR with the SAPIEN M3 system. Independent study oversight included an echocardiographic core laboratory and a clinical events committee. Endpoints included the nonhierarchical composite rate of all-cause mortality or heart failure hospitalization (HFH) as well as clinical, echocardiographic, functional, and health status outcomes. A total of 299 patients were treated, with 2-year follow-up data available for 202 of 210 eligible patients (96.2%). Mean age was 75.5 \u00b1 9.3 years, 50.8% were men, and the mean Society of Thoracic Surgeons Predicted Risk of Mortality score for mitral valve replacement was 6.6% \u00b1 4.1%. At 2 years, MR reduction was sustained, with MR \u22641+ in 97.0% patients (P < 0.001). The 2-year composite rate of all-cause mortality or HFH was 35.6% (25.1% all-cause mortality, 23.0% HFH). In a 365-day landmark analysis, 1- to 2-year rates were 13.0% for all-cause mortality and 10.6% for first HFH. At 2 years, the rates of disabling stroke, clinically significant valve thrombosis, and hemolysis requiring intervention were 6.6%, 7.1%, and 7.6%, respectively. There were no instances of clinically significant left ventricular outflow obstruction. Improvements in functional and health status outcomes were sustained with 87.0% of patients in NYHA functional class I/II (P < 0.001) and a mean Kansas City Cardiomyopathy Questionnaire overall summary score increase of 17.2 points (P < 0.001). The 6-minute walk distance increased by +9.0 \u00b1 97.3 m compared to baseline (P = 0.246). The 2-year results of the ENCIRCLE trial demonstrated durable near MR elimination with sustained improvements in functional and health status outcomes in surviving patients. These findings support transseptal TMVR as a therapeutic option for carefully selected patients with symptomatic MR. (The ENCIRCLE Trial [ENCIRCLE]; NCT04153292).",
+      "journal": "Journal of the American College of Cardiology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42979043",
+      "doi": "10.1016/j.aed.2026.07.001",
+      "title": "A Diagnostic Conundrum: A Hemorrhagic Adrenal Mass With Discordant Radiological, Biochemical, and Pathologic Features.",
+      "abstract": "Adrenal incidentalomas vary in their identity, making accurate diagnosis essential for management. Interpretation of these lesions using radiology, biochemistry, or pathology can be confounded by hemorrhagic changes, medication effects, and limitations of imaging. To prevent misclassification, an integrated assessment is crucial. We present a case of a 71-year-old male with an incidentally discovered left adrenal mass that exhibited computed tomography and MRI imaging findings concerning for pheochromocytoma or adrenal malignancy. Biochemical analysis ruled out pheochromocytoma and was suggestive of possible glucocorticoid and mineralocorticoid co-secretion, although clinical urgency of surgical resection precluded completion of confirmatory endocrinologic testing. The lesion was initially diagnosed as a benign endothelial adrenal cyst on pathologic review. Because of the discordance among the radiological, biochemical, and initial pathologic findings, an integrated histologic re-evaluation was requested. The mass was ultimately reclassified as an adrenocortical adenoma with extensive hemorrhagic and cystic changes. This case highlights the importance of multidisciplinary integration when evaluating adrenal lesions with confounding features and underscores how suggestive (though incomplete) biochemical evidence can appropriately drive pathological re-evaluation.",
+      "journal": "AACE endocrinology and diabetes",
       "year": "2026",
       "publication_types": [
         "Case Reports",
@@ -336,50 +434,49 @@
       ]
     },
     {
-      "pmid": "42955823",
-      "doi": "10.1093/jvimsj/aalag269",
-      "title": "Utility of the ACTH/cortisol ratio for differentiating pituitary microadenomas from macroadenomas in dogs with pituitary-dependent hypercortisolism.",
-      "abstract": "No simple, blood-based biomarker to estimate tumor size in dogs with pituitary-dependent hypercortisolism (PDH) has been evaluated. Determine whether the adrenocorticotropic hormone (ACTH)/cortisol ratio differentiates pituitary microadenomas from macroadenomas in dogs with PDH and correlates with pituitary size. Seventy privately-owned dogs with PDH (microadenomas, n\u00a0=\u00a030; macroadenomas, n\u00a0=\u00a040). Retrospective multicenter observational study. Endogenous ACTH and cortisol concentrations obtained at the same time point before treatment were used to calculate the ACTH/cortisol ratio. Pituitary tumor size was classified using the pituitary-to-brain (P/B) ratio. Diagnostic performance was evaluated using receiver operating characteristic analysis and multivariable logistic regression. Dogs with macroadenomas had significantly higher ACTH/cortisol ratios than dogs with microadenomas (median, 9.12; IQR, 6.46-14.28 vs median, 4.90; IQR, 3.08-8.10; P\u00a0<\u00a0.001). The ratio showed moderate discrimination for differentiating macroadenomas from microadenomas with an area under the curve of 0.77 (95% CI, 0.66-0.89; P\u00a0<\u00a0.001). A cutoff >5.69 yielded 85% sensitivity and 60% specificity (positive likelihood ratio 2.13), whereas a higher ratio\u00a0>11.74 achieved 90% specificity and 35% sensitivity (positive likelihood ratio 3.50). The ACTH/cortisol ratio showed moderate positive correlation with pituitary size (Spearman's \u03c1\u00a0=\u00a00.48; 95% CI, 0.26-0.64; P\u00a0<\u00a0.001) and remained independently associated with macroadenoma classification in multivariable analysis (OR, 1.19; 95% CI, 1.05-1.40). The ACTH/cortisol ratio is associated with pituitary tumor size in dogs with PDH and may support clinical risk stratification, particularly when advanced imaging is unavailable.",
-      "journal": "Journal of veterinary internal medicine",
+      "pmid": "42978565",
+      "doi": "10.3389/fendo.2026.1954698",
+      "title": "Case Report: Neurosurgery, octreotide, cabergoline, radiotherapy, pasireotide and pegvisomant - a multimodal strategy for adolescent acrogigantism.",
+      "abstract": "Growth hormone (GH)-secreting pituitary neuroendocrine tumors (PitNETs) are rare in the pediatric population. They often present as large, invasive tumors and are frequently associated with an underlying genetic predisposition, making their management particularly challenging. Optimal treatment requires an individualized multidisciplinary approach, which often involves a combination of surgery and adjuvant medical therapy or radiotherapy when necessary. We present a challenging case of an adolescent female with acrogigantism. The patient was diagnosed at the age of 13 years and 10 months during the evaluation of chronic headaches. Brain magnetic resonance imaging revealed an invasive PitNET measuring 38 \u00d7 23 \u00d7 32\u00a0mm, while biochemical assessment confirmed marked GH hypersecretion. The disease followed an aggressive course, and biochemical control could not be achieved despite optimal multimodal therapy. Sequential treatment included neurosurgical resection, octreotide LAR, cabergoline, pasireotide LAR, proton beam radiotherapy, and pegvisomant. Combination therapy with pegvisomant and octreotide LAR ultimately normalized insulin-like growth factor 1 concentrations while maintaining long-term radiological tumor stability. This case underscores the complexity of managing aggressive GH-secreting PitNETs in adolescents and emphasizes the need for individualized, multidisciplinary care and long-term follow-up. Combined medical therapy with pegvisomant and octreotide LAR may provide effective biochemical control when surgery, radiotherapy, and standard medical treatment are insufficient.",
+      "journal": "Frontiers in endocrinology",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42980655",
+      "doi": "10.1093/europace/euag178",
+      "title": "A randomized comparison of comprehensive weight loss intervention vs. usual care on recurrences of atrial fibrillation in obese patients after catheter ablation: HOBIT-AF trial.",
+      "abstract": "Obesity is one of the strongest risk factors for the development of atrial fibrillation (AF), and its reduction is associated with the alleviation of AF burden. The HOBIT-AF study aimed to evaluate the impact of complex weight loss interventions on AF recurrence rate in obese individuals after catheter ablation (CA). The HOBIT-AF was a randomized controlled trial with a 15-month treatment period (3-18 months post CA) involving complex weight-reducing interventions in the active arm. The primary outcome was the change in AF/atrial tachycardia (AT) burden assessed from baseline and the final 14-day Holter monitoring. A total of 167 individuals (aged 59 years, body mass index of 35.6\u2005kg/m2) were randomized into the active (n = 85) and control group (n = 82). At the end of the treatment period, a mean reduction of 6.8 \u00b1 7.0% of the initial body weight accompanied by improvement of metabolic parameters was achieved in the active group. The AF/AT burden change was 0.6 \u00b1 2.5% (95% CI: -4.2-5.5%) in the active group and -0.9 \u00b1 1.8% (95% CI: -4.5-3.0%) in the control group. The AF/AT recurrence-free survival during the 3-18-month follow-up period was comparable between groups (70.4% vs. 69.6%). HOBIT-AF trial showed that despite the beneficial effect of body weight reduction on metabolic profile of obese patients with predominantly paroxysmal AF after CA, no reduction in AF/AT recurrence was observed in comparison with control patients. This may be likely due to low AF burden after previous CA, limiting further improvement.",
+      "journal": "Europace : European pacing, arrhythmias, and cardiac electrophysiology : journal of the working groups on cardiac pacing, arrhythmias, and cardiac cellular electrophysiology of the European Society of Cardiology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42980636",
+      "doi": "10.1039/d6cc05829a",
+      "title": "Urea oxidation reaction for energy-efficient hydrogen production: mechanisms, catalysts, and electrolysis systems.",
+      "abstract": "Urea oxidation offers an attractive pathway toward energy-efficient hydrogen production and simultaneous wastewater treatment. This review examines reaction mechanisms, dynamic catalyst reconstruction, and electrocatalyst design strategies, and critically evaluates their implications for electrolyzer performance, highlighting reaction selectivity, catalyst durability, mass transport, and realistic feed conditions as key challenges toward practical implementation.",
+      "journal": "Chemical communications (Cambridge, England)",
       "year": "2026",
       "publication_types": [
         "Journal Article",
-        "Multicenter Study",
-        "Observational Study, Veterinary"
+        "Review"
       ]
     },
     {
-      "pmid": "42953511",
-      "doi": "10.7759/cureus.117047",
-      "title": "Acute Sheehan Syndrome Presenting as Panhypopituitarism and Reversible Cardiac Dysfunction in a Patient With Sickle Cell Disease: A Case Report.",
-      "abstract": "Sheehan syndrome is an uncommon cause of hypopituitarism resulting from ischemic pituitary necrosis following severe postpartum hemorrhage (PPH) and hypotension. Its presentation can be delayed and non-specific, and it is rarely reported in the context of mild PPH with severe hemolysis. Here, we describe a 31-year-old woman with underlying sickle cell disease (SCD) who developed panhypopituitarism and reversible cardiac dysfunction after an 11-week period of progressive symptoms following spontaneous vaginal delivery complicated by an estimated blood loss of 700 mL and severe hemolysis. Pituitary hormonal replacement therapy, together with heart failure treatment, resulted in marked clinical and biochemical improvement, with normalization of metabolic abnormalities and recovery of cardiac function. This case suggests a possible association between Sheehan syndrome and postpartum blood loss of 700 mL accompanied by severe hemolysis, though this remains hypothetical based on a single case.",
-      "journal": "Cureus",
+      "pmid": "42979070",
+      "doi": "10.1128/asmcr.00116-26",
+      "title": "Verruconis gallopava pulmonary infection in a patient with Cushing's syndrome.",
+      "abstract": "Verruconis gallopava is a dematiaceous mold that rarely causes human infection except in immunocompromised patients, such as those with solid organ transplants or hematologic malignancies. We describe an unusual case of pulmonary V. gallopava infection in a patient with undiagnosed Cushing's syndrome. A 48-year-old woman was admitted to the hospital for Staphylococcus aureus bacteremia, along with a history of recurrent falls and uncontrolled atrial fibrillation. As part of her investigations, she was noted to have an incidental lung nodule that was progressing in size, with evidence of cavitation over a 3-month period. A transbronchial biopsy revealed histopathologic findings consistent with phaeohyphomycosis, and bronchoscopy specimens grew V. gallopava. Fungal identification was confirmed via internal transcribed spacer and D1/D2 sequencing, as well as with matrix-assisted laser desorption/ionization time-of-flight mass spectrometry. After further investigation, the patient was diagnosed with Cushing's syndrome secondary to an adrenal secretory mass and underwent left adrenalectomy, with subsequent clinical improvement. Repeat imaging following adrenalectomy showed radiographic resolution of her pulmonary nodule without initiation of antifungal treatment, consistent with clearance following immune reconstitution. This is the first reported case of invasive V. gallopava infection that self-resolved following immune reconstitution and without the need for antifungal therapy. V. gallopava is a rare cause of invasive fungal disease in immunocompetent patients, and workup for possible underlying immunodeficiency should be considered in patients with V. gallopava infection.",
+      "journal": "ASM case reports",
       "year": "2026",
       "publication_types": [
         "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42948668",
-      "doi": "10.7759/cureus.118537",
-      "title": "Pituitary Apoplexy Complicated by Pulmonary Embolism in a Neurologically Complex Patient: A Diagnostic Challenge.",
-      "abstract": "Pituitary apoplexy is a rare endocrine emergency resulting from either acute haemorrhage or infarction within the pituitary gland. Although apoplexy occurs most frequently in a pre-existing pituitary adenoma,\u00a0apoplexy could be the first presentation of\u00a0a previously unknown adenoma.\u00a0Acute headaches, visual disturbances,\u00a0and neurological symptoms\u00a0are common presenting symptoms in apoplexy; however, these symptoms may overlap with other neurological emergencies, which necessitate a holistic approach of clinical, radiological, and\u00a0hormonal evaluation for\u00a0suspected cases of apoplexy to confirm the diagnosis. Here we present a diagnostically challenging case of\u00a0a 66-year-old man who presented with a sudden severe\u00a0headache. His background history included a presumed intraventricular neurocytoma under surveillance. Initial CT head scan suggested possible haemorrhage within a known intraventricular mass (neurocytoma) with no obvious changes\u00a0within the pituitary gland. However, subsequent MRI head demonstrated\u00a0radiological\u00a0features consistent with pituitary apoplexy. Later in\u00a0his admission, he exhibited bilateral peripheral visual field constriction and early papilledema\u00a0on fundoscopy. Hormonal testing showed evidence of hypopituitarism. The patient was managed conservatively with intravenous hydrocortisone replacement. During admission, he developed bilateral pulmonary emboli, for which he was treated with anticoagulation. While he was on anticoagulation, he developed\u00a0intracranial haemorrhage, which led to his death after discharge from the hospital.\u00a0This case demonstrates the importance of considering pituitary apoplexy in a challenging radiological and clinical presentation. A pre-existing neurological lesion (neurocytoma) makes a holistic approach, including MRI imaging and early hormonal evaluation are essential for timely diagnosis and treatment of pituitary apoplexy.\u00a0The clinical challenge of having concurrent haemorrhagic and thrombotic events necessitates an individualised approach after balancing the benefits\u00a0and risks of using anticoagulation treatment.",
-      "journal": "Cureus",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42975548",
-      "doi": "10.1227/neu.0000000000004273",
-      "title": "Association Between Pituitary Adenoma Excision and Risk of Cerebrovascular Disease and Mortality in Patients With Cushing's Disease: A Propensity Score-Matched Analysis.",
-      "abstract": "Cushing's disease (CD) is a hypercortisolemic state resulting from an adrenocorticotropic hormone-secreting pituitary adenoma (PA). Cerebrovascular disease (CeVD) is a dangerous sequela of CD, yet few studies have characterized its risk in CD. This study aimed to report the risk of CeVD in CD patients with and without surgical treatment. This retrospective multicenter study from the TriNetX database included 20 years of data from 69 healthcare organizations. TriNetX was searched to identify adults in the United States with CD. We used 1:1 propensity score matching (PSM) for demographic characteristics and tobacco use to identify a matched non-CD group. Risk ratios were calculated to identify the risk of CeVD. Among patients with CD, we identified those who underwent PA excision after diagnosis and determined associations with CeVD. We used 1:1 PSM matching for demographic characteristics and comorbidities (hypertension, diabetes mellitus, dyslipidemia) to identify a matched non-PA excision CD group. The CD group (n = 4265) was 78.4% female with a mean age at CD diagnosis of 45.7 years. After PSM, patients with CD had a significantly higher risk of any CeVD (risk ratio [RR] = 1.97, 95% CI: 1.70-2.29), ischemic stroke (RR = 2.35, 95% CI: 1.83-3.01), and hemorrhagic stroke (RR = 1.75, 95% CI: 1.22-2.49). Stratification by sex identified similar associations. One thousand three hundred seventy-seven patients with CD who underwent PA excision were identified after matching. PA excision was associated with lower risk of any CeVD (RR = 0.68, 95% CI: 0.55-0.86, number needed to treat [NNT] = 25.6), ischemic stroke (RR = 0.50, 95% CI: 0.35-0.72, NNT = 33.3), and mortality (RR = 0.52, 95% CI: 0.35-0.77, NNT = 40.0) compared with those who did not have excision. Sensitivity analyses using medication-based proxies for biochemical remission showed similar trends between curative and noncurative resection but were not statistically significant. This study demonstrated that patients with CD are at an increased risk of CeVD, including ischemic and hemorrhagic stroke. PA excision for patients with CD may reduce lifetime CeVD risk and mortality.",
-      "journal": "Neurosurgery",
-      "year": "2026",
-      "publication_types": [
         "Journal Article"
       ]
     },
@@ -396,25 +493,26 @@
       ]
     },
     {
-      "pmid": "42952531",
-      "doi": "10.7759/cureus.117024",
-      "title": "Scleroderma-Like Phenotype in a Patient With Transthyretin Cardiac Amyloidosis and Acromegaly: A Triple Diagnostic Challenge.",
-      "abstract": "Systemic sclerosis, transthyretin cardiac amyloidosis, and acromegaly are rare disorders that share several clinical manifestations, including skin thickening, heart failure, dysphagia, fatigue, and soft tissue enlargement. Their coexistence is exceptionally rare and poses a significant diagnostic challenge, increasing the risk of premature diagnostic closure. We report a 78-year-old man who developed progressive diffuse skin thickening following spinal cord stimulator revision. Positive RNA polymerase III antibodies supported a diagnosis of diffuse systemic sclerosis. Evaluation of worsening edema and exertional dyspnea revealed severe concentric left ventricular hypertrophy with relative apical sparing on echocardiography, and technetium-99m pyrophosphate scintigraphy confirmed transthyretin cardiac amyloidosis. Persistent macroglossia, coarse facial features, prior carpal tunnel syndrome, and a remote history of increasing ring and shoe size prompted endocrine evaluation, which demonstrated elevated insulin-like growth factor-1 levels, failure of growth hormone suppression, and a pituitary macroadenoma consistent with acromegaly. The patient underwent successful transsphenoidal resection with biochemical remission. This case highlights the importance of reconsidering the differential diagnosis when clinical features are not fully explained by an established diagnosis.\u00a0Recognizing atypical and discordant findings prevented premature diagnostic closure and led to the identification of transthyretin cardiac amyloidosis and acromegaly in a patient with a rapidly progressive scleroderma-like phenotype.",
+      "pmid": "42949010",
+      "doi": "10.5603/ep.110211",
+      "title": "Management of congenital adrenal hyperplasia due to 21-hydroxylase deficiency: an update.",
+      "abstract": "Congenital adrenal hyperplasia (CAH) represents a group of autosomal recessive disorders characterized by enzyme deficiencies thatimpair adrenal steroidogenesis, most commonly due to 21-hydroxylase deficiency. The biochemical defects in CAH translate to a spectrumof clinical consequences, which include adrenal insufficiency, genital ambiguity or disordered sex development, infertility, short stature,and an increased risk of metabolic syndrome during adolescence and adulthood. The severity and clinical features of CAH vary dependingon the enzymatic defect, residual enzymatic activity, the age of presentation, and genotype. This review comprehensively covers the genetic background, classification, and clinical spectrum of CAH, including classical and non-classical forms. We discuss the importance and implementation of neonatal screening programs for early diagnosis and intervention. Specialattention is given to differences in treatment approaches between children and adolescents, highlighting the challenges of optimizingglucocorticoid and mineralocorticoid therapy across developmental stages. Furthermore, we present emerging novel pharmacologicalagents currently in clinical trials aimed at improving disease management. The review also addresses potential complications associatedwith CAH, such as metabolic syndrome, cardiovascular risks, and bone health issues. Emphasizing a patient-centered approach, wehighlight the critical role of experienced endocrinologists in delivering individualized care to improve long-term outcomes. Our review summarizes the current knowledge, aims to guide clinicians in evidence-based management and highlights ongoing research into innovativetherapies for CAH.",
+      "journal": "Endokrynologia Polska",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42966941",
+      "doi": "10.7759/cureus.117262",
+      "title": "Addison's Disease Mimicking Cerebral Salt Wasting Syndrome: A Case of Severe Hyponatremia.",
+      "abstract": "Hyponatremia is a common electrolyte abnormality with varying degrees of severity. It can be asymptomatic if mild and can cause convulsions and coma if severe. Systematic investigation of hyponatremia helps to find out the etiology and proper management. Here, we are presenting the case of a 67-year-old man who presented with vomiting, hyperpigmentation, and hypovolemic hyponatremia due to Addison's disease. Evaluation of hyponatremia showed elevated urinary sodium as expected in Addison's disease, but there was hypouricemia with increased fractional excretion of uric acid suggestive of cerebral salt wasting syndrome. Even with the correct diagnosis, wrong medication interval can cause inadequate rise in serum sodium. Mild thyroid-stimulating hormone elevation can occur in untreated isolated Addison's disease. Addison's disease should always be considered in unexplained hyponatremia even if laboratory findings are suggestive of cerebral salt wasting syndrome. Hyponatremia in Addison's disease may respond poorly to hypertonic saline until glucocorticoid deficiency is corrected, and steroid and fluid replacement is essential and lifesaving.",
       "journal": "Cureus",
       "year": "2026",
       "publication_types": [
         "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42975567",
-      "doi": "10.1002/ksa.70665",
-      "title": "No significant differences in complication and graft failure rates by type of surgery or osteotomy level after slope-reducing osteotomy with ACL reconstruction: A systematic review and meta-analysis.",
-      "abstract": "To determine whether anterior cruciate ligament (ACL) graft failure and complication rates differ by type of surgery, osteotomy level, or planned surgical stages in patients undergoing anterior closing wedge high tibial osteotomy combined with ACL reconstruction. A systematic review and meta-analysis searched MEDLINE, Scopus, Web of Science, and the Epistemonikos up to September 2026 for studies reporting complications in adults undergoing anterior closing wedge high tibial osteotomy with anterior cruciate ligament reconstruction. Paired reviewers independently screened, extracted, and assessed quality. Random-effects meta-analyses estimated overall proportions and 95% confidence intervals (CIs). Subgroup analyses evaluated differences by type of surgery (primary vs. revision ACL reconstruction), osteotomy level (supratubercular, transtubercular or infratubercular), and number of planned surgical stages (single- or two-stage procedures). Sixteen observational studies comprising 664 patients (673 knees) were included. The estimated graft failure proportion was 1.7% (95% CI: 0.3%-7.9%), with no significant differences by type of surgery (p\u2009=\u20090.091), osteotomy level (p\u2009=\u20090.770) or planned stages (p\u2009=\u20090.736). Frequent postoperative events included symptomatic hardware (7.8%) and complication-related reintervention (4.4%). Major complications were uncommon, including delayed union or non-union (0.4%), deep infections (0.2%), and vascular or thromboembolic events (0.1%). Complication-related reinterventions differed significantly by osteotomy level (p\u2009=\u20090.0016), being higher with multiple techniques compared to infratubercular and supratubercular approaches. Postoperative recurvatum differed significantly by type of surgery (p\u2009=\u20090.0037). The certainty of evidence was rated very low for all outcomes. Anterior closing wedge high tibial osteotomy combined with ACL reconstruction showed a consistent, low-complication safety profile across type of surgery, osteotomy levels, and planned stages, though very low certainty of evidence indicates insufficient power to detect differences rather than demonstrated equivalence. These findings do not inform optimal treatment strategy or timing, and further prospective comparative studies are needed to define the incremental benefit of slope correction relative to isolated reconstruction. Level IV, systematic review and meta-analysis.",
-      "journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA",
-      "year": "2026",
-      "publication_types": [
         "Journal Article"
       ]
     },
@@ -430,40 +528,15 @@
       ]
     },
     {
-      "pmid": "42975575",
-      "doi": "10.1007/s00113-026-01778-9",
-      "title": "Joint-preserving correction of malunited anterior and posterior malleolar fractures.",
-      "abstract": "The posterior and anterior rims of the distal tibial are essential for overall ankle function. They are referred to as third and fourth malleolus, respectively, which are commonly injured in the wake of ankle fractures. Residual displacement, malunion, or nonunion may cause fibular malposition in the tibial incisura (fibular notch), syndesmotic (tibiofibular mortise) instability, and joint incongruency leading to posttraumatic arthritis. Computed tomography scanning is required to assess the three-dimensional outline of the deformity and to make an appropriate treatment plan. Correction of anterior and posterior malleolar malalignment aims at restoring the following: (1)\u00a0articular tibiotalar congruency, (2)\u00a0sagittal ankle bone stability and talar containment, (3)\u00a0the anatomy of the tibial incisura (fibular notch) to enable correct positioning of the distal fibula, and (4)\u00a0tibiofibular alignment and syndesmotic (mortise) stability. To date, there is little evidence in the literature regarding the outcome of realignment of anterior and posterior malleolar malunions, and further studies are needed to establish evidence-based guidelines for surgical correction. Die Hinter- und Vorderkante des distalen Schienbeins sind f\u00fcr die Gesamtfunktion des oberen Sprunggelenks von entscheidender Bedeutung. Sie werden als dritter bzw. vierter Malleolus bezeichnet und sind bei Sprunggelenksfrakturen h\u00e4ufig mitverletzt. Verbliebene Fehlstellungen, Fehlheilungen oder Pseudarthrosen k\u00f6nnen zu einer Fehlstellung der Fibula in der Tibiainzisur, zu einer Instabilit\u00e4t des Syndesmosenkomplexes und zu einer Gelenkinkongruenz f\u00fchren, was wiederum eine posttraumatische Arthrose zur Folge haben kann. Zur Beurteilung des dreidimensionalen Verlaufs der Deformit\u00e4t und zur Erstellung eines geeigneten Behandlungsplans ist eine Computertomographie erforderlich. Die Korrektur einer Fehlstellung der Tibiavorder- und -hinterkante zielt auf die Wiederherstellung von: (1)\u00a0der Gelenkkongruenz zwischen Tibia und Talus, (2)\u00a0der sagittalen Stabilit\u00e4t des Talus, (3)\u00a0der Anatomie und Integrit\u00e4t der Tibiainzisur, um eine korrekte Positionierung der distalen Fibula zu erm\u00f6glichen, und (4)\u00a0des tibiofibularen Alignments und der Stabilit\u00e4t der Syndesmosenkomplexes (Kn\u00f6chelgabel). In der Literatur gibt es bislang nur wenige Angaben zu den Ergebnissen der gelenkerhaltenden Korrektur von Fehlstellungen des anterioren und posterioren Malleolus, und es sind weitere Studien erforderlich, um evidenzbasierte Leitlinien f\u00fcr die chirurgische Korrektur zu erstellen.",
-      "journal": "Unfallchirurgie (Heidelberg, Germany)",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "42936421",
-      "doi": "10.7759/cureus.116978",
-      "title": "Beyond Digoxin Toxicity: A Fatal Case of BRASH Syndrome Triggered by Community-Acquired Pneumonia.",
-      "abstract": "Bradycardia, renal failure, atrioventricular (AV) nodal blockade, shock, and hyperkalemia (BRASH) syndrome is a rare, life-threatening clinical condition caused by the synergistic interaction between hyperkalemia, renal dysfunction, and AV nodal blocking agents, resulting in severe bradycardia and hemodynamic instability. Early recognition is often challenging due to its nonspecific presentation. We report the case of an 82-year-old man with atrial fibrillation, ischemic heart disease, congestive cardiac failure, chronic kidney disease, and chronic digoxin therapy who presented with abdominal pain, confusion, dizziness, hypotension, and profound bradycardia. Investigations demonstrated severe hyperkalemia, acute kidney injury on top of chronic kidney disease, hyponatremia, and electrocardiographic changes consistent with hyperkalemia. Initial differential diagnoses included mesenteric ischemia, adrenal insufficiency, and digoxin toxicity; however, imaging excluded bowel ischemia, cortisol levels were normal, and serum digoxin at the therapeutic level. Community-acquired pneumonia complicated by sepsis was identified as the precipitating trigger for BRASH syndrome. Despite intensive treatment, including hyperkalemia management, isoprenaline infusion, antibiotics, corticosteroids, and supportive care, the patient's condition progressively deteriorated, culminating in multiorgan failure and death shortly afterward. This case highlights the diagnostic complexity of BRASH syndrome and emphasizes the importance of early recognition and targeted management to interrupt the vicious cycle and improve clinical outcomes.",
-      "journal": "Cureus",
+      "pmid": "42979592",
+      "doi": "10.56305/001c.168604",
+      "title": "From Lethargy to Recovery: Central Diabetes Insipidus from Pituitary Metastasis in Recurrent HER2-Positive Breast Cancer Treated with Fam-Trastuzumab Deruxtecan-Nxki.",
+      "abstract": "HER2-positive breast cancer is well known for its aggressive nature and high incidence of central nervous system (CNS) metastasis, often affecting the brain parenchyma or leptomeninges. However, metastasis to the pituitary gland is exceedingly rare. We report a case of ER/PR-negative, HER2-positive breast cancer recurrence presenting with panhypopituitarism (PH) and central diabetes insipidus (CDI), resulting in hypernatremia-induced altered mental status. The patient had completed prior treatment with neoadjuvant chemotherapy, lumpectomy, and trastuzumab. Imaging revealed a temporal lobe mass with suprasellar enhancement. Surgical resection confirmed breast carcinoma metastasis. Hormonal studies confirmed PH and CDI. Management involved DDAVP, corticosteroids, fluid correction, whole-brain radiation, and systemic therapy with fam-trastuzumab deruxtecan-nxki (ENHERTU), leading to significant neurological recovery. This case highlights a rare metastatic pattern and the need for high clinical suspicion and multidisciplinary intervention.",
+      "journal": "Journal of Brown hospital medicine",
       "year": "2026",
       "publication_types": [
         "Case Reports",
         "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42951634",
-      "doi": "10.11406/rinketsu.67.1194",
-      "title": "[Reference guide for the clinical management of adult Langerhans cell histiocytosis (key points from the first edition, 2025)].",
-      "abstract": "According to the registry of the Japanese Society of Hematology, adult histiocytic neoplasms are extremely rare, with approximately 40 cases reported annually, and the most common among them is Langerhans cell histiocytosis (LCH). Lesions may involve multiple organs, including bone, skin, lung, the central nervous system, and the endocrine system. Without a hematology perspective, the neoplastic nature of LCH may not be apparent, resulting in missed diagnoses. Central diabetes insipidus, anterior pituitary dysfunction, and LCH-associated neurodegeneration, once developed, often result in irreversible impairment. Because delayed therapeutic intervention can result in permanent organ damage, it is essential for hematologists to understand the \"minimum initial management\" required to protect patient outcomes. This review summarizes the key points of diagnosis and initial management in adult LCH based on the first edition of the Adult LCH Clinical Reference Guide (2025).",
-      "journal": "[Rinsho ketsueki] The Japanese journal of clinical hematology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review",
-        "English Abstract"
       ]
     },
     {
@@ -478,37 +551,37 @@
       ]
     },
     {
-      "pmid": "42949010",
-      "doi": "10.5603/ep.110211",
-      "title": "Management of congenital adrenal hyperplasia due to 21-hydroxylase deficiency: an update.",
-      "abstract": "Congenital adrenal hyperplasia (CAH) represents a group of autosomal recessive disorders characterized by enzyme deficiencies thatimpair adrenal steroidogenesis, most commonly due to 21-hydroxylase deficiency. The biochemical defects in CAH translate to a spectrumof clinical consequences, which include adrenal insufficiency, genital ambiguity or disordered sex development, infertility, short stature,and an increased risk of metabolic syndrome during adolescence and adulthood. The severity and clinical features of CAH vary dependingon the enzymatic defect, residual enzymatic activity, the age of presentation, and genotype. This review comprehensively covers the genetic background, classification, and clinical spectrum of CAH, including classical and non-classical forms. We discuss the importance and implementation of neonatal screening programs for early diagnosis and intervention. Specialattention is given to differences in treatment approaches between children and adolescents, highlighting the challenges of optimizingglucocorticoid and mineralocorticoid therapy across developmental stages. Furthermore, we present emerging novel pharmacologicalagents currently in clinical trials aimed at improving disease management. The review also addresses potential complications associatedwith CAH, such as metabolic syndrome, cardiovascular risks, and bone health issues. Emphasizing a patient-centered approach, wehighlight the critical role of experienced endocrinologists in delivering individualized care to improve long-term outcomes. Our review summarizes the current knowledge, aims to guide clinicians in evidence-based management and highlights ongoing research into innovativetherapies for CAH.",
-      "journal": "Endokrynologia Polska",
+      "pmid": "42980645",
+      "doi": "10.1093/jpids/piag115",
+      "title": "Carbapenemase-Producing Carbapenem-Resistant Enterobacterales Among Children in the United States, 2019-2024.",
+      "abstract": "The current epidemiology of carbapenem-resistant Enterobacterales (CRE) among pediatric patients in the United States is poorly described. We assessed trends in pediatric CRE and carbapenemase-producing-CRE (CP-CRE) incidence in the U.S. and characterized recent pediatric CP-CRE cases. We analyzed CRE clinical isolates from patients <18 years submitted to CDC's Antimicrobial Resistance Laboratory Network from January 2019 through December 2024. Annual unadjusted incidence rates for CRE and CP-CRE were estimated overall and by age group for a national convenience sample and an open cohort of 29 states with required CRE isolate submission. Trends were assessed using Poisson regression. For pediatric patients with incident CP-CRE identified from January 2023 through March 2024, medical chart reviews were performed. From 2019-2024, the estimated national pediatric CRE and CP-CRE incidence increased 51% (IRR:1.51; 95% CI:1.22, 1.88) and 92% (IRR:1.92; 95% CI:1.25, 2.99), respectively; increases were similar in the open cohort. Infants had the highest incidence rates. Overall, NDM-CRE incidence increased (IRR: 4.24; 95% CI: 2.07, 9.16), surpassing KPC-CRE as the most prominent carbapenemase. Chart reviews were completed for 109 of 129 pediatric patients with CP-CRE; 14% were in patients without healthcare risk factors. Among patients with healthcare risk factors, 75% had an underlying medical condition; the most common underlying condition among infants and toddlers was cardiovascular disease (64%) and among older children was neurocognitive conditions (49%) and malignancies (41%). Common exposures across all age groups included intensive care unit hospitalization (40%) and healthcare outside the United States (37%). Pediatric CP-CRE incidence is increasing, driven by NDM-CRE for which there are few treatment options. Most cases occurred among children with serious underlying conditions receiving high-acuity care. Prevention opportunities may include admission screening for patients with prior healthcare exposure outside the United States and strengthening infection prevention practices.",
+      "journal": "Journal of the Pediatric Infectious Diseases Society",
       "year": "2026",
       "publication_types": [
-        "Journal Article",
-        "Review"
+        "Journal Article"
       ]
     },
     {
-      "pmid": "42975578",
-      "doi": "10.1007/s00256-026-05421-x",
-      "title": "Synovial plica syndromes: a comprehensive overview from embryology to pathology.",
-      "abstract": "Synovial plicae are folds of synovial tissue in the knee, hip, elbow, and shoulder, representing embryonic remnants of synovial septa. They are usually asymptomatic, but trauma, repetitive microtrauma, or prior surgery can render them thickened and fibrotic, producing pain and mechanical symptoms collectively termed plica syndrome. It is easily overlooked or misdiagnosed because the symptoms are nonspecific and other intra-articular disorders often coexist. This review addresses the embryology, histology, anatomy, clinical presentation, imaging, and treatment of synovial plicae across these joints, with emphasis on magnetic resonance imaging (MRI) features. MRI is the preferred imaging modality for evaluating suspected plica syndrome, characterizing the fold and associated abnormalities, and excluding alternative causes of joint pain. Pathologic plicae appear thickened and irregular, with increased signal intensity and frequently associated focal synovitis or adjacent chondral damage. Plica thickness alone has limited diagnostic value, as measurements overlap between symptomatic and asymptomatic individuals. Establishing a diagnosis of symptomatic plica syndrome requires correlation of the imaging findings with the clinical presentation. When joint effusion is absent, magnetic resonance (MR) or computed tomography (CT) arthrography improves delineation of the synovial folds and associated lesions. Plica syndrome occurs most often in young, physically active patients, and management is initially conservative. When symptoms are refractory, arthroscopic resection relieves symptoms, particularly when the plica is the only abnormality and the cartilage is preserved. Most outcome data derive from the knee and the elbow.",
-      "journal": "Skeletal radiology",
+      "pmid": "42952531",
+      "doi": "10.7759/cureus.117024",
+      "title": "Scleroderma-Like Phenotype in a Patient With Transthyretin Cardiac Amyloidosis and Acromegaly: A Triple Diagnostic Challenge.",
+      "abstract": "Systemic sclerosis, transthyretin cardiac amyloidosis, and acromegaly are rare disorders that share several clinical manifestations, including skin thickening, heart failure, dysphagia, fatigue, and soft tissue enlargement. Their coexistence is exceptionally rare and poses a significant diagnostic challenge, increasing the risk of premature diagnostic closure. We report a 78-year-old man who developed progressive diffuse skin thickening following spinal cord stimulator revision. Positive RNA polymerase III antibodies supported a diagnosis of diffuse systemic sclerosis. Evaluation of worsening edema and exertional dyspnea revealed severe concentric left ventricular hypertrophy with relative apical sparing on echocardiography, and technetium-99m pyrophosphate scintigraphy confirmed transthyretin cardiac amyloidosis. Persistent macroglossia, coarse facial features, prior carpal tunnel syndrome, and a remote history of increasing ring and shoe size prompted endocrine evaluation, which demonstrated elevated insulin-like growth factor-1 levels, failure of growth hormone suppression, and a pituitary macroadenoma consistent with acromegaly. The patient underwent successful transsphenoidal resection with biochemical remission. This case highlights the importance of reconsidering the differential diagnosis when clinical features are not fully explained by an established diagnosis.\u00a0Recognizing atypical and discordant findings prevented premature diagnostic closure and led to the identification of transthyretin cardiac amyloidosis and acromegaly in a patient with a rapidly progressive scleroderma-like phenotype.",
+      "journal": "Cureus",
       "year": "2026",
       "publication_types": [
-        "Journal Article",
-        "Review"
+        "Case Reports",
+        "Journal Article"
       ]
     },
     {
-      "pmid": "42975579",
-      "doi": "10.1007/s00256-026-05413-x",
-      "title": "Calcified foraminal metastasis from ovarian low-grade serous carcinoma mimicking a nerve sheath tumor.",
-      "abstract": "Ovarian low-grade serous carcinoma (OLGSC) is an uncommon subtype of epithelial ovarian cancer, characterized by an indolent clinical course with potential for late local recurrence and metastatic disease. Musculoskeletal involvement is rare. We report a case of late OLGSC metastasis presenting as a slowly growing, thoracic foraminal mass in a 55-year-old woman, 33\u00a0years after initial cancer treatment. Rising CA-125 levels prompted 18F-FDG PET/CT, which revealed an FDG-avid mass in the left T9-T10 neural foramen (SUVmax 6.6). CT demonstrated foraminal widening and intralesional calcifications, while MRI showed a dumbbell-shaped mass extending into the epidural space and left costovertebral region, with heterogeneous signal intensity and mild diffuse heterogeneous enhancement. Retrospective review of a CT examination performed 12\u00a0years earlier revealed a smaller foraminal mass without visible calcifications. Given its location and morphology, the lesion initially suggested a nerve sheath tumor, while the presence of calcifications also raised the possibility of a chondroid lesion. Although nonspecific, calcifications are recognized in primary and metastatic OLGSC. The combination of increased FDG uptake and the patient's oncologic history, raised suspicion of metastatic disease. Image-guided biopsy confirmed metastatic OLGSC with psammoma bodies. To the best of our knowledge, this is the first reported case of OLGSC metastasis presenting as a slowly progressive, calcified paravertebral and foraminal mas mimicking a nerve sheath tumor. This case emphasizes the need for careful evaluation of atypical masses in patients with a history of cancer, even decades after initial treatment, and the importance of biopsy for diagnostic confirmation.",
-      "journal": "Skeletal radiology",
+      "pmid": "42948668",
+      "doi": "10.7759/cureus.118537",
+      "title": "Pituitary Apoplexy Complicated by Pulmonary Embolism in a Neurologically Complex Patient: A Diagnostic Challenge.",
+      "abstract": "Pituitary apoplexy is a rare endocrine emergency resulting from either acute haemorrhage or infarction within the pituitary gland. Although apoplexy occurs most frequently in a pre-existing pituitary adenoma,\u00a0apoplexy could be the first presentation of\u00a0a previously unknown adenoma.\u00a0Acute headaches, visual disturbances,\u00a0and neurological symptoms\u00a0are common presenting symptoms in apoplexy; however, these symptoms may overlap with other neurological emergencies, which necessitate a holistic approach of clinical, radiological, and\u00a0hormonal evaluation for\u00a0suspected cases of apoplexy to confirm the diagnosis. Here we present a diagnostically challenging case of\u00a0a 66-year-old man who presented with a sudden severe\u00a0headache. His background history included a presumed intraventricular neurocytoma under surveillance. Initial CT head scan suggested possible haemorrhage within a known intraventricular mass (neurocytoma) with no obvious changes\u00a0within the pituitary gland. However, subsequent MRI head demonstrated\u00a0radiological\u00a0features consistent with pituitary apoplexy. Later in\u00a0his admission, he exhibited bilateral peripheral visual field constriction and early papilledema\u00a0on fundoscopy. Hormonal testing showed evidence of hypopituitarism. The patient was managed conservatively with intravenous hydrocortisone replacement. During admission, he developed bilateral pulmonary emboli, for which he was treated with anticoagulation. While he was on anticoagulation, he developed\u00a0intracranial haemorrhage, which led to his death after discharge from the hospital.\u00a0This case demonstrates the importance of considering pituitary apoplexy in a challenging radiological and clinical presentation. A pre-existing neurological lesion (neurocytoma) makes a holistic approach, including MRI imaging and early hormonal evaluation are essential for timely diagnosis and treatment of pituitary apoplexy.\u00a0The clinical challenge of having concurrent haemorrhagic and thrombotic events necessitates an individualised approach after balancing the benefits\u00a0and risks of using anticoagulation treatment.",
+      "journal": "Cureus",
       "year": "2026",
       "publication_types": [
+        "Case Reports",
         "Journal Article"
       ]
     }
