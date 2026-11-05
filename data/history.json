@@ -194,7 +194,10 @@
     "42975548",
     "42976822",
     "42977721",
-    "42979165"
+    "42979022",
+    "42979070",
+    "42979165",
+    "42984749"
   ],
   "sessions": [
     {
@@ -2986,6 +2989,49 @@
           "quiz_question": "A 55-year-old woman with longstanding psoriasis presents with easy bruising, central adiposity, and fatigue. She has used high-potency TCS (clobetasol) on large body surface areas for 18 months. Her morning cortisol is 2.1 \u00b5g/dL. What is the most likely diagnosis, and how should you approach management?",
           "quiz_answer": "This presentation is consistent with exogenous/iatrogenic Cushing syndrome with secondary (HPA-axis suppression-mediated) adrenal insufficiency from prolonged high-potency TCS use. Management involves gradual tapering of TCS to avoid precipitating adrenal crisis, assessing HPA axis recovery with morning cortisol and potentially a stimulation test, providing stress-dose steroid guidance, and collaborating with dermatology to transition to steroid-sparing therapies. The patient should receive an alert card for adrenal insufficiency until HPA function normalizes.",
           "journal": "Journal of drugs in dermatology : JDD",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-25",
+      "items": [
+        {
+          "pmid": "42984749",
+          "doi": "10.3389/fendo.2026.1929591",
+          "title": "Clinical characteristics, management, and outcomes of nivolumab-associated pituitary toxicity: a pooled analysis of published case reports and case series.",
+          "category": "notable",
+          "summary": "This pooled analysis of 45 patients with nivolumab-associated pituitary toxicity found that the ACTH-cortisol axis is almost universally affected: basal cortisol was reduced in 97.7% and ACTH was low or inappropriately normal in all cases. Notably, pituitary MRI was abnormal in only 26.8% of patients, underscoring that a normal MRI does not exclude the diagnosis. Symptoms improved in 97.8% with hydrocortisone replacement, but ACTH-cortisol axis recovery was rare \u2014 only 2 of 29 patients with follow-up showed partial recovery, and none fully recovered. Eight patients developed toxicity after nivolumab discontinuation, with a median delay of 24 weeks, reinforcing the need for prolonged surveillance.",
+          "caveat": "This is a pooled analysis of case reports/series with inherent ascertainment and publication bias; patient numbers are small (n=45) and data completeness varies across reports. Findings may not reflect true population-level incidence or recovery rates.",
+          "quiz_question": "A 70-year-old man on nivolumab for NSCLC presents with fatigue, nausea, and hyponatremia 6 weeks after his last infusion. Pituitary MRI is normal. What is the most appropriate next diagnostic step, and what do you expect to find?",
+          "quiz_answer": "Measure morning cortisol and ACTH. Based on this pooled analysis, basal cortisol will likely be low (97.7% of cases), and ACTH may be low or inappropriately normal (13.6% had inappropriately normal ACTH despite low cortisol). A normal MRI does not rule out nivolumab-associated hypophysitis/isolated ACTH deficiency; prompt cortisol/ACTH and electrolyte assessment is warranted and hydrocortisone replacement should be started if confirmed.",
+          "journal": "Frontiers in endocrinology",
+          "year": "2026"
+        },
+        {
+          "pmid": "42979022",
+          "doi": "10.1016/j.aed.2026.02.003",
+          "title": "Adrenocortical Carcinoma Presenting With Concurrent Cushing Syndrome and Primary Hyperaldosteronism.",
+          "category": "notable",
+          "summary": "This case describes a dual cortisol- and aldosterone-secreting adrenocortical carcinoma (ACC) in a 64-year-old woman with long-standing treatment-resistant hypertension and poorly controlled diabetes, illustrating that ACC can co-secrete multiple hormones simultaneously. Histopathology confirmed ACC with Weiss score 6 and Ki-67 ~25% (ENSAT stage II); postoperative blood pressure and glycemic parameters improved markedly. The authors emphasize that comprehensive hormonal evaluation of adrenal masses \u2014 including aldosterone/renin in addition to cortisol \u2014 is essential, as this rare phenotype likely reflects disordered steroidogenesis from underlying molecular abnormalities. Adjuvant mitotane was initiated given high-risk pathologic features.",
+          "caveat": "Single case report; dual-secreting ACC is rare and this report cannot support prevalence estimates or guide routine screening thresholds. No molecular/genetic characterization was reported, limiting mechanistic insight.",
+          "quiz_question": "A 60-year-old woman with refractory hypertension, hypokalemia, and new-onset Cushingoid features is found to have a 4.3-cm heterogeneous left adrenal mass on CT with indeterminate imaging features. ACTH is suppressed and 24-hour UFC is elevated. What additional hormonal workup should be performed before attributing this to a benign adenoma?",
+          "quiz_answer": "An aldosterone-to-renin ratio (ARR) should be obtained to evaluate for concurrent primary hyperaldosteronism, as illustrated by this case of dual cortisol- and aldosterone-secreting ACC. Elevated ARR with suppressed renin in the context of an indeterminate mass and high-risk imaging features should prompt surgical planning and consideration of ACC. Comprehensive hormonal evaluation \u2014 not limited to cortisol \u2014 is essential for all adrenal masses with concerning features.",
+          "journal": "AACE endocrinology and diabetes",
+          "year": "2026"
+        },
+        {
+          "pmid": "42979070",
+          "doi": "10.1128/asmcr.00116-26",
+          "title": "Verruconis gallopava pulmonary infection in a patient with Cushing's syndrome.",
+          "category": "preliminary",
+          "summary": "This case documents a rare pulmonary Verruconis gallopava (dematiaceous mold) infection in a patient with undiagnosed adrenal Cushing's syndrome, who presented with a cavitating lung nodule. Crucially, the pulmonary lesion resolved radiographically following left adrenalectomy and immune reconstitution \u2014 without any antifungal therapy \u2014 marking the first reported case of invasive V. gallopava self-resolving after correction of glucocorticoid excess. The case reinforces that occult Cushing's syndrome should be considered in patients presenting with unusual opportunistic fungal infections, as the underlying immunosuppression may be the primary driver.",
+          "caveat": "Single case report; causality between immune reconstitution and fungal clearance is inferred but not proven. Spontaneous resolution without antifungal therapy should not be generalized without further evidence.",
+          "quiz_question": "A 48-year-old woman with no known immunodeficiency develops a progressively enlarging cavitating pulmonary nodule from which Verruconis gallopava is cultured. What underlying endocrine condition should be actively excluded, and why?",
+          "quiz_answer": "Cushing's syndrome (endogenous hypercortisolism) should be excluded, as glucocorticoid excess causes significant immunosuppression that can predispose to invasive fungal infections typically seen only in profoundly immunocompromised hosts. As illustrated by this case, treating the underlying adrenal source (adrenalectomy) restored immune function and led to radiographic resolution of the fungal infection without antifungal therapy.",
+          "journal": "ASM case reports",
           "year": "2026"
         }
       ],
