@@ -190,6 +190,7 @@
     "42966657",
     "42967023",
     "42972079",
+    "42972894",
     "42973552",
     "42975548",
     "42976822",
@@ -197,7 +198,9 @@
     "42979022",
     "42979070",
     "42979165",
-    "42984749"
+    "42984749",
+    "42992517",
+    "42993172"
   ],
   "sessions": [
     {
@@ -3032,6 +3035,49 @@
           "quiz_question": "A 48-year-old woman with no known immunodeficiency develops a progressively enlarging cavitating pulmonary nodule from which Verruconis gallopava is cultured. What underlying endocrine condition should be actively excluded, and why?",
           "quiz_answer": "Cushing's syndrome (endogenous hypercortisolism) should be excluded, as glucocorticoid excess causes significant immunosuppression that can predispose to invasive fungal infections typically seen only in profoundly immunocompromised hosts. As illustrated by this case, treating the underlying adrenal source (adrenalectomy) restored immune function and led to radiographic resolution of the fungal infection without antifungal therapy.",
           "journal": "ASM case reports",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-24",
+      "items": [
+        {
+          "pmid": "42992517",
+          "doi": "10.20945/2359-4292-2026-0127",
+          "title": "Effectiveness and safety of pharmacological treatments for Cushing's disease: An updated systematic review and meta-analysis.",
+          "category": "practice-changing",
+          "summary": "This updated systematic review and meta-analysis compared disease control rates for cabergoline (35.5%), ketoconazole (42%), pasireotide (42%), and osilodrostat (67%) in Cushing's disease. Osilodrostat was the only agent supported by placebo-controlled evidence showing a statistically significant effect, increasing cortisol normalization 4.56-fold versus placebo, and also produced the largest quality-of-life improvement. No head-to-head trial data exist, so treatment selection remains individualized; notable adverse effect profiles include dysglycemia with pasireotide and adrenal insufficiency/fatigue with osilodrostat (often reflecting on-target efficacy).",
+          "caveat": "GRADE certainty was very low for pasireotide and low for other agents; the absence of head-to-head comparisons limits direct ranking, and the osilodrostat placebo-controlled analysis pooled only 2 studies with 144 patients.",
+          "quiz_question": "A 38-year-old woman with confirmed Cushing's disease has persistent hypercortisolism after transsphenoidal surgery and cannot tolerate pasireotide due to severe hyperglycemia. Based on the best available placebo-controlled evidence reviewed in this meta-analysis, which pharmacological agent has demonstrated a statistically significant cortisol normalization benefit and what approximate disease control rate should you counsel her about?",
+          "quiz_answer": "Osilodrostat, which achieved a ~67% disease control rate and increased cortisol normalization 4.56-fold versus placebo (the only agent in this meta-analysis supported by moderate-certainty, placebo-controlled evidence of a statistically significant effect). She should also be counseled about the risks of fatigue and adrenal insufficiency as on-target adverse effects.",
+          "journal": "Archives of endocrinology and metabolism",
+          "year": "2026"
+        },
+        {
+          "pmid": "42972894",
+          "doi": "10.1002/cns.71244",
+          "title": "Multiple Machine Learning Algorithms for Predicting Postoperative Residual Tumor in Pituitary Neuroendocrine Tumors.",
+          "category": "notable",
+          "summary": "This single-center retrospective study of 584 surgically treated pituitary neuroendocrine tumor (PitNET) patients developed machine learning models to predict radiologically confirmed postoperative residual tumor (RT, occurring in 12.3%). A random forest model achieved an AUC of 0.945 with 93.8% accuracy; the eight key predictors included Knosp grade, tumor size, internal carotid artery invasion, retrosellar invasion, sphenoid sinus pneumatization, tumor consistency, and age. SHAP-based interpretability was used to explain model outputs, and a web tool was developed for clinical use.",
+          "caveat": "Single-center study with only internal cross-validation \u2014 no external or temporal validation cohort, which significantly limits generalizability; the authors acknowledge this limitation explicitly. The model should not be implemented clinically until prospective external validation is completed.",
+          "quiz_question": "A 55-year-old man undergoes transsphenoidal resection for a Knosp grade 3 PitNET with retrosellar invasion and rubbery tumor consistency. Based on the predictors identified in this ML study, how should you stratify his postoperative risk for residual tumor, and what is the most important next step to confirm the model's clinical utility?",
+          "quiz_answer": "He has multiple high-risk features (high Knosp grade, retrosellar invasion, firm consistency) that the model identifies as strong predictors of residual tumor, placing him in a higher-risk category. However, the model has only been internally validated at a single center, so the critical next step before clinical implementation is prospective external validation in independent patient cohorts.",
+          "journal": "CNS neuroscience & therapeutics",
+          "year": "2026"
+        },
+        {
+          "pmid": "42993172",
+          "doi": "10.1159/hrp/adaag058",
+          "title": "When Less is More: A Physiology-Driven Approach to a 17-Hydroxylase Deficiency Case Series.",
+          "category": "notable",
+          "summary": "This case series of three adolescent females with 17-hydroxylase deficiency (17OHD) \u2014 a rare CAH variant \u2014 illustrates that supraphysiological glucocorticoid therapy is unnecessary and potentially harmful. Because elevated endogenous corticosterone exerts residual glucocorticoid activity, physiological hydrocortisone dosing (8\u201310 mg/m\u00b2/day) suppresses DOC partially while avoiding the complications of dexamethasone (demonstrated in one patient who developed multiple GC excess complications after 10 years on dexamethasone). Mineralocorticoid receptor antagonist monotherapy (spironolactone) was sufficient in one patient to control hypertension and hypokalemia without any glucocorticoid.",
+          "caveat": "Only three patients are described; this is a hypothesis-generating case series with no control group and limited follow-up duration. Management guidance for 17OHD remains poorly established given the rarity of the condition (~500 published cases total).",
+          "quiz_question": "A 14-year-old girl presents with delayed puberty, hypertension (BP 148/92), and hypokalemia. CYP17A1 mutation confirms 17-hydroxylase deficiency. Her endocrinologist considers starting dexamethasone at a fully suppressive dose. Based on the physiological framework described in this case series, what is the key concern with this approach and what alternative strategy should be considered?",
+          "quiz_answer": "Supraphysiological glucocorticoid therapy (e.g., dexamethasone) completely suppresses DOC and corticosterone, eliminating the residual glucocorticoid effect of corticosterone and risking significant GC-excess side effects over time. A physiology-driven alternative is physiological hydrocortisone dosing (which partially reduces but does not eliminate DOC) combined with dose-titrated spironolactone, or even spironolactone monotherapy, to control mineralocorticoid excess while minimizing adrenal suppression and GC-related adverse effects.",
+          "journal": "Hormone research in paediatrics",
           "year": "2026"
         }
       ],
