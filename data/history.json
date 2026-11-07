@@ -186,9 +186,11 @@
     "42960688",
     "42962234",
     "42963766",
+    "42965591",
     "42965779",
     "42966657",
     "42967023",
+    "42967954",
     "42972079",
     "42972894",
     "42973552",
@@ -200,7 +202,8 @@
     "42979165",
     "42984749",
     "42992517",
-    "42993172"
+    "42993172",
+    "42994872"
   ],
   "sessions": [
     {
@@ -3078,6 +3081,49 @@
           "quiz_question": "A 14-year-old girl presents with delayed puberty, hypertension (BP 148/92), and hypokalemia. CYP17A1 mutation confirms 17-hydroxylase deficiency. Her endocrinologist considers starting dexamethasone at a fully suppressive dose. Based on the physiological framework described in this case series, what is the key concern with this approach and what alternative strategy should be considered?",
           "quiz_answer": "Supraphysiological glucocorticoid therapy (e.g., dexamethasone) completely suppresses DOC and corticosterone, eliminating the residual glucocorticoid effect of corticosterone and risking significant GC-excess side effects over time. A physiology-driven alternative is physiological hydrocortisone dosing (which partially reduces but does not eliminate DOC) combined with dose-titrated spironolactone, or even spironolactone monotherapy, to control mineralocorticoid excess while minimizing adrenal suppression and GC-related adverse effects.",
           "journal": "Hormone research in paediatrics",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-24",
+      "items": [
+        {
+          "pmid": "42994872",
+          "doi": "10.1097/MD.0000000000051358",
+          "title": "A clinicopathological prediction model for remission after transsphenoidal surgery for acromegaly: A retrospective single-center cohort study.",
+          "category": "notable",
+          "summary": "In this 100-patient retrospective cohort from a large Dutch tertiary center, maximum tumor diameter emerged as the single best predictor of early biochemical remission, long-term remission, and long-term remission without residual tumor after transsphenoidal surgery for acromegaly \u2014 outperforming all histopathological variables including tumor subtype and proliferation markers. Each millimeter increase in maximum diameter was associated with an approximately 15\u201325% reduction in odds of remission across all three endpoints. Cavernous sinus invasion, modified Knosp grade, and random GH at diagnosis were significant on univariate analysis but did not add independent predictive value over tumor diameter in multivariate models. The finding underscores that straightforward preoperative imaging measurement is sufficient for counseling patients on expected surgical outcomes, without requiring detailed histopathological risk stratification.",
+          "caveat": "Single-center, retrospective design with n=100 limits generalizability; long-term remission definition (normalized IGF-1 and absence of adjuvant treatment) may underestimate true biochemical control in some patients. Histopathological markers such as Ki-67 and granulation pattern were included but the cohort may have been underpowered to detect subtler associations.",
+          "quiz_question": "A 45-year-old woman with acromegaly has a 28 mm GH-secreting macroadenoma with apparent cavernous sinus invasion on MRI. Her random GH is markedly elevated. Based on this study's findings, which preoperative factor is most predictive of her likelihood of remission after transsphenoidal surgery?",
+          "quiz_answer": "Maximum tumor diameter is the single best independent predictor of remission in this model. While cavernous sinus invasion and elevated GH are significant on univariate analysis, in multivariate modeling only tumor diameter independently predicts early and long-term remission. Her 28 mm diameter substantially reduces her odds of surgical remission, and this information should anchor preoperative counseling.",
+          "journal": "Medicine",
+          "year": "2026"
+        },
+        {
+          "pmid": "42967954",
+          "doi": "10.1007/s00432-026-06564-z",
+          "title": "Hotspot mutations and tumour spectrum in von Hippel-Lindau syndrome: genotype-phenotype analysis of a large Chinese cohort.",
+          "category": "notable",
+          "summary": "This large retrospective series of 674 patients from 283 VHL families characterized four recurrent hotspot mutation subtypes and found clinically meaningful genotype-phenotype differences. Codon 65 missense mutations conferred lower risks of retinal angioma and pheochromocytoma (milder phenotype), exon 2 deletions were associated with earlier-onset retinal angioma and worse renal cell carcinoma\u2013specific survival, c.481C>T mutations carried higher risks of CNS hemangioblastoma, RCC, and pancreatic lesions, and the c.224_226del subtype showed a CNS hemangioblastoma\u2013predominant phenotype with higher overall mortality. Together these hotspot subtypes covered about 20% of the cohort, suggesting mutation subtype\u2013based surveillance stratification is feasible for a meaningful proportion of VHL patients. This refines the traditional pheochromocytoma-penetrance classification and has direct implications for surveillance interval and organ-specific screening prioritization.",
+          "caveat": "Single-center retrospective study from China; ethnic homogeneity and referral bias may limit direct applicability to non-Asian populations. The four hotspot subtypes covered only ~20% of patients, so the majority of VHL patients still require classification by conventional criteria. Survival analyses are subject to the usual limitations of retrospective ascertainment.",
+          "quiz_question": "A 32-year-old man is newly diagnosed with VHL syndrome. Germline testing reveals a c.481C>T (exon 3) hotspot mutation. Based on this genotype-phenotype analysis, which tumor manifestations should be prioritized in his surveillance program?",
+          "quiz_answer": "The c.481C>T mutation subtype in this cohort was associated with higher prevalence and age-related risk of CNS hemangioblastoma, renal cell carcinoma, and pancreatic cysts or tumors. Surveillance should therefore prioritize annual brain and spine MRI for CNS hemangioblastoma, regular renal imaging, and periodic pancreatic assessment, while pheochromocytoma risk \u2014 the basis of traditional VHL classification \u2014 may be relatively less prominent with this specific mutation.",
+          "journal": "Journal of cancer research and clinical oncology",
+          "year": "2026"
+        },
+        {
+          "pmid": "42965591",
+          "doi": "10.1007/s00261-026-05849-8",
+          "title": "Transfemoral transcaval adrenal biopsy: a technical report and review of adrenal biopsy approaches.",
+          "category": "preliminary",
+          "summary": "This technical report describes a novel transfemoral transcaval approach to right adrenal biopsy for a mass directly abutting the inferior vena cava that was inaccessible by standard percutaneous routes, adapted from established transcaval liver biopsy technique. Diagnostic tissue was obtained without periprocedural complication; however, histopathology unexpectedly revealed a pheochromocytoma \u2014 reinforcing the critical point that biochemical exclusion of pheochromocytoma must precede adrenal biopsy regardless of imaging appearance. The report also provides a concise contemporary review of adrenal biopsy indications and access routes, reminding practitioners that biopsy is appropriate only after hormonal workup is complete and in genuinely indeterminate lesions where tissue diagnosis would change management.",
+          "caveat": "This is a single-case technical report; safety and comparative effectiveness cannot be established from one procedure. The inadvertent biopsy of a pheochromocytoma, while managed without crisis here, underscores that pre-procedure biochemical evaluation is non-negotiable \u2014 the technique's feasibility does not mitigate this risk.",
+          "quiz_question": "A 58-year-old man with a history of non-small cell lung cancer has a right adrenal mass abutting the IVC that is indeterminate after CT and MRI. The interventional radiology team proposes adrenal biopsy to guide systemic therapy decisions. What is the essential step that must be completed before proceeding, and why?",
+          "quiz_answer": "Biochemical exclusion of pheochromocytoma (plasma or 24-hour urine fractionated metanephrines) is mandatory before any adrenal biopsy, regardless of imaging appearance. As illustrated in this case, an adrenal mass can harbor a pheochromocytoma despite an atypical radiological presentation; biopsy of an unsuspected pheochromocytoma can precipitate a hypertensive crisis. Only after hormonal evaluation is complete and pheochromocytoma excluded should tissue sampling proceed.",
+          "journal": "Abdominal radiology (New York)",
           "year": "2026"
         }
       ],
