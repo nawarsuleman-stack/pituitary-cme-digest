@@ -173,12 +173,14 @@
     "42935808",
     "42935875",
     "42936300",
+    "42941365",
     "42941705",
     "42942390",
     "42942541",
     "42945770",
     "42946534",
     "42947680",
+    "42948668",
     "42951065",
     "42953901",
     "42955476",
@@ -197,6 +199,7 @@
     "42975548",
     "42976822",
     "42977721",
+    "42978565",
     "42979022",
     "42979070",
     "42979165",
@@ -3124,6 +3127,49 @@
           "quiz_question": "A 58-year-old man with a history of non-small cell lung cancer has a right adrenal mass abutting the IVC that is indeterminate after CT and MRI. The interventional radiology team proposes adrenal biopsy to guide systemic therapy decisions. What is the essential step that must be completed before proceeding, and why?",
           "quiz_answer": "Biochemical exclusion of pheochromocytoma (plasma or 24-hour urine fractionated metanephrines) is mandatory before any adrenal biopsy, regardless of imaging appearance. As illustrated in this case, an adrenal mass can harbor a pheochromocytoma despite an atypical radiological presentation; biopsy of an unsuspected pheochromocytoma can precipitate a hypertensive crisis. Only after hormonal evaluation is complete and pheochromocytoma excluded should tissue sampling proceed.",
           "journal": "Abdominal radiology (New York)",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-16",
+      "items": [
+        {
+          "pmid": "42941365",
+          "doi": "10.3390/jcm15207850",
+          "title": "Retinal Microvascular and Peripapillary Profiles in Mild Autonomous Cortisol Secretion Versus Nonfunctioning Adrenal Adenomas.",
+          "category": "preliminary",
+          "summary": "This single-center, retrospective cross-sectional study used optical coherence tomography angiography (OCTA) to compare retinal microvascular parameters in 89 patients with mild autonomous cortisol secretion (MACS) versus nonfunctioning adrenal adenoma (NFA). The primary endpoint\u2014whole-image deep capillary plexus vessel density\u2014did not differ significantly between groups. Secondary analyses suggested higher superior RNFL thickness in MACS and a continuous inverse association between post-dexamethasone cortisol and certain capillary density measures, but these did not survive multiplicity correction, leaving the clinical significance uncertain.",
+          "caveat": "Cross-sectional design precludes causal inference; secondary findings did not survive false-discovery-rate correction and are explicitly hypothesis-generating. Single center and relatively modest sample (n=89 evaluable) limit generalizability.",
+          "quiz_question": "A 58-year-old woman with a 2.4 cm adrenal incidentaloma has a post-1 mg dexamethasone suppression cortisol of 4.2 \u00b5g/dL, meeting criteria for MACS. She asks whether MACS is already affecting her retinal vasculature. Based on this OCTA study, what can you tell her?",
+          "quiz_answer": "The study found no significant difference in deep capillary plexus vessel density (the primary endpoint) between MACS and NFA patients. While secondary analyses hinted at higher superior RNFL thickness and possible reductions in certain capillary measures with higher cortisol levels, these did not survive multiplicity correction. At present, there is no confirmed retinal microvascular signature specific to MACS, and prospective data are needed before clinical conclusions can be drawn.",
+          "journal": "Journal of clinical medicine",
+          "year": "2026"
+        },
+        {
+          "pmid": "42978565",
+          "doi": "10.3389/fendo.2026.1954698",
+          "title": "Case Report: Neurosurgery, octreotide, cabergoline, radiotherapy, pasireotide and pegvisomant - a multimodal strategy for adolescent acrogigantism.",
+          "category": "notable",
+          "summary": "This case details an adolescent female diagnosed at age ~14 with an aggressive, invasive 38 mm GH-secreting pituitary neuroendocrine tumor whose disease proved refractory to sequential transsphenoidal surgery, octreotide LAR, cabergoline, pasireotide LAR, and proton beam radiotherapy. Biochemical control (IGF-1 normalization) was ultimately achieved only with combination pegvisomant plus octreotide LAR, while long-term radiological tumor stability was maintained. The case reinforces that in pediatric/adolescent acrogigantism with aggressive tumors, GH receptor antagonism via pegvisomant combined with a somatostatin analog may be the necessary salvage strategy when all other modalities fail.",
+          "caveat": "Single case report; causality and generalizability are inherently limited. No genetic workup result (e.g., AIP, X-LAG/GPR101) is detailed in the abstract, which is relevant given the high rate of germline mutations in pediatric acrogigantism. Long-term outcomes beyond IGF-1 normalization are not reported.",
+          "quiz_question": "A 15-year-old boy with a 40 mm invasive GH-secreting pituitary macroadenoma undergoes transsphenoidal surgery followed by octreotide LAR, cabergoline, and pasireotide LAR without achieving IGF-1 normalization. Proton beam radiotherapy is subsequently delivered. IGF-1 remains elevated. What treatment combination does this case suggest as a next step, and what is the mechanism of action of the key additional agent?",
+          "quiz_answer": "The case supports adding pegvisomant to ongoing somatostatin analog therapy (octreotide LAR). Pegvisomant is a GH receptor antagonist\u2014a mutant GH molecule that competitively blocks GH receptor dimerization, thereby blocking peripheral IGF-1 generation regardless of tumor GH output. Combined with a somatostatin analog, this dual approach normalized IGF-1 while maintaining radiological stability in this refractory adolescent patient.",
+          "journal": "Frontiers in endocrinology",
+          "year": "2026"
+        },
+        {
+          "pmid": "42948668",
+          "doi": "10.7759/cureus.118537",
+          "title": "Pituitary Apoplexy Complicated by Pulmonary Embolism in a Neurologically Complex Patient: A Diagnostic Challenge.",
+          "category": "notable",
+          "summary": "This case report describes a 66-year-old man with a known intraventricular neurocytoma under surveillance who presented with sudden severe headache; initial CT misattributed findings to the known lesion, and pituitary apoplexy was only confirmed on MRI. He subsequently developed bilateral pulmonary emboli requiring anticoagulation, which in turn precipitated fatal intracranial hemorrhage. The case powerfully illustrates two important clinical lessons: (1) pre-existing intracranial pathology can mask apoplexy on CT, making MRI and hormonal assessment essential, and (2) the concurrent thrombotic and hemorrhagic risks inherent to apoplexy create an individualized anticoagulation dilemma with potentially life-threatening consequences in either direction.",
+          "caveat": "Single case report; no controlled data can be derived. The fatal outcome underscores the high-stakes nature of anticoagulation decisions in this setting but does not resolve the evidence gap regarding optimal anticoagulation management in apoplexy complicated by VTE.",
+          "quiz_question": "A 70-year-old man presents with thunderclap headache and diplopia. CT head is interpreted as hemorrhage within a known meningioma. His mental status is intact. What additional workup should be urgently pursued, and what therapeutic consideration is highlighted when pituitary apoplexy is subsequently confirmed?",
+          "quiz_answer": "MRI of the brain (including pituitary protocol) should be obtained urgently, as CT may miss or misattribute pituitary apoplexy in patients with concurrent intracranial lesions. Hormonal evaluation\u2014at minimum cortisol/ACTH\u2014is essential to identify hypopituitarism requiring immediate glucocorticoid replacement. This case highlights that if VTE subsequently develops, the decision to anticoagulate must be carefully individualized given the competing risk of worsening hemorrhage into the already-infarcted or hemorrhagic pituitary, a balance with potentially fatal consequences on either side.",
+          "journal": "Cureus",
           "year": "2026"
         }
       ],

@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-11-07",
+  "fetched_at": "2026-11-08",
   "date_window": {
-    "from": "2016/11/09",
-    "to": "2026/11/07"
+    "from": "2016/11/10",
+    "to": "2026/11/08"
   },
   "already_covered_pmids": [
     "41730814",
@@ -191,9 +191,11 @@
     "42960688",
     "42962234",
     "42963766",
+    "42965591",
     "42965779",
     "42966657",
     "42967023",
+    "42967954",
     "42972079",
     "42972894",
     "42973552",
@@ -205,128 +207,10 @@
     "42979165",
     "42984749",
     "42992517",
-    "42993172"
+    "42993172",
+    "42994872"
   ],
   "candidates": [
-    {
-      "pmid": "42951634",
-      "doi": "10.11406/rinketsu.67.1194",
-      "title": "[Reference guide for the clinical management of adult Langerhans cell histiocytosis (key points from the first edition, 2025)].",
-      "abstract": "According to the registry of the Japanese Society of Hematology, adult histiocytic neoplasms are extremely rare, with approximately 40 cases reported annually, and the most common among them is Langerhans cell histiocytosis (LCH). Lesions may involve multiple organs, including bone, skin, lung, the central nervous system, and the endocrine system. Without a hematology perspective, the neoplastic nature of LCH may not be apparent, resulting in missed diagnoses. Central diabetes insipidus, anterior pituitary dysfunction, and LCH-associated neurodegeneration, once developed, often result in irreversible impairment. Because delayed therapeutic intervention can result in permanent organ damage, it is essential for hematologists to understand the \"minimum initial management\" required to protect patient outcomes. This review summarizes the key points of diagnosis and initial management in adult LCH based on the first edition of the Adult LCH Clinical Reference Guide (2025).",
-      "journal": "[Rinsho ketsueki] The Japanese journal of clinical hematology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review",
-        "English Abstract"
-      ]
-    },
-    {
-      "pmid": "42964719",
-      "doi": "10.7759/cureus.117212",
-      "title": "Pregnancy in Autoimmune Polyglandular Syndrome Type 3c With Graves' Disease and Myasthenia Gravis: A Case Report.",
-      "abstract": "Autoimmune polyglandular syndrome type 3c (APS3c), characterized by autoimmune thyroid disease with another organ-specific autoimmune disorder in the absence of adrenal insufficiency, is an uncommon presentation. Its coexistence with Graves' disease and myasthenia gravis (MG) is rare and poses additional diagnostic and therapeutic challenges, particularly when complicated by thyroid storm and pregnancy. We report the ongoing management of a 22-year-old woman with this combination of autoimmune disorders. She was admitted with thyroid storm diagnosed using the Burch-Wartofsky Point Scale and Japan Thyroid Association criteria after a 15-month history of weight loss, heat intolerance, diaphoresis, anxiety, palpitations, unilateral ptosis, and fatigable proximal upper-extremity weakness. Graves' disease and MG were diagnosed based on clinical findings, positive thyroid-stimulating immunoglobulin and acetylcholine receptor antibodies, and electrophysiological evidence of a postsynaptic neuromuscular junction disorder. In the absence of clinical or biochemical evidence of primary adrenal insufficiency, the coexistence of autoimmune thyroid disease and MG supported a diagnosis of APS3c on the Neufeld and Blizzard classification. Despite methimazole (15 mg/day) and pyridostigmine (600 mg/day) therapy, and good adherence to treatment, biochemical hyperthyroidism persisted and progressed to thyroid storm. During outpatient follow-up, an intrauterine pregnancy was confirmed. Methimazole was withheld during the first trimester while the patient remained clinically stable despite persistent biochemical hyperthyroidism, and it was resumed thereafter. At the time of writing, the pregnancy remains ongoing under multidisciplinary care involving endocrinology, neurology, internal medicine, and maternal-fetal medicine, with serial maternal monitoring, planned third-trimester antibody reassessment, targeted fetal ultrasonography, perinatal planning, and neonatal surveillance. This case highlights APS3c as an important diagnostic framework for the coexistence of Graves' disease and MG and illustrates how management must be continually reassessed in the setting of thyroid storm and pregnancy. Maternal, fetal, and neonatal outcomes remain pending.",
-      "journal": "Cureus",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42994872",
-      "doi": "10.1097/MD.0000000000051358",
-      "title": "A clinicopathological prediction model for remission after transsphenoidal surgery for acromegaly: A retrospective single-center cohort study.",
-      "abstract": "Transsphenoidal surgery (TSS) is the primary treatment of choice in acromegaly. Previous research on predicting remission after TSS was mainly based on clinical and radiological data, lacking histopathological evaluation. Our aim is to produce a clinicopathological prediction model for remission after TSS in acromegaly, enabling clinicians to better inform patients on expected treatment outcomes. This single-center study involved retrospective data collection in a large tertiary referral center in The Netherlands. One hundred patients in whom TSS was performed as primary therapy between January 2000 and July 2019 were included. Uni- and multivariate regression models were used to identify predictors of early biochemical remission according to the consensus criteria, long-term remission (defined as an age- and sex-normalized Insuline growth like factor 1and the absence of postoperative treatment (radiation therapy, repeat surgery, or medical therapy) at last follow-up, irrespective of residual tumor on postoperative magnetic resonance imaging ), and long-term remission without residual tumor (defined by the same biochemical and treatment criteria with the additional absence of residual tumor on postoperative magnetic resonance imaging ). In univariate logistic regression, a larger tumor volume, a larger maximum tumor diameter, a higher modified Knosp classification grade, the presence of cavernous sinus invasion, and a higher random growth hormone at diagnosis were significantly associated with lower remission rates. Tumor subtype and proliferation markers were not. In multivariate logistic regression, a simple model with only maximum tumor diameter as an independent variable predicted best for early biochemical remission (OR 0.85, 95% CI 0.78-0.93, P\u2005<\u2005.001, sensitivity 78.9%, specificity 71.8%), long-term remission (OR 0.79, 95% CI 0.70-0.88, P\u2005<\u2005.001, sensitivity 79.5%, specificity 73.7%), and long-term remission without residual tumor (OR 0.75, 95% CI 0.66-0.86, P\u2005<\u2005.001, sensitivity 79.4%, specificity 78.0%). Maximum tumor diameter was the best predictor, while histopathological characteristics were not predictive for remission after TSS in acromegaly in this cohort.",
-      "journal": "Medicine",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42995132",
-      "doi": "10.1016/j.semnephrol.2026.151757",
-      "title": "Transforming Growth Factor Beta/Smad Signaling: A Therapeutic Target of Chinese Herbal Medicine for Kidney Disease.",
-      "abstract": "Transforming growth factor beta/Smad signaling has emerged as a promising therapeutic target for kidney disease. Increasing evidence suggests that Chinese herbal medicine (CHM), including single herbs, bioactive compounds, herb pairs, and multi-herb formulas, modulates this signaling network in acute kidney injury, chronic kidney disease, and transitions of acute kidney injury-to-chronic kidney disease and acute kidney injury-on-chronic kidney disease. Frequently studied herbs include Rheum officinale (rhubarb), Wolfiporia cocos (Fu Ling), Scutellaria baicalensis (HuangQin), Salvia miltiorrhiza (Dan Shen), Astragalus membranaceus (Huang Qi), and Coptis chinensis (Huang Lian). Experimental studies suggest that CHM interventions act at multiple regulatory levels, including Smad3 activation, Smad3/Smad7 balance, post-translational modification, and epigenetic regulation, while also interacting with oxidative stress, ferroptosis, inflammatory signaling, microRNA regulation, gut microbiota, and renal-immune cell crosstalk. Overall, CHM shows promise as a multitarget strategy against transforming growth factor beta 1/Smad-driven kidney fibrosis, but further mechanistic and multicenter clinical trials are needed.",
-      "journal": "Seminars in nephrology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "42953880",
-      "doi": "10.14309/crj.0000000000002382",
-      "title": "VIP-Mediated Syndromes: Contrasting Presentations and Multidisciplinary Management of Two Rare Neuroendocrine Tumors.",
-      "abstract": "Vasoactive intestinal peptide (VIP)-secreting tumors are rare neuroendocrine neoplasms that cause severe secretory diarrhea and electrolyte abnormalities. We describe 2 atypical cases requiring multidisciplinary care. One patient had a VIP-secreting pheochromocytoma with elevated VIP and metanephrine levels; symptoms improved after adrenalectomy. The second had a metastatic small intestinal neuroendocrine tumor with persistent VIP-mediated diarrhea despite debulking and somatostatin analog therapy, complicated by anal fissures, trans-sphincteric perianal fistula, and neuropathic pelvic pain. These cases highlight morbidity and potential complications associated with extrapancreatic VIP hypersecretion and the value of coordinated multidisciplinary management to improve outcomes and quality of life.",
-      "journal": "ACG case reports journal",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42995141",
-      "doi": "10.1111/bph.70742",
-      "title": "Resolving melanoma heterogeneity at single-cell resolution: implications for target discovery and therapy resistance.",
-      "abstract": "Melanoma is characterized by profound intra-tumoural heterogeneity and a complex tumour microenvironment (TME), which are primary drivers of therapy resistance. Conventional bulk sequencing lacks the resolution to capture these cellular nuances. Single-cell technologies, particularly single-cell RNA sequencing (scRNA-seq) and spatial multiomics, have fundamentally advanced our understanding of melanoma by enabling high-resolution characterization of malignant cell states, immune ecosystems and tumour microenvironment interactions. In this review, we summarize recent advances in single-cell multiomics studies of melanoma heterogeneity and therapy resistance, focusing on the identification of drug-tolerant persister states, immune escape mechanisms and resistance-associated cellular transitions. We further discuss how single-cell approaches facilitate target discovery, biomarker development and the rational design of combination therapies. By integrating multiomics profiling, computational modelling and pharmacological validation, these technologies provide a framework for translating cellular-level insights into precision therapeutic strategies. Finally, we highlight current challenges and future opportunities for clinical implementation of single-cell-guided approaches in refractory melanoma.",
-      "journal": "British journal of pharmacology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "42955823",
-      "doi": "10.1093/jvimsj/aalag269",
-      "title": "Utility of the ACTH/cortisol ratio for differentiating pituitary microadenomas from macroadenomas in dogs with pituitary-dependent hypercortisolism.",
-      "abstract": "No simple, blood-based biomarker to estimate tumor size in dogs with pituitary-dependent hypercortisolism (PDH) has been evaluated. Determine whether the adrenocorticotropic hormone (ACTH)/cortisol ratio differentiates pituitary microadenomas from macroadenomas in dogs with PDH and correlates with pituitary size. Seventy privately-owned dogs with PDH (microadenomas, n\u00a0=\u00a030; macroadenomas, n\u00a0=\u00a040). Retrospective multicenter observational study. Endogenous ACTH and cortisol concentrations obtained at the same time point before treatment were used to calculate the ACTH/cortisol ratio. Pituitary tumor size was classified using the pituitary-to-brain (P/B) ratio. Diagnostic performance was evaluated using receiver operating characteristic analysis and multivariable logistic regression. Dogs with macroadenomas had significantly higher ACTH/cortisol ratios than dogs with microadenomas (median, 9.12; IQR, 6.46-14.28 vs median, 4.90; IQR, 3.08-8.10; P\u00a0<\u00a0.001). The ratio showed moderate discrimination for differentiating macroadenomas from microadenomas with an area under the curve of 0.77 (95% CI, 0.66-0.89; P\u00a0<\u00a0.001). A cutoff >5.69 yielded 85% sensitivity and 60% specificity (positive likelihood ratio 2.13), whereas a higher ratio\u00a0>11.74 achieved 90% specificity and 35% sensitivity (positive likelihood ratio 3.50). The ACTH/cortisol ratio showed moderate positive correlation with pituitary size (Spearman's \u03c1\u00a0=\u00a00.48; 95% CI, 0.26-0.64; P\u00a0<\u00a0.001) and remained independently associated with macroadenoma classification in multivariable analysis (OR, 1.19; 95% CI, 1.05-1.40). The ACTH/cortisol ratio is associated with pituitary tumor size in dogs with PDH and may support clinical risk stratification, particularly when advanced imaging is unavailable.",
-      "journal": "Journal of veterinary internal medicine",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Multicenter Study",
-        "Observational Study, Veterinary"
-      ]
-    },
-    {
-      "pmid": "42994909",
-      "doi": "10.1097/MD.0000000000051533",
-      "title": "Adrenal ganglioneuroma in an adolescent presenting as an incidentaloma: Imaging-pathology correlation and diagnostic challenges: A case report.",
-      "abstract": "Adrenal ganglioneuroma (AGN) is a rare, benign, and usually nonfunctioning tumor arising from neural crest-derived sympathetic ganglion cells. Preoperative diagnosis is difficult because the clinical presentation is often nonspecific, and imaging findings overlap with those of other adrenal neoplasms. We describe an adolescent adrenal incidentaloma with detailed imaging-pathology correlation, adding to the small number of reported adolescent cases. A previously healthy 16-year-old male underwent contrast-enhanced computed tomography (CT) after a bicycle accident. No traumatic injury was identified, but imaging incidentally revealed a well-circumscribed right adrenal mass measuring approximately 6.1 cm\u2005\u00d7\u20053.6 cm\u2005\u00d7\u20055.0 cm. CT and magnetic resonance imaging showed progressive, persistent enhancement across the arterial, venous, and delayed phases without demonstrable washout (attenuation increased from 20 Hounsfield units unenhanced to 55 Hounsfield units in the venous phase, with further qualitative enhancement on 15-minute delayed images) and no intralesional fat, suggesting a non-adenomatous lesion and raising suspicion for a neurogenic tumor. Biochemical evaluation showed no evidence of hormonal hypersecretion. Histopathological examination after resection established the diagnosis of AGN. The patient underwent right adrenalectomy because of the size and radiologically indeterminate nature of the mass. The postoperative course was uneventful. Transient elevation of blood pressure noted during follow-up prompted biochemical reevaluation, which showed no evidence of excess catecholamine. Follow-up CT at 9 months showed no recurrence. Progressive delayed enhancement without washout and absence of signal loss on opposed-phase magnetic resonance imaging, a pattern previously described in ganglioneuroma, may suggest the diagnosis preoperatively, although definitive diagnosis requires histopathological confirmation. Complete surgical excision established the diagnosis and achieved a favorable short-term outcome; the excellent long-term prognosis of AGN is supported by the published literature, and our patient remains recurrence-free at 9 months.",
-      "journal": "Medicine",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Case Reports"
-      ]
-    },
-    {
-      "pmid": "42995143",
-      "doi": "10.1111/bph.70725",
-      "title": "Triptonide alleviates sepsis-associated acute lung injury by suppressing the STAT3/HIF-1\u03b1-mediated aerobic glycolysis in macrophages.",
-      "abstract": "Sepsis-associated acute lung injury (SA-ALI), represents a major contributor to mortality among septic patients during the early hyperinflammatory phase. Triptonide, a diterpenoids extract from Tripterygium wilfordii Hook f has anticancer and contraceptive effects. However, its potential and mechanism in SA-ALI are largely unknown. This study aims to evaluate the therapeutic efficacy and elucidate underlying mechanisms of triptonide in SA-ALI to identify new clinical strategies. Lipopolysaccharide (LPS)-induced endotoxemia model or caecal ligation and puncture (CLP) model was used to induce SA-ALI in mice, accompanied by treatment with triptonide, triptolide and 2-methoxyestradiol. Parallel in vitro experiments involved LPS-treated mouse primary macrophages cultured with or without triptonide. Transcriptomic sequencing of macrophages was performed to explore the anti-inflammatory mechanisms of triptonide, which were further substantiated using specific activators, inhibitors and adeno-associated virus (AAV)-mediated gene targeting. Our data shows that triptonide effectively inhibits macrophage pro-inflammatory activation, reduces pulmonary inflammation and alleviates SA-ALI pathology (i.e. inflammatory cell infiltration, oedema and cell apoptosis), thereby improving the survival of septic mice. Transcriptomic sequencing combined with metabolic analysis shows that triptonide suppresses aerobic glycolysis in pro-inflammatory macrophages by inhibiting the Signal Transducer and Activator of Transcription 3 (STAT3)/Hypoxia inducible factor-1\u03b1 (HIF-1\u03b1) axis. Notably, the therapeutic efficacy of triptonide against SA-ALI was abolished in myeloid cell-specific HIF-1\u03b1 overexpressed mice (LyzM-CreDIO-hif1a mice). Triptonide protects against SA-ALI by suppressing the STAT3/HIF-1\u03b1 signalling axis, thereby inhibiting aerobic glycolysis-mediated pro-inflammatory macrophage activation, which suggests that triptonide is a promising therapeutic strategy for SA-ALI.",
-      "journal": "British journal of pharmacology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42995153",
-      "doi": "10.1002/eahr.70025",
-      "title": "The Primary Reasons People Participate in Maternal-Fetal Phase I Clinical Trials Are Psychosocial.",
-      "abstract": "Recent critiques of ethical guidance for maternal-fetal therapy clinical trials has highlighted the need to weigh maternal, fetal, and societal interests, respectively, while deprioritizing psychosocial reasons for participation. Psychosocial reasons refer to the psychological and social influences on study participants' decisions, and they are often central to considerations about informed consent. However, psychosocial reasons are described as too indirect, subjective, and vague to incorporate into prenatal clinical and regulatory frameworks. This qualitative study examined the perspectives of 11 individuals (within eight couples) enrolled in one of two maternal-fetal therapy phase I clinical trials for rare genetic conditions. Interviews revealed that motivations to participate were primarily psychosocial, including existential concerns given prior bereavement and/or fear of loss; temporal control through taking action as opposed to feeling passive; hope and optimism; and intergenerational and social motivations given one's family experience with disease and desire for social connections. Psychosocial reasons for participating ought to be given more consideration in ethical frameworks for maternal-fetal therapy phase I clinical trials, as well as in the approach to informed consent. It is important for clinical research teams to be especially conscientious to ensure appreciation for participants' reasons for participating that extend beyond typical frameworks of clinical risk/benefit, and to support participants who might harbor optimistic expectations of medical procedures as they transition to postnatal realities.",
-      "journal": "Ethics & human research",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
     {
       "pmid": "42979274",
       "doi": "10.1002/jpr3.70271",
@@ -339,27 +223,14 @@
       ]
     },
     {
-      "pmid": "42979531",
-      "doi": "10.17925/EE.2026.22.2.2",
-      "title": "Non-diabetic endocrine neuropathies: A practical approach to diagnosis and clinical evaluation.",
-      "abstract": "Peripheral neuropathy has diverse etiologies, with endocrine disorders beyond diabetes representing significant, yet frequently underrecognized causes. While diabetic neuropathy is well established, this article specifically excludes a detailed discussion of diabetic neuropathy to focus on less-recognized endocrine causes and presents a practical diagnostic algorithm for their earlier and more accurate identification. A focused narrative review was conducted using PubMed, Scopus and ScienceDirect (2015-2025). From 2,318 screened records, 154 studies were included after full-text review of 298 articles. Evidence was synthesized by etiology, mechanism, clinical presentation and diagnostic relevance. Disorders such as hypothyroidism, acromegaly, adrenal dysfunction and deficiencies of vitamins B12 and D produce distinct neuropathic profiles via metabolic, hormonal, inflammatory or compressive mechanisms. Subclinical nerve involvement is common, with electrophysiological abnormalities detectable in up to 60% of asymptomatic individuals. Characteristic clinical patterns - such as delayed reflexes in hypothyroidism, bilateral carpal tunnel syndrome (CTS) in acromegaly and sensory ataxia in B12 deficiency - provide diagnostic clues. Based on synthesized evidence, a stepwise diagnostic algorithm was developed to guide clinical evaluation. Endocrine disorders are important and often reversible causes of peripheral neuropathy. Early recognition requires a systematic approach. The proposed evidence-based algorithm offers clinicians a practical tool to improve diagnostic efficiency, facilitate timely treatment of the underlying endocrine condition and reduce the risk of irreversible nerve damage.",
-      "journal": "TouchREVIEWS in endocrinology",
+      "pmid": "42999929",
+      "doi": "10.1016/j.apjon.2026.101048",
+      "title": "Collaborative nursing practices supporting home-based living for people living with cancer and dementia: A modified grounded theory study.",
+      "abstract": "As the number of people living with cancer and dementia increases with population aging, effective collaboration between hospital-based and home-visiting nurses is essential to support meaningful home-based living. However, little is known about how nurses collaboratively manage the instability arising from the concurrent illness trajectories of cancer and dementia. This study aimed to elucidate the collaborative nursing practices that support home-based living for people living with cancer and dementia. Semi-structured interviews were conducted with 21 nurses working at cancer treatment hospitals or home-visiting nursing stations between May and December 2025. Data were analyzed using a modified grounded theory approach. The core category was \"Recalibrating life continuity while living with cancer and dementia,\" which represented a case-centered and continuous process underlying all categories. The six categories were: (1) Team building for high-quality geriatric oncology nursing; (2) Reconstructing the patient's intention; (3) Reorganizing the care system to sustain home-based living; (4) Anticipating interactions between cancer- and dementia-related symptoms and sharing management strategies; (5) Preventing or mitigating functional decline with disease progression; and (6) Caring for families experiencing dementia-related ambiguous loss and cancer-related losses. The findings highlight case-centered collaboration across care settings as a dynamic process for addressing the complex vulnerabilities associated with the coexistence of cancer and dementia. The proposed model conceptualizes how nurses adapt collaborative practices in response to changing patient and family needs while orienting care toward continuity of life at home.",
+      "journal": "Asia-Pacific journal of oncology nursing",
       "year": "2026",
       "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "42995144",
-      "doi": "10.1111/jog.70555",
-      "title": "Radiotherapy for Cervical Cancer: Technical Advances, Clinical Applications, and Future Perspectives.",
-      "abstract": "Radiotherapy is an essential treatment modality for cervical cancer and has evolved substantially with advances in image guidance and treatment delivery. This review summarizes recent technological developments in external beam radiotherapy and brachytherapy, their clinical applications, and future directions, with particular consideration of Japanese practice in an international context. In external beam radiotherapy, conventional techniques incorporating central shielding are increasingly being replaced by intensity-modulated radiotherapy (IMRT) and volumetric-modulated arc therapy (VMAT). Daily three-dimensional image-guided radiotherapy (3D-IGRT) is essential for the safe implementation of these techniques because of substantial uterine motion and deformation. In brachytherapy, the transition from two-dimensional point-based prescription to three-dimensional image-guided treatment has enabled individualized assessment of target coverage and doses to organs at risk. Although magnetic resonance imaging-based brachytherapy is internationally recommended, computed tomography-based planning predominates in Japan and has achieved favorable outcomes, despite some studies reporting lower cumulative target doses than those recommended internationally. Intracavitary/interstitial brachytherapy (IC/IS BT) further improves dose distribution by combining intracavitary applicators with interstitial needles, particularly when adequate target coverage cannot be achieved with standard intracavitary brachytherapy alone. Future advances may include artificial intelligence (AI)-assisted treatment planning and adaptive workflows, tissue spacers to overcome anatomical constraints, and the incorporation of genomic, multi-omics, and radiomics information. Integrating these approaches may enable cervical cancer radiotherapy to progress beyond increasingly safe and precise treatment toward personalized care tailored to individual patient and tumor characteristics.",
-      "journal": "The journal of obstetrics and gynaecology research",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
+        "Journal Article"
       ]
     },
     {
@@ -368,6 +239,29 @@
       "title": "Retinal Microvascular and Peripapillary Profiles in Mild Autonomous Cortisol Secretion Versus Nonfunctioning Adrenal Adenomas.",
       "abstract": "Background/Objectives: Mild autonomous cortisol secretion (MACS) is associated with increased cardiometabolic morbidity, but its relationship with the retinal microcirculation is unknown. We compared retinal and peripapillary microvascular parameters between MACS and nonfunctioning adrenal adenoma (NFA) and, secondarily, examined their associations with continuously modeled post-dexamethasone cortisol. Methods: In this single-center, retrospective, cross-sectional study, 98 patients (45 NFA, 53 MACS) were included, and optical coherence tomography angiography (OCTA) and structural OCT data from one eye per patient were analyzed. The primary outcome was whole-image deep capillary plexus (DCP) vessel density. Multivariable models were adjusted for age, sex, body mass index, and cardiometabolic comorbidities; secondary analyses were corrected using the Benjamini-Hochberg false discovery rate (q values). Results: OCTA was evaluable in 89 patients. The primary outcome did not differ significantly between groups in the main analysis (NFA vs. MACS, 48.64 \u00b1 5.71% vs. 47.31 \u00b1 5.77%; adjusted difference -1.29 percentage points, 95% CI -3.97 to 1.38; p = 0.339) or in any sensitivity analysis. In secondary analyses, superior retinal nerve fiber layer (RNFL) thickness was greater in MACS (\u03b2 = 17.38 \u00b5m; q < 0.001) and increased with ln(post-dexamethasone cortisol) (\u03b2 = 13.74 \u00b5m; q = 0.010). Higher ln(post-dexamethasone cortisol) was also associated with lower parafoveal DCP (\u03b2 = -2.72 percentage points; p = 0.013) and inside-disc radial peripapillary capillary vessel density (\u03b2 = -3.13 percentage points; p = 0.026), which did not survive multiplicity correction; no superficial capillary plexus sector was associated with either exposure (all p \u2265 0.37). Conclusions: MACS was not significantly associated with whole-image DCP vessel density. The secondary associations with continuous cortisol are cross-sectional and hypothesis-generating and require prospective confirmation.",
       "journal": "Journal of clinical medicine",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42999920",
+      "doi": "10.7759/cureus.117630",
+      "title": "Calcified Appendiceal Phytobezoar Associated With Complicated Acute Appendicitis: A Case Report.",
+      "abstract": "An appendiceal phytobezoar is an uncommon intraluminal aggregate of indigestible plant material that may resemble a conventional appendicolith when calcified. We describe a 34-year-old woman who presented after approximately one day of severe right lower quadrant abdominal pain accompanied by nausea and vomiting. She was afebrile and hemodynamically stable but had localized peritoneal signs and neutrophilic leukocytosis. Plain radiographs showed a right lower quadrant radiopacity, and noncontrast computed tomography demonstrated a large appendiceal calcification with surrounding inflammatory changes. Emergency laparoscopy revealed a markedly enlarged, inflamed appendix and a localized purulent collection adjacent to an anatomically intact appendiceal base. Adhesiolysis and drainage of the collection were followed by laparoscopic appendectomy, securing the stump with two endoloops. The specimen measured 7.0 cm in length and 3.5 cm in maximum diameter and contained a 1.7 \u00d7 1.2 cm intraluminal concretion. Histopathology established suppurative and necrotizing acute appendicitis with ulceration and identified the concretion as a phytobezoar composed of vegetable fibers and dystrophic calcification. A Blake drain was removed on postoperative day 7 after drain output had ceased; subsequent follow-up remained favorable. This case illustrates the diagnostic limitation of labeling every calcified appendiceal concretion a fecalith and the value of radiologic-operative-pathologic correlation in symptomatic patients with apparently rapid progression to complicated appendicitis.",
+      "journal": "Cureus",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42999917",
+      "doi": "10.1016/j.plaphe.2026.100291",
+      "title": "Combining 3D-multispectral and hyperspectral imaging to identify environmental stress treatments imposed during plant growth.",
+      "abstract": "Non-invasive, high-throughput phenotyping tools are needed that can identify environmental effects on plant structure and function to diagnose factors responsible for reduced growth in commercial and non-commercial settings. In this study, we explored whether the integration of 3D-multispectral (3D) and 2D-hyperspectral imaging (HSI), aided by machine learning (ML), could be used to identify environmental stress treatments imposed during plant growth. Controlled environment-grown Nicotiana Benthamiana plants were subjected to a range of abiotic treatments - including different growth irradiances, heat treatment and drought stress - with the treatments resulting in differences in shoot height, biomass, leaf area and spectral reflectance. ML models were trained to identify these treatments using morphological and spectral traits measured at 27, 29, 31, and 34 days after sowing (DAS). A 3D-multispectral scanner was used to obtain information on plant height, biomass, and leaf area. A visible and near-infrared (VNIR) HSI camera provided detailed spectral information for deriving spectral indices including the Normalised Difference Vegetation Index (NDVI), Photochemical Reflectance Index (PRI) and Normalised Difference Red Edge (NDRE). Manual measurements provided baseline comparative data. The 3D-multispectral scanner reliably estimated above-ground traits, with high correlations between manual and scanner-derived measurements. The ML models accurately differentiated among environmental stress treatments, with the fused 3D + HSI model achieving the best overall predictive performance across all evaluated metrics compared with models based on either imaging modality alone. Results demonstrated the effectiveness of combining 3D-multispectral and 2D-HSI data with ML analyses for non-destructive, high-throughput phenotyping. The integration of these techniques enabled non-destructive, high-throughput identification of environmental stress treatments imposed during plant growth.",
+      "journal": "Plant phenomics (Washington, D.C.)",
       "year": "2026",
       "publication_types": [
         "Journal Article"
@@ -386,6 +280,17 @@
       ]
     },
     {
+      "pmid": "42999927",
+      "doi": "10.7759/cureus.117637",
+      "title": "Functional Impairment and Its Determinants in Adolescents With Inherited Bleeding Disorders: A Single-Centre Cross-Sectional Study.",
+      "abstract": "Inherited bleeding disorders (IBDs) require long-term management through adolescence, a period of rapid social and educational development. This study set out to quantify day-to-day functional impairment in adolescents with IBDs attending a tertiary care centre in Islamabad, Pakistan, and to identify the characteristics associated with it. This study aimed to determine the frequency and severity of functional impairment among adolescents with IBDs attending a tertiary care centre and to examine its association with demographic and clinical characteristics. A cross-sectional study was conducted in the Department of Medicine, Pakistan Institute of Medical Sciences (PIMS), Islamabad, between June and September 2025. One hundred and fifty adolescents aged 8-19 years with a confirmed IBD were recruited by consecutive non-probability sampling. Patients who had undergone surgery within the preceding two months or who had an active bacterial infection, malignancy, hepatic impairment, or renal impairment were excluded. Functional impairment was measured using the Columbia Impairment Scale - Youth Version (CIS-Y), a 13-item instrument yielding a total score of 0-52. Scores were classified as minimal or mild (<15), moderate (15-30), and severe (>30). Associations were examined with the Pearson chi-square test, supplemented by Fisher's exact test and an odds ratio for the comparison by sex, with p \u2264 0.05 taken as significant. The mean age was 13.93 \u00b1 3.46 years, and 94 participants (62.7%) were male. Haemophilia A or B was the most common diagnosis (61, 40.7%), followed by platelet function disorders (38, 25.3%), von Willebrand disease (36, 24.0%), and other rare factor deficiencies (15, 10.0%). The mean CIS-Y score was 16.85 \u00b1 11.35 (median 16.0, interquartile range 8.0-24.0). Sixty-six participants (44.0%) had minimal or mild impairment, 73 (48.7%) had moderate impairment, and 11 (7.3%) had severe impairment. Female sex was the only characteristic significantly associated with impairment severity (p = 0.015): 39 of 56 girls (69.6%) scored in the moderate or severe range compared with 45 of 94 boys (47.9%), giving an odds ratio of 2.50 (95% CI 1.24-5.02, Fisher's exact p = 0.011). The median CIS-Y score was correspondingly higher in girls than boys (21.0 vs 14.0, p = 0.004). Age group, body mass index, socioeconomic status, residence, family structure, ethnicity, and type of bleeding disorder showed no significant association. Close to half of the adolescents attending this centre with an IBD had moderate functional impairment, and girls had roughly twice the odds of impairment compared with boys. Severe impairment was uncommon. Functional and psychosocial assessment deserves a routine place in the follow-up of these patients, with particular attention to adolescent girls.",
+      "journal": "Cureus",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
       "pmid": "42966941",
       "doi": "10.7759/cureus.117262",
       "title": "Addison's Disease Mimicking Cerebral Salt Wasting Syndrome: A Case of Severe Hyponatremia.",
@@ -395,89 +300,6 @@
       "publication_types": [
         "Case Reports",
         "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42952531",
-      "doi": "10.7759/cureus.117024",
-      "title": "Scleroderma-Like Phenotype in a Patient With Transthyretin Cardiac Amyloidosis and Acromegaly: A Triple Diagnostic Challenge.",
-      "abstract": "Systemic sclerosis, transthyretin cardiac amyloidosis, and acromegaly are rare disorders that share several clinical manifestations, including skin thickening, heart failure, dysphagia, fatigue, and soft tissue enlargement. Their coexistence is exceptionally rare and poses a significant diagnostic challenge, increasing the risk of premature diagnostic closure. We report a 78-year-old man who developed progressive diffuse skin thickening following spinal cord stimulator revision. Positive RNA polymerase III antibodies supported a diagnosis of diffuse systemic sclerosis. Evaluation of worsening edema and exertional dyspnea revealed severe concentric left ventricular hypertrophy with relative apical sparing on echocardiography, and technetium-99m pyrophosphate scintigraphy confirmed transthyretin cardiac amyloidosis. Persistent macroglossia, coarse facial features, prior carpal tunnel syndrome, and a remote history of increasing ring and shoe size prompted endocrine evaluation, which demonstrated elevated insulin-like growth factor-1 levels, failure of growth hormone suppression, and a pituitary macroadenoma consistent with acromegaly. The patient underwent successful transsphenoidal resection with biochemical remission. This case highlights the importance of reconsidering the differential diagnosis when clinical features are not fully explained by an established diagnosis.\u00a0Recognizing atypical and discordant findings prevented premature diagnostic closure and led to the identification of transthyretin cardiac amyloidosis and acromegaly in a patient with a rapidly progressive scleroderma-like phenotype.",
-      "journal": "Cureus",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42978565",
-      "doi": "10.3389/fendo.2026.1954698",
-      "title": "Case Report: Neurosurgery, octreotide, cabergoline, radiotherapy, pasireotide and pegvisomant - a multimodal strategy for adolescent acrogigantism.",
-      "abstract": "Growth hormone (GH)-secreting pituitary neuroendocrine tumors (PitNETs) are rare in the pediatric population. They often present as large, invasive tumors and are frequently associated with an underlying genetic predisposition, making their management particularly challenging. Optimal treatment requires an individualized multidisciplinary approach, which often involves a combination of surgery and adjuvant medical therapy or radiotherapy when necessary. We present a challenging case of an adolescent female with acrogigantism. The patient was diagnosed at the age of 13 years and 10 months during the evaluation of chronic headaches. Brain magnetic resonance imaging revealed an invasive PitNET measuring 38 \u00d7 23 \u00d7 32\u00a0mm, while biochemical assessment confirmed marked GH hypersecretion. The disease followed an aggressive course, and biochemical control could not be achieved despite optimal multimodal therapy. Sequential treatment included neurosurgical resection, octreotide LAR, cabergoline, pasireotide LAR, proton beam radiotherapy, and pegvisomant. Combination therapy with pegvisomant and octreotide LAR ultimately normalized insulin-like growth factor 1 concentrations while maintaining long-term radiological tumor stability. This case underscores the complexity of managing aggressive GH-secreting PitNETs in adolescents and emphasizes the need for individualized, multidisciplinary care and long-term follow-up. Combined medical therapy with pegvisomant and octreotide LAR may provide effective biochemical control when surgery, radiotherapy, and standard medical treatment are insufficient.",
-      "journal": "Frontiers in endocrinology",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42948668",
-      "doi": "10.7759/cureus.118537",
-      "title": "Pituitary Apoplexy Complicated by Pulmonary Embolism in a Neurologically Complex Patient: A Diagnostic Challenge.",
-      "abstract": "Pituitary apoplexy is a rare endocrine emergency resulting from either acute haemorrhage or infarction within the pituitary gland. Although apoplexy occurs most frequently in a pre-existing pituitary adenoma,\u00a0apoplexy could be the first presentation of\u00a0a previously unknown adenoma.\u00a0Acute headaches, visual disturbances,\u00a0and neurological symptoms\u00a0are common presenting symptoms in apoplexy; however, these symptoms may overlap with other neurological emergencies, which necessitate a holistic approach of clinical, radiological, and\u00a0hormonal evaluation for\u00a0suspected cases of apoplexy to confirm the diagnosis. Here we present a diagnostically challenging case of\u00a0a 66-year-old man who presented with a sudden severe\u00a0headache. His background history included a presumed intraventricular neurocytoma under surveillance. Initial CT head scan suggested possible haemorrhage within a known intraventricular mass (neurocytoma) with no obvious changes\u00a0within the pituitary gland. However, subsequent MRI head demonstrated\u00a0radiological\u00a0features consistent with pituitary apoplexy. Later in\u00a0his admission, he exhibited bilateral peripheral visual field constriction and early papilledema\u00a0on fundoscopy. Hormonal testing showed evidence of hypopituitarism. The patient was managed conservatively with intravenous hydrocortisone replacement. During admission, he developed bilateral pulmonary emboli, for which he was treated with anticoagulation. While he was on anticoagulation, he developed\u00a0intracranial haemorrhage, which led to his death after discharge from the hospital.\u00a0This case demonstrates the importance of considering pituitary apoplexy in a challenging radiological and clinical presentation. A pre-existing neurological lesion (neurocytoma) makes a holistic approach, including MRI imaging and early hormonal evaluation are essential for timely diagnosis and treatment of pituitary apoplexy.\u00a0The clinical challenge of having concurrent haemorrhagic and thrombotic events necessitates an individualised approach after balancing the benefits\u00a0and risks of using anticoagulation treatment.",
-      "journal": "Cureus",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42991224",
-      "doi": "10.2147/IMCRJ.S660971",
-      "title": "Solitary Neurofibroma in the Submental Region of a 15-Year-Old Adolescent: A Case Report and Review of Literature.",
-      "abstract": "Neurofibroma is a benign peripheral nerve sheath tumor composed of Schwann cells and fibroblasts. It may occur sporadically or as part of neurofibromatosis type 1 (NF1). Solitary neurofibroma arising in the submental region of an adolescent is extremely rare. We report a case of a solitary submental neurofibroma in a 15-year-old male and highlight its diagnostic and management implications. A 15-year-old adolescent boy presented with a chronic, painless right submental swelling that had been present for one year and had enlarged over the preceding three months. Clinical examination revealed a rubbery, nontender, approximately 3\u00d73\u00d74 cm mass without skin changes or systemic symptoms. There was no personal or family history suggestive of NF1, neural tumors, or pheochromocytoma. Ultrasound and CT imaging showed a well-defined soft-tissue mass consistent with a benign neurogenic tumor. The mass was completely excised via a submental incision. Histopathological examination confirmed a solitary neurofibroma with Schwann cell and fibroblast proliferation within a collagen matrix, Antoni A and B patterns, and positive S-100 immunostaining, with no evidence of malignancy. The postoperative course was uneventful, and tongue and floor-of-mouth function were preserved. Solitary submental neurofibroma should be considered in the differential diagnosis of submental masses in adolescents, even in the absence of NF1 features. Complete surgical excision is the treatment of choice and allows definitive histopathological diagnosis. A thorough evaluation for NF1 is recommended to guide long-term management and follow-up.",
-      "journal": "International medical case reports journal",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Case Reports",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "42978598",
-      "doi": "10.1002/iju5.70293",
-      "title": "Durable Complete Response to Pembrolizumab for Postoperative Nodal Recurrence of Lynch Syndrome-Associated Upper Tract Urothelial Carcinoma: A Case Report.",
-      "abstract": "Germline mutations in mismatch repair genes cause Lynch syndrome and are associated with upper tract urothelial carcinoma (UTUC). Tumors with deficient mismatch repair (dMMR) or microsatellite instability-high (MSI-H) may respond favorably to immune checkpoint inhibitors. A 54-year-old woman with Lynch syndrome and a germline MSH2 mutation developed right renal pelvic carcinoma. The tumor was diagnosed as a pT3 high-grade urothelial carcinoma, and the patient underwent laparoscopic nephroureterectomy. She was subsequently administered adjuvant gemcitabine and carboplatin due to a contraindication for cisplatin. Due to nodal recurrence, pembrolizumab was initiated at 200\u2009mg every 3\u2009weeks, achieving a complete radiological and metabolic response after five cycles. The course was complicated by immune-related adrenal insufficiency, which was managed with corticosteroid replacement therapy. Pembrolizumab may achieve a durable complete response in Lynch syndrome-associated UTUC. MSI screening should be considered in UTUC to guide decision-making.",
-      "journal": "IJU case reports",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42995131",
-      "doi": "10.1016/j.bjoms.2026.09.003",
-      "title": "Histopathological predictors of extranodal extension in oral cavity squamous cell carcinoma: a five-year retrospective cohort study.",
-      "abstract": "The extranodal extension (ENE) of cervical nodal metastases is a major adverse prognostic feature in oral cavity squamous cell carcinoma (OCSCC). Despite this clinical significance, the primary histopathological features of the tumour that independently predict ENE as distinct from nodal metastasis remain poorly characterised. This study was undertaken with the aim of addressing that gap. A retrospective cohort of 181 randomly selected patients with OCSCC was analysed from a 5-year institutional database (January 2019-February 2025). Three multivariate logistic regression models were constructed: 1) ENE-positive versus all other cases (global model); 2) Node-positive versus node-negative; and (3) ENE-positive versus node-positive (ENE-negative). Histopathological variables included tumour differentiation, lymphovascular invasion (LVI), perineural invasion (PNI), pattern of invasion, bone involvement, depth of invasion (DOI) and maximum tumour diameter (size). Poor differentiation was the only independent predictor of ENE across all three models (OR 3.67, 95% CI 1.77-7.62, p\u202f<\u202f0.001 in the global model; OR 2.58, 95% CI 1.15-5.78, p\u202f=\u202f0.021 in node-positive patients). Bone involvement was independently associated with ENE in the global model (OR 7.86, 95% CI 1.33-46.49, p\u202f=\u202f0.023). DOI, size, PNI, LVI, and pattern of invasion did not independently predict ENE in any model. The tumour subsite influenced the pattern of invasion and LVI but not ENE or nodal status. ENE in OCSCC appears to be governed by the tumour biology, principally histological grade, rather than by tumour dimensions. Preoperative biopsy grading could carry weight in the stratification of risk and requirement for adjuvant therapy planning.",
-      "journal": "The British journal of oral & maxillofacial surgery",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42965591",
-      "doi": "10.1007/s00261-026-05849-8",
-      "title": "Transfemoral transcaval adrenal biopsy: a technical report and review of adrenal biopsy approaches.",
-      "abstract": "Despite advances in cross-sectional imaging, adrenal biopsy plays a role in a small subset of lesions that remain indeterminate after complete imaging work-up or in which tissue diagnosis would alter management. Anatomic constraints around the adrenal glands can make safe percutaneous access technically challenging. This technical report describes a transfemoral transcaval approach to biopsy of a right adrenal mass directly abutting the inferior vena cava (IVC) that was not safely accessible by conventional percutaneous routes. Additionally, a concise review of contemporary adrenal biopsy indications and access routes is performed. Adapted from transfemoral transcaval liver biopsy, the technique uses right common femoral venous access, positioning of a reshaped metal guide cannula within the IVC at the level of the lesion adjacent to the right renal vein, and deployment of a core biopsy needle across the caval wall under combined fluoroscopic and ultrasound guidance, with cone-beam CT confirmation of needle position and completion venography to exclude caval injury. Diagnostic tissue was obtained without periprocedural complication; histopathology demonstrated an unexpected pheochromocytoma, a finding discussed here in detail due to its implications for pre-procedure biochemical evaluation. This limited experience demonstrates technical feasibility in carefully selected patients. The safety and comparative effectiveness of the technique require evaluation in larger series.",
-      "journal": "Abdominal radiology (New York)",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
       ]
     },
     {
@@ -505,6 +327,80 @@
       ]
     },
     {
+      "pmid": "42951634",
+      "doi": "10.11406/rinketsu.67.1194",
+      "title": "[Reference guide for the clinical management of adult Langerhans cell histiocytosis (key points from the first edition, 2025)].",
+      "abstract": "According to the registry of the Japanese Society of Hematology, adult histiocytic neoplasms are extremely rare, with approximately 40 cases reported annually, and the most common among them is Langerhans cell histiocytosis (LCH). Lesions may involve multiple organs, including bone, skin, lung, the central nervous system, and the endocrine system. Without a hematology perspective, the neoplastic nature of LCH may not be apparent, resulting in missed diagnoses. Central diabetes insipidus, anterior pituitary dysfunction, and LCH-associated neurodegeneration, once developed, often result in irreversible impairment. Because delayed therapeutic intervention can result in permanent organ damage, it is essential for hematologists to understand the \"minimum initial management\" required to protect patient outcomes. This review summarizes the key points of diagnosis and initial management in adult LCH based on the first edition of the Adult LCH Clinical Reference Guide (2025).",
+      "journal": "[Rinsho ketsueki] The Japanese journal of clinical hematology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "English Abstract"
+      ]
+    },
+    {
+      "pmid": "42999914",
+      "doi": "10.7759/cureus.117646",
+      "title": "Epidermoid Cyst of the Cecum: A Case Report of an Exceptionally Rare Entity and Review of the Literature.",
+      "abstract": "Epidermoid cysts of the cecum are extremely rare benign lesions of the gastrointestinal tract. Their diagnosis remains challenging due to the lack of specific clinical symptoms and inconclusive radiological findings. Consequently, accurate preoperative diagnosis is difficult, with lesions often being misdiagnosed as appendiceal mucoceles, gastrointestinal stromal tumors (GISTs), duplication cysts, or adnexal masses. We report the case of a 59-year-old male who presented with right lower quadrant abdominal pain and a palpable mass. Comprehensive diagnostic imaging, including abdominal ultrasonography, abdominopelvic computed tomography, and magnetic resonance imaging (MRI), revealed a well-circumscribed cystic lesion arising from the cecal wall, initially concerning for a cecal neoplasm or appendiceal mucocele. The patient underwent a successful right hemicolectomy, and histopathological examination definitively confirmed a cecal epidermoid cyst lined by stratified squamous epithelium containing keratinaceous debris. Postoperative recovery was uneventful. Although exceptionally rare, epidermoid cysts should be included in the differential diagnosis of right lower quadrant masses. Despite the limited number of reported cases, complete surgical excision remains the definitive treatment of choice, providing an excellent long-term prognosis with no evidence of recurrence.",
+      "journal": "Cureus",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42955823",
+      "doi": "10.1093/jvimsj/aalag269",
+      "title": "Utility of the ACTH/cortisol ratio for differentiating pituitary microadenomas from macroadenomas in dogs with pituitary-dependent hypercortisolism.",
+      "abstract": "No simple, blood-based biomarker to estimate tumor size in dogs with pituitary-dependent hypercortisolism (PDH) has been evaluated. Determine whether the adrenocorticotropic hormone (ACTH)/cortisol ratio differentiates pituitary microadenomas from macroadenomas in dogs with PDH and correlates with pituitary size. Seventy privately-owned dogs with PDH (microadenomas, n\u00a0=\u00a030; macroadenomas, n\u00a0=\u00a040). Retrospective multicenter observational study. Endogenous ACTH and cortisol concentrations obtained at the same time point before treatment were used to calculate the ACTH/cortisol ratio. Pituitary tumor size was classified using the pituitary-to-brain (P/B) ratio. Diagnostic performance was evaluated using receiver operating characteristic analysis and multivariable logistic regression. Dogs with macroadenomas had significantly higher ACTH/cortisol ratios than dogs with microadenomas (median, 9.12; IQR, 6.46-14.28 vs median, 4.90; IQR, 3.08-8.10; P\u00a0<\u00a0.001). The ratio showed moderate discrimination for differentiating macroadenomas from microadenomas with an area under the curve of 0.77 (95% CI, 0.66-0.89; P\u00a0<\u00a0.001). A cutoff >5.69 yielded 85% sensitivity and 60% specificity (positive likelihood ratio 2.13), whereas a higher ratio\u00a0>11.74 achieved 90% specificity and 35% sensitivity (positive likelihood ratio 3.50). The ACTH/cortisol ratio showed moderate positive correlation with pituitary size (Spearman's \u03c1\u00a0=\u00a00.48; 95% CI, 0.26-0.64; P\u00a0<\u00a0.001) and remained independently associated with macroadenoma classification in multivariable analysis (OR, 1.19; 95% CI, 1.05-1.40). The ACTH/cortisol ratio is associated with pituitary tumor size in dogs with PDH and may support clinical risk stratification, particularly when advanced imaging is unavailable.",
+      "journal": "Journal of veterinary internal medicine",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Observational Study, Veterinary"
+      ]
+    },
+    {
+      "pmid": "42999919",
+      "doi": "10.1016/j.jtumed.2026.10.001",
+      "title": "Cardiovascular diseases and guideline-directed medical therapy in low socio-economic status patients: A single center experience.",
+      "abstract": "Patients with a low socio-economic status (SES) exhibit high cardiovascular risk factors (CVRFs) and a high burden of cardiovascular disease (CVD), but they are under-recognized in clinical practice. In this study, we explored CVRFs and CVD in low-SES patients, and estimated the guideline-directed medical therapy (GDMT) prevalence for each CVD. Consecutive individuals with low-SES who attended the primary care and cardiology clinics within a single charitable medical center between 2024 and 2025 were retrospectively recruited. Data on SES, symptoms, CVRFs, CVDs, and treatment strategies were collected and analyzed descriptively. GDMT comprised class I medications reported by patients and documented in their medical records at the time of data collection for each CVD. Among the 2374 patients, the mean age was 58.7 \u00b1 6 years (57.2% females). Common CVRFs included hypertension (39.5%), diabetes (28.6%), and hyperlipidemia (27.4%). Common CVDs included coronary artery disease (CAD) (12.4%), heart failure (HF) (6%), and atrial fibrillation (AF) (1.7%) (mean ages: 55.79, 63.12, and 62.4 years, respectively). CAD patients had a high prevalence of acute coronary syndrome (74.2%), with most managed noninvasively (87%), but 38.5% received GDMT. HF with reduced ejection fraction (HFrEF) exceeded HF with preserved EF (HFpEF) (63.6% vs. 32.8%). Prevalent HF causes included CAD, hypertension, and valvular disease (33.6%, 27.3%, and 26.6%, respectively). GDMT rates for HFrEF and HFpEF were 18.7% and 34%, respectively. The mean CHA2DS2-VASc score was 3.5 for AF patients, with 42.8% on GDMT (78% on warfarin). Low-SES patients had a high prevalence of CVRF, where CAD, HF, and AF were most common. The patients were relatively young and managed conservatively, but GDMT rates were low. These findings may guide policymakers to improve cardiovascular care in low-SES individuals. \u064a\u064f\u0648\u0627\u062c\u0647 \u0627\u0644\u0623\u0641\u0631\u0627\u062f \u0630\u0648\u0648 \u0627\u0644\u0645\u0633\u062a\u0648\u0649 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a \u0648\u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f\u064a \u0627\u0644\u0645\u0646\u062e\u0641\u0636 \u0639\u0628\u0626\u0627\u064b \u0645\u062a\u0632\u0627\u064a\u062f\u0627\u064b \u0645\u0646 \u0639\u0648\u0627\u0645\u0644 \u062e\u0637\u0631 \u0627\u0644\u0625\u0635\u0627\u0628\u0629 \u0628\u0623\u0645\u0631\u0627\u0636 \u0627\u0644\u0642\u0644\u0628 \u0648\u0627\u0644\u0623\u0648\u0639\u064a\u0629 \u0627\u0644\u062f\u0645\u0648\u064a\u0629\u060c \u0625\u0644\u0649 \u062c\u0627\u0646\u0628 \u0645\u062d\u062f\u0648\u062f\u064a\u0629 \u0627\u0644\u0648\u0635\u0648\u0644 \u0625\u0644\u0649 \u0627\u0644\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u0635\u062d\u064a\u0629 \u0648\u0627\u0644\u0639\u0644\u0627\u062c\u0627\u062a \u0627\u0644\u0645\u0648\u0635\u0649 \u0628\u0647\u0627 \u0648\u0641\u0642 \u0627\u0644\u0625\u0631\u0634\u0627\u062f\u0627\u062a \u0627\u0644\u0633\u0631\u064a\u0631\u064a\u0629. \u0648\u0639\u0644\u0649 \u0627\u0644\u0631\u063a\u0645 \u0645\u0646 \u0623\u0647\u0645\u064a\u0629 \u0647\u0630\u0647 \u0627\u0644\u062a\u062d\u062f\u064a\u0627\u062a\u060c \u0644\u0627 \u062a\u0632\u0627\u0644 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0645\u062a\u0639\u0644\u0642\u0629 \u0628\u0627\u0646\u062a\u0634\u0627\u0631 \u0623\u0645\u0631\u0627\u0636 \u0627\u0644\u0642\u0644\u0628 \u0648\u0627\u0644\u0623\u0648\u0639\u064a\u0629 \u0627\u0644\u062f\u0645\u0648\u064a\u0629 \u0648\u0645\u062f\u0649 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u0644\u0639\u0644\u0627\u062c \u0627\u0644\u062f\u0648\u0627\u0626\u064a \u0627\u0644\u0645\u0648\u062c\u0651\u0647 \u0648\u0641\u0642 \u0627\u0644\u0625\u0631\u0634\u0627\u062f\u0627\u062a \u0627\u0644\u0633\u0631\u064a\u0631\u064a\u0629 (GDMT) \u0644\u062f\u0649 \u0647\u0630\u0647 \u0627\u0644\u0641\u0626\u0629 \u0641\u064a \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629 \u0645\u062d\u062f\u0648\u062f\u0629. \u0647\u062f\u0641\u062a \u0647\u0630\u0647 \u0627\u0644\u062f\u0631\u0627\u0633\u0629 \u0625\u0644\u0649 \u0627\u0633\u062a\u0643\u0634\u0627\u0641 \u0639\u0648\u0627\u0645\u0644 \u0627\u0644\u062e\u0637\u0631 \u0627\u0644\u0642\u0644\u0628\u064a\u0629 \u0627\u0644\u0648\u0639\u0627\u0626\u064a\u0629 \u0648\u0627\u0644\u0623\u0645\u0631\u0627\u0636 \u0627\u0644\u0645\u0631\u062a\u0628\u0637\u0629 \u0628\u0647\u0627 \u0644\u062f\u0649 \u0627\u0644\u0645\u0631\u0636\u0649 \u0630\u0648\u064a \u0627\u0644\u0645\u0633\u062a\u0648\u0649 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a \u0648\u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f\u064a \u0627\u0644\u0645\u0646\u062e\u0641\u0636\u060c \u0648\u062a\u062d\u062f\u064a\u062f \u0645\u0639\u062f\u0644\u0627\u062a \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u0644\u0639\u0644\u0627\u062c\u0627\u062a \u0627\u0644\u062f\u0648\u0627\u0626\u064a\u0629 \u0627\u0644\u0645\u0648\u0635\u0649 \u0628\u0647\u0627 \u0644\u0643\u0644 \u0645\u0631\u0636. \u0623\u064f\u062c\u0631\u064a\u062a \u062f\u0631\u0627\u0633\u0629 \u0627\u0633\u062a\u0639\u0627\u062f\u064a\u0629 \u0648\u0635\u0641\u064a\u0629 \u0634\u0645\u0644\u062a 2374 \u0645\u0631\u064a\u0636\u0627\u064b \u0645\u0646 \u0630\u0648\u064a \u0627\u0644\u0645\u0633\u062a\u0648\u0649 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a \u0648\u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f\u064a \u0627\u0644\u0645\u0646\u062e\u0641\u0636\u060c \u0645\u0645\u0646 \u0631\u0627\u062c\u0639\u0648\u0627 \u0639\u064a\u0627\u062f\u0627\u062a \u0627\u0644\u0631\u0639\u0627\u064a\u0629 \u0627\u0644\u0635\u062d\u064a\u0629 \u0627\u0644\u0623\u0648\u0644\u064a\u0629 \u0641\u064a \u062c\u0645\u0639\u064a\u0629 \u0627\u0644\u0631\u0639\u0627\u064a\u0629 \u0627\u0644\u0635\u062d\u064a\u0629 \u0627\u0644\u062e\u064a\u0631\u064a\u0629 \u0628\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0629\u060c \u062e\u0644\u0627\u0644 \u0627\u0644\u0641\u062a\u0631\u0629 \u0645\u0646 \u064a\u0646\u0627\u064a\u0631 2024 \u0625\u0644\u0649 \u064a\u0646\u0627\u064a\u0631 2025. \u0634\u0645\u0644\u062a \u0627\u0644\u062f\u0631\u0627\u0633\u0629 \u0627\u0644\u0623\u0641\u0631\u0627\u062f \u0627\u0644\u0628\u0627\u0644\u063a\u064a\u0646 \u0645\u0646 \u0627\u0644\u0639\u0645\u0631 18 \u0639\u0627\u0645\u0627\u064b \u0641\u0623\u0643\u062b\u0631\u060c \u0645\u0645\u0646 \u0643\u0627\u0646\u0648\u0627 \u0639\u0627\u0637\u0644\u064a\u0646 \u0639\u0646 \u0627\u0644\u0639\u0645\u0644 \u0623\u0648 \u064a\u0642\u0644 \u062f\u062e\u0644 \u0623\u0633\u0631\u0647\u0645 \u0627\u0644\u0634\u0647\u0631\u064a \u0639\u0646 1200 \u062f\u0648\u0644\u0627\u0631 \u0623\u0645\u0631\u064a\u0643\u064a. \u062c\u064f\u0645\u0639\u062a \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0645\u062a\u0639\u0644\u0642\u0629 \u0628\u0627\u0644\u062e\u0635\u0627\u0626\u0635 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a\u0629 \u0648\u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f\u064a\u0629\u060c \u0648\u0639\u0648\u0627\u0645\u0644 \u0627\u0644\u062e\u0637\u0631 \u0627\u0644\u0642\u0644\u0628\u064a\u0629 \u0627\u0644\u0648\u0639\u0627\u0626\u064a\u0629\u060c \u0648\u0627\u0644\u0623\u0645\u0631\u0627\u0636 \u0627\u0644\u0645\u0635\u0627\u062d\u0628\u0629\u060c \u0648\u0623\u0645\u0631\u0627\u0636 \u0627\u0644\u0642\u0644\u0628 \u0648\u0627\u0644\u0623\u0648\u0639\u064a\u0629 \u0627\u0644\u062f\u0645\u0648\u064a\u0629\u060c \u0648\u0627\u0644\u0639\u0644\u0627\u062c\u0627\u062a \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u0629. \u0648\u0634\u064f\u062e\u0651\u0635\u062a \u0623\u0645\u0631\u0627\u0636 \u0627\u0644\u0642\u0644\u0628 \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u0644\u062a\u0642\u064a\u064a\u0645 \u0627\u0644\u0633\u0631\u064a\u0631\u064a \u0648\u062a\u062e\u0637\u064a\u0637 \u0627\u0644\u0642\u0644\u0628 \u0627\u0644\u0643\u0647\u0631\u0628\u0627\u0626\u064a \u0648\u062a\u062e\u0637\u064a\u0637 \u0635\u062f\u0649 \u0627\u0644\u0642\u0644\u0628\u060c \u0645\u0639 \u062a\u0642\u064a\u064a\u0645 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u0644\u0639\u0644\u0627\u062c \u0627\u0644\u062f\u0648\u0627\u0626\u064a \u0648\u0641\u0642 \u0627\u0644\u062a\u0639\u0631\u064a\u0641\u0627\u062a \u0627\u0644\u0645\u062d\u062f\u062f\u0629 \u0644\u0643\u0644 \u0645\u0631\u0636. \u0648\u062d\u064f\u0644\u0644\u062a \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u0644\u0625\u062d\u0635\u0627\u0621 \u0627\u0644\u0648\u0635\u0641\u064a\u060c \u0648\u0639\u064f\u0631\u0636\u062a \u0627\u0644\u0646\u062a\u0627\u0626\u062c \u0641\u064a \u0635\u0648\u0631\u0629 \u062a\u0643\u0631\u0627\u0631\u0627\u062a \u0648\u0646\u0633\u0628 \u0645\u0626\u0648\u064a\u0629 \u0648\u0645\u062a\u0648\u0633\u0637\u0627\u062a \u062d\u0633\u0627\u0628\u064a\u0629 \u0648\u0627\u0646\u062d\u0631\u0627\u0641\u0627\u062a \u0645\u0639\u064a\u0627\u0631\u064a\u0629. \u0628\u0644\u063a \u0645\u062a\u0648\u0633\u0637 \u0623\u0639\u0645\u0627\u0631 \u0627\u0644\u0645\u0634\u0627\u0631\u0643\u064a\u0646 58.7 \u00b1 6 \u0633\u0646\u0648\u0627\u062a\u060c \u0648\u0634\u0643\u0651\u0644\u062a \u0627\u0644\u0625\u0646\u0627\u062b 57.2% \u0645\u0646 \u0627\u0644\u0639\u064a\u0646\u0629. \u0648\u0643\u0627\u0646 \u0645\u0639\u0638\u0645 \u0627\u0644\u0645\u0634\u0627\u0631\u0643\u064a\u0646 \u0645\u0646 \u063a\u064a\u0631 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u064a\u0646 (61.3%)\u060c \u0648\u0627\u0644\u0639\u0627\u0637\u0644\u064a\u0646 \u0639\u0646 \u0627\u0644\u0639\u0645\u0644 (77.6%)\u060c \u0648\u063a\u064a\u0631 \u0627\u0644\u0645\u0634\u0645\u0648\u0644\u064a\u0646 \u0628\u0627\u0644\u062a\u0623\u0645\u064a\u0646 \u0627\u0644\u0635\u062d\u064a (68%). \u0648\u0628\u0644\u063a \u0645\u062a\u0648\u0633\u0637 \u0627\u0644\u062f\u062e\u0644 \u0627\u0644\u0634\u0647\u0631\u064a \u0644\u0644\u0623\u0633\u0631\u0629 558 \u00b1 86 \u062f\u0648\u0644\u0627\u0631\u0627\u064b \u0623\u0645\u0631\u064a\u0643\u064a\u0627\u064b. \u0648\u0643\u0627\u0646\u062a \u0623\u0643\u062b\u0631 \u0639\u0648\u0627\u0645\u0644 \u0627\u0644\u062e\u0637\u0631 \u0627\u0644\u0642\u0644\u0628\u064a\u0629 \u0627\u0644\u0648\u0639\u0627\u0626\u064a\u0629 \u0627\u0646\u062a\u0634\u0627\u0631\u0627\u064b \u0627\u0631\u062a\u0641\u0627\u0639 \u0636\u063a\u0637 \u0627\u0644\u062f\u0645 (39.6%)\u060c \u0648\u062f\u0627\u0621 \u0627\u0644\u0633\u0643\u0631\u064a (28.6%)\u060c \u0648\u0641\u0631\u0637 \u0634\u062d\u0645\u064a\u0627\u062a \u0627\u0644\u062f\u0645 (27.4%)\u060c \u0641\u064a \u062d\u064a\u0646 \u0628\u0644\u063a\u062a \u0646\u0633\u0628\u0629 \u0627\u0644\u0645\u062f\u062e\u0646\u064a\u0646 6.4%.\u0643\u0627\u0646 \u0645\u0631\u0636 \u0627\u0644\u0634\u0631\u064a\u0627\u0646 \u0627\u0644\u062a\u0627\u062c\u064a \u0623\u0643\u062b\u0631 \u0623\u0645\u0631\u0627\u0636 \u0627\u0644\u0642\u0644\u0628 \u0648\u0627\u0644\u0623\u0648\u0639\u064a\u0629 \u0627\u0644\u062f\u0645\u0648\u064a\u0629 \u0634\u064a\u0648\u0639\u0627\u064b (12.4%)\u060c \u064a\u0644\u064a\u0647 \u0642\u0635\u0648\u0631 \u0627\u0644\u0642\u0644\u0628 (6%)\u060c \u062b\u0645 \u0627\u0644\u0631\u062c\u0641\u0627\u0646 \u0627\u0644\u0623\u0630\u064a\u0646\u064a (1.7%). \u0648\u0645\u0646 \u0628\u064a\u0646 294 \u0645\u0631\u064a\u0636\u0627\u064b \u0645\u0635\u0627\u0628\u0627\u064b \u0628\u0645\u0631\u0636 \u0627\u0644\u0634\u0631\u064a\u0627\u0646 \u0627\u0644\u062a\u0627\u062c\u064a\u060c \u0634\u064f\u062e\u0651\u0635 74.2% \u0628\u0645\u062a\u0644\u0627\u0632\u0645\u0629 \u0627\u0644\u0634\u0631\u064a\u0627\u0646 \u0627\u0644\u062a\u0627\u062c\u064a \u0627\u0644\u062d\u0627\u062f\u0629\u060c \u0648\u062e\u0636\u0639 13% \u0641\u0642\u0637 \u0644\u062a\u0635\u0648\u064a\u0631 \u0627\u0644\u0634\u0631\u0627\u064a\u064a\u0646 \u0627\u0644\u062a\u0627\u062c\u064a\u0629\u060c \u0628\u064a\u0646\u0645\u0627 \u062a\u0644\u0642\u0649 87% \u0627\u0644\u0639\u0644\u0627\u062c \u062f\u0648\u0646 \u062a\u062f\u062e\u0644 \u062c\u0631\u0627\u062d\u064a \u0623\u0648 \u0642\u0633\u0637\u0631\u064a. \u0648\u0628\u0644\u063a\u062a \u0646\u0633\u0628\u0629 \u0627\u0644\u0645\u0631\u0636\u0649 \u0627\u0644\u0630\u064a\u0646 \u062a\u0644\u0642\u0648\u0627 \u0627\u0644\u0639\u0644\u0627\u062c \u0627\u0644\u062f\u0648\u0627\u0626\u064a \u0627\u0644\u0623\u0645\u062b\u0644 \u0648\u0641\u0642 \u0627\u0644\u0625\u0631\u0634\u0627\u062f\u0627\u062a 38.5%.\u0648\u0645\u0646 \u0628\u064a\u0646 143 \u0645\u0631\u064a\u0636\u0627\u064b \u0645\u0635\u0627\u0628\u0627\u064b \u0628\u0642\u0635\u0648\u0631 \u0627\u0644\u0642\u0644\u0628\u060c \u0634\u0643\u0651\u0644 \u0642\u0635\u0648\u0631 \u0627\u0644\u0642\u0644\u0628 \u0627\u0644\u0645\u0635\u062d\u0648\u0628 \u0628\u0627\u0646\u062e\u0641\u0627\u0636 \u0627\u0644\u0643\u0633\u0631 \u0627\u0644\u0642\u0630\u0641\u064a 63.6%\u060c \u0645\u0642\u0627\u0628\u0644 32.8% \u0644\u0642\u0635\u0648\u0631 \u0627\u0644\u0642\u0644\u0628 \u0627\u0644\u0645\u0635\u062d\u0648\u0628 \u0628\u0643\u0633\u0631 \u0642\u0630\u0641\u064a \u0645\u062d\u0641\u0648\u0638. \u0648\u0643\u0627\u0646\u062a \u0623\u0628\u0631\u0632 \u0645\u0633\u0628\u0628\u0627\u062a \u0642\u0635\u0648\u0631 \u0627\u0644\u0642\u0644\u0628 \u0645\u0631\u0636 \u0627\u0644\u0634\u0631\u064a\u0627\u0646 \u0627\u0644\u062a\u0627\u062c\u064a (33.6%)\u060c \u0648\u0627\u0631\u062a\u0641\u0627\u0639 \u0636\u063a\u0637 \u0627\u0644\u062f\u0645 (27.3%)\u060c \u0648\u0623\u0645\u0631\u0627\u0636 \u0635\u0645\u0627\u0645\u0627\u062a \u0627\u0644\u0642\u0644\u0628 (26.6%). \u0648\u0628\u0644\u063a\u062a \u0645\u0639\u062f\u0644\u0627\u062a \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u0644\u0639\u0644\u0627\u062c \u0627\u0644\u062f\u0648\u0627\u0626\u064a \u0627\u0644\u0623\u0645\u062b\u0644 18.7% \u0644\u062f\u0649 \u0645\u0631\u0636\u0649 \u0642\u0635\u0648\u0631 \u0627\u0644\u0642\u0644\u0628 \u0630\u0648\u064a \u0627\u0644\u0643\u0633\u0631 \u0627\u0644\u0642\u0630\u0641\u064a \u0627\u0644\u0645\u0646\u062e\u0641\u0636\u060c \u064834% \u0644\u062f\u0649 \u0627\u0644\u0645\u0631\u0636\u0649 \u0630\u0648\u064a \u0627\u0644\u0643\u0633\u0631 \u0627\u0644\u0642\u0630\u0641\u064a \u0627\u0644\u0645\u062d\u0641\u0648\u0638\u060c \u0648\u0641\u0642 \u0627\u0644\u062a\u0639\u0631\u064a\u0641 \u0627\u0644\u0625\u062c\u0631\u0627\u0626\u064a \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645 \u0641\u064a \u0627\u0644\u062f\u0631\u0627\u0633\u0629. \u0643\u0645\u0627 \u0643\u0627\u0646\u062a \u0645\u0639\u062f\u0644\u0627\u062a \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0623\u062c\u0647\u0632\u0629 \u0645\u0642\u0648\u0651\u0645 \u0646\u0638\u0645 \u0627\u0644\u0642\u0644\u0628 \u0648\u0645\u0632\u064a\u0644 \u0627\u0644\u0631\u062c\u0641\u0627\u0646 \u0627\u0644\u0642\u0627\u0628\u0644 \u0644\u0644\u0632\u0631\u0639 \u0648\u0627\u0644\u0639\u0644\u0627\u062c \u0628\u0625\u0639\u0627\u062f\u0629 \u0627\u0644\u062a\u0632\u0627\u0645\u0646 \u0627\u0644\u0642\u0644\u0628\u064a \u0645\u0646\u062e\u0641\u0636\u0629\u060c \u0625\u0630 \u0628\u0644\u063a\u062a 7% \u06487.7% \u0639\u0644\u0649 \u0627\u0644\u062a\u0648\u0627\u0644\u064a.\u0623\u0645\u0627 \u0645\u0631\u0636\u0649 \u0627\u0644\u0631\u062c\u0641\u0627\u0646 \u0627\u0644\u0623\u0630\u064a\u0646\u064a\u060c \u0648\u0627\u0644\u0628\u0627\u0644\u063a \u0639\u062f\u062f\u0647\u0645 42 \u0645\u0631\u064a\u0636\u0627\u064b\u060c \u0641\u0642\u062f \u0628\u0644\u063a \u0645\u062a\u0648\u0633\u0637 \u0623\u0639\u0645\u0627\u0631\u0647\u0645 62.4 \u00b1 9.5 \u0633\u0646\u0648\u0627\u062a\u060c \u0648\u0645\u062a\u0648\u0633\u0637 \u062f\u0631\u062c\u0629 \u062e\u0637\u0631 \u0627\u0644\u0633\u0643\u062a\u0629 \u0627\u0644\u062f\u0645\u0627\u063a\u064a\u0629 \u0648\u0641\u0642 \u0645\u0642\u064a\u0627\u0633 CHA2DS2-VASc \u0646\u062d\u0648 3.5 \u00b1 1.8. \u0648\u0628\u0644\u063a\u062a \u0646\u0633\u0628\u0629 \u0627\u0644\u0645\u0631\u0636\u0649 \u0627\u0644\u0630\u064a\u0646 \u062a\u0644\u0642\u0648\u0627 \u0627\u0644\u0639\u0644\u0627\u062c \u0627\u0644\u0623\u0645\u062b\u0644 \u0628\u0645\u0636\u0627\u062f\u0627\u062a \u0627\u0644\u062a\u062e\u062b\u0631 42.8%\u060c \u0648\u0643\u0627\u0646 \u0627\u0644\u0648\u0627\u0631\u0641\u0627\u0631\u064a\u0646 \u0623\u0643\u062b\u0631 \u0645\u0636\u0627\u062f\u0627\u062a \u0627\u0644\u062a\u062e\u062b\u0631 \u0627\u0633\u062a\u062e\u062f\u0627\u0645\u0627\u064b (78%) \u0645\u0642\u0627\u0631\u0646\u0629 \u0628\u0645\u0636\u0627\u062f\u0627\u062a \u0627\u0644\u062a\u062e\u062b\u0631 \u0627\u0644\u0641\u0645\u0648\u064a\u0629 \u0627\u0644\u0645\u0628\u0627\u0634\u0631\u0629 (22%). \u0623\u0638\u0647\u0631\u062a \u0627\u0644\u062f\u0631\u0627\u0633\u0629 \u0627\u0631\u062a\u0641\u0627\u0639 \u0645\u0639\u062f\u0644\u0627\u062a \u0627\u0646\u062a\u0634\u0627\u0631 \u0639\u0648\u0627\u0645\u0644 \u0627\u0644\u062e\u0637\u0631 \u0627\u0644\u0642\u0644\u0628\u064a\u0629 \u0627\u0644\u0648\u0639\u0627\u0626\u064a\u0629 \u0648\u0623\u0645\u0631\u0627\u0636 \u0627\u0644\u0634\u0631\u064a\u0627\u0646 \u0627\u0644\u062a\u0627\u062c\u064a \u0648\u0642\u0635\u0648\u0631 \u0627\u0644\u0642\u0644\u0628 \u0648\u0627\u0644\u0631\u062c\u0641\u0627\u0646 \u0627\u0644\u0623\u0630\u064a\u0646\u064a \u0644\u062f\u0649 \u0627\u0644\u0645\u0631\u0636\u0649 \u0630\u0648\u064a \u0627\u0644\u0645\u0633\u062a\u0648\u0649 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a \u0648\u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f\u064a \u0627\u0644\u0645\u0646\u062e\u0641\u0636. \u0643\u0645\u0627 \u0643\u0634\u0641\u062a \u0639\u0646 \u0627\u0646\u062e\u0641\u0627\u0636 \u0645\u0644\u062d\u0648\u0638 \u0641\u064a \u0645\u0639\u062f\u0644\u0627\u062a \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u0644\u0639\u0644\u0627\u062c\u0627\u062a \u0627\u0644\u062f\u0648\u0627\u0626\u064a\u0629 \u0627\u0644\u0645\u0648\u062c\u0651\u0647\u0629 \u0648\u0641\u0642 \u0627\u0644\u0625\u0631\u0634\u0627\u062f\u0627\u062a \u0627\u0644\u0633\u0631\u064a\u0631\u064a\u0629\u060c \u0648\u0645\u062d\u062f\u0648\u062f\u064a\u0629 \u0627\u0644\u0644\u062c\u0648\u0621 \u0625\u0644\u0649 \u0627\u0644\u062a\u062f\u062e\u0644\u0627\u062a \u0627\u0644\u0642\u0644\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u0642\u062f\u0645\u0629. \u0648\u062a\u0633\u0644\u0637 \u0647\u0630\u0647 \u0627\u0644\u0646\u062a\u0627\u0626\u062c \u0627\u0644\u0636\u0648\u0621 \u0639\u0644\u0649 \u0623\u0647\u0645\u064a\u0629 \u062a\u062d\u0633\u064a\u0646 \u0625\u062a\u0627\u062d\u0629 \u0627\u0644\u0631\u0639\u0627\u064a\u0629 \u0627\u0644\u0642\u0644\u0628\u064a\u0629 \u0648\u0627\u0644\u0639\u0644\u0627\u062c\u0627\u062a \u0627\u0644\u0645\u0648\u0635\u0649 \u0628\u0647\u0627\u060c \u0648\u062a\u0639\u0632\u064a\u0632 \u0628\u0631\u0627\u0645\u062c \u0627\u0644\u062f\u0639\u0645 \u0627\u0644\u0635\u062d\u064a \u0648\u0627\u0644\u062f\u0648\u0627\u0626\u064a \u0644\u0644\u0641\u0626\u0627\u062a \u0627\u0644\u0623\u0642\u0644 \u062f\u062e\u0644\u0627\u064b. \u0648\u0645\u0639 \u0630\u0644\u0643\u060c \u0641\u0625\u0646 \u0627\u0644\u0637\u0628\u064a\u0639\u0629 \u0627\u0644\u0627\u0633\u062a\u0639\u0627\u062f\u064a\u0629 \u0644\u0644\u062f\u0631\u0627\u0633\u0629 \u0648\u0627\u0642\u062a\u0635\u0627\u0631\u0647\u0627 \u0639\u0644\u0649 \u0645\u0631\u0643\u0632 \u0648\u0627\u062d\u062f\u060c \u0648\u0639\u062f\u0645 \u0627\u0644\u062a\u0642\u064a\u064a\u0645 \u0627\u0644\u0645\u0646\u0647\u062c\u064a \u0644\u0623\u0633\u0628\u0627\u0628 \u0639\u062f\u0645 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u0644\u0623\u062f\u0648\u064a\u0629\u060c \u062a\u062d\u062f\u0651 \u0645\u0646 \u0625\u0645\u0643\u0627\u0646\u064a\u0629 \u062a\u0639\u0645\u064a\u0645 \u0627\u0644\u0646\u062a\u0627\u0626\u062c \u0623\u0648 \u062a\u062d\u062f\u064a\u062f \u0627\u0644\u0639\u0648\u0627\u0645\u0644 \u0627\u0644\u0645\u0633\u0624\u0648\u0644\u0629 \u0639\u0646 \u0627\u0646\u062e\u0641\u0627\u0636 \u0645\u0639\u062f\u0644\u0627\u062a \u0627\u0644\u0639\u0644\u0627\u062c.",
+      "journal": "Journal of Taibah University Medical Sciences",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42991224",
+      "doi": "10.2147/IMCRJ.S660971",
+      "title": "Solitary Neurofibroma in the Submental Region of a 15-Year-Old Adolescent: A Case Report and Review of Literature.",
+      "abstract": "Neurofibroma is a benign peripheral nerve sheath tumor composed of Schwann cells and fibroblasts. It may occur sporadically or as part of neurofibromatosis type 1 (NF1). Solitary neurofibroma arising in the submental region of an adolescent is extremely rare. We report a case of a solitary submental neurofibroma in a 15-year-old male and highlight its diagnostic and management implications. A 15-year-old adolescent boy presented with a chronic, painless right submental swelling that had been present for one year and had enlarged over the preceding three months. Clinical examination revealed a rubbery, nontender, approximately 3\u00d73\u00d74 cm mass without skin changes or systemic symptoms. There was no personal or family history suggestive of NF1, neural tumors, or pheochromocytoma. Ultrasound and CT imaging showed a well-defined soft-tissue mass consistent with a benign neurogenic tumor. The mass was completely excised via a submental incision. Histopathological examination confirmed a solitary neurofibroma with Schwann cell and fibroblast proliferation within a collagen matrix, Antoni A and B patterns, and positive S-100 immunostaining, with no evidence of malignancy. The postoperative course was uneventful, and tongue and floor-of-mouth function were preserved. Solitary submental neurofibroma should be considered in the differential diagnosis of submental masses in adolescents, even in the absence of NF1 features. Complete surgical excision is the treatment of choice and allows definitive histopathological diagnosis. A thorough evaluation for NF1 is recommended to guide long-term management and follow-up.",
+      "journal": "International medical case reports journal",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Case Reports",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42952531",
+      "doi": "10.7759/cureus.117024",
+      "title": "Scleroderma-Like Phenotype in a Patient With Transthyretin Cardiac Amyloidosis and Acromegaly: A Triple Diagnostic Challenge.",
+      "abstract": "Systemic sclerosis, transthyretin cardiac amyloidosis, and acromegaly are rare disorders that share several clinical manifestations, including skin thickening, heart failure, dysphagia, fatigue, and soft tissue enlargement. Their coexistence is exceptionally rare and poses a significant diagnostic challenge, increasing the risk of premature diagnostic closure. We report a 78-year-old man who developed progressive diffuse skin thickening following spinal cord stimulator revision. Positive RNA polymerase III antibodies supported a diagnosis of diffuse systemic sclerosis. Evaluation of worsening edema and exertional dyspnea revealed severe concentric left ventricular hypertrophy with relative apical sparing on echocardiography, and technetium-99m pyrophosphate scintigraphy confirmed transthyretin cardiac amyloidosis. Persistent macroglossia, coarse facial features, prior carpal tunnel syndrome, and a remote history of increasing ring and shoe size prompted endocrine evaluation, which demonstrated elevated insulin-like growth factor-1 levels, failure of growth hormone suppression, and a pituitary macroadenoma consistent with acromegaly. The patient underwent successful transsphenoidal resection with biochemical remission. This case highlights the importance of reconsidering the differential diagnosis when clinical features are not fully explained by an established diagnosis.\u00a0Recognizing atypical and discordant findings prevented premature diagnostic closure and led to the identification of transthyretin cardiac amyloidosis and acromegaly in a patient with a rapidly progressive scleroderma-like phenotype.",
+      "journal": "Cureus",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
       "pmid": "42944559",
       "doi": "10.1111/jne.70301",
       "title": "Characterizing bone metastases and skeletal-related events in patients with well-differentiated neuroendocrine neoplasms utilizing 68Gallium-DOTATATE positron emission tomography.",
@@ -512,6 +408,41 @@
       "journal": "Journal of neuroendocrinology",
       "year": "2026",
       "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42978598",
+      "doi": "10.1002/iju5.70293",
+      "title": "Durable Complete Response to Pembrolizumab for Postoperative Nodal Recurrence of Lynch Syndrome-Associated Upper Tract Urothelial Carcinoma: A Case Report.",
+      "abstract": "Germline mutations in mismatch repair genes cause Lynch syndrome and are associated with upper tract urothelial carcinoma (UTUC). Tumors with deficient mismatch repair (dMMR) or microsatellite instability-high (MSI-H) may respond favorably to immune checkpoint inhibitors. A 54-year-old woman with Lynch syndrome and a germline MSH2 mutation developed right renal pelvic carcinoma. The tumor was diagnosed as a pT3 high-grade urothelial carcinoma, and the patient underwent laparoscopic nephroureterectomy. She was subsequently administered adjuvant gemcitabine and carboplatin due to a contraindication for cisplatin. Due to nodal recurrence, pembrolizumab was initiated at 200\u2009mg every 3\u2009weeks, achieving a complete radiological and metabolic response after five cycles. The course was complicated by immune-related adrenal insufficiency, which was managed with corticosteroid replacement therapy. Pembrolizumab may achieve a durable complete response in Lynch syndrome-associated UTUC. MSI screening should be considered in UTUC to guide decision-making.",
+      "journal": "IJU case reports",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42999648",
+      "doi": "10.21037/tlcr-2026-0856",
+      "title": "Diagnostic challenge of delayed immune-related hepatitis during zongertinib treatment after nivolumab plus ipilimumab in a 52-year-old man with HER2-mutant non-small cell lung cancer: a case report.",
+      "abstract": "Delayed immune-related hepatitis after discontinuation of immune checkpoint inhibitors (ICIs) is increasingly recognized, but attribution is difficult when liver injury develops during subsequent tyrosine kinase inhibitor (TKI) therapy. This diagnostic dilemma has not been well described during human epidermal growth factor receptor 2 (HER2)-selective TKI treatment after dual ICI therapy. A 52-year-old Japanese man with HER2 exon 20 insertion-positive stage IVB non-small cell lung cancer received nivolumab plus ipilimumab from February 28 to November 13, 2025, and developed grade 2 oral mucositis, grade 2 adrenal insufficiency, and grade 1-2 skin toxicity. Zongertinib was initiated on November 26. Routine testing on January 6, 2026 showed grade 3 hepatocellular injury, and zongertinib was withheld. Despite drug withdrawal, liver injury progressed, and he was admitted with mild fatigue on January 20, when aspartate aminotransferase, alanine aminotransferase, alkaline phosphatase, and \u03b3-glutamyl transpeptidase levels were 774, 1,386, 156, and 160 U/L, respectively. Total bilirubin remained approximately 1.0 mg/dL. Viral and autoimmune testing and imaging disclosed no alternative cause. Liver biopsy showed active hepatitis with lymphocyte-predominant portal and lobular inflammation and interface activity, findings compatible with an immune-mediated hepatitis pattern but not specific for the causative agent. Prednisolone 40 mg/day (approximately 0.5 mg/kg/day) produced rapid biochemical improvement with resolution of fatigue. Zongertinib was resumed on February 11 and continued without recurrent hepatitis through June 2026. The progression of liver injury despite zongertinib withdrawal, multiple prior immune-related adverse events, exclusion of competing causes, compatible histology, corticosteroid responsiveness, and absence of recurrence after zongertinib rechallenge collectively favored delayed immune-related hepatitis, although zongertinib-associated drug-induced liver injury could not be completely excluded. In similar cases, a structured etiological assessment, including liver biopsy when the result may alter cancer treatment, can help guide management.",
+      "journal": "Translational lung cancer research",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42948668",
+      "doi": "10.7759/cureus.118537",
+      "title": "Pituitary Apoplexy Complicated by Pulmonary Embolism in a Neurologically Complex Patient: A Diagnostic Challenge.",
+      "abstract": "Pituitary apoplexy is a rare endocrine emergency resulting from either acute haemorrhage or infarction within the pituitary gland. Although apoplexy occurs most frequently in a pre-existing pituitary adenoma,\u00a0apoplexy could be the first presentation of\u00a0a previously unknown adenoma.\u00a0Acute headaches, visual disturbances,\u00a0and neurological symptoms\u00a0are common presenting symptoms in apoplexy; however, these symptoms may overlap with other neurological emergencies, which necessitate a holistic approach of clinical, radiological, and\u00a0hormonal evaluation for\u00a0suspected cases of apoplexy to confirm the diagnosis. Here we present a diagnostically challenging case of\u00a0a 66-year-old man who presented with a sudden severe\u00a0headache. His background history included a presumed intraventricular neurocytoma under surveillance. Initial CT head scan suggested possible haemorrhage within a known intraventricular mass (neurocytoma) with no obvious changes\u00a0within the pituitary gland. However, subsequent MRI head demonstrated\u00a0radiological\u00a0features consistent with pituitary apoplexy. Later in\u00a0his admission, he exhibited bilateral peripheral visual field constriction and early papilledema\u00a0on fundoscopy. Hormonal testing showed evidence of hypopituitarism. The patient was managed conservatively with intravenous hydrocortisone replacement. During admission, he developed bilateral pulmonary emboli, for which he was treated with anticoagulation. While he was on anticoagulation, he developed\u00a0intracranial haemorrhage, which led to his death after discharge from the hospital.\u00a0This case demonstrates the importance of considering pituitary apoplexy in a challenging radiological and clinical presentation. A pre-existing neurological lesion (neurocytoma) makes a holistic approach, including MRI imaging and early hormonal evaluation are essential for timely diagnosis and treatment of pituitary apoplexy.\u00a0The clinical challenge of having concurrent haemorrhagic and thrombotic events necessitates an individualised approach after balancing the benefits\u00a0and risks of using anticoagulation treatment.",
+      "journal": "Cureus",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
         "Journal Article"
       ]
     },
@@ -528,11 +459,35 @@
       ]
     },
     {
-      "pmid": "42995156",
-      "doi": "10.47102/annals-acadmedsg.2026185",
-      "title": "Lecanemab in Singapore: Appropriate use recommendations for early Alzheimer's disease.",
-      "abstract": "Lecanemab, a monoclonal antibody targeting \u03b2-amyloid oligomers, protofibrils, and insoluble fibrils, has been approved for Alzheimer's disease (AD) treatment in Singapore, based on the phase 3 Clarity AD study. In this paper, the Singapore-adapted Appropriate Use Recommendations (AURs) serve to assist Singapore physicians in identifying patients who will likely benefit from treatment while ensuring effective monitoring. The AURs are based on the Singaporeapproved prescribing information combined with lecanemab phase 2 and 3 clinical trials and real-world data up to April 2026. The decision to initiate lecanemab should be based on careful evaluation of individuals, including Singapore-validated cognitive status tests to identify mild cognitive impairment (MCI) due to AD and mild AD dementia. Other important evaluations include baseline brain magnetic resonance imaging (MRI), assessment of the apolipoprotein E \u03b54 (APOE\u03b54) genotype, and amyloid pathology confirmation. Guidance on identifying patients at increased risk of amyloid-related imaging abnormalities (ARIA) during treatment and other patient profiles warranting additional caution is provided. Recommendations for monitoring patients, managing infusion-related reactions, and identifying lecanemab discontinuation scenarios are included. Lecanemab should only be prescribed for patients with MCI due to AD or mild AD dementia following careful clinical evaluation confirming AD pathology, with caution exercised in patients at increased ARIA risk (e.g. APOE\u03b54 gene carriers). During treatment, patients should receive regular monitoring for ARIA symptoms including follow-up MRI scans. Future directions include the development of a Singapore-specific registry to monitor patients and gather long-term data to support a consensus-driven framework to inform and optimise the use of lecanemab in Singapore.",
-      "journal": "Annals of the Academy of Medicine, Singapore",
+      "pmid": "42999922",
+      "doi": "10.7759/cureus.119284",
+      "title": "Chest Pain in Vain: Spontaneous Portal Vein Thrombosis.",
+      "abstract": "A 53-year-old man with a patient-reported history of ultrasound-diagnosed fatty liver disease presented with sudden-onset severe chest pain and a brief loss of consciousness, followed by progressive abdominal pain and a single episode of bloody diarrhoea. Admission investigations approximately 24 hours after the chest pain episode showed a D-dimer of 14,502 \u00b5g/L and high-sensitivity troponin I below 3 ng/L. An arterial-phase computed tomography (CT) aortogram showed no aortic dissection but did not establish portal venous patency. Following specialist thoracic radiology review, the aortogram was considered satisfactory to exclude pulmonary embolism down to the segmental level, and dedicated pulmonary angiography was not performed. Portal venous-phase CT performed 72 hours after the aortogram demonstrated extensive portal, superior mesenteric, and splenic vein thrombosis, with equivocal caecal and ascending colonic changes. Symptoms improved during anticoagulation. Repeat CT three months later showed resolution of thrombosis, with all three affected veins patent. This case illustrates the importance of selecting an imaging protocol appropriate to the evolving clinical presentation. An unrevealing arterial-phase examination did not exclude portal venous thrombosis. The relationship between the thrombosis and the initial chest pain and collapse remains uncertain, as does the contribution of the patient's reported fatty liver disease.",
+      "journal": "Cureus",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42978565",
+      "doi": "10.3389/fendo.2026.1954698",
+      "title": "Case Report: Neurosurgery, octreotide, cabergoline, radiotherapy, pasireotide and pegvisomant - a multimodal strategy for adolescent acrogigantism.",
+      "abstract": "Growth hormone (GH)-secreting pituitary neuroendocrine tumors (PitNETs) are rare in the pediatric population. They often present as large, invasive tumors and are frequently associated with an underlying genetic predisposition, making their management particularly challenging. Optimal treatment requires an individualized multidisciplinary approach, which often involves a combination of surgery and adjuvant medical therapy or radiotherapy when necessary. We present a challenging case of an adolescent female with acrogigantism. The patient was diagnosed at the age of 13 years and 10 months during the evaluation of chronic headaches. Brain magnetic resonance imaging revealed an invasive PitNET measuring 38 \u00d7 23 \u00d7 32\u00a0mm, while biochemical assessment confirmed marked GH hypersecretion. The disease followed an aggressive course, and biochemical control could not be achieved despite optimal multimodal therapy. Sequential treatment included neurosurgical resection, octreotide LAR, cabergoline, pasireotide LAR, proton beam radiotherapy, and pegvisomant. Combination therapy with pegvisomant and octreotide LAR ultimately normalized insulin-like growth factor 1 concentrations while maintaining long-term radiological tumor stability. This case underscores the complexity of managing aggressive GH-secreting PitNETs in adolescents and emphasizes the need for individualized, multidisciplinary care and long-term follow-up. Combined medical therapy with pegvisomant and octreotide LAR may provide effective biochemical control when surgery, radiotherapy, and standard medical treatment are insufficient.",
+      "journal": "Frontiers in endocrinology",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42979531",
+      "doi": "10.17925/EE.2026.22.2.2",
+      "title": "Non-diabetic endocrine neuropathies: A practical approach to diagnosis and clinical evaluation.",
+      "abstract": "Peripheral neuropathy has diverse etiologies, with endocrine disorders beyond diabetes representing significant, yet frequently underrecognized causes. While diabetic neuropathy is well established, this article specifically excludes a detailed discussion of diabetic neuropathy to focus on less-recognized endocrine causes and presents a practical diagnostic algorithm for their earlier and more accurate identification. A focused narrative review was conducted using PubMed, Scopus and ScienceDirect (2015-2025). From 2,318 screened records, 154 studies were included after full-text review of 298 articles. Evidence was synthesized by etiology, mechanism, clinical presentation and diagnostic relevance. Disorders such as hypothyroidism, acromegaly, adrenal dysfunction and deficiencies of vitamins B12 and D produce distinct neuropathic profiles via metabolic, hormonal, inflammatory or compressive mechanisms. Subclinical nerve involvement is common, with electrophysiological abnormalities detectable in up to 60% of asymptomatic individuals. Characteristic clinical patterns - such as delayed reflexes in hypothyroidism, bilateral carpal tunnel syndrome (CTS) in acromegaly and sensory ataxia in B12 deficiency - provide diagnostic clues. Based on synthesized evidence, a stepwise diagnostic algorithm was developed to guide clinical evaluation. Endocrine disorders are important and often reversible causes of peripheral neuropathy. Early recognition requires a systematic approach. The proposed evidence-based algorithm offers clinicians a practical tool to improve diagnostic efficiency, facilitate timely treatment of the underlying endocrine condition and reduce the risk of irreversible nerve damage.",
+      "journal": "TouchREVIEWS in endocrinology",
       "year": "2026",
       "publication_types": [
         "Journal Article",
@@ -540,13 +495,38 @@
       ]
     },
     {
-      "pmid": "42967954",
-      "doi": "10.1007/s00432-026-06564-z",
-      "title": "Hotspot mutations and tumour spectrum in von Hippel-Lindau syndrome: genotype-phenotype analysis of a large Chinese cohort.",
-      "abstract": "Von Hippel-Lindau (VHL) syndrome is a rare autosomal dominant multisystem tumour syndrome caused by germline VHL mutations. The traditional classification of VHL syndrome, which is largely based on pheochromocytoma penetrance, is insufficient for individualised surveillance and management. This study aimed to improve mutation-specific risk stratification and define genotype-phenotype correlations of recurrent hotspot mutations in a large Chinese cohort. This retrospective single-centre study included 674 patients with VHL disease from 283 unrelated families. Four recurrent hotspot mutation subtypes were analysed: codon 65 missense mutations, exon 2 deletion, c.481C\u2009>\u2009T, and c.224_226del. Kaplan-Meier analysis and univariate and multivariate Cox regression models were used to assess age-related tumour risks and survival outcomes. Codon 65 missense mutations were associated with a lower risk of retinal angioma and pheochromocytoma, indicating a relatively mild phenotype. Exon 2 deletion was characterised by a higher prevalence, earlier onset, and increased age-related risk of retinal angioma and worse renal cell carcinoma (RCC)-specific survival. Increased prevalences and age-related risks of central nervous system hemangioblastoma (CHB), RCC, and pancreatic cysts or tumours were associated with c.481C\u2009>\u2009T mutations. The c.224_226del subtype showed a distinct CHB-predominant phenotype, with higher CHB incidence, earlier onset, lower pancreatic lesion risk, and higher overall mortality. Recurrent hotspot VHL mutation subtypes were associated with distinct clinical phenotypes and prognostic patterns. Mutation subtype-based classification (covering 19.6% of patients with VHL syndrome) may provide more precise guidance for surveillance, clinical decision-making, and genetic counselling than traditional broad classification models.",
-      "journal": "Journal of cancer research and clinical oncology",
+      "pmid": "42994909",
+      "doi": "10.1097/MD.0000000000051533",
+      "title": "Adrenal ganglioneuroma in an adolescent presenting as an incidentaloma: Imaging-pathology correlation and diagnostic challenges: A case report.",
+      "abstract": "Adrenal ganglioneuroma (AGN) is a rare, benign, and usually nonfunctioning tumor arising from neural crest-derived sympathetic ganglion cells. Preoperative diagnosis is difficult because the clinical presentation is often nonspecific, and imaging findings overlap with those of other adrenal neoplasms. We describe an adolescent adrenal incidentaloma with detailed imaging-pathology correlation, adding to the small number of reported adolescent cases. A previously healthy 16-year-old male underwent contrast-enhanced computed tomography (CT) after a bicycle accident. No traumatic injury was identified, but imaging incidentally revealed a well-circumscribed right adrenal mass measuring approximately 6.1 cm\u2005\u00d7\u20053.6 cm\u2005\u00d7\u20055.0 cm. CT and magnetic resonance imaging showed progressive, persistent enhancement across the arterial, venous, and delayed phases without demonstrable washout (attenuation increased from 20 Hounsfield units unenhanced to 55 Hounsfield units in the venous phase, with further qualitative enhancement on 15-minute delayed images) and no intralesional fat, suggesting a non-adenomatous lesion and raising suspicion for a neurogenic tumor. Biochemical evaluation showed no evidence of hormonal hypersecretion. Histopathological examination after resection established the diagnosis of AGN. The patient underwent right adrenalectomy because of the size and radiologically indeterminate nature of the mass. The postoperative course was uneventful. Transient elevation of blood pressure noted during follow-up prompted biochemical reevaluation, which showed no evidence of excess catecholamine. Follow-up CT at 9 months showed no recurrence. Progressive delayed enhancement without washout and absence of signal loss on opposed-phase magnetic resonance imaging, a pattern previously described in ganglioneuroma, may suggest the diagnosis preoperatively, although definitive diagnosis requires histopathological confirmation. Complete surgical excision established the diagnosis and achieved a favorable short-term outcome; the excellent long-term prognosis of AGN is supported by the published literature, and our patient remains recurrence-free at 9 months.",
+      "journal": "Medicine",
       "year": "2026",
       "publication_types": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    },
+    {
+      "pmid": "42999924",
+      "doi": "10.7759/cureus.119286",
+      "title": "Peripheral Brain-Derived Neurotrophic Factor Changes and Clinical Response to Electroconvulsive Therapy and Repetitive Transcranial Magnetic Stimulation in Major Depressive Disorder: A Systematic Review.",
+      "abstract": "Major depressive disorder (MDD) is a leading contributor to the global burden of disease, and a substantial proportion of patients experience inadequate responses to conventional treatments. Brain-derived neurotrophic factor (BDNF), a key regulator of neuronal survival and synaptic plasticity, has been investigated as a potential biomarker of antidepressant response. However, its clinical relevance following brain stimulation remains uncertain. This systematic review evaluated changes in peripheral BDNF concentrations and their association with clinical outcomes following electroconvulsive therapy (ECT) and repetitive transcranial magnetic stimulation (rTMS) in adults with MDD. The review followed Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) 2020 guidelines, and searches were conducted in PubMed/MEDLINE (Medical Literature Analysis and Retrieval System Online), PsycINFO, and LILACS (Latin America and the Caribbean Literature on Health Sciences). Study selection and data extraction were independently performed by two reviewers, with disagreements resolved through consensus or consultation with a third reviewer. Eleven studies met the eligibility criteria, including two randomized controlled trials and nine non-randomized investigations. Due to substantial clinical and methodological heterogeneity, a meta-analysis was not performed, and findings were synthesized narratively. Peripheral BDNF responses varied across interventions, biological matrices, and sampling intervals. While many studies reported increased serum or plasma BDNF following ECT, others documented substantial clinical improvement without corresponding biomarker changes.\u00a0Evidence following rTMS was less consistent, with insufficient data to establish a reliable association between BDNF changes and antidepressant response. Overall, peripheral BDNF changes did not consistently parallel clinical improvement, and current evidence does not support their use as a standalone biomarker of antidepressant response. Further adequately powered studies with standardized biomarker measurements and longitudinal clinical assessments are warranted.",
+      "journal": "Cureus",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42953880",
+      "doi": "10.14309/crj.0000000000002382",
+      "title": "VIP-Mediated Syndromes: Contrasting Presentations and Multidisciplinary Management of Two Rare Neuroendocrine Tumors.",
+      "abstract": "Vasoactive intestinal peptide (VIP)-secreting tumors are rare neuroendocrine neoplasms that cause severe secretory diarrhea and electrolyte abnormalities. We describe 2 atypical cases requiring multidisciplinary care. One patient had a VIP-secreting pheochromocytoma with elevated VIP and metanephrine levels; symptoms improved after adrenalectomy. The second had a metastatic small intestinal neuroendocrine tumor with persistent VIP-mediated diarrhea despite debulking and somatostatin analog therapy, complicated by anal fissures, trans-sphincteric perianal fistula, and neuropathic pelvic pain. These cases highlight morbidity and potential complications associated with extrapancreatic VIP hypersecretion and the value of coordinated multidisciplinary management to improve outcomes and quality of life.",
+      "journal": "ACG case reports journal",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
         "Journal Article"
       ]
     }

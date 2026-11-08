@@ -1,40 +1,40 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-16",
   "items": [
     {
-      "pmid": "42994872",
-      "doi": "10.1097/MD.0000000000051358",
-      "title": "A clinicopathological prediction model for remission after transsphenoidal surgery for acromegaly: A retrospective single-center cohort study.",
-      "category": "notable",
-      "summary": "In this 100-patient retrospective cohort from a large Dutch tertiary center, maximum tumor diameter emerged as the single best predictor of early biochemical remission, long-term remission, and long-term remission without residual tumor after transsphenoidal surgery for acromegaly \u2014 outperforming all histopathological variables including tumor subtype and proliferation markers. Each millimeter increase in maximum diameter was associated with an approximately 15\u201325% reduction in odds of remission across all three endpoints. Cavernous sinus invasion, modified Knosp grade, and random GH at diagnosis were significant on univariate analysis but did not add independent predictive value over tumor diameter in multivariate models. The finding underscores that straightforward preoperative imaging measurement is sufficient for counseling patients on expected surgical outcomes, without requiring detailed histopathological risk stratification.",
-      "caveat": "Single-center, retrospective design with n=100 limits generalizability; long-term remission definition (normalized IGF-1 and absence of adjuvant treatment) may underestimate true biochemical control in some patients. Histopathological markers such as Ki-67 and granulation pattern were included but the cohort may have been underpowered to detect subtler associations.",
-      "quiz_question": "A 45-year-old woman with acromegaly has a 28 mm GH-secreting macroadenoma with apparent cavernous sinus invasion on MRI. Her random GH is markedly elevated. Based on this study's findings, which preoperative factor is most predictive of her likelihood of remission after transsphenoidal surgery?",
-      "quiz_answer": "Maximum tumor diameter is the single best independent predictor of remission in this model. While cavernous sinus invasion and elevated GH are significant on univariate analysis, in multivariate modeling only tumor diameter independently predicts early and long-term remission. Her 28 mm diameter substantially reduces her odds of surgical remission, and this information should anchor preoperative counseling.",
-      "journal": "Medicine",
-      "year": "2026"
-    },
-    {
-      "pmid": "42967954",
-      "doi": "10.1007/s00432-026-06564-z",
-      "title": "Hotspot mutations and tumour spectrum in von Hippel-Lindau syndrome: genotype-phenotype analysis of a large Chinese cohort.",
-      "category": "notable",
-      "summary": "This large retrospective series of 674 patients from 283 VHL families characterized four recurrent hotspot mutation subtypes and found clinically meaningful genotype-phenotype differences. Codon 65 missense mutations conferred lower risks of retinal angioma and pheochromocytoma (milder phenotype), exon 2 deletions were associated with earlier-onset retinal angioma and worse renal cell carcinoma\u2013specific survival, c.481C>T mutations carried higher risks of CNS hemangioblastoma, RCC, and pancreatic lesions, and the c.224_226del subtype showed a CNS hemangioblastoma\u2013predominant phenotype with higher overall mortality. Together these hotspot subtypes covered about 20% of the cohort, suggesting mutation subtype\u2013based surveillance stratification is feasible for a meaningful proportion of VHL patients. This refines the traditional pheochromocytoma-penetrance classification and has direct implications for surveillance interval and organ-specific screening prioritization.",
-      "caveat": "Single-center retrospective study from China; ethnic homogeneity and referral bias may limit direct applicability to non-Asian populations. The four hotspot subtypes covered only ~20% of patients, so the majority of VHL patients still require classification by conventional criteria. Survival analyses are subject to the usual limitations of retrospective ascertainment.",
-      "quiz_question": "A 32-year-old man is newly diagnosed with VHL syndrome. Germline testing reveals a c.481C>T (exon 3) hotspot mutation. Based on this genotype-phenotype analysis, which tumor manifestations should be prioritized in his surveillance program?",
-      "quiz_answer": "The c.481C>T mutation subtype in this cohort was associated with higher prevalence and age-related risk of CNS hemangioblastoma, renal cell carcinoma, and pancreatic cysts or tumors. Surveillance should therefore prioritize annual brain and spine MRI for CNS hemangioblastoma, regular renal imaging, and periodic pancreatic assessment, while pheochromocytoma risk \u2014 the basis of traditional VHL classification \u2014 may be relatively less prominent with this specific mutation.",
-      "journal": "Journal of cancer research and clinical oncology",
-      "year": "2026"
-    },
-    {
-      "pmid": "42965591",
-      "doi": "10.1007/s00261-026-05849-8",
-      "title": "Transfemoral transcaval adrenal biopsy: a technical report and review of adrenal biopsy approaches.",
+      "pmid": "42941365",
+      "doi": "10.3390/jcm15207850",
+      "title": "Retinal Microvascular and Peripapillary Profiles in Mild Autonomous Cortisol Secretion Versus Nonfunctioning Adrenal Adenomas.",
       "category": "preliminary",
-      "summary": "This technical report describes a novel transfemoral transcaval approach to right adrenal biopsy for a mass directly abutting the inferior vena cava that was inaccessible by standard percutaneous routes, adapted from established transcaval liver biopsy technique. Diagnostic tissue was obtained without periprocedural complication; however, histopathology unexpectedly revealed a pheochromocytoma \u2014 reinforcing the critical point that biochemical exclusion of pheochromocytoma must precede adrenal biopsy regardless of imaging appearance. The report also provides a concise contemporary review of adrenal biopsy indications and access routes, reminding practitioners that biopsy is appropriate only after hormonal workup is complete and in genuinely indeterminate lesions where tissue diagnosis would change management.",
-      "caveat": "This is a single-case technical report; safety and comparative effectiveness cannot be established from one procedure. The inadvertent biopsy of a pheochromocytoma, while managed without crisis here, underscores that pre-procedure biochemical evaluation is non-negotiable \u2014 the technique's feasibility does not mitigate this risk.",
-      "quiz_question": "A 58-year-old man with a history of non-small cell lung cancer has a right adrenal mass abutting the IVC that is indeterminate after CT and MRI. The interventional radiology team proposes adrenal biopsy to guide systemic therapy decisions. What is the essential step that must be completed before proceeding, and why?",
-      "quiz_answer": "Biochemical exclusion of pheochromocytoma (plasma or 24-hour urine fractionated metanephrines) is mandatory before any adrenal biopsy, regardless of imaging appearance. As illustrated in this case, an adrenal mass can harbor a pheochromocytoma despite an atypical radiological presentation; biopsy of an unsuspected pheochromocytoma can precipitate a hypertensive crisis. Only after hormonal evaluation is complete and pheochromocytoma excluded should tissue sampling proceed.",
-      "journal": "Abdominal radiology (New York)",
+      "summary": "This single-center, retrospective cross-sectional study used optical coherence tomography angiography (OCTA) to compare retinal microvascular parameters in 89 patients with mild autonomous cortisol secretion (MACS) versus nonfunctioning adrenal adenoma (NFA). The primary endpoint\u2014whole-image deep capillary plexus vessel density\u2014did not differ significantly between groups. Secondary analyses suggested higher superior RNFL thickness in MACS and a continuous inverse association between post-dexamethasone cortisol and certain capillary density measures, but these did not survive multiplicity correction, leaving the clinical significance uncertain.",
+      "caveat": "Cross-sectional design precludes causal inference; secondary findings did not survive false-discovery-rate correction and are explicitly hypothesis-generating. Single center and relatively modest sample (n=89 evaluable) limit generalizability.",
+      "quiz_question": "A 58-year-old woman with a 2.4 cm adrenal incidentaloma has a post-1 mg dexamethasone suppression cortisol of 4.2 \u00b5g/dL, meeting criteria for MACS. She asks whether MACS is already affecting her retinal vasculature. Based on this OCTA study, what can you tell her?",
+      "quiz_answer": "The study found no significant difference in deep capillary plexus vessel density (the primary endpoint) between MACS and NFA patients. While secondary analyses hinted at higher superior RNFL thickness and possible reductions in certain capillary measures with higher cortisol levels, these did not survive multiplicity correction. At present, there is no confirmed retinal microvascular signature specific to MACS, and prospective data are needed before clinical conclusions can be drawn.",
+      "journal": "Journal of clinical medicine",
+      "year": "2026"
+    },
+    {
+      "pmid": "42978565",
+      "doi": "10.3389/fendo.2026.1954698",
+      "title": "Case Report: Neurosurgery, octreotide, cabergoline, radiotherapy, pasireotide and pegvisomant - a multimodal strategy for adolescent acrogigantism.",
+      "category": "notable",
+      "summary": "This case details an adolescent female diagnosed at age ~14 with an aggressive, invasive 38 mm GH-secreting pituitary neuroendocrine tumor whose disease proved refractory to sequential transsphenoidal surgery, octreotide LAR, cabergoline, pasireotide LAR, and proton beam radiotherapy. Biochemical control (IGF-1 normalization) was ultimately achieved only with combination pegvisomant plus octreotide LAR, while long-term radiological tumor stability was maintained. The case reinforces that in pediatric/adolescent acrogigantism with aggressive tumors, GH receptor antagonism via pegvisomant combined with a somatostatin analog may be the necessary salvage strategy when all other modalities fail.",
+      "caveat": "Single case report; causality and generalizability are inherently limited. No genetic workup result (e.g., AIP, X-LAG/GPR101) is detailed in the abstract, which is relevant given the high rate of germline mutations in pediatric acrogigantism. Long-term outcomes beyond IGF-1 normalization are not reported.",
+      "quiz_question": "A 15-year-old boy with a 40 mm invasive GH-secreting pituitary macroadenoma undergoes transsphenoidal surgery followed by octreotide LAR, cabergoline, and pasireotide LAR without achieving IGF-1 normalization. Proton beam radiotherapy is subsequently delivered. IGF-1 remains elevated. What treatment combination does this case suggest as a next step, and what is the mechanism of action of the key additional agent?",
+      "quiz_answer": "The case supports adding pegvisomant to ongoing somatostatin analog therapy (octreotide LAR). Pegvisomant is a GH receptor antagonist\u2014a mutant GH molecule that competitively blocks GH receptor dimerization, thereby blocking peripheral IGF-1 generation regardless of tumor GH output. Combined with a somatostatin analog, this dual approach normalized IGF-1 while maintaining radiological stability in this refractory adolescent patient.",
+      "journal": "Frontiers in endocrinology",
+      "year": "2026"
+    },
+    {
+      "pmid": "42948668",
+      "doi": "10.7759/cureus.118537",
+      "title": "Pituitary Apoplexy Complicated by Pulmonary Embolism in a Neurologically Complex Patient: A Diagnostic Challenge.",
+      "category": "notable",
+      "summary": "This case report describes a 66-year-old man with a known intraventricular neurocytoma under surveillance who presented with sudden severe headache; initial CT misattributed findings to the known lesion, and pituitary apoplexy was only confirmed on MRI. He subsequently developed bilateral pulmonary emboli requiring anticoagulation, which in turn precipitated fatal intracranial hemorrhage. The case powerfully illustrates two important clinical lessons: (1) pre-existing intracranial pathology can mask apoplexy on CT, making MRI and hormonal assessment essential, and (2) the concurrent thrombotic and hemorrhagic risks inherent to apoplexy create an individualized anticoagulation dilemma with potentially life-threatening consequences in either direction.",
+      "caveat": "Single case report; no controlled data can be derived. The fatal outcome underscores the high-stakes nature of anticoagulation decisions in this setting but does not resolve the evidence gap regarding optimal anticoagulation management in apoplexy complicated by VTE.",
+      "quiz_question": "A 70-year-old man presents with thunderclap headache and diplopia. CT head is interpreted as hemorrhage within a known meningioma. His mental status is intact. What additional workup should be urgently pursued, and what therapeutic consideration is highlighted when pituitary apoplexy is subsequently confirmed?",
+      "quiz_answer": "MRI of the brain (including pituitary protocol) should be obtained urgently, as CT may miss or misattribute pituitary apoplexy in patients with concurrent intracranial lesions. Hormonal evaluation\u2014at minimum cortisol/ACTH\u2014is essential to identify hypopituitarism requiring immediate glucocorticoid replacement. This case highlights that if VTE subsequently develops, the decision to anticoagulate must be carefully individualized given the competing risk of worsening hemorrhage into the already-infarcted or hemorrhagic pituitary, a balance with potentially fatal consequences on either side.",
+      "journal": "Cureus",
       "year": "2026"
     }
   ],
