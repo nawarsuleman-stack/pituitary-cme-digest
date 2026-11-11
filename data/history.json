@@ -210,9 +210,12 @@
     "42993172",
     "42994872",
     "43001060",
+    "43002321",
     "43002810",
     "43005463",
-    "43006778"
+    "43006778",
+    "43010755",
+    "43012315"
   ],
   "sessions": [
     {
@@ -3262,6 +3265,49 @@
           "quiz_question": "A 67-year-old hypertensive man visits the ER for flank pain; CT urogram incidentally reveals a 2.8 cm left adrenal mass with unenhanced HU of 24. He is discharged without endocrine referral. According to the findings of this study, what is the most important system-level intervention to prevent this common gap in care?",
           "quiz_answer": "This study found that emergency department-detected incidentalomas were the least likely to receive guideline-concordant biochemical workup. Protocolized, automatic referral pathways or electronic health record alerts triggered at the time of radiology reporting of adrenal lesions in the ER setting represent the most impactful system-level intervention to close this management gap.",
           "journal": "American journal of surgery",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-17",
+      "items": [
+        {
+          "pmid": "43010755",
+          "doi": "10.3760/cma.j.cn112137-20260425-01124",
+          "title": "[Preliminary investigation of the efficacy and safety of osilodostat in patients with refractory Cushing's syndrome].",
+          "category": "notable",
+          "summary": "This multicenter retrospective Chinese study evaluated osilodrostat in 22 patients with complicated Cushing's syndrome, including Cushing's disease, ectopic ACTH syndrome, and ACTH-independent CS. At a median dose of 2.0 mg/day, the overall treatment response rate (\u226540% cortisol reduction) was 72.7%, with 40.9% achieving normalization of morning serum cortisol; 24-hour UFC fell by a mean of 58% in those measured. Adverse events occurred in 50% of patients, predominantly grade 1\u20133 gastrointestinal symptoms and adrenal insufficiency, with no serious adverse reactions and only 9.1% discontinuing due to side effects.",
+          "caveat": "Very small sample (n=22), retrospective design, short follow-up, and conducted exclusively in Chinese centers \u2014 generalizability and long-term durability of response remain uncertain. No comparator arm.",
+          "quiz_question": "A 55-year-old woman with persistent Cushing's disease after failed transsphenoidal surgery and radiation is started on osilodrostat 2 mg/day. Based on this real-world Chinese cohort, what is the approximate expected rate of \u226550% reduction in 24-hour urinary free cortisol, and what is the most common endocrine adverse effect to monitor for?",
+          "quiz_answer": "Approximately 73% of patients with measured 24-hour UFC achieved a \u226550% reduction from baseline. The most common endocrine adverse effect was adrenal insufficiency, occurring in about 13.6% of patients, underscoring the need for regular cortisol monitoring and patient education about adrenal crisis risk.",
+          "journal": "Zhonghua yi xue za zhi",
+          "year": "2026"
+        },
+        {
+          "pmid": "43012315",
+          "doi": "10.1530/EO-26-0018",
+          "title": "Diagnostic Utility and Cost Analysis of Sequential TF Immunohistochemistry in Hormone-Immunonegative Pituitary Adenomas.",
+          "category": "notable",
+          "summary": "This prospective survey and retrospective cohort study from Australia/New Zealand and validated in a T\u00fcbingen cohort found that fewer than 60% of pituitary centers routinely perform transcription factor (TF) immunohistochemistry. Applying a sequential strategy \u2014 SF1 first, then TPIT only if SF1-negative, then PIT1 only if both negative \u2014 reclassified 87% of previously labeled null-cell adenomas and achieved >99% diagnostic accuracy in both cohorts, while reducing costs by 51\u201364% compared to universal parallel TF testing.",
+          "caveat": "Retrospective design with potential for selection bias; the sequential approach carries a small theoretical risk of missing adenomas with multiple lineage co-expression, though none were found in these cohorts. Survey response rates and center heterogeneity were not fully detailed.",
+          "quiz_question": "Your pathology department currently applies SF1, TPIT, and PIT1 immunostains simultaneously to all hormone-immunonegative pituitary adenomas. A colleague proposes switching to a sequential strategy (SF1 first, then TPIT if negative, then PIT1 if both negative). What diagnostic accuracy and cost savings does this study suggest, and what is the main theoretical limitation?",
+          "quiz_answer": "The sequential TF IHC strategy achieved >99% diagnostic accuracy in both study cohorts while reducing costs by approximately 51\u201364%. The main theoretical limitation is the possibility of missing pituitary adenomas with multiple transcription factor lineages, although none were identified in either the Melbourne or T\u00fcbingen cohorts.",
+          "journal": "Endocrine oncology (Bristol, England)",
+          "year": "2026"
+        },
+        {
+          "pmid": "43002321",
+          "doi": "10.1007/s11701-026-04179-7",
+          "title": "Safety, recovery, and hospital resource use after robot-assisted pheochromocytoma resection in a 48-hour short-stay pathway: a single-center retrospective cohort study.",
+          "category": "preliminary",
+          "summary": "This single-center retrospective study of 110 patients compared a 48-hour short-stay pathway (n=47) versus conventional inpatient care (n=63) after robot-assisted pheochromocytoma resection. The 30-day composite safety outcome (Clavien-Dindo \u2265II complications, unplanned ICU, readmission, etc.) was low and similar between groups (2.1% vs. 1.6%), while the short-stay pathway was associated with significantly shorter stay, lower opioid consumption, reduced costs, and higher patient satisfaction.",
+          "caveat": "Only two composite safety events occurred total, leaving the 95% CI of the risk difference very wide and precluding definitive conclusions about equivalent safety. Single-center, retrospective, non-randomized design with a relatively small sample; prospective validation is explicitly called for by the authors.",
+          "quiz_question": "A 42-year-old with a biochemically confirmed, 4 cm unilateral pheochromocytoma undergoes uncomplicated robot-assisted adrenalectomy. Your institution is considering a 48-hour discharge pathway. What does this study suggest about the safety of such an approach, and what key limitation tempers strong conclusions?",
+          "quiz_answer": "The study found a similarly low 30-day complication rate between the short-stay and conventional inpatient groups (2.1% vs. 1.6%), with faster recovery and lower costs in the short-stay arm. However, only two total composite safety events occurred, yielding a very wide confidence interval for the risk difference \u2014 the data support feasibility but cannot establish safety equivalence, and prospective validation is needed before broad adoption.",
+          "journal": "Journal of robotic surgery",
           "year": "2026"
         }
       ],
