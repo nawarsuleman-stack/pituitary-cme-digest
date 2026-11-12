@@ -212,10 +212,13 @@
     "43001060",
     "43002321",
     "43002810",
+    "43003121",
     "43005463",
     "43006778",
     "43010755",
-    "43012315"
+    "43012315",
+    "43015723",
+    "43017274"
   ],
   "sessions": [
     {
@@ -3308,6 +3311,49 @@
           "quiz_question": "A 42-year-old with a biochemically confirmed, 4 cm unilateral pheochromocytoma undergoes uncomplicated robot-assisted adrenalectomy. Your institution is considering a 48-hour discharge pathway. What does this study suggest about the safety of such an approach, and what key limitation tempers strong conclusions?",
           "quiz_answer": "The study found a similarly low 30-day complication rate between the short-stay and conventional inpatient groups (2.1% vs. 1.6%), with faster recovery and lower costs in the short-stay arm. However, only two total composite safety events occurred, yielding a very wide confidence interval for the risk difference \u2014 the data support feasibility but cannot establish safety equivalence, and prospective validation is needed before broad adoption.",
           "journal": "Journal of robotic surgery",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-16",
+      "items": [
+        {
+          "pmid": "43003121",
+          "doi": "10.1055/a-2989-4273",
+          "title": "Pituitary Stalk Interruption Syndrome in Adulthood: Diagnostic Recognition, Clinical Spectrum, and Long-Term Follow-Up.",
+          "category": "notable",
+          "summary": "This single-center retrospective study of 14 adults with radiologically confirmed pituitary stalk interruption syndrome (PSIS) found that the diagnosis was missed or delayed in several patients first identified in childhood, with 6 cases only recognized after later reassessment of pituitary imaging. Despite generally favorable growth outcomes (13/14 reached target height with childhood GH therapy), metabolic dysfunction-associated steatotic liver disease and dyslipidemia were each present in 10 patients, and 4 had reduced bone mineral density \u2014 underscoring the metabolic burden persisting into adulthood. The authors conclude that lifelong endocrine surveillance is essential even when growth outcomes appear satisfactory.",
+          "caveat": "Very small cohort (n=14) from a single center limits generalizability; retrospective design and variable follow-up duration preclude firm conclusions about long-term event rates.",
+          "quiz_question": "A 26-year-old man with PSIS diagnosed in childhood who completed GH therapy at age 18 presents for a routine endocrine check. His growth was normal. Which metabolic complication was found in approximately 70% of adults with PSIS in this series, warranting active surveillance?",
+          "quiz_answer": "Metabolic dysfunction-associated steatotic liver disease (MASLD) and dyslipidemia were each present in 10 of 14 patients (~71%), highlighting the need for ongoing hepatic and lipid monitoring in adults with PSIS even after apparently successful childhood hormone replacement.",
+          "journal": "Hormone and metabolic research = Hormon- und Stoffwechselforschung = Hormones et metabolisme",
+          "year": "2026"
+        },
+        {
+          "pmid": "43017274",
+          "doi": "10.1210/jcemcr/luag350",
+          "title": "Ruptured pheochromocytoma during preoperative doxazosin treatment.",
+          "category": "notable",
+          "summary": "This case report describes a 43-year-old man with a biochemically confirmed 5.2-cm pheochromocytoma who suffered posterior rupture with retroperitoneal hematoma approximately five weeks into standard preoperative alpha-blockade with doxazosin, despite adherence to titration protocol. The patient was hemodynamically stabilized conservatively and subsequently underwent successful robotic adrenalectomy confirming necrotic pheochromocytoma without angioinvasion. The authors highlight that spontaneous hemorrhage is the most plausible mechanism but raise the possibility that alpha-blockade itself may contribute to rupture in selected cases, though evidence for this remains speculative.",
+          "caveat": "Single case report; causality between alpha-blockade and rupture cannot be established. The proposed mechanism of alpha-blockade-induced hemorrhage is hypothesis-generating only and not supported by controlled data.",
+          "quiz_question": "A 50-year-old woman with a 6-cm biochemically confirmed pheochromocytoma develops sudden severe flank pain and hypertensive crisis after 4 weeks of preoperative doxazosin. CT shows adrenal mass enlargement with periadrenal hematoma. What is the most appropriate next step?",
+          "quiz_answer": "Immediate hemodynamic stabilization with continued alpha- (and if needed beta-) blockade and blood pressure management; imaging to assess for active bleeding; conservative management if hemodynamically stable, followed by expedited surgical adrenalectomy once stabilized. This case illustrates that pheochromocytoma rupture can occur during appropriate preoperative alpha-blockade, and surgical planning should not be delayed unnecessarily once the patient is stable.",
+          "journal": "JCEM case reports",
+          "year": "2026"
+        },
+        {
+          "pmid": "43015723",
+          "doi": "10.1186/s12902-026-02497-3",
+          "title": "Clinical characteristics and follow\u2011up of Saudi patients with adrenal incidentalomas: single\u2011center experience.",
+          "category": "notable",
+          "summary": "This retrospective observational study of 250 patients with adrenal incidentalomas at a tertiary center in Saudi Arabia found that only 20% underwent complete hormonal evaluation per guideline recommendations, with 94.8% lacking dedicated contrast washout imaging. Among the minority who were fully evaluated, 12% had a functioning tumor. Younger age, specialty referral, and absence of active malignancy were independent predictors of receiving hormonal workup, highlighting that most patients with incidentalomas are substantially under-evaluated in real-world practice.",
+          "caveat": "Single-center retrospective design from one country limits broader generalizability; selection bias is likely given that only 20% were fully evaluated, making true prevalence of functioning tumors in the whole cohort uncertain. The low evaluation rate itself is the primary finding, not the hormonal prevalence data.",
+          "quiz_question": "In a real-world cohort of 250 adrenal incidentaloma patients, what proportion received complete guideline-recommended hormonal evaluation, and what does this imply for your clinical practice when receiving a referral for an adrenal incidentaloma?",
+          "quiz_answer": "Only 20% of patients received complete hormonal evaluation, and 94.8% lacked contrast washout imaging. This underscores the importance of proactively ensuring all patients with adrenal incidentalomas receive at minimum overnight 1-mg dexamethasone suppression testing, plasma metanephrines, and \u2014 in hypertensive or hypokalemic patients \u2014 aldosterone-to-renin ratio, as well as dedicated adrenal CT protocol when imaging characteristics are indeterminate.",
+          "journal": "BMC endocrine disorders",
           "year": "2026"
         }
       ],
