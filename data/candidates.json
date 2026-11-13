@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-11-12",
+  "fetched_at": "2026-11-13",
   "date_window": {
-    "from": "2016/11/14",
-    "to": "2026/11/12"
+    "from": "2016/11/15",
+    "to": "2026/11/13"
   },
   "already_covered_pmids": [
     "41730814",
@@ -217,18 +217,206 @@
     "43001060",
     "43002321",
     "43002810",
+    "43003121",
     "43005463",
     "43006778",
     "43010755",
-    "43012315"
+    "43012315",
+    "43015723",
+    "43017274"
   ],
   "candidates": [
     {
-      "pmid": "42978598",
-      "doi": "10.1002/iju5.70293",
-      "title": "Durable Complete Response to Pembrolizumab for Postoperative Nodal Recurrence of Lynch Syndrome-Associated Upper Tract Urothelial Carcinoma: A Case Report.",
-      "abstract": "Germline mutations in mismatch repair genes cause Lynch syndrome and are associated with upper tract urothelial carcinoma (UTUC). Tumors with deficient mismatch repair (dMMR) or microsatellite instability-high (MSI-H) may respond favorably to immune checkpoint inhibitors. A 54-year-old woman with Lynch syndrome and a germline MSH2 mutation developed right renal pelvic carcinoma. The tumor was diagnosed as a pT3 high-grade urothelial carcinoma, and the patient underwent laparoscopic nephroureterectomy. She was subsequently administered adjuvant gemcitabine and carboplatin due to a contraindication for cisplatin. Due to nodal recurrence, pembrolizumab was initiated at 200\u2009mg every 3\u2009weeks, achieving a complete radiological and metabolic response after five cycles. The course was complicated by immune-related adrenal insufficiency, which was managed with corticosteroid replacement therapy. Pembrolizumab may achieve a durable complete response in Lynch syndrome-associated UTUC. MSI screening should be considered in UTUC to guide decision-making.",
-      "journal": "IJU case reports",
+      "pmid": "42999648",
+      "doi": "10.21037/tlcr-2026-0856",
+      "title": "Diagnostic challenge of delayed immune-related hepatitis during zongertinib treatment after nivolumab plus ipilimumab in a 52-year-old man with HER2-mutant non-small cell lung cancer: a case report.",
+      "abstract": "Delayed immune-related hepatitis after discontinuation of immune checkpoint inhibitors (ICIs) is increasingly recognized, but attribution is difficult when liver injury develops during subsequent tyrosine kinase inhibitor (TKI) therapy. This diagnostic dilemma has not been well described during human epidermal growth factor receptor 2 (HER2)-selective TKI treatment after dual ICI therapy. A 52-year-old Japanese man with HER2 exon 20 insertion-positive stage IVB non-small cell lung cancer received nivolumab plus ipilimumab from February 28 to November 13, 2025, and developed grade 2 oral mucositis, grade 2 adrenal insufficiency, and grade 1-2 skin toxicity. Zongertinib was initiated on November 26. Routine testing on January 6, 2026 showed grade 3 hepatocellular injury, and zongertinib was withheld. Despite drug withdrawal, liver injury progressed, and he was admitted with mild fatigue on January 20, when aspartate aminotransferase, alanine aminotransferase, alkaline phosphatase, and \u03b3-glutamyl transpeptidase levels were 774, 1,386, 156, and 160 U/L, respectively. Total bilirubin remained approximately 1.0 mg/dL. Viral and autoimmune testing and imaging disclosed no alternative cause. Liver biopsy showed active hepatitis with lymphocyte-predominant portal and lobular inflammation and interface activity, findings compatible with an immune-mediated hepatitis pattern but not specific for the causative agent. Prednisolone 40 mg/day (approximately 0.5 mg/kg/day) produced rapid biochemical improvement with resolution of fatigue. Zongertinib was resumed on February 11 and continued without recurrent hepatitis through June 2026. The progression of liver injury despite zongertinib withdrawal, multiple prior immune-related adverse events, exclusion of competing causes, compatible histology, corticosteroid responsiveness, and absence of recurrence after zongertinib rechallenge collectively favored delayed immune-related hepatitis, although zongertinib-associated drug-induced liver injury could not be completely excluded. In similar cases, a structured etiological assessment, including liver biopsy when the result may alter cancer treatment, can help guide management.",
+      "journal": "Translational lung cancer research",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43023972",
+      "doi": "10.1094/PHYTO-08-26-0255-FI",
+      "title": "Internal Seed Colonization, Flower-to-Seed Transmission, and Seedling Association of Didymella tanaceti in Pyrethrum.",
+      "abstract": "Seedborne inoculum has been proposed as a potential source of primary infection for Didymella tanaceti in pyrethrum (Tanacetum cinerariifolium). However, the location of the pathogen within seed associated tissues - that include the pericarp, seed coat and embryo - and the role of seedborne inoculum in disease establishment remain unclear. This study investigated seed colonization, internal survival, and seed-to-seedling transmission of D. tanaceti using light microscopy, histopathology, scanning electron microscopy (SEM), and a fluorescently labeled isolate. In naturally infected seeds, following surface sterilization and culture-based identification, putative D. tanaceti was recovered from the outer seed layer of 27.5% of seeds, from internal tissues (inner seed layer and embryo) of 7.5% of seeds, and from both outer and internal tissues of 3.8% of seeds. Histological and SEM analyses revealed the presence of fungal propagules associated with inner tissues, particularly within inter-tegumentary spaces. In a separate flower inoculation experiment, fluorescent D. tanaceti was detected in 37.3% and 36.0% of seeds from pre- and post-anthesis inoculated treatments, respectively. Among D. tanaceti-positive seeds recovered following post-anthesis inoculation, 40.7% appeared externally asymptomatic despite lacking embryos. Finally, in a separate seed-to-seedling assay, fluorescent D. tanaceti was detected on cotyledons of 64% of seedlings emerging from inoculated seeds. These findings highlight the epidemiological importance of seedborne inoculum in pyrethrum production systems.",
+      "journal": "Phytopathology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42991224",
+      "doi": "10.2147/IMCRJ.S660971",
+      "title": "Solitary Neurofibroma in the Submental Region of a 15-Year-Old Adolescent: A Case Report and Review of Literature.",
+      "abstract": "Neurofibroma is a benign peripheral nerve sheath tumor composed of Schwann cells and fibroblasts. It may occur sporadically or as part of neurofibromatosis type 1 (NF1). Solitary neurofibroma arising in the submental region of an adolescent is extremely rare. We report a case of a solitary submental neurofibroma in a 15-year-old male and highlight its diagnostic and management implications. A 15-year-old adolescent boy presented with a chronic, painless right submental swelling that had been present for one year and had enlarged over the preceding three months. Clinical examination revealed a rubbery, nontender, approximately 3\u00d73\u00d74 cm mass without skin changes or systemic symptoms. There was no personal or family history suggestive of NF1, neural tumors, or pheochromocytoma. Ultrasound and CT imaging showed a well-defined soft-tissue mass consistent with a benign neurogenic tumor. The mass was completely excised via a submental incision. Histopathological examination confirmed a solitary neurofibroma with Schwann cell and fibroblast proliferation within a collagen matrix, Antoni A and B patterns, and positive S-100 immunostaining, with no evidence of malignancy. The postoperative course was uneventful, and tongue and floor-of-mouth function were preserved. Solitary submental neurofibroma should be considered in the differential diagnosis of submental masses in adolescents, even in the absence of NF1 features. Complete surgical excision is the treatment of choice and allows definitive histopathological diagnosis. A thorough evaluation for NF1 is recommended to guide long-term management and follow-up.",
+      "journal": "International medical case reports journal",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Case Reports",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42979531",
+      "doi": "10.17925/EE.2026.22.2.2",
+      "title": "Non-diabetic endocrine neuropathies: A practical approach to diagnosis and clinical evaluation.",
+      "abstract": "Peripheral neuropathy has diverse etiologies, with endocrine disorders beyond diabetes representing significant, yet frequently underrecognized causes. While diabetic neuropathy is well established, this article specifically excludes a detailed discussion of diabetic neuropathy to focus on less-recognized endocrine causes and presents a practical diagnostic algorithm for their earlier and more accurate identification. A focused narrative review was conducted using PubMed, Scopus and ScienceDirect (2015-2025). From 2,318 screened records, 154 studies were included after full-text review of 298 articles. Evidence was synthesized by etiology, mechanism, clinical presentation and diagnostic relevance. Disorders such as hypothyroidism, acromegaly, adrenal dysfunction and deficiencies of vitamins B12 and D produce distinct neuropathic profiles via metabolic, hormonal, inflammatory or compressive mechanisms. Subclinical nerve involvement is common, with electrophysiological abnormalities detectable in up to 60% of asymptomatic individuals. Characteristic clinical patterns - such as delayed reflexes in hypothyroidism, bilateral carpal tunnel syndrome (CTS) in acromegaly and sensory ataxia in B12 deficiency - provide diagnostic clues. Based on synthesized evidence, a stepwise diagnostic algorithm was developed to guide clinical evaluation. Endocrine disorders are important and often reversible causes of peripheral neuropathy. Early recognition requires a systematic approach. The proposed evidence-based algorithm offers clinicians a practical tool to improve diagnostic efficiency, facilitate timely treatment of the underlying endocrine condition and reduce the risk of irreversible nerve damage.",
+      "journal": "TouchREVIEWS in endocrinology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "43021310",
+      "doi": "10.1186/s13256-026-06473-2",
+      "title": "Multiple co-occurring genetic variants in an elderly patient with Liddle's-like syndrome: a case report and literature review.",
+      "abstract": "Liddle syndrome (LS) is a rare autosomal dominant condition classically defined by early-onset hypertension, hypokalemia, metabolic alkalosis, and a suppressed renin-aldosterone profile, primarily driven by gain-of-function mutations in the SCNN1A, SCNN1B, or SCNN1G genes encoding the epithelial sodium channel (ENaC). Nevertheless, genetically investigated cases exhibiting Liddle's-like phenotypes in the elderly population remain exceptionally rare. We report a 61-year-old male admitted with recurrent limb weakness and resistant hypertension. A comprehensive clinical workup, including biochemical profiles, RAAS evaluation, and 24-h ABPM, was conducted to exclude common secondary causes. Following informed consent, whole-exome sequencing (WES) was performed, with candidate variants validated by Sanger sequencing and assessed per ACMG/AMP guidelines. To guide therapeutic management, a narrative literature review of similar cases was also performed searching PubMed, Web of Science, and CNKI using keywords like \"Liddle syndrome,\" \"elderly,\" \"hypertension,\" and \"hypokalemia.\". Admission tests showed hypokalemia (2.94\u00a0mmol/L), compensated metabolic alkalosis, and suppressed renin-aldosterone levels. 24-h ABPM indicated severe blood pressure fluctuations up to 185/120\u00a0mmHg. Genetic testing revealed three heterozygous variants of uncertain significance (VUS)-CYP3A5 (c.1253\u2009+\u200983C\u2009>\u2009T), SCNN1G (c.1727A\u2009>\u2009G, p.Lys576Arg), and WNK1 (c.5636A\u2009>\u2009T, p.Asp1879Val)-without any known pathogenic variants. A diagnostic trial with triamterene (50\u00a0mg twice daily) restored normal potassium levels (>\u20093.5\u00a0mmol/L). After a 30-day combination therapy of controlled-release nifedipine and irbesartan, blood pressure stabilized between 110 and 133 and 69-85\u00a0mmHg. We report an elderly patient with chronic hypokalemia and resistant hypertension. After ruling out common secondary causes (for example, primary aldosteronism, Cushing's syndrome, pheochromocytoma), Liddle's-like syndrome was clinically diagnosed based on the low-renin/low-aldosterone biochemical phenotype, compensated metabolic alkalosis, literature review, and a selective response to triamterene. This case suggests that Liddle's-like syndrome must be considered in the differential diagnosis of hypokalemic hypertension in older adults to ensure early and targeted therapy.",
+      "journal": "Journal of medical case reports",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Case Reports",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "43017165",
+      "doi": "10.3389/fimmu.2026.1975295",
+      "title": "Case report: Progressive organ-threatening IgG4-related disease despite conventional immunosuppression: lessons from a 5-year longitudinal follow-up.",
+      "abstract": "To describe the 5-year clinical course of a patient who progressed from IgG4-related dacryoadenitis and sialadenitis (IgG4-DS) to IgG4-related hypophysitis (IgG4-RH) and retroperitoneal fibrosis, evaluating the clinical course and treatment response to conventional immunosuppressive therapy through longitudinal clinical, serological, endocrine, and magnetic resonance imaging (MRI) assessments. Clinical records were retrospectively reviewed, focusing on disease progression after treatment discontinuation, responses to sequential conventional synthetic disease-modifying antirheumatic drugs (csDMARDs), and long-term pituitary endocrine outcomes. During 5 years of follow-up, a 44-year-old man with IgG4-DS developed partial anterior hypopituitarism, central diabetes insipidus, and retroperitoneal fibrosis following two episodes of unplanned treatment discontinuation. Serial MRI demonstrated progressive pituitary stalk thickening accompanied by heterogeneous enhancement. The maximum stalk diameter was 4.0\u00a0mm at diagnosis (May 2023), decreased to 3.6\u00a0mm during maintenance therapy (September 2024), increased to 8.5\u00a0mm at relapse (March 2025), and decreased to 7.0\u00a0mm after treatment modification (November 2025). Glucocorticoids combined with sequential csDMARDs controlled acute inflammation but failed to prevent permanent gonadal and posterior pituitary dysfunction. Serum IgG4 reached a peak of 38,100 mg/L, and its re-elevation preceded both clinical and radiological relapse. At the last assessment in January 2026, serum IgG4 remained elevated at 4,594 mg/L, with persistent hypogonadism and central diabetes insipidus. Disease progression occurred mainly during treatment interruption, while residual activity persisted despite conventional csDMARDs. The relative contributions of treatment non-adherence and limited treatment efficacy remain uncertain. Combined serum IgG4 and MRI monitoring may aid early detection of relapse, but this requires validation in larger cohorts.",
+      "journal": "Frontiers in immunology",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43023982",
+      "doi": "10.1093/jmt/thag018",
+      "title": "A Nordoff-Robbins Music Therapy Logic Model: Mapping Theory, Process, and Outcomes.",
+      "abstract": "Nordoff-Robbins (NR) music therapy is grounded in the assumption of an innate core musicality inherent in each individual that can catalyze therapeutic change, yet the pathways linking its improvisation-based practice to multidimensional outcomes are often implicit rather than explicitly theorized. This paper presents a NR music therapy logic model that articulates a theory of change connecting four aspects: (1) theoretical foundations (core musicality and humanistic, improvisational principles), (2) intervention (live, individualized improvisation and emergent compositions, co-creation), (3) therapeutic process (systematic retrospective listening and indexing of recorded sessions to identify salient musical events, trace patterns of interaction, and inform ongoing clinical work), and (4) outcomes. The model is used to structure systematic clinical observation and outcome mapping and is illustrated through a single in-depth case vignette of Bella, a 17-year-old autistic adolescent and highly invested musician. For each outcome domain-musical self-expression, creativity, identity formation, self-efficacy, quality of life, social development, cognitive development, enhanced emotional expression, and activities of daily living-we present concise clinical examples illustrating how Nordoff-Robbins processes support identifiable shifts in functioning. The NR process is understood as the therapist's co-improvisational engagement: listening closely to Bella's musical initiatives, responding in ways that expand her expressive range, and shaping shared musical forms that invite agency and new possibilities. Whether through layered textures, the exploration of hip-hop idioms, the use of vocal timbres, extended piano improvisation, or recording as a reflective tool, these musical resources become meaningful as they are woven into a responsive, client-led improvisational dialogue that supports Bella's unfolding development.",
+      "journal": "Journal of music therapy",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43012026",
+      "doi": "10.12890/2026_007424",
+      "title": "Beware of Tall Stature: Growth Hormone Excess Associated with a Rare Parasellar Extra-Axial Tumour-Diagnostic and Management Challenges in a Resource-Limited Setting.",
+      "abstract": "Tall stature can be the sole indicator of growth hormone (GH) excess, which causes pituitary gigantism before epiphyseal fusion. In developing regions like Indonesia, a lack of systematic screening often delays diagnosis. While classic presentations involve accelerated linear growth, atypical cases may be dominated by neurological signs, such as seizures secondary to tumour mass effect. A 14-year-old boy presented with a 2-year history of rapidly accelerating growth velocity, increasing shoe size, and a 6-month history of severe morning headaches accompanied by drug-resistant focal seizures. Endocrine evaluations revealed significantly elevated basal GH (4.27 ng/ml) and insulin-like growth factor 1 (IGF-1) levels (536 ng/ml). Brain magnetic resonance imaging identified a large parasellar extra-axial tumour with suprasellar extension. The patient underwent a craniotomy and tumour excision; histopathology subsequently confirmed a rare, aggressive malignant mesenchymal tumour. Postoperatively, the patient achieved seizure resolution and normalization of GH and IGF-1 levels. However, he developed evolving pituitary dysfunction consistent with multiple pituitary hormone deficiency (MPHD), specifically central hypothyroidism, necessitating targeted hormonal replacement therapy and continuous clinical follow-up. GH excess and gigantism can arise secondary to parasellar pathology rather than intrinsic pituitary disease, with neurological features like refractory epilepsy occasionally preceding classic endocrine manifestations. Rapid adolescent growth paired with neurological signs warrants urgent structural neuroimaging. Meticulous perioperative pituitary monitoring and early multidisciplinary involvement are essential to optimize long-term patient outcomes. Pituitary gigantism can be driven by extra-axial parasellar masses rather than intrinsic pituitary adenomas, operating via mass-effect compression that disrupts hypothalamic somatostatin inhibition.Drug-resistant epilepsy and severe headaches caused by local tumour infiltration can dominate the clinical picture, meaning rapid adolescent growth paired with neurological symptoms mandates urgent magnetic resonance imaging of the brain.Postoperative multiple pituitary hormone deficiency often evolves silently over weeks or months, requiring lifelong, multidisciplinary surveillance to detect late-stage deficiencies like secondary adrenal insufficiency.",
+      "journal": "European journal of case reports in internal medicine",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43023869",
+      "doi": "10.1530/EC-26-0493",
+      "title": "Hepatic Steatosis in Primary Aldosteronism, Cushing's Syndrome, and Mild Autonomous cortisol secretion: Metabolic and Hormonal Associations.",
+      "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is closely linked to obesity, diabetes mellitus (DM), and dyslipidemia. Patients with primary aldosteronism (PA), Cushing's syndrome (CS) and mild autonomous cortisol secretion (MACS) exhibit metabolic abnormalities, but the relative contributions of hormonal and metabolic factors to hepatic steatosis remain unclear. To evaluate MASLD prevalence and determinants in PA, CS, and MACS. Single-center retrospective cross-sectional study. 243 treatment-naive patients underwent unenhanced abdominal computed tomography: 102 isolated PA, 60 CS, 47 MACS, and 34 PA with cortisol co-secretion. Hepatic steatosis was assessed using liver-to-spleen (L/S) attenuation ratio. Hepatic steatosis index (HSI), and triglyceride-glucose (TyG) index were calculated. MASLD prevalence was 28.4% in isolated PA, 26.6% in CS, 31.9% in MACS and 26.4% in PA with cortisol co-secretion. Liver attenuation and L/S ratio were similar across groups but correlated with visceral adiposity, glucose, HbA1c, triglycerides, HSI, and TyG index (all r>0.5, p<0.05). DM was independently associated with lower liver attenuation after adjustment for age, sex, and BMI (\u03b2 = -11.10 HU, 95% CI: -16.40 to -5.79). Serum cortisol, cortisol after the 1-mg DST, aldosterone, and renin were not independently associated with hepatic steatosis, whereas UFC was independently associated with the L/S attenuation ratio in the hypercortisolism subgroup. Hepatic steatosis was similarly prevalent across PA, CS, and MACS, and was associated with metabolic factors, particularly DM, BMI, visceral adiposity, and hypertriglyceridemia. These findings support consideration of hepatic steatosis assessment in patients with functional adrenal disorders and metabolic risk factors.",
+      "journal": "Endocrine connections",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43020467",
+      "doi": "10.1016/j.eprac.2026.11.004",
+      "title": "Individualized Glucocorticoid Replacement with Prednisone in Central Adrenal Insufficiency Using a Clinical Dose-Finding Algorithm.",
+      "abstract": "For over 30 years, we have treated patients with central adrenal insufficiency (CAI) using an in-house clinical algorithm (based exclusively on signs/symptoms) to individualize prednisone replacement within a predefined low dose range. The aim of this study is to describe prednisone dose distribution produced by this algorithm, determine associations between doses and patient characteristics, and compare long-term outcomes across dose groups. Retrospective study. Seventy-seven patients with CAI (63 years; 64% men) on long-term prednisone use were selected in their last visit (2021-2022). Long-term outcomes were extracted from records; quality of life (QoL SF-36), health events, and patient education/self-management were assessed by recent in-person questionnaires. Algorithm dose distribution was 2.5mg in 70%, 3.75mg in 14%, and 5.0mg in 16% (P=0.001). Allocation to 2.5 mg was associated with older age and lower body weight/surface area (P<0.0001). No significant differences were observed, respectively, between 2.5mg and 5.0mg doses for: incidence of diabetes (P=0.74), hypertension (P=0.24), dyslipidemia (P=0.78); bone mineral density in lumbar spine (1.013 vs 0.911 g/cm2, P=0.19), total femur(0.930 vs. 0.952 g/cm2, P=0.70), and femoral neck(0.808 vs. 0.816 g/cm2, P=0.88); prevalence of weight gain (51% vs. 33%, P=0.25), weight gained [5.5(2.25-9.75) vs. 5.0(3.0-14.5)kg], health events(0.45<P<0.70), self-management of prednisone(P>0.99), and QoL(0.13<P<0.96). Individualizing low-range prednisone replacement with a structured algorithm produced a dose distribution tied to patient age and body size, with comparable long-term outcomes. These findings support the use of tailored low-dose prednisone through a clinical algorithm as a safe method to avoid glucocorticoid over-and under replacement in CAI.",
+      "journal": "Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43018224",
+      "doi": "10.1016/j.jaccas.2026.110757",
+      "title": "Hemodynamic Challenges After Paraganglioma Resection in Fontan-Palliated Adult With Fontan-Associated Liver Disease.",
+      "abstract": "Chronic hypoxemia in cyanotic congenital heart disease is associated with increased risk of pheochromocytoma and paraganglioma (PPGL), particularly among patients with single-ventricle physiology. A 26-year-old man with unbalanced atrioventricular septal defect and extracardiac Fontan palliation, and Fontan-associated liver disease presented with hypertensive crisis, with imaging evidence of PPGL. The patient underwent robotic right adrenalectomy and nodule resection complicated by high-volume chylous ascites for several weeks. Chronic hypoxemia in cyanotic congenital heart disease, particularly univentricular physiology, is a well-established driver of PPGL. Existing guidelines mandate preoperative \u03b1-blockade and volume expansion for functional PPGL, but this approach is not tailored to Fontan physiology. We present a rare case of operative disruption of retroperitoneal lymphatics superimposed on Fontan-associated systemic venous and lymphatic congestion. Right heart catheterization, cautious \u03b1-blockade with volume expansion, and multidisciplinary perioperative management are essential to balance catecholamine blockade against the risks of venous congestion, lymphatic failure, bleeding, and thrombosis.",
+      "journal": "JACC. Case reports",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43023970",
+      "doi": "10.1001/jamapediatrics.2026.5973",
+      "title": "Attention-Deficit/Hyperactivity Disorder Accommodations, Behavior Therapy, and Stimulant Medication: A Randomized Clinical Trial.",
+      "abstract": "Although widely deployed, little is known about the efficacy of academic accommodations for attention-deficit/hyperactivity disorder (ADHD), alone or in combination of behavior therapy and stimulant medication. To evaluate the efficacy of academic accommodations alone and in combination with behavioral interventions and stimulant medication. This was a crossover randomized clinical trial with participants introduced to all conditions. Children with ADHD were enrolled in kindergarten through sixth grade. Academic accommodations were changed daily in a randomized order. Stimulant medication and placebo alternated weekly. The general classroom and enhanced behavior classroom intervention alternated every 2 weeks. The study was conducted in summer treatment program classrooms. For the present study, behavior was evaluated in (1) a classroom period where participants completed independent assignments and (2) a classroom period where participants were taught a lesson, completed small group cooperative tasks related to the lesson, and then took a quiz. Study data were analyzed from March to July 2026. The single and combined effects of academic accommodations, behavior therapy, and stimulant medication (methylphenidate, 0.3 mg/kg) were evaluated. Academic accommodations were extended time on tasks, frequent breaks during tasks, a low-distraction workspace, and the ability to stand at the desk, compared with a condition without an accommodation. A general classroom setting was compared with a classroom setting with enhanced behavior intervention. Main outcomes were classroom rule violations during each of the two, 1-hour class periods, the number of seatwork items completed correctly (ie, academic productivity), and the quiz score. Of 306 children screened, 280 were enrolled in the study. A total of 255 children (mean [SD] age, 8.8 [1.6] months; 201 male [79%]) started the intervention, and 235 (84%) completed the study. Compared with placebo, stimulant medication increased effects related to seatwork productivity by 22% (ie, the rate ratio [RR] for this condition indicated that receiving medication compared with placebo multiplied the expected count of problems completed per minute by 1.22; 95% CI,\u20091.19-1.25), and quiz scores were significantly improved by 3.9 points (95% CI,\u20093.10-4.70 points). Medication and behavioral therapy significantly reduced classroom rule-breaking behavior by 37% (RR,\u20090.63; 95% CI,\u20090.60-0.67) and 61% (RR, 0.39; 95% CI,\u20090.37-0.42), respectively. There was no evidence that any of the academic accommodations significantly improved behavior or academic outcomes. No interactions were significant. Results of this crossover randomized clinical trial question whether school-based academic accommodations for children with ADHD should continue to be emphasized as accommodations were ineffective when used alone or in combination with other ADHD treatments. Results support the continued use of behavioral and pharmacological treatment for ADHD. ClinicalTrials.gov Identifier: NCT05469386.",
+      "journal": "JAMA pediatrics",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43017263",
+      "doi": "10.7759/cureus.117817",
+      "title": "Iatrogenic Cushing Syndrome With Hypothalamic-Pituitary-Adrenal Axis Suppression in a Two-Month-Old Infant Following Unsupervised Topical Corticosteroid Use: A Case Report.",
+      "abstract": "Topical corticosteroids are commonly prescribed in pediatric dermatology; however, systemic adverse effects may occur rapidly in infants due to increased percutaneous absorption, the occlusive effect of diapers, and the immaturity of the hypothalamic-pituitary-adrenal (HPA) axis. We report the case of a two-month-old, 6 kg male infant who developed iatrogenic Cushing syndrome following approximately seven weeks of daily and repeated unsupervised application of a betamethasone valerate 0.1% topical corticosteroid to the diaper area for the treatment of diaper rash. Clinical examination revealed moon facies, a buffalo hump, and facio-truncal obesity. Laboratory evaluation showed suppressed morning cortisol at 5 \u00b5g/L (reference: 50-230 \u00b5g/L) and undetectable adrenocorticotropic hormone (ACTH) at 2.47 pg/mL (reference: 7-63 pg/mL), consistent with secondary adrenal insufficiency due to HPA axis suppression; brain CT showed no structural abnormality of clinical relevance. Management consisted of gradual withdrawal of the topical corticosteroid over four weeks, physiologic hydrocortisone replacement therapy at 8-10 mg/m\u00b2/day in three divided doses, and close clinical and biochemical follow-up. Biochemical recovery was suggested by normalization of morning cortisol to 272 \u00b5g/L, allowing progressive tapering and the discontinuation of hydrocortisone over six weeks without any episode of acute adrenal insufficiency. The family received structured education regarding the risks of unsupervised corticosteroid use and the warning signs of adrenal crisis. This case underscores that even moderate-to-potent topical corticosteroids applied to occluded skin areas can cause significant systemic toxicity in this vulnerable population and highlights the critical importance of parental education, appropriate prescribing guidance, and vigilant monitoring to prevent this avoidable complication.",
+      "journal": "Cureus",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43022027",
+      "doi": "10.1016/j.adro.2026.102202",
+      "title": "Reirradiation for Recurrent Craniopharyngioma-Long-Term Follow-up.",
+      "abstract": "To report long-term tumor control, toxicity, and functional outcomes after a second course of fractionated radiation therapy for recurrent craniopharyngioma previously treated with radiation therapy. We identified all patients with craniopharyngioma with recurrent or progressive disease, unsuitable for further medical management or re-resection, who underwent 2 courses of fractionated photon radiation therapy at a single institution between 1998 and 2024. Reirradiation was delivered to 54 Gy in 30 fractions with full overlap of the initial target; dose constraints to optic nerves, chiasm, and brainstem were Dmax/D0.03cc (Maximum Dose or Dose to 0.03 cubic centimetres) \u226454 Gy. Outcomes were summarized descriptively. Six patients received reirradiation a mean of 9.8 years (range, 5.6-20.5) after initial radiation therapy (50-54 Gy in 25-30 fractions). Median follow-up after reirradiation was 4.1 years (range, 0.4-8.8). At the last follow-up, 4 patients were alive, all with local disease control (2 with radiological regression, 2 with stable disease). Two deaths occurred (1 due to progressive disease and 1 due to functional decline with stable imaging). Visual outcomes were heterogeneous: 1 patient maintained intact vision; others had intermittent diplopia, bitemporal hemianopsia, or unilateral blindness with contralateral impairment. Endocrinopathy was frequent: 3 of 4 survivors had pan-hypopituitarism; 1 had partial deficits (hypothyroidism/amenorrhea). Functional status was impaired in survivors, with the inability to work or study due to fatigue, visual loss, or cognitive issues. Additional toxicities included posttreatment seizures requiring hospitalization (n\u202f=\u202f1) and transient dexamethasone for headache (n\u202f=\u202f1). In carefully selected patients lacking other curative options, modern highly conformal reirradiation can achieve meaningful local control after prior high-dose radiation therapy, but carries an additive risk of visual, endocrine, and functional morbidity. Decisions should be individualized within a multidisciplinary team to identify appropriate cases for reirradiation and to ensure thorough long-term follow-up to manage delayed toxicity.",
+      "journal": "Advances in radiation oncology",
+      "year": "2027",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43023979",
+      "doi": "10.1167/tvst.15.11.13",
+      "title": "Interpretable Machine Learning Versus G-ROP Criteria for Screening Type 1 Retinopathy of Prematurity.",
+      "abstract": "Retinopathy of prematurity (ROP) is a leading cause of preventable childhood blindness. Although the North-American (NA)/American Academy of Ophthalmology (AAO) and Growth and ROP (G-ROP) criteria are highly sensitive, they may trigger unnecessary examinations. This study evaluated whether an interpretable machine-learning (ML) model could reduce screen-positive classifications while identifying all documented Early Treatment for ROP (ETROP) type 1 ROP cases. A retrospective study included infants admitted to Hadassah Medical Center neonatal intensive care units (January 2023-February 2025). Of 2159 infants, 387 met local screening criteria (gestational age \u226432 weeks or birth weight \u22641500 g); 189 had complete G-ROP predictor data, and 5 were excluded because ROP status remained unavailable. ML models used gestational age, birth weight, and postnatal weight gain. L1-regularized logistic regression models used either gestational age and birth weight alone or these variables plus G-ROP postnatal weight-gain measures. Leave-one-out cross-validation assessed performance. Among 184 infants, 21 had type 1 ROP; all approaches identified all 21 cases. Local, NA/AAO, modified G-ROP, and birth-based criteria classified 184 (100.0%), 174 (94.6%), 137 (74.5%), and 94 (51.1%) infants as screen-positive, respectively. The 5-variable ML model classified 58 (31.5%; specificity = 77.3%) as screen-positive, a 68.5% reduction versus local screening and 57.7% versus G-ROP (area under the receiver operating characteristic curve [AUROC] = 0.914). The birth-only ML model performed similarly (55/184 [29.9%]; specificity = 79.1%; AUROC = 0.909), indicating no incremental screening benefit from postnatal weight gain. Interpretable ML substantially reduced screen-positive classifications while identifying all documented type 1 ROP cases. Similar birth-only performance supports prospective validation of locally adapted screening. Routinely collected data and ML framework may enable more efficient type 1 ROP screening and neonatal ophthalmic care.",
+      "journal": "Translational vision science & technology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43014358",
+      "doi": "10.5811/cpcem.64485",
+      "title": "Subarachnoid Pneumocephalus Following Endoscopic Transsphenoidal Surgery.",
+      "abstract": "A 26-year-old man with past medical history of prolactinoma presented two weeks status post endoscopic transsphenoid prolactinoma excision with a positional headache and cerebrospinal fluid rhinorrhea; he was found to have diffuse subarachnoid air. There are few reports of subarachnoid pneumocephalus in the emergency medicine literature. Pneumocephalus, particularly tension pneumocephalus, typically occurs in the setting of traumatic skull fractures. However, emergency physicians should be aware of subarachnoid pneumocephalus in the setting of endoscopic skull base surgeries.",
+      "journal": "Clinical practice and cases in emergency medicine",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42979274",
+      "doi": "10.1002/jpr3.70271",
+      "title": "When genetics disrupt the gut: Dysmotility and ganglioneuromatosis in multiple endocrine neoplasia type 2B syndrome.",
+      "abstract": "Multiple Endocrine Neoplasia type 2B (MEN2B) is a rare hereditary cancer syndrome characterized by medullary thyroid carcinoma, mucosal neuromas, and pheochromocytoma. Gastrointestinal involvement is common and often manifests as diffuse intestinal ganglioneuromatosis (IGN), which can impair motility and lead to severe constipation, pseudo-obstruction, or megacolon. We report a male infant with known MEN2B who developed progressive abdominal distension and obstructive symptoms refractory to medical management. Initial rectal suction biopsies were unrevealing. Due to persistent symptoms, a diverting ileostomy was created for decompression, during which full-thickness biopsies were obtained, ultimately establishing the definitive diagnosis of colonic ganglioneuromatosis. This case highlights the limitations of mucosal biopsies in detecting deeper neural pathology and underscores the importance of maintaining clinical suspicion for IGN in patients with MEN2B and persistent gastrointestinal symptoms despite a normal initial evaluation.",
+      "journal": "JPGN reports",
       "year": "2026",
       "publication_types": [
         "Journal Article"
@@ -247,6 +435,28 @@
       ]
     },
     {
+      "pmid": "43023969",
+      "doi": "10.1080/10837450.2026.2763654",
+      "title": "Development of Monocarboxylate Transporter 4 Inhibitor/Docetaxel-Loaded Multilayer Nanoparticles for Prostate Cancer Combination Therapy.",
+      "abstract": "The proposed work seeks to develop and characterize a smart, multilayer MCT4i/DXT-loaded polylactide-glycolic acid nanoparticle for combination therapy in prostate cancer. The core of the smart LBL NPs is prepared by nanoprecipitation, and the sodium acetate \"freeze-coating\" technique is used to construct the multilayer nanoparticle. The size, zeta potential, entrapment efficiency, and nanoparticle surface chemistry are characterized by Malvern Panalytical Advanced Zeta Sizer. UV/VIS Spectrophotometer, transmission electron microscopy (TEM), and Fourier Transform Infrared spectrometer (FT-IR). The cytotoxicity of the different nanoformulations is assessed in the C4-2 cell line by MTS assay, and the mechanism of cell death is assessed by flow cytometry using an apoptosis assay. The TEM shows a multi-layer spherical nanoparticle. The multilayer nanoparticle is 255.539\u2009nm in size, with an entrapment efficiency of 89.56\u2009\u00b1\u20091. 70% and 91.55\u2009\u00b1\u20097.82% for compound AZD0095 and docetaxel, respectively. The FTIR confirms that sodium acetate coats all the nanoformulation. Low-dose combination therapy effectively inhibits C4-2 cell growth. Smart nanoparticles exhibit dose-dependent cytotoxicity in C4-2 cells. Cell death occurs via apoptosis with docetaxel alone and via secondary necrosis with the combination therapy. The multilayer nanoparticle is a promising nanomedicine for combination therapy in prostate cancer.",
+      "journal": "Pharmaceutical development and technology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43023978",
+      "doi": "10.1167/tvst.15.11.14",
+      "title": "Multiplex Analysis of Cytokine Profiles in the Aqueous Humor of Glaucoma Filtration Surgery Models and Its Effect on Scarring.",
+      "abstract": "To characterize the dynamic evolution of aqueous humor cytokine profiles after glaucoma filtration surgery (GFS) and to identify molecular signatures associated with bleb survival outcomes. GFS was performed on 26 rabbits' right eyes. Intraocular pressure (IOP), bleb morphology, and aqueous humor samples were collected before and after surgery. Thirty cytokines were quantified using RayBio Rabbit Cytokine Array Q30. Statistical analyses included Kaplan-Meier survival analysis, repeated-measures analysis of variance, independent samples t-tests or nonparametric tests, and Spearman correlation. IOP decreased significantly in the early postoperative period and then gradually increased and stabilized. The mean bleb survival time was 15.19 \u00b1 2.47 days. Among the 30 cytokines, 25 showed significant time-dependent changes, with peak times ranging from postoperative day 1 to day 21. After surgery, 12 cytokines were significantly higher in the early bleb failure group compared to the late failure group, with the greatest number and strongest negative correlations with bleb survival time observed on postoperative day 7, among which Contactin-1 (r = -0.6018), follistatin-related gene (FLRG; r = -0.5906), and thrombospondin-2 (TSP-2; r = -0.5847) exhibited the strongest correlations. GFS can induce time-dependent elevations in multiple cytokines in the aqueous humor, with high expression of factors (such as Contactin-1, FLRG, and TSP-2) on postoperative day 7 closely associated with earlier bleb failure. This study profiles post-GFS cytokine dynamics in rabbit aqueous humor, suggesting day 7 as a potential key window where Contactin-1, FLRG, and TSP-2 may act as scarring contributors, providing potential molecular targets and timing for future targeted interventions to improve the long-term success of filtration surgery.",
+      "journal": "Translational vision science & technology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
       "pmid": "43010074",
       "doi": "10.1186/s13256-026-06500-2",
       "title": "Pituitary stalk interruption syndrome: a case report.",
@@ -259,29 +469,6 @@
       ]
     },
     {
-      "pmid": "43018614",
-      "doi": "10.1021/acs.jmedchem.6c01382",
-      "title": "Evaluation and an Exploratory Human Study of 99mTc-Labeled PSMA-Targeting Agents with Reduced Renal Uptake via Proline Incorporation.",
-      "abstract": "Excessive renal uptake of prostate-specific membrane antigen (PSMA)-targeted radiopharmaceuticals remains a major challenge in prostate cancer (PCa) detection and therapy. We developed 99mTc-labeled PSMA radioligands incorporating d- or l-proline as a conformationally constrained linker combined with optimized co-ligands to reduce kidney accumulation. The resulting hydrophilic complexes achieved high radiochemical yields and strong in vitro stability. The optimal radiotracer, [99mTc]Tc-L-M1, exhibited high LNCaP (PSMA++) cell affinity (Kd = 19.09 nM) and the lowest kidney uptake (6.50 \u00b1 0.32% ID/g, Kunming mice, 2 h p.i.). It accumulated effectively in both LNCaP (PSMA++) and 22Rv1 (PSMA+) tumors with excellent target-to-nontarget ratios and strong PSMA specificity. SPECT/CT imaging confirmed low renal accumulation, consistent with biodistribution data. Preliminary clinical trials demonstrated clear delineation of small PCa lesions, highlighting [99mTc]Tc-L-M1 as a promising PSMA-specific radiotracer with reduced kidney uptake for clinical application.",
-      "journal": "Journal of medicinal chemistry",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43018635",
-      "doi": "10.1080/14656566.2026.2763334",
-      "title": "Pharmacotherapeutic strategies for the treatment of the most frequent psychiatric comorbidities in PTSD.",
-      "abstract": "Posttraumatic stress disorder (PTSD) is trauma- and stressor-related disorder frequently associated with somatic and psychiatric comorbidities. The most frequent psychiatric comorbidities are major depressive disorder (MDD), sleep disturbances, alcohol use disorders (AUD) and psychoses. The lack of clinical improvement is frequent in PTSD, and presence of comorbidities complicates PTSD treatment. This narrative review covered pharmacotherapy of common psychiatric comorbidities in PTSD (MDD, psychosis, sleep disturbances, especially obstructive sleep apnea (OSA) and insomnia and AUD. We searched for novel data in reviews, randomized clinical trials, open labeled studies in English language through June 2026, identified using PubMed/MEDLINE/Web of Sciences/Google Scholar and clinical practice guidelines from the American Psychological Association for the Treatment of PTSD in adults (2025), and the US Department of Veterans Affairs and Department of Defense from 2023. We discussed available evidence related to pharmacotherapy of PTSD with comorbidities. The vast majority of PTSD patients have at least one psychiatric comorbidity. Pharmacological treatment represents a challenge, given that pharmacological agents used to treat PTSD mostly do not affect symptoms of other comorbid disorders. Therefore, the choice of medications is highly individual, depending on the clinical presentation, tolerability issues, physical comorbidities, and patient preference.",
-      "journal": "Expert opinion on pharmacotherapy",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
       "pmid": "42952531",
       "doi": "10.7759/cureus.117024",
       "title": "Scleroderma-Like Phenotype in a Patient With Transthyretin Cardiac Amyloidosis and Acromegaly: A Triple Diagnostic Challenge.",
@@ -290,180 +477,6 @@
       "year": "2026",
       "publication_types": [
         "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43018626",
-      "doi": "10.1021/acs.jmedchem.6c02236",
-      "title": "Preclinical Characterization of [68Ga]Ga/[177Lu]Lu-PSNT-AB: A Dual-Targeted Agent against PSMA and NTSR1 for Prostate Cancer Theranostics.",
-      "abstract": "Prostate-specific membrane antigen (PSMA) is a key biomarker for prostate cancer (PCa), while neurotensin receptor 1 (NTSR1) is positive in PSMA-negative PCa lesions. For comprehensive diagnosis and therapy of PCa, we synthesized dual-targeted PSNT-AB (combining PSMA-targeted EuK, NTSR1-targeted NT-20.3, albumin-binding 4-p-tolylbutyric acid and DOTA moieties) and prepared [68Ga]Ga/[177Lu]Lu-PSNT-AB. [68Ga]Ga-PSNT-AB possessed high affinity for PSMA-positive LNCaP and moderate affinity for NTSR1-positive PC-3 cells. Probes accumulated time-dependently in relevant cells, and [177Lu]Lu-PSNT-AB exerted potent cytotoxicity. Pharmacokinetics revealed prolonged blood half-lives for both probes. PET imaging revealed persistent [68Ga]Ga-PSNT-AB uptake in LNCaP, 22Rv1 and PC-3 tumors (10.29 \u00b1 0.25% ID/g, 6.61 \u00b1 0.30% ID/g, 3.74 \u00b1 0.12% ID/g at 3 h post-injection). SPECT/CT showed sustained [177Lu]Lu-PSNT-AB retention in LNCaP tumors for at least 24 h. These results demonstrated that [68Ga]Ga/[177Lu]Lu-PSNT-AB are promising dual-targeted probes for PCa diagnosis and therapy, offering a potential strategy for comprehensive and effective precision management of PCa.",
-      "journal": "Journal of medicinal chemistry",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42999648",
-      "doi": "10.21037/tlcr-2026-0856",
-      "title": "Diagnostic challenge of delayed immune-related hepatitis during zongertinib treatment after nivolumab plus ipilimumab in a 52-year-old man with HER2-mutant non-small cell lung cancer: a case report.",
-      "abstract": "Delayed immune-related hepatitis after discontinuation of immune checkpoint inhibitors (ICIs) is increasingly recognized, but attribution is difficult when liver injury develops during subsequent tyrosine kinase inhibitor (TKI) therapy. This diagnostic dilemma has not been well described during human epidermal growth factor receptor 2 (HER2)-selective TKI treatment after dual ICI therapy. A 52-year-old Japanese man with HER2 exon 20 insertion-positive stage IVB non-small cell lung cancer received nivolumab plus ipilimumab from February 28 to November 13, 2025, and developed grade 2 oral mucositis, grade 2 adrenal insufficiency, and grade 1-2 skin toxicity. Zongertinib was initiated on November 26. Routine testing on January 6, 2026 showed grade 3 hepatocellular injury, and zongertinib was withheld. Despite drug withdrawal, liver injury progressed, and he was admitted with mild fatigue on January 20, when aspartate aminotransferase, alanine aminotransferase, alkaline phosphatase, and \u03b3-glutamyl transpeptidase levels were 774, 1,386, 156, and 160 U/L, respectively. Total bilirubin remained approximately 1.0 mg/dL. Viral and autoimmune testing and imaging disclosed no alternative cause. Liver biopsy showed active hepatitis with lymphocyte-predominant portal and lobular inflammation and interface activity, findings compatible with an immune-mediated hepatitis pattern but not specific for the causative agent. Prednisolone 40 mg/day (approximately 0.5 mg/kg/day) produced rapid biochemical improvement with resolution of fatigue. Zongertinib was resumed on February 11 and continued without recurrent hepatitis through June 2026. The progression of liver injury despite zongertinib withdrawal, multiple prior immune-related adverse events, exclusion of competing causes, compatible histology, corticosteroid responsiveness, and absence of recurrence after zongertinib rechallenge collectively favored delayed immune-related hepatitis, although zongertinib-associated drug-induced liver injury could not be completely excluded. In similar cases, a structured etiological assessment, including liver biopsy when the result may alter cancer treatment, can help guide management.",
-      "journal": "Translational lung cancer research",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43018224",
-      "doi": "10.1016/j.jaccas.2026.110757",
-      "title": "Hemodynamic Challenges After Paraganglioma Resection in Fontan-Palliated Adult With Fontan-Associated Liver Disease.",
-      "abstract": "Chronic hypoxemia in cyanotic congenital heart disease is associated with increased risk of pheochromocytoma and paraganglioma (PPGL), particularly among patients with single-ventricle physiology. A 26-year-old man with unbalanced atrioventricular septal defect and extracardiac Fontan palliation, and Fontan-associated liver disease presented with hypertensive crisis, with imaging evidence of PPGL. The patient underwent robotic right adrenalectomy and nodule resection complicated by high-volume chylous ascites for several weeks. Chronic hypoxemia in cyanotic congenital heart disease, particularly univentricular physiology, is a well-established driver of PPGL. Existing guidelines mandate preoperative \u03b1-blockade and volume expansion for functional PPGL, but this approach is not tailored to Fontan physiology. We present a rare case of operative disruption of retroperitoneal lymphatics superimposed on Fontan-associated systemic venous and lymphatic congestion. Right heart catheterization, cautious \u03b1-blockade with volume expansion, and multidisciplinary perioperative management are essential to balance catecholamine blockade against the risks of venous congestion, lymphatic failure, bleeding, and thrombosis.",
-      "journal": "JACC. Case reports",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43018620",
-      "doi": "10.1021/acs.jmedchem.6c01836",
-      "title": "Mitochondria-Targeted Iridium(III) Complexes Entrapped in Liposomes Induce Cell Death through Ferroptosis.",
-      "abstract": "The anticancer efficacy of iridium(III) complexes has been extensively studied. A new ligand TFMPIP (2-(4-(trifluoromethoxy)phenyl)-1H-imidazo[4,5-f][1,10]phenanthroline) and its four iridium(III) complexes [Ir(C-N)2(TFMPIP)]PF6 (C-N = ppy: 13a, bzq: 13b, piq: 13c, and dfppy: 13d) were synthesized and characterized. The complexes show moderate or low cytotoxicity against LA795, HCT116, and Huh7 cells, while their liposome formulations 13a@lipo, 13b@lipo, 13c@lipo, and 13d@lipo significantly enhanced the antiproliferative activity against LA795 cells. Mechanistic investigations revealed that 13a@lipo, 13b@lipo, 13c@lipo, and 13d@lipo accumulated in mitochondria and induced pronounced mitochondrial dysfunction. Subsequent experiments confirmed that 13a@lipo, 13b@lipo, 13c@lipo, and 13d@lipo triggered apoptosis, suppressed the PI3K/AKT/mTOR signaling pathway, and induced ferroptosis. In vivo antitumor activity showed that 13c@lipo significantly inhibited tumor growth in the LA795 tumor-bearing model with a high inhibitory rate of 82.72%. Collectively, these findings identify 13c@lipo as a promising liposomal Ir(III)-based candidate for lung adenocarcinoma therapy.",
-      "journal": "Journal of medicinal chemistry",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43018633",
-      "doi": "10.1021/acs.jmedchem.6c01878",
-      "title": "Enhanced Pulmonary Fibrosis Treatment by Self-Assembling Peptide Nanofibers via Improved Pulmonary Delivery and Retention.",
-      "abstract": "Pulmonary fibrosis (PF) is a life-threatening interstitial lung disease, which progressively impairs pulmonary function, with limited therapeutic options available. In this study, we designed CQ7, a self-assembling peptide that integrates a therapeutic peptide with a self-assembly motif. CQ7 monomers spontaneously form supramolecular nanofibers under physiological conditions, both extracellularly and intracellularly. This nanofiber structure promotes efficient lung retention and targeted pulmonary delivery, leading to enhanced anti-fibrotic efficacy. We evaluated the anti-fibrotic and anti-inflammatory effects of CQ7 in a murine PF model via both intraperitoneal and inhalation administrations. Transcriptomic sequencing and experimental validation further revealed that CQ7 may act through the regulation of mitochondrial function, reducing cellular oxidative stress and thereby regulating the apoptosis process. Collectively, this work demonstrates a novel peptide-based strategy with significant potential for improving PF outcomes and clinical translation.",
-      "journal": "Journal of medicinal chemistry",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43018622",
-      "doi": "10.1021/acs.jmedchem.6c01837",
-      "title": "Synthesis and Preclinical Evaluation of a Novel Technetium-99m-Labeled Tracer for Tumor Hypoxia Imaging with Low Uptake in the Intestines and Liver.",
-      "abstract": "Hypoxia imaging can provide crucial information for clinical tumor treatment decisions. To decrease the excessive abdominal uptake in nontarget organs of radiotracers and obtain high imaging contrast, two 2-nitroimidazole derivatives (2NMDPro and 2NMLPro) modified with different proline linkers were designed and synthesized. Six complexes with good in vitro stability were acquired by radiolabeling with technetium-99m and various coligands. Among them, [99mTc]Tc-2NMDPro-M1 exhibited good hypoxic selectivity in vitro S180 cell uptake, good hydrophilicity (log D7.4 = -2.87 \u00b1 0.03), high tumor uptake (1.01 \u00b1 0.13 ID %/g, 1 h postinjection, p.i.), and low uptake in intestines and liver (0.33 \u00b1 0.06 ID %/g and 0.65 \u00b1 0.15 ID %/g, respectively, 1 h p.i.) in S180 tumor-bearing mice biodistribution and SPECT/CT imaging study. Ex vivo radioautography and immunohistochemical (IHC) staining of the HIF-1\u03b1 study also confirmed the selective accumulation of [99mTc]Tc-2NMDPro-M1 in the hypoxia area. Consequently, [99mTc]Tc-2NMDPro-M1 is a highly potential tracer for tumor hypoxia imaging in clinical nuclear medicine.",
-      "journal": "Journal of medicinal chemistry",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43017165",
-      "doi": "10.3389/fimmu.2026.1975295",
-      "title": "Case report: Progressive organ-threatening IgG4-related disease despite conventional immunosuppression: lessons from a 5-year longitudinal follow-up.",
-      "abstract": "To describe the 5-year clinical course of a patient who progressed from IgG4-related dacryoadenitis and sialadenitis (IgG4-DS) to IgG4-related hypophysitis (IgG4-RH) and retroperitoneal fibrosis, evaluating the clinical course and treatment response to conventional immunosuppressive therapy through longitudinal clinical, serological, endocrine, and magnetic resonance imaging (MRI) assessments. Clinical records were retrospectively reviewed, focusing on disease progression after treatment discontinuation, responses to sequential conventional synthetic disease-modifying antirheumatic drugs (csDMARDs), and long-term pituitary endocrine outcomes. During 5 years of follow-up, a 44-year-old man with IgG4-DS developed partial anterior hypopituitarism, central diabetes insipidus, and retroperitoneal fibrosis following two episodes of unplanned treatment discontinuation. Serial MRI demonstrated progressive pituitary stalk thickening accompanied by heterogeneous enhancement. The maximum stalk diameter was 4.0\u00a0mm at diagnosis (May 2023), decreased to 3.6\u00a0mm during maintenance therapy (September 2024), increased to 8.5\u00a0mm at relapse (March 2025), and decreased to 7.0\u00a0mm after treatment modification (November 2025). Glucocorticoids combined with sequential csDMARDs controlled acute inflammation but failed to prevent permanent gonadal and posterior pituitary dysfunction. Serum IgG4 reached a peak of 38,100 mg/L, and its re-elevation preceded both clinical and radiological relapse. At the last assessment in January 2026, serum IgG4 remained elevated at 4,594 mg/L, with persistent hypogonadism and central diabetes insipidus. Disease progression occurred mainly during treatment interruption, while residual activity persisted despite conventional csDMARDs. The relative contributions of treatment non-adherence and limited treatment efficacy remain uncertain. Combined serum IgG4 and MRI monitoring may aid early detection of relapse, but this requires validation in larger cohorts.",
-      "journal": "Frontiers in immunology",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43017274",
-      "doi": "10.1210/jcemcr/luag350",
-      "title": "Ruptured pheochromocytoma during preoperative doxazosin treatment.",
-      "abstract": "Rupture of pheochromocytoma is rare but represents a life-threatening complication. A 43-year-old man with episodic hypertension, palpitations, and chest discomfort was incidentally found, during a computed tomography (CT) aortogram performed to rule out aortic dissection, to have a 5.2-cm right adrenal mass suspicious for pheochromocytoma. Biochemical testing confirmed catecholamine excess. He was started on oral doxazosin 1\u2005mg daily, which was titrated to 2\u2005mg daily after 1 week, followed by oral bisoprolol 2.5\u2005mg daily in preparation for surgery. Five weeks later, he presented with severe right-sided abdominal pain and a blood pressure of 215/111\u2005mmHg. Abdominal CT angiography showed interval enlargement of the adrenal mass with posterior rupture and a retroperitoneal hematoma without active bleeding. He was stabilized with conservative management and subsequently underwent robotic right adrenalectomy. Histopathology confirmed pheochromocytoma with necrosis, without angioinvasion or lymphatic invasion, and with negative margins. Pheochromocytoma rupture can occur despite appropriate \u03b1-blockade, and spontaneous hemorrhage remains the most likely proposed mechanism, although \u03b1-blockade may be a contributing factor in selected cases.",
-      "journal": "JCEM case reports",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42979043",
-      "doi": "10.1016/j.aed.2026.07.001",
-      "title": "A Diagnostic Conundrum: A Hemorrhagic Adrenal Mass With Discordant Radiological, Biochemical, and Pathologic Features.",
-      "abstract": "Adrenal incidentalomas vary in their identity, making accurate diagnosis essential for management. Interpretation of these lesions using radiology, biochemistry, or pathology can be confounded by hemorrhagic changes, medication effects, and limitations of imaging. To prevent misclassification, an integrated assessment is crucial. We present a case of a 71-year-old male with an incidentally discovered left adrenal mass that exhibited computed tomography and MRI imaging findings concerning for pheochromocytoma or adrenal malignancy. Biochemical analysis ruled out pheochromocytoma and was suggestive of possible glucocorticoid and mineralocorticoid co-secretion, although clinical urgency of surgical resection precluded completion of confirmatory endocrinologic testing. The lesion was initially diagnosed as a benign endothelial adrenal cyst on pathologic review. Because of the discordance among the radiological, biochemical, and initial pathologic findings, an integrated histologic re-evaluation was requested. The mass was ultimately reclassified as an adrenocortical adenoma with extensive hemorrhagic and cystic changes. This case highlights the importance of multidisciplinary integration when evaluating adrenal lesions with confounding features and underscores how suggestive (though incomplete) biochemical evidence can appropriately drive pathological re-evaluation.",
-      "journal": "AACE endocrinology and diabetes",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43015723",
-      "doi": "10.1186/s12902-026-02497-3",
-      "title": "Clinical characteristics and follow\u2011up of Saudi patients with adrenal incidentalomas: single\u2011center experience.",
-      "abstract": "Adrenal incidentalomas (AIs) are increasingly detected owing to the widespread use of cross-sectional imaging. However, real-world adherence to guideline-recommended evaluation remains variable. This study aimed to determine the prevalence, characteristics, and workup patterns of AIs at a tertiary care center in Saudi Arabia. We conducted a retrospective observational study of 250 patients diagnosed with adrenal incidentalomas at King Fahad Medical City between March 2021 and August 2023. Demographic, radiologic, and hormonal data were collected and analyzed. The mean age was 59.9\u2009\u00b1\u200913.5 years, with a nearly equal sex distribution. Most lesions were small (57.2% were 1-2\u00a0cm) and unilateral (79.6%). Only 20% (n\u2009=\u200950) of patients underwent a complete hormonal evaluation. Among these 50 patients, 12.0% (n\u2009=\u20096) had a functioning tumor and 88.0% (n\u2009=\u200944) were non-functioning; expresedd relative to the entire cohort, functioning tumors corresponded to only 2.4% (n\u2009=\u20096), reflecting the impact of the 80% non-evaluation rate on the apparent overall prevelance. Adenomas were the most frequent diagnosis (52.8%), while malignancy was suspected or confirmed in 14.4%. Dedicated adrenal imaging was underutilized, with 94.8% lacking contrast washout studies. Multivariate analysis identified younger age (\u2264\u200960 years), specialty referral, and absence of active malignancy as independent predictors of hormonal evaluation. This study highlights a substantial gap between clinical guidelines and real-world practice in the evaluation of AIs. Standardized institutional protocols are urgently needed to prevent underdiagnosis of hormonally active or malignant lesions. Not applicable.",
-      "journal": "BMC endocrine disorders",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Observational Study"
-      ]
-    },
-    {
-      "pmid": "42979531",
-      "doi": "10.17925/EE.2026.22.2.2",
-      "title": "Non-diabetic endocrine neuropathies: A practical approach to diagnosis and clinical evaluation.",
-      "abstract": "Peripheral neuropathy has diverse etiologies, with endocrine disorders beyond diabetes representing significant, yet frequently underrecognized causes. While diabetic neuropathy is well established, this article specifically excludes a detailed discussion of diabetic neuropathy to focus on less-recognized endocrine causes and presents a practical diagnostic algorithm for their earlier and more accurate identification. A focused narrative review was conducted using PubMed, Scopus and ScienceDirect (2015-2025). From 2,318 screened records, 154 studies were included after full-text review of 298 articles. Evidence was synthesized by etiology, mechanism, clinical presentation and diagnostic relevance. Disorders such as hypothyroidism, acromegaly, adrenal dysfunction and deficiencies of vitamins B12 and D produce distinct neuropathic profiles via metabolic, hormonal, inflammatory or compressive mechanisms. Subclinical nerve involvement is common, with electrophysiological abnormalities detectable in up to 60% of asymptomatic individuals. Characteristic clinical patterns - such as delayed reflexes in hypothyroidism, bilateral carpal tunnel syndrome (CTS) in acromegaly and sensory ataxia in B12 deficiency - provide diagnostic clues. Based on synthesized evidence, a stepwise diagnostic algorithm was developed to guide clinical evaluation. Endocrine disorders are important and often reversible causes of peripheral neuropathy. Early recognition requires a systematic approach. The proposed evidence-based algorithm offers clinicians a practical tool to improve diagnostic efficiency, facilitate timely treatment of the underlying endocrine condition and reduce the risk of irreversible nerve damage.",
-      "journal": "TouchREVIEWS in endocrinology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "43017263",
-      "doi": "10.7759/cureus.117817",
-      "title": "Iatrogenic Cushing Syndrome With Hypothalamic-Pituitary-Adrenal Axis Suppression in a Two-Month-Old Infant Following Unsupervised Topical Corticosteroid Use: A Case Report.",
-      "abstract": "Topical corticosteroids are commonly prescribed in pediatric dermatology; however, systemic adverse effects may occur rapidly in infants due to increased percutaneous absorption, the occlusive effect of diapers, and the immaturity of the hypothalamic-pituitary-adrenal (HPA) axis. We report the case of a two-month-old, 6 kg male infant who developed iatrogenic Cushing syndrome following approximately seven weeks of daily and repeated unsupervised application of a betamethasone valerate 0.1% topical corticosteroid to the diaper area for the treatment of diaper rash. Clinical examination revealed moon facies, a buffalo hump, and facio-truncal obesity. Laboratory evaluation showed suppressed morning cortisol at 5 \u00b5g/L (reference: 50-230 \u00b5g/L) and undetectable adrenocorticotropic hormone (ACTH) at 2.47 pg/mL (reference: 7-63 pg/mL), consistent with secondary adrenal insufficiency due to HPA axis suppression; brain CT showed no structural abnormality of clinical relevance. Management consisted of gradual withdrawal of the topical corticosteroid over four weeks, physiologic hydrocortisone replacement therapy at 8-10 mg/m\u00b2/day in three divided doses, and close clinical and biochemical follow-up. Biochemical recovery was suggested by normalization of morning cortisol to 272 \u00b5g/L, allowing progressive tapering and the discontinuation of hydrocortisone over six weeks without any episode of acute adrenal insufficiency. The family received structured education regarding the risks of unsupervised corticosteroid use and the warning signs of adrenal crisis. This case underscores that even moderate-to-potent topical corticosteroids applied to occluded skin areas can cause significant systemic toxicity in this vulnerable population and highlights the critical importance of parental education, appropriate prescribing guidance, and vigilant monitoring to prevent this avoidable complication.",
-      "journal": "Cureus",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42979274",
-      "doi": "10.1002/jpr3.70271",
-      "title": "When genetics disrupt the gut: Dysmotility and ganglioneuromatosis in multiple endocrine neoplasia type 2B syndrome.",
-      "abstract": "Multiple Endocrine Neoplasia type 2B (MEN2B) is a rare hereditary cancer syndrome characterized by medullary thyroid carcinoma, mucosal neuromas, and pheochromocytoma. Gastrointestinal involvement is common and often manifests as diffuse intestinal ganglioneuromatosis (IGN), which can impair motility and lead to severe constipation, pseudo-obstruction, or megacolon. We report a male infant with known MEN2B who developed progressive abdominal distension and obstructive symptoms refractory to medical management. Initial rectal suction biopsies were unrevealing. Due to persistent symptoms, a diverting ileostomy was created for decompression, during which full-thickness biopsies were obtained, ultimately establishing the definitive diagnosis of colonic ganglioneuromatosis. This case highlights the limitations of mucosal biopsies in detecting deeper neural pathology and underscores the importance of maintaining clinical suspicion for IGN in patients with MEN2B and persistent gastrointestinal symptoms despite a normal initial evaluation.",
-      "journal": "JPGN reports",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42979592",
-      "doi": "10.56305/001c.168604",
-      "title": "From Lethargy to Recovery: Central Diabetes Insipidus from Pituitary Metastasis in Recurrent HER2-Positive Breast Cancer Treated with Fam-Trastuzumab Deruxtecan-Nxki.",
-      "abstract": "HER2-positive breast cancer is well known for its aggressive nature and high incidence of central nervous system (CNS) metastasis, often affecting the brain parenchyma or leptomeninges. However, metastasis to the pituitary gland is exceedingly rare. We report a case of ER/PR-negative, HER2-positive breast cancer recurrence presenting with panhypopituitarism (PH) and central diabetes insipidus (CDI), resulting in hypernatremia-induced altered mental status. The patient had completed prior treatment with neoadjuvant chemotherapy, lumpectomy, and trastuzumab. Imaging revealed a temporal lobe mass with suprasellar enhancement. Surgical resection confirmed breast carcinoma metastasis. Hormonal studies confirmed PH and CDI. Management involved DDAVP, corticosteroids, fluid correction, whole-brain radiation, and systemic therapy with fam-trastuzumab deruxtecan-nxki (ENHERTU), leading to significant neurological recovery. This case highlights a rare metastatic pattern and the need for high clinical suspicion and multidisciplinary intervention.",
-      "journal": "Journal of Brown hospital medicine",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43018623",
-      "doi": "10.1021/acs.jmedchem.6c01376",
-      "title": "Discovery of a Novel Pyrido[2,1-h]pteridin-6-one Derivative as a Potent and Orally Bioavailable HPK1 Inhibitor.",
-      "abstract": "Hematopoietic progenitor kinase 1 (HPK1), a key negative regulator of T-cell activation, represents a highly promising yet challenging target for cancer immunotherapy. To date, no HPK1 inhibitor has received marketing approval, underscoring the need for innovative scaffolds. Here, we report the structure-based drug discovery of a potent HPK1 inhibitor featuring a unique pyrido[2,1-h]pteridin-6-one core. Through a series of chemical modifications, including scaffold hopping and ring-system optimization, starting from a known diaminopyrimidine carboxamide structure, we successfully constructed this key tricyclic core. The lead compound 29 exhibited remarkable potency against HPK1, along with outstanding selectivity. It effectively suppressed HPK1-mediated SLP-76 phosphorylation, thereby enhancing T-cell activation in both Jurkat cells and human PBMCs. Moreover, 29 displayed excellent oral bioavailability and markedly enhanced antitumor efficacy in combination with anti-PD-1 in a CT26.WT syngeneic mouse model. Collectively, these findings identify a novel, potent, and selective HPK1 inhibitor, offering a promising candidate for advancing cancer immunotherapy.",
-      "journal": "Journal of medicinal chemistry",
-      "year": "2026",
-      "publication_types": [
         "Journal Article"
       ]
     },
@@ -481,49 +494,26 @@
       ]
     },
     {
-      "pmid": "43003121",
-      "doi": "10.1055/a-2989-4273",
-      "title": "Pituitary Stalk Interruption Syndrome in Adulthood: Diagnostic Recognition, Clinical Spectrum, and Long-Term Follow-Up.",
-      "abstract": "Pituitary stalk interruption syndrome is usually diagnosed during childhood, and data on outcomes in adulthood are limited. This retrospective, single-center study evaluated the diagnostic history, endocrine phenotype, and clinical outcomes of 14 adults with radiologically confirmed pituitary stalk interruption syndrome. The cohort comprised eight men and six women, with a mean age of 28.8\u00b16.4 years and a mean documented follow-up at our center of 5.6\u00b13.2 years. Hypopituitarism was diagnosed during childhood in 12 patients and during adulthood in 2 patients. Thirteen patients had deficiencies of all four anterior pituitary hormone axes, whereas one patient had growth hormone and gonadotropic deficiencies with preserved corticotropic and thyrotropic functions. In six patients diagnosed during childhood, pituitary stalk interruption syndrome was recognized only after later reassessment of pituitary imaging. Eleven patients received growth hormone treatment during childhood, and 13 of 14 patients reached their calculated target height. Metabolic dysfunction-associated steatotic liver disease and dyslipidemia were each present in 10 patients. Four patients had bone mineral density below the expected range for age. One female patient achieved a live birth following in vitro fertilization. In this real-world cohort, the skeletal and metabolic findings observed despite generally favorable growth outcomes support the need for lifelong endocrine follow-up.",
-      "journal": "Hormone and metabolic research = Hormon- und Stoffwechselforschung = Hormones et metabolisme",
+      "pmid": "43023987",
+      "doi": "10.1158/2326-6066.CIR-26-0206",
+      "title": "Lipid-rich ascites reprograms the T cell lipid metabolic transcriptome to drive dysfunction.",
+      "abstract": "Malignant ascites is a lipid-rich, immunosuppressive environment that has recently emerged as a target for locoregional bispecific T-cell engager (BiTE) therapy. However, the mechanisms by which ascites, particularly its lipid components, suppress antitumour immunity and limit therapeutic efficacy remain poorly understood. Here, we investigated the impact of ascites lipids on T-cell immunosuppression and assessed whether lipid modulation could enhance the efficacy of BiTE therapy. Transcriptomic profiling of T cells exposed to acellular ascites fluid revealed an enriched signature associated with cholesterol efflux and incomplete fatty acid oxidation, which are metabolic features often found in exhausted T cells. These alterations converged on a metabolically imbalanced state linked to impaired plasma membrane signalling. Meanwhile, anti-CD3/CD28-stimulated T cells showed marked lipid accumulation in ascites, which was attenuated by lipid depletion. Functionally, lipid removal was associated with enhanced TCR-associated signalling, as demonstrated by increased ZAP70 phosphorylation, and restored CD137 expression while leaving CD25 unchanged. To determine whether ascites lipids also affected BiTE efficacy, T cells were cocultured with ovarian cancer cells and an EpCAM-targeting BiTE in untreated or lipid-depleted ascites. Ascites suppressed BiTE-mediated T-cell activation and abolished tumour cell killing, whereas lipid depletion contributed to the restoration of T-cell activation, IFN-\u03b3 production and BiTE-mediated cytotoxicity. Together, these findings suggest that lipids contribute to T-cell dysfunction in ovarian cancer ascites and demonstrate that lipid depletion is associated with restored antitumour T-cell activity. Targeting this metabolic barrier may therefore provide a combination strategy to potentiate BiTE therapy in malignant ascites.",
+      "journal": "Cancer immunology research",
       "year": "2026",
       "publication_types": [
         "Journal Article"
       ]
     },
     {
-      "pmid": "43018615",
-      "doi": "10.1021/acs.jmedchem.6c01732",
-      "title": "Lysosome-Targeted Iridium(III)-BODIPY Conjugates with GSH-Activatable Reactive Oxygen Species Generation for Enhanced Photodynamic Immunotherapy of Melanoma.",
-      "abstract": "Melanoma represents a major clinical challenge due to its aggressive nature, high metastatic potential, and resistance to conventional therapies. Herein, we developed two near-infrared iridium(III)-BODIPY conjugates (BODIPY-1-Ir and BODIPY-2-Ir) for glutathione (GSH)-activated photodynamic immunotherapy. These conjugates function as lysosome-targeting photosensitizers that deplete intracellular GSH to disrupt redox balance and enhance reactive oxygen species generation with light irradiation. The phototoxicity further induces cascading dendritic cell maturation and tumor-associated macrophage reprogramming, promoting immunogenic cell death. Both in vitro and in vivo studies demonstrated their excellent biocompatibility, strong photodynamic anticancer efficiency, and significant tumor growth inhibition, highlighting their potential as promising candidates for melanoma treatment.",
-      "journal": "Journal of medicinal chemistry",
+      "pmid": "42979592",
+      "doi": "10.56305/001c.168604",
+      "title": "From Lethargy to Recovery: Central Diabetes Insipidus from Pituitary Metastasis in Recurrent HER2-Positive Breast Cancer Treated with Fam-Trastuzumab Deruxtecan-Nxki.",
+      "abstract": "HER2-positive breast cancer is well known for its aggressive nature and high incidence of central nervous system (CNS) metastasis, often affecting the brain parenchyma or leptomeninges. However, metastasis to the pituitary gland is exceedingly rare. We report a case of ER/PR-negative, HER2-positive breast cancer recurrence presenting with panhypopituitarism (PH) and central diabetes insipidus (CDI), resulting in hypernatremia-induced altered mental status. The patient had completed prior treatment with neoadjuvant chemotherapy, lumpectomy, and trastuzumab. Imaging revealed a temporal lobe mass with suprasellar enhancement. Surgical resection confirmed breast carcinoma metastasis. Hormonal studies confirmed PH and CDI. Management involved DDAVP, corticosteroids, fluid correction, whole-brain radiation, and systemic therapy with fam-trastuzumab deruxtecan-nxki (ENHERTU), leading to significant neurological recovery. This case highlights a rare metastatic pattern and the need for high clinical suspicion and multidisciplinary intervention.",
+      "journal": "Journal of Brown hospital medicine",
       "year": "2026",
       "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43012026",
-      "doi": "10.12890/2026_007424",
-      "title": "Beware of Tall Stature: Growth Hormone Excess Associated with a Rare Parasellar Extra-Axial Tumour-Diagnostic and Management Challenges in a Resource-Limited Setting.",
-      "abstract": "Tall stature can be the sole indicator of growth hormone (GH) excess, which causes pituitary gigantism before epiphyseal fusion. In developing regions like Indonesia, a lack of systematic screening often delays diagnosis. While classic presentations involve accelerated linear growth, atypical cases may be dominated by neurological signs, such as seizures secondary to tumour mass effect. A 14-year-old boy presented with a 2-year history of rapidly accelerating growth velocity, increasing shoe size, and a 6-month history of severe morning headaches accompanied by drug-resistant focal seizures. Endocrine evaluations revealed significantly elevated basal GH (4.27 ng/ml) and insulin-like growth factor 1 (IGF-1) levels (536 ng/ml). Brain magnetic resonance imaging identified a large parasellar extra-axial tumour with suprasellar extension. The patient underwent a craniotomy and tumour excision; histopathology subsequently confirmed a rare, aggressive malignant mesenchymal tumour. Postoperatively, the patient achieved seizure resolution and normalization of GH and IGF-1 levels. However, he developed evolving pituitary dysfunction consistent with multiple pituitary hormone deficiency (MPHD), specifically central hypothyroidism, necessitating targeted hormonal replacement therapy and continuous clinical follow-up. GH excess and gigantism can arise secondary to parasellar pathology rather than intrinsic pituitary disease, with neurological features like refractory epilepsy occasionally preceding classic endocrine manifestations. Rapid adolescent growth paired with neurological signs warrants urgent structural neuroimaging. Meticulous perioperative pituitary monitoring and early multidisciplinary involvement are essential to optimize long-term patient outcomes. Pituitary gigantism can be driven by extra-axial parasellar masses rather than intrinsic pituitary adenomas, operating via mass-effect compression that disrupts hypothalamic somatostatin inhibition.Drug-resistant epilepsy and severe headaches caused by local tumour infiltration can dominate the clinical picture, meaning rapid adolescent growth paired with neurological symptoms mandates urgent magnetic resonance imaging of the brain.Postoperative multiple pituitary hormone deficiency often evolves silently over weeks or months, requiring lifelong, multidisciplinary surveillance to detect late-stage deficiencies like secondary adrenal insufficiency.",
-      "journal": "European journal of case reports in internal medicine",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42991224",
-      "doi": "10.2147/IMCRJ.S660971",
-      "title": "Solitary Neurofibroma in the Submental Region of a 15-Year-Old Adolescent: A Case Report and Review of Literature.",
-      "abstract": "Neurofibroma is a benign peripheral nerve sheath tumor composed of Schwann cells and fibroblasts. It may occur sporadically or as part of neurofibromatosis type 1 (NF1). Solitary neurofibroma arising in the submental region of an adolescent is extremely rare. We report a case of a solitary submental neurofibroma in a 15-year-old male and highlight its diagnostic and management implications. A 15-year-old adolescent boy presented with a chronic, painless right submental swelling that had been present for one year and had enlarged over the preceding three months. Clinical examination revealed a rubbery, nontender, approximately 3\u00d73\u00d74 cm mass without skin changes or systemic symptoms. There was no personal or family history suggestive of NF1, neural tumors, or pheochromocytoma. Ultrasound and CT imaging showed a well-defined soft-tissue mass consistent with a benign neurogenic tumor. The mass was completely excised via a submental incision. Histopathological examination confirmed a solitary neurofibroma with Schwann cell and fibroblast proliferation within a collagen matrix, Antoni A and B patterns, and positive S-100 immunostaining, with no evidence of malignancy. The postoperative course was uneventful, and tongue and floor-of-mouth function were preserved. Solitary submental neurofibroma should be considered in the differential diagnosis of submental masses in adolescents, even in the absence of NF1 features. Complete surgical excision is the treatment of choice and allows definitive histopathological diagnosis. A thorough evaluation for NF1 is recommended to guide long-term management and follow-up.",
-      "journal": "International medical case reports journal",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
         "Case Reports",
-        "Review"
+        "Journal Article"
       ]
     }
   ]
