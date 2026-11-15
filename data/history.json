@@ -223,8 +223,11 @@
     "43020467",
     "43023869",
     "43024123",
+    "43024765",
+    "43024870",
     "43025976",
-    "43028345"
+    "43028345",
+    "43033903"
   ],
   "sessions": [
     {
@@ -3446,6 +3449,49 @@
           "quiz_question": "A 17-year-old male presents with rapid height gain and is found to have a GH-secreting macroadenoma. Family history is negative for pituitary tumors. Should germline AIP testing be offered, and what is the anticipated yield?",
           "quiz_answer": "Yes \u2014 young-onset GH-secreting macroadenomas are among the highest-yield indications for AIP testing, even in the absence of a family history, as de novo AIP variants occur. This review confirms that this phenotype (childhood/young-onset GH macroadenoma) consistently shows the highest diagnostic yield. A negative result should prompt consideration of multigene panel testing if clinical suspicion remains.",
           "journal": "Diagnostics (Basel, Switzerland)",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-09-02",
+      "items": [
+        {
+          "pmid": "43024870",
+          "doi": "10.3171/2026.8.JNS261221",
+          "title": "Long-term disease control in Knosp grade 4 Cushing's disease using maximal safe resection and early adjuvant radiotherapy.",
+          "category": "notable",
+          "summary": "In a retrospective series of 30 consecutive patients with Knosp grade 4 Cushing's disease \u2014 the most anatomically challenging cavernous sinus subtype \u2014 a strategy of maximal safe resection deliberately stopping short of aggressive lateral dissection beyond the internal carotid artery, combined with early adjuvant stereotactic radiotherapy for residual disease, achieved durable endocrine and radiological control in 87% over a mean follow-up of 70.5 months. No patient suffered ICA injury or disabling cranial neuropathy attributable to lateral cavernous sinus dissection. Poor disease control correlated with prior radiotherapy exposure and elevated Ki-67; notably, all Crooke cell adenoma cases achieved durable control under this strategy. These findings support planned early adjuvant RT \u2014 rather than aggressive surgical radicality \u2014 as a reasonable and safer paradigm for residual lateral cavernous sinus disease in this extreme subtype.",
+          "caveat": "Single-institution retrospective design with only 30 patients; selection bias toward surgeons comfortable with this staged approach is possible, and the absence of a comparator arm (e.g., aggressive lateral dissection alone) limits causal inference.",
+          "quiz_question": "A 38-year-old woman with biochemically confirmed Cushing's disease has a Knosp grade 4 ACTH-secreting adenoma extending lateral to the intracavernous ICA on MRI. The neurosurgeon proposes maximal safe resection stopping short of aggressive lateral dissection, with early adjuvant stereotactic RT for any residual cavernous sinus disease. What does this series suggest about long-term disease control with this approach, and what preoperative tumor feature was associated with treatment failure?",
+          "quiz_answer": "This series reported 87% long-term endocrine and radiological disease control using this staged strategy, without ICA injury or disabling cranial neuropathy. Prior radiotherapy exposure and an elevated Ki-67 labeling index were independently associated with poorer disease control despite multimodal therapy including temozolomide.",
+          "journal": "Journal of neurosurgery",
+          "year": "2026"
+        },
+        {
+          "pmid": "43033903",
+          "doi": "10.1016/j.metabol.2026.156845",
+          "title": "Endogenous hypercortisolism and cardio-liver-metabolic dysfunctions: from pathogenesis to the effects of therapeutic strategies targeting hypercortisolism.",
+          "category": "notable",
+          "summary": "This review synthesizes evidence on how chronic cortisol excess drives a broad spectrum of cardio-liver-metabolic complications in Cushing's syndrome \u2014 including arterial hypertension, cardiac and vascular remodeling, thrombotic diathesis, hepatic steatosis, visceral obesity, impaired glucose metabolism, and dyslipidemia \u2014 via both direct glucocorticoid receptor effects and indirect mechanisms such as insulin resistance, endothelial dysfunction, and chronic inflammation. Crucially, the review highlights that normalization of urinary free cortisol through surgery, radiotherapy, or medical therapies (pituitary-directed, adrenal steroidogenesis inhibitors, or glucocorticoid receptor antagonists) improves but does not consistently normalize these cardiometabolic comorbidities. Many patients continue to show persistent cardiovascular and metabolic abnormalities even after long-term biochemical remission, underscoring that cure of hypercortisolism does not equal full cardiometabolic recovery and that active, multidisciplinary long-term surveillance is essential.",
+          "caveat": "As a narrative mini-review, this paper does not perform a systematic search or meta-analysis; conclusions on specific therapies are grounded in heterogeneous studies, and the magnitude of residual risk after remission remains incompletely quantified.",
+          "quiz_question": "A 45-year-old woman achieves biochemical remission after transsphenoidal surgery for Cushing's disease, with normalization of 24-hour urinary free cortisol. Her blood pressure and fasting glucose improve but remain above normal at 2-year follow-up. How should this finding be interpreted in light of current evidence on cardiometabolic outcomes after hypercortisolism remission?",
+          "quiz_answer": "Persistent cardiometabolic abnormalities after biochemical remission of Cushing's syndrome are well documented and expected in a significant proportion of patients. Complete normalization of hypertension, dyslipidemia, hepatic steatosis, and glucose metabolism is not consistently achieved even with long-term biochemical cure, warranting active multidisciplinary surveillance and targeted management of residual cardiovascular and metabolic risk factors.",
+          "journal": "Metabolism: clinical and experimental",
+          "year": "2026"
+        },
+        {
+          "pmid": "43024765",
+          "doi": "10.20945/2359-4292-2026-0135",
+          "title": "Adherence to hormone replacement and associated factors in patients with hypopituitarism.",
+          "category": "notable",
+          "summary": "In a cross-sectional study of 126 adults with hypopituitarism at a Brazilian tertiary neuroendocrinology center, good adherence to hormone replacement therapy was observed in only 27\u201328% of patients by two validated instruments. On multivariate analysis, female sex, use of psychotropic medications, polypharmacy (which was present in 61%), and absence of glucocorticoid replacement were each independently associated with nonadherence \u2014 while age, education, income, disease duration, and healthcare access variables were not. These findings are clinically important because nonadherence in patients requiring glucocorticoid replacement creates direct risk of adrenal crisis.",
+          "caveat": "Single-center cross-sectional design from one Brazilian tertiary center limits generalizability; self-report adherence tools are subject to social desirability bias, and causality cannot be inferred \u2014 particularly for the paradoxical finding that absence of glucocorticoid replacement associated with nonadherence, which likely reflects confounding by indication or regimen complexity.",
+          "quiz_question": "You are following a 52-year-old woman with panhypopituitarism on hydrocortisone, fludrocortisone, levothyroxine, testosterone, and two psychotropic medications. She reports occasional missed doses. Based on this study's multivariate findings, which patient characteristics place her at highest risk for nonadherence, and what intervention directions do the authors suggest?",
+          "quiz_answer": "Female sex, polypharmacy (number of medications independently predicted nonadherence per additional drug), and concurrent psychotropic medication use were independently associated with nonadherence on multivariate analysis. The authors suggest patient-centered education, regimen simplification where feasible, and targeted counseling strategies \u2014 particularly for patients with these identifiable risk factors \u2014 to reduce the risk of adrenal crisis from missed glucocorticoid doses.",
+          "journal": "Archives of endocrinology and metabolism",
           "year": "2026"
         }
       ],

@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-11-14",
+  "fetched_at": "2026-11-15",
   "date_window": {
-    "from": "2016/11/16",
-    "to": "2026/11/14"
+    "from": "2016/11/17",
+    "to": "2026/11/15"
   },
   "already_covered_pmids": [
     "41730814",
@@ -226,67 +226,12 @@
     "43017165",
     "43017274",
     "43020467",
-    "43023869"
+    "43023869",
+    "43024123",
+    "43025976",
+    "43028345"
   ],
   "candidates": [
-    {
-      "pmid": "43013145",
-      "doi": "10.1007/s10143-026-04573-7",
-      "title": "The unseen risk: a systematic review of the incidence, management, and outcomes of the trigeminocardiac reflex in skull-base surgery.",
-      "abstract": "This study synthesizes contemporary evidence on the trigeminocardiac reflex (TCR) during skull-base and adjacent neurosurgical procedures, with emphasis on operative corridors, triggers, hemodynamic phenotypes, management, and the limits of current outcome evidence. Following PRISMA guidelines, we systematically searched PubMed, Scopus, Web of Science, and Embase through September 15, 2024. Eligible reports described intraoperative TCR or closely related trigeminal autonomic responses during skull-base surgery or adjacent procedures and reported event features, management, or outcomes. Twenty-eight studies including 329 patients met inclusion criteria. Reported TCR events clustered in microvascular decompression for trigeminal neuralgia (n=168; 51.1%), CPA/posterior fossa or anterior skull-base tumor surgery (n=71; 21.6%), transsphenoidal pituitary procedures (n=47; 14.3%), and percutaneous trigeminal procedures (n=35; 10.6%). Immediate cessation of the provoking maneuver was the cornerstone of management, with anticholinergics, vasoactive agents, or temporary pacing required only in selected severe or recurrent cases. No TCR-attributable mortality was reported. However, evidence regarding long-term functional outcomes remains limited, inconsistently reported, and largely dependent on historical vestibular schwannoma and pituitary cohorts. A procedure-specific synthesis identifies high-risk maneuvers, preventive considerations, and escalation options for each operative corridor. TCR should be anticipated during trigeminal manipulation across skull-base surgical corridors and managed initially by immediate cessation or modification of the provoking stimulus, with pharmacologic or resuscitative escalation reserved for persistent or severe events. Although the available evidence supports a procedure-specific approach to prevention and preparedness, heterogeneous definitions, retrospective designs, and incomplete denominators preclude reliable incidence estimates or validated management recommendations.",
-      "journal": "Neurosurgical review",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Systematic Review",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "43022027",
-      "doi": "10.1016/j.adro.2026.102202",
-      "title": "Reirradiation for Recurrent Craniopharyngioma-Long-Term Follow-up.",
-      "abstract": "To report long-term tumor control, toxicity, and functional outcomes after a second course of fractionated radiation therapy for recurrent craniopharyngioma previously treated with radiation therapy. We identified all patients with craniopharyngioma with recurrent or progressive disease, unsuitable for further medical management or re-resection, who underwent 2 courses of fractionated photon radiation therapy at a single institution between 1998 and 2024. Reirradiation was delivered to 54 Gy in 30 fractions with full overlap of the initial target; dose constraints to optic nerves, chiasm, and brainstem were Dmax/D0.03cc (Maximum Dose or Dose to 0.03 cubic centimetres) \u226454 Gy. Outcomes were summarized descriptively. Six patients received reirradiation a mean of 9.8 years (range, 5.6-20.5) after initial radiation therapy (50-54 Gy in 25-30 fractions). Median follow-up after reirradiation was 4.1 years (range, 0.4-8.8). At the last follow-up, 4 patients were alive, all with local disease control (2 with radiological regression, 2 with stable disease). Two deaths occurred (1 due to progressive disease and 1 due to functional decline with stable imaging). Visual outcomes were heterogeneous: 1 patient maintained intact vision; others had intermittent diplopia, bitemporal hemianopsia, or unilateral blindness with contralateral impairment. Endocrinopathy was frequent: 3 of 4 survivors had pan-hypopituitarism; 1 had partial deficits (hypothyroidism/amenorrhea). Functional status was impaired in survivors, with the inability to work or study due to fatigue, visual loss, or cognitive issues. Additional toxicities included posttreatment seizures requiring hospitalization (n\u202f=\u202f1) and transient dexamethasone for headache (n\u202f=\u202f1). In carefully selected patients lacking other curative options, modern highly conformal reirradiation can achieve meaningful local control after prior high-dose radiation therapy, but carries an additive risk of visual, endocrine, and functional morbidity. Decisions should be individualized within a multidisciplinary team to identify appropriate cases for reirradiation and to ensure thorough long-term follow-up to manage delayed toxicity.",
-      "journal": "Advances in radiation oncology",
-      "year": "2027",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43025737",
-      "doi": "10.1016/j.athoracsur.2026.10.039",
-      "title": "Fight or Flight: A Multidisciplinary Approach to Diagnosis and Management of Mediastinal Paragangliomas.",
-      "abstract": "Mediastinal paragangliomas are rare neuroendocrine tumors, leading to potentially invasive clinical investigation and inadequate staging. Functional secretory activity, high germline mutation rates, multifocal disease burden, and proximity to the great vessels demand a multidisciplinary approach. We describe our longitudinal multidisciplinary experience building a center of excellence model. We performed a retrospective single-center cohort study of 19 patients with mediastinal paraganglioma managed at a quaternary referral center, capturing demographics, imaging, preoperative testing, operative details, and perioperative outcomes. There were 14 (73.7%) females with a median age of 46.3 years (IQR 38.5-57.6 years). Sixteen (84%) of 19 patients were referred from outside centers; 9 (47.3%) underwent biopsy before referral, with three (15.8%) experiencing catecholamine crisis, pneumothorax, or hemorrhage. Nine (47.4%) tumors were adjacent to the aorta, and seven (42.1%) adjacent to the pulmonary artery, with vascular involvement in 17(89.5%) of the 19 patients. Thirteen (68%) were functional and five (26.3%) had multifocal disease. Succinate dehydrogenase mutations were found in 63.6% of patients tested. Cardiopulmonary bypass was required in 63.2%, with zero 30-day mortality. Postoperative complications occurred in 47.4%, predominantly atrial arrhythmia. Median hospital stay was four days. Four patients developed local recurrence at a median recurrence-free survival of 16.9 months, all with positive margins or multifocal disease. Mediastinal paragangliomas can be safely resected within a multidisciplinary center of excellence. Early recognition, avoidance of uninformed biopsy, functional staging, preoperative alpha blockade, and tumor profiling and genetic evaluation with genetic counseling are essential components.",
-      "journal": "The Annals of thoracic surgery",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43010074",
-      "doi": "10.1186/s13256-026-06500-2",
-      "title": "Pituitary stalk interruption syndrome: a case report.",
-      "abstract": "Pituitary stalk interruption syndrome (PSIS) is a rare congenital disorder characterized by an interrupted or absent pituitary stalk, ectopic posterior pituitary, and anterior pituitary hypoplasia, resulting in varying degrees of hypopituitarism. An 18-year-old white American male with a history of panhypopituitarism, adrenal insufficiency, and Asperger's syndrome presented with seizures. Examination revealed short stature and absent secondary sexual characteristics. Endocrine evaluation demonstrated multiple pituitary hormone deficiencies. Magnetic resonance imaging showed a hypoplastic anterior pituitary gland, ectopic posterior pituitary, and absent pituitary stalk, confirming the diagnosis of PSIS. Hormone replacement therapy with hydrocortisone, levothyroxine, growth hormone, and testosterone enanthate was initiated. PSIS should be considered in patients with growth failure, delayed puberty, and multiple pituitary hormone deficiencies. Early recognition and timely hormone replacement are critical to optimize growth, pubertal development, and long-term outcomes.",
-      "journal": "Journal of medical case reports",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Case Reports"
-      ]
-    },
-    {
-      "pmid": "43031828",
-      "doi": "10.3389/fmed.2026.1913119",
-      "title": "Development of a mortality prognostic model based on the Pneumonia Severity Index for older adults with pneumonia in integrated medical and older adult care institutions: a retrospective study.",
-      "abstract": "Population aging has increased the demand for integrated medical and long-term care services, particularly in China. Age-related respiratory impairment and immunosenescence render institutionalized older adults at a high risk for pneumonia-associated with poorer outcomes than community-acquired pneumonia. We aimed to investigate the prognostic value of the Pneumonia Severity Index (PSI) for mortality in older adults with pneumonia in integrated medical and elderly care facilities, and to develop a prognostic prediction model. Medical records of older adult patients with pneumonia admitted to the integrated medical-elderly care ward of the Department of Geriatrics, Hefei First People's Hospital from June 2019 to June 2024 were retrospectively retrieved. A total of 312 patients were enrolled according to predefined inclusion and exclusion criteria. Patients were divided into a survival group (n\u2009=\u2009232) and a non-survival group (n\u2009=\u200980) based on post-treatment clinical outcomes. Univariate analyses were performed to compare clinical characteristics between the two groups. All clinical variables were screened using Least Absolute Shrinkage and Selection Operator (LASSO) regression. Variables with non-zero coefficients were subsequently incorporated into Firth's bias-corrected logistic regression to construct the prediction model, followed by model validation. Univariate analysis revealed significant intergroup differences in age \u226580 years, coronary heart disease, white blood cell count (WBC),neutrophil count, multidrug-resistant organism (MDRO) infection, PSI score, hemoglobin, creatinine, coronavirus disease 2019 (COVID-19)infection, Clinical Frailty Scale (CFS) score >7, Prognostic Nutritional Index (PNI)\u2009<\u200935, and C-reactive protein (CRP) (all P\u2009\u2264\u20090.05). LASSO regression with \u03bb\u2009=\u20090.0678392 identified six non-zero predictor variables: White blood cell count, MDRO infection, PSI score, CFS score >7, PNI <35, and CRP. A nomogram was developed using the coefficients obtained from Firth's bias-corrected logistic regression. The ROC analysis yielded an AUC of 0.889, sensitivity of 80%, specificity of 89%,and optimal cutoff value of 0.719. The model exhibited significantly better discriminative performance than PSI alone. Internal validation with 1000 bootstrap resamples produced a corrected AUC of 0.878, calibration slope of 0.9316, and intercept of -0.0584. Decision curve analysis (DCA) showed substantial net benefit within the threshold probability range of 0-0.6. The calibration curve demonstrated good agreement between predicted and observed mortality risks of the nomogram. PSI is an independent risk factor for mortality among older adults with pneumonia in integrated medical and elderly care facilities. The model combining PSI with white blood cell count, MDRO infection, CFS score >7, PNI <35, and CRP can effectively predict mortality risk in this population and has superior clinical utility compared with PSI alone.",
-      "journal": "Frontiers in medicine",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
     {
       "pmid": "43024763",
       "doi": "10.20945/2359-4292-2026-0133",
@@ -300,11 +245,22 @@
       ]
     },
     {
-      "pmid": "43031834",
-      "doi": "10.3389/fgene.2026.1922946",
-      "title": "Case Report: MYBPC1-associated congenital myopathy with tremor (CMYO16): a multigenerational family report.",
-      "abstract": "We report a family with congenital myopathy-16 (CMYO16; MIM 618524) due to a novel heterozygous MYBPC1 M-motif variant, c.779G>A p (Arg260His), in whom oral pyridostigmine was associated with apparent clinical benefit in all four affected members across three generations. To our knowledge, this is the first report of a possible clinical response to pyridostigmine in MYBPC1-associated congenital myopathy with tremor. The MYBPC1 gene encodes slow skeletal myosin-binding protein C (sMyBP-C), a sarcomeric accessory protein that regulates actomyosin cross-bridge cycling and stabilizes the thick filament. Heterozygous variants, most commonly involving the highly conserved M-motif, cause CMYO16, a mild, early-onset, slowly progressive disorder characterized by hypotonia, fatigability, proximal and axial weakness, and a distinctive high-frequency tremor. Few than thirty affected individuals have been reported, and no disease-specific or symptom-directed pharmacologic therapy has been described. In this family, the variant co-segregated with the phenotype in four affected individuals: a young boy (the proband), his father, paternal aunt, and paternal grandfather. Because of disabling fatigability, clinical features suggestive of congenital myasthenia, and the presence of a CHRND variant of uncertain significance in three family members, a trial of oral pyridostigmine was initiated in the proband at 16 months of age. A blinded one-week-on/one-week-off assessment by a physical therapist suggested improvement in tone, energy, and gait, and caregivers reported improved stamina and reduced tremors. Objective assessments could not be obtained because of the patient's young age. Concurrent improvement in gastrointestinal symptoms most likely reflects the known prokinetic cholinergic effects of pyridostigmine rather than a muscle-specific benefit. Open-label, self-reported benefit was subsequently described by the three affected adults. Because the outcomes were open-label and largely subjective, these observations are preliminary and hypothesis-generating. The affected paternal aunt did not carry the CHRND variant, arguing against attributing the response to CHRND alone; however, her prior diagnosis of fibromyalgia makes her self-reported improvement particularly susceptible to placebo effects. We report that four affected family members, ranging in age from 2 to 65 years, showed a positive and well-tolerated response to pyridostigmine, with improvement in clinical symptoms likely attributable to CMYO16.",
-      "journal": "Frontiers in genetics",
+      "pmid": "43034913",
+      "doi": "10.1080/17474086.2026.2758943",
+      "title": "Impact of inhibitors on treatment patterns and disease burden in Chinese patients with hemophilia: a cross-sectional study.",
+      "abstract": "Systematic investigations on the impact of inhibitors on treatment modalities and overall disease burden in Chinese hemophilia patients based on real-world data remain limited. We analyzed a cross-sectional survey of 543 patients diagnosed with hemophilia in China as of 31 December 2022. Treatment, bleeding, and cost items used recall periods specified in the questionnaire. Group comparisons were descriptive and exploratory. The mean age of participants was 26.0\u2009\u00b1\u200914.8\u2009years, with 99.63% being male. The inhibitor-positive group had a higher proportion of severe hemophilia (93.64% vs. 76.56%, p\u2009<\u20090.001). 54.88% of the patients had disability certificates, and the proportion increased with age. Nearly 90% of the patients older than 30\u2009years had different degrees of disability. The median annual bleeding rate was 20 (IQR 8-36) episodes in inhibitor-positive patients versus 12 (IQR 3-30) in inhibitor-negative patients (p\u2009=\u20090.008). The mean annual prophylaxis infusion frequency was 127.71\u2009\u00b1\u200954.11 infusions per year (approximately 2.5 infusions per week; median 120, IQR 96-168), with a mean factor consumption per infusion of 21.16\u2009\u00b1\u20098.28 IU/kg. The average annual per-patient cost was CNY 520,415\u2009\u00b1\u2009773,627, of which the cost of factor therapy was CNY 279,402\u2009\u00b1\u2009627,427. In this selected survey sample, inhibitor-positive patients reported a higher median number of bleeding episodes and greater treatment complexity.",
+      "journal": "Expert review of hematology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43017263",
+      "doi": "10.7759/cureus.117817",
+      "title": "Iatrogenic Cushing Syndrome With Hypothalamic-Pituitary-Adrenal Axis Suppression in a Two-Month-Old Infant Following Unsupervised Topical Corticosteroid Use: A Case Report.",
+      "abstract": "Topical corticosteroids are commonly prescribed in pediatric dermatology; however, systemic adverse effects may occur rapidly in infants due to increased percutaneous absorption, the occlusive effect of diapers, and the immaturity of the hypothalamic-pituitary-adrenal (HPA) axis. We report the case of a two-month-old, 6 kg male infant who developed iatrogenic Cushing syndrome following approximately seven weeks of daily and repeated unsupervised application of a betamethasone valerate 0.1% topical corticosteroid to the diaper area for the treatment of diaper rash. Clinical examination revealed moon facies, a buffalo hump, and facio-truncal obesity. Laboratory evaluation showed suppressed morning cortisol at 5 \u00b5g/L (reference: 50-230 \u00b5g/L) and undetectable adrenocorticotropic hormone (ACTH) at 2.47 pg/mL (reference: 7-63 pg/mL), consistent with secondary adrenal insufficiency due to HPA axis suppression; brain CT showed no structural abnormality of clinical relevance. Management consisted of gradual withdrawal of the topical corticosteroid over four weeks, physiologic hydrocortisone replacement therapy at 8-10 mg/m\u00b2/day in three divided doses, and close clinical and biochemical follow-up. Biochemical recovery was suggested by normalization of morning cortisol to 272 \u00b5g/L, allowing progressive tapering and the discontinuation of hydrocortisone over six weeks without any episode of acute adrenal insufficiency. The family received structured education regarding the risks of unsupervised corticosteroid use and the warning signs of adrenal crisis. This case underscores that even moderate-to-potent topical corticosteroids applied to occluded skin areas can cause significant systemic toxicity in this vulnerable population and highlights the critical importance of parental education, appropriate prescribing guidance, and vigilant monitoring to prevent this avoidable complication.",
+      "journal": "Cureus",
       "year": "2026",
       "publication_types": [
         "Case Reports",
@@ -312,69 +268,38 @@
       ]
     },
     {
-      "pmid": "43012026",
-      "doi": "10.12890/2026_007424",
-      "title": "Beware of Tall Stature: Growth Hormone Excess Associated with a Rare Parasellar Extra-Axial Tumour-Diagnostic and Management Challenges in a Resource-Limited Setting.",
-      "abstract": "Tall stature can be the sole indicator of growth hormone (GH) excess, which causes pituitary gigantism before epiphyseal fusion. In developing regions like Indonesia, a lack of systematic screening often delays diagnosis. While classic presentations involve accelerated linear growth, atypical cases may be dominated by neurological signs, such as seizures secondary to tumour mass effect. A 14-year-old boy presented with a 2-year history of rapidly accelerating growth velocity, increasing shoe size, and a 6-month history of severe morning headaches accompanied by drug-resistant focal seizures. Endocrine evaluations revealed significantly elevated basal GH (4.27 ng/ml) and insulin-like growth factor 1 (IGF-1) levels (536 ng/ml). Brain magnetic resonance imaging identified a large parasellar extra-axial tumour with suprasellar extension. The patient underwent a craniotomy and tumour excision; histopathology subsequently confirmed a rare, aggressive malignant mesenchymal tumour. Postoperatively, the patient achieved seizure resolution and normalization of GH and IGF-1 levels. However, he developed evolving pituitary dysfunction consistent with multiple pituitary hormone deficiency (MPHD), specifically central hypothyroidism, necessitating targeted hormonal replacement therapy and continuous clinical follow-up. GH excess and gigantism can arise secondary to parasellar pathology rather than intrinsic pituitary disease, with neurological features like refractory epilepsy occasionally preceding classic endocrine manifestations. Rapid adolescent growth paired with neurological signs warrants urgent structural neuroimaging. Meticulous perioperative pituitary monitoring and early multidisciplinary involvement are essential to optimize long-term patient outcomes. Pituitary gigantism can be driven by extra-axial parasellar masses rather than intrinsic pituitary adenomas, operating via mass-effect compression that disrupts hypothalamic somatostatin inhibition.Drug-resistant epilepsy and severe headaches caused by local tumour infiltration can dominate the clinical picture, meaning rapid adolescent growth paired with neurological symptoms mandates urgent magnetic resonance imaging of the brain.Postoperative multiple pituitary hormone deficiency often evolves silently over weeks or months, requiring lifelong, multidisciplinary surveillance to detect late-stage deficiencies like secondary adrenal insufficiency.",
-      "journal": "European journal of case reports in internal medicine",
+      "pmid": "43034918",
+      "doi": "10.1080/14656566.2026.2763331",
+      "title": "Structural brain abnormality, pharmacotherapy, and treatment resistant schizophrenia management: a systematic review and critical appraisal.",
+      "abstract": "Treatment-resistant schizophrenia (TRS) affects up to 30% of patients with schizophrenia and carries a substantial burden, yet clozapine, the only antipsychotic specifically indicated, is delayed by years because resistance is recognized retrospectively. Neuroimaging may provide objective biomarkers to shorten this delay. We searched PubMed and Scopus to June 2026 following PRISMA guidelines. We included peer-reviewed neuroimaging studies investigating TRS, covering structural, functional, and metabolic modalities; studies not addressing TRS were excluded. Risk of bias was assessed using ROBINS-I for non-randomized studies and RoB 2 for randomized trials. Findings were synthesized qualitatively, without meta-analysis. Of 1502 identified records, 1179 were screened and 94 studies were included (44 structural, 18 functional, and 32 metabolic). TRS was characterized by extensive abnormalities in frontal cortical, limbic, and white matter pathways and, compared with treatment-responsive schizophrenia (nTRS), by the absence of striatal dopaminergic hyperactivity, alongside functional and metabolic alterations in frontal and cortico-subcortical circuits. Evidence concerning ultra-treatment-resistant schizophrenia (uTRS) remains scarce. Neuroimaging findings support a distributed cortico-subcortical phenotype and a non-dopaminergic, potentially glutamatergic pathophysiology in TRS. However, the evidence remains constrained by small, heterogeneous, predominantly cross-sectional studies, with uTRS still poorly investigated. PROSPERO (CRD420261437825).",
+      "journal": "Expert opinion on pharmacotherapy",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "43034917",
+      "doi": "10.1002/jbt.71118",
+      "title": "Protective Effects of Quercetin and Eugenol on Auditory Dysfunction Associated With Oxidative Stress in a Type 2 Diabetic Rat Model.",
+      "abstract": "To assess oxidative stress-associated auditory dysfunction in a streptozotocin-nicotinamide (STZ-NA)-induced type 2 diabetes mellitus (T2DM) rat model and to determine the protective effects of the phenolic compounds eugenol and quercetin. T2DM was induced in Sprague-Dawley rats using STZ-NA. Beginning 21 days after induction, eugenol or quercetin was administered for 28 consecutive days. Oxidative stress was assessed by measuring serum malondialdehyde (MDA) and superoxide dismutase (SOD) levels using ELISA. Auditory function was evaluated using auditory brainstem responses (ABR), elicited by click and tone-burst stimuli at 8, 16, 24, and 32\u2009kHz. ABR thresholds were elevated in T2DM animals across all frequencies, with the greatest impairment observed at 24-32\u2009kHz. Serum MDA levels increased and SOD levels decreased in T2DM, whereas both interventions partially restored redox balance (p\u2009<\u20090.05). At 32\u2009kHz, ABR thresholds correlated positively with MDA and negatively with SOD, with MDA identified as an independent predictor. The STZ-NA-induced T2DM rat model exhibits frequency-dependent auditory impairment and delayed neural conduction associated with oxidative stress. Eugenol and quercetin confer functional otoprotective effects, and high-frequency ABR measurements may serve as indicators for early detection and monitoring of diabetes-related auditory dysfunction.",
+      "journal": "Journal of biochemical and molecular toxicology",
       "year": "2026",
       "publication_types": [
         "Journal Article"
       ]
     },
     {
-      "pmid": "43031824",
-      "doi": "10.3389/fsurg.2026.1941433",
-      "title": "Single-stage matrix-assisted bone marrow-derived cell concentrate implantation for osteochondral talar lesions: a 24-month clinical and MRI follow-up.",
-      "abstract": "The optimal surgical management of larger chronic osteochondral lesions of the talus (OLT) remains debated. This study describes 24-month clinical and MRI outcomes after a combined single-stage matrix-assisted procedure using debridement, bone-marrow stimulation, autologous bone marrow-derived cell concentrate, a type I collagen scaffold, and fibrin glue. This exploratory retrospective case series screened consecutive patients treated between January 2016 and December 2020. Twenty-six patients were identified; 15 had sufficiently complete clinical and MRI data for the predefined 24-month complete-case analysis. Eligible lesions were classified as Giannini type II-IIA and Outerbridge grade III-IV. The principal clinical endpoint was the 24-month change in the American Orthopaedic Foot Ankle Society (AOFAS) Ankle-Hindfoot score. Secondary outcomes included Visual Analogue Scale (VAS) pain, 24-month MRI morphology assessed with the MOCART system, and reoperations. Six- and 12-month assessments were part of routine care but were not sufficiently complete for formal longitudinal analysis. The mean AOFAS score increased from 57.3 \u00b1 12.0 at baseline to 92.4 \u00b1 7.1 at 24 months, an absolute improvement of 35.1 points. The mean VAS score decreased from 4.7 \u00b1 1.2 to 1.8 \u00b1 0.8, an absolute reduction of 2.9 points. At 24 months, complete defect filling was observed in 12 of 15 patients (80.0%), hypertrophic filling in 2 (13.3%), and incomplete filling in 1 (6.7%). Complete integration with adjacent tissue was observed in 14 patients (93.3%); preserved surface morphology and uniform repair-tissue structure were each observed in 12 (80.0%). Mean MOCART score was 83.7 \u00b1 14.4. Three patients (20.0%) underwent arthroscopic reoperation for symptomatic anterior impingement. In this retrospective cohort, the combined single-stage procedure was associated with improved 24-month pain and functional scores and favorable MRI morphology of repair tissue. The uncontrolled design and multimodal procedure do not establish comparative efficacy, superiority, or an independent cell-specific treatment effect. Larger prospective controlled studies are needed.",
-      "journal": "Frontiers in surgery",
+      "pmid": "43026363",
+      "doi": "10.1007/s11102-026-01772-9",
+      "title": "Neuronavigation-assisted versus conventional endoscopic endonasal transsphenoidal surgery for pituitary adenomas: a pilot randomized controlled trial.",
+      "abstract": "Evidence on the benefit of intraoperative neuronavigation in endoscopic endonasal transsphenoidal (EET) pituitary surgery remains mixed. We conducted a pilot randomized controlled trial comparing navigation-assisted and conventional EET surgery for pituitary adenomas, to estimate the effect size for a definitive multicentre trial. At Ain Shams University (April 2025-February 2026), 57 patients with pituitary adenomas were assessed for eligibility; 7 were excluded for prior Gamma Knife radiosurgery. The remaining 50 were randomized 1:1 within strata of tumor size, functional status, and surgery status, with concealed computer-generated allocation. Recruitment continued until the planned 25 patients per arm were enrolled. The primary outcome was extent of resection; secondary outcomes included operative time, blood loss, visual and hormonal outcomes, and complications. All 50 patients (25 per arm) were analyzed by intention-to-treat. Gross total resection was numerically higher with navigation (28.0% vs. 16.0%; p\u2009=\u20090.496); adjusted for Knosp grade, the odds ratio was 2.66 (95% CI 0.41-17.06) versus a crude 2.04. Extent of resection was strongly associated with tumor size, functioning status, and Knosp grade; no giant adenoma achieved gross total resection. Blood loss was lower with navigation (median 250 vs. 350 mL; p\u2009=\u20090.016), with no difference in operative time, which included navigation setup (p\u2009=\u20090.788). Neuronavigation did not significantly improve extent of resection, though resection completeness trended favorably with navigation across most subgroups. The associated blood-loss reduction remains hypothesis-generating. A definitive, adequately powered multicentre trial is warranted. Pan African Clinical Trial Registry, PACTR202608562462156, registered retrospectively on 17 August 2026.",
+      "journal": "Pituitary",
       "year": "2026",
       "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43025976",
-      "doi": "10.1210/endrev/bnag041",
-      "title": "Immunotherapy mediated pituitary toxicity: current knowledge and priorities for care.",
-      "abstract": "Immune checkpoint inhibitor related pituitary toxicity (pituitary irAE) remains a relatively common complication of treatment which has transformed prognosis in several solid organ malignancies. While it may present with clear and clinically significant adrenal insufficiency, diagnostic uncertainty can remain due its potentially subtle clinical phenotype and symptom overlap with other treatment related effects. Currently pituitary irAE lacks a validated biomarker or single unifying pathophysiological model. This review aims to outline what is known regarding pathogenesis, presentation, biomarkers and long-term outcomes of pituitary irAE to inform future directions and priorities for care and research. Emerging data suggest multiple plausible immune pathways, including activation of pre-existing autoimmunity, direct checkpoint-mediated pituitary toxicity, paraneoplastic immune responses and cytokine-driven injury, but these mechanisms likely vary between patients. This review also explores current and future clinical priorities for hormone replacement, patient education and ongoing endocrine follow-up. As survival improves for patients receiving immune checkpoint inhibitors, improved phenotyping, biomarker development and long-term outcomes research will be essential to refine diagnosis, prognostication and survivorship care.",
-      "journal": "Endocrine reviews",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43024765",
-      "doi": "10.20945/2359-4292-2026-0135",
-      "title": "Adherence to hormone replacement and associated factors in patients with hypopituitarism.",
-      "abstract": "To evaluate adherence to hormone replacement therapy and identify factors associated with nonadherence in patients with hypopituitarism. This cross-sectional study included 126 adults with hypopituitarism followed at a tertiary neuroendocrinology center in Brazil. Adherence was assessed using the Morisky-Green Test (MGT), which was translated, culturally adapted, and validated for the Brazilian context in patients with hypopituitarism, and by the modified Brief Medication Questionnaire (BMQ). Association between clinical, socioeconomic, and treatment-related variables were analyzed. Good adherence was observed in only 28% and 27% of patients according to the MGT and BMQ, respectively, with moderate or low adherence predominating. Polypharmacy was common (61.1%) and was associated with lower adherence. In multivariate analysis, female sex (odds ratio [OR] = 2.78,95% confidence interval [CI] = 1.14-6.82), use of psychotropic medications (OR = 3.23, 95% CI = 1.08-9.63), a higher number of medications (OR = 1.26 per additional drug, 95% CI = 1.03-1.55), and absence of glucocorticoid replacement (OR = 3.31, 95% CI = 1.16-9.44) were independently associated with nonadherence. No associations were found for age, education level, income, duration of hypopituitarism, etiology, metabolic syndrome, or healthcare access variables. Adherence to hormone replacement therapy in hypopituitarism remains suboptimal and is negatively associated with female sex, polypharmacy, and psychotropic medication use. These findings suggest the need for further evaluation of patient-centered strategies, education, and regimen simplification to improve long-term adherence.",
-      "journal": "Archives of endocrinology and metabolism",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43024123",
-      "doi": "10.1007/s12020-026-04841-y",
-      "title": "Predictors of early and 6-month remission after transsphenoidal surgery in Cushing's disease: a cohort study of 100 patients.",
-      "abstract": "Cushing's disease (CD) is a rare disorder caused by ACTH-secreting pituitary adenomas. Transsphenoidal surgery (TSS) is the first-line treatment, but predictors of remission remain controversial. This study aimed to identify predictors of early and 6-month remission after TSS in CD patients. A cohort study was conducted on 100 patients with confirmed CD who underwent TSS. Biochemical remission was defined using first-week postoperative morning serum cortisol thresholds: < 1.8\u00a0\u00b5g/dl and <\u20095\u00a0\u00b5g/dl for early remission, as well as 6-month remission. Clinical, biochemical, radiological, and postoperative variables were analyzed. Statistical analyses included group comparisons, univariate logistic regression, and ROC curve analysis. Of 100 patients, 58% achieved early remission with cortisol\u2009<\u20091.8\u00a0\u00b5g/dl, 80% with cortisol\u2009<\u20095\u00a0\u00b5g/dl, and 84% achieved 6-month remission. Univariate logistic regression identified residual tumor on postoperative MRI (OR\u2009=\u20090.01-0.14, all P < .01) and higher first-week postoperative ACTH level (OR\u2009=\u20090.92-0.93, P < .001) as the most consistent negative correlates of remission across all remission definitions. Macroadenoma was associated with lower odds of 6-month remission (OR\u2009=\u20090.26, P = .019). Higher first-week postoperative cortisol level significantly reduced the likelihood of 6-month remission (OR\u2009=\u20090.69, P < .001). Most preoperative clinical and biochemical parameters, including age, sex, disease duration, BMI, preoperative cortisol and ACTH levels, ODST, LDDST, HDDST, and BIPSS, showed limited or no predictive value (AUC\u2009<\u20090.70, all P > .05). The mean duration of glucocorticoid replacement was 25.55\u2009\u00b1\u200925.45 months overall; in the 6-month remission group, it was 30.01\u2009\u00b1\u200925.19 months, reflecting deeper and more prolonged postoperative HPA axis suppression following complete tumor resection. Postoperative first-week cortisol and ACTH levels, tumor size, and residual tumor are significant predictors of remission after TSS, while preoperative parameters do not reliably predict surgical outcomes. Further studies with multivariable analysis are warranted to confirm these findings.",
-      "journal": "Endocrine",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43024870",
-      "doi": "10.3171/2026.8.JNS261221",
-      "title": "Long-term disease control in Knosp grade 4 Cushing's disease using maximal safe resection and early adjuvant radiotherapy.",
-      "abstract": "Knosp grade 4 Cushing's disease (CD) represents an anatomically extreme and clinically challenging subtype of pituitary neuroendocrine tumor because a lesion extending deeply lateral to the intracavernous internal carotid artery (ICA) is rarely amenable to complete and safe resection via transsphenoidal surgery. Persistent hypercortisolism in CD directly compromises long-term survival, while aggressive lateral cavernous sinus (CS) dissection carries substantial neurovascular risk. Dedicated outcome studies focusing exclusively on Knosp grade 4 CD remain scarce. Therefore, the authors evaluated the long-term outcomes of a treatment strategy combining maximal safe resection with early adjuvant radiotherapy (RT) for residual CS disease while intentionally avoiding excessively aggressive lateral CS dissection beyond the ICA. The authors retrospectively reviewed the records of consecutive patients with biochemically confirmed CD and Knosp grade 4 CS invasion treated between 2009 and 2025. The surgical strategy prioritized maximal safe tumor resection while avoiding excessively aggressive dissection lateral to the ICA. Early adjuvant stereotactic RT was administered for residual lateral CS disease. Clinical, endocrinological, and radiological outcomes were analyzed during long-term follow-up, and factors potentially associated with poor disease control were explored. Thirty patients were included in the analysis. Endocrinological and radiological disease control was achieved in 26 (87%) of them during a mean follow-up of 70.5 months. Tumor progression occurred in 4 patients, all of whom demonstrated persistent hypercortisolism, and 3 subsequently died of disease-related causes. Prior RT exposure and an elevated Ki-67 labeling index were associated with poorer disease control despite multimodal treatment including temozolomide. In contrast, durable endocrine control was achieved in all Crooke cell adenoma cases under the described treatment strategy. No patient experienced ICA injury or disabling cranial neuropathy attributable to aggressive lateral CS dissection. For Knosp grade 4 CD, durable endocrine control must be balanced against the risks of radical CS surgery. Maximal safe resection combined with early adjuvant RT for residual CS disease provided favorable long-term disease control while avoiding major surgical morbidity. These findings support planned early adjuvant RT as a reasonable strategy for residual lateral CS disease in this rare and anatomically extreme subtype.",
-      "journal": "Journal of neurosurgery",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Randomized Controlled Trial"
       ]
     },
     {
@@ -391,41 +316,6 @@
       ]
     },
     {
-      "pmid": "43031811",
-      "doi": "10.1016/j.jbo.2026.100809",
-      "title": "The sclerostin family: multi-compartmental orchestrators of skeletal and systemic homeostasis.",
-      "abstract": "The skeleton is regarded as a dynamic endocrine organ, making the sclerostin family a critical multi-compartmental regulator governed by epigenetic mechanisms such as DNA methylation and histone deacetylase (HDAC) activity. However, the diverse roles of these osteokines across skeletal, vascular, and malignant niches generate a set of complex biological paradoxes. This review resolves these contradictions by defining a core structural bifurcation within the cystine-knot scaffold: Loop 3 serves as the primary inhibitor of bone formation, whereas Loop 2 sustains vascular integrity via the anti-inflammatory axis mediated by apolipoprotein E receptor 2 (ApoER2). In osteo-oncology, we synthesize current evidence supporting a context-dependent functional dichotomy of these factors. Endogenous sclerostin acts as a tumor suppressor in primary osteosarcoma but functions as a metastatic promoter in Wnt-responsive breast cancer, and acts synergistically with Dickkopf-1 (DKK1) to drive severe osteolysis in multiple myeloma (MM). We further detail an intracellular regulatory mechanism whereby nuclear sclerostin domain-containing 1 (SOSTDC1) safeguards chromatin stability under genotoxic stress, thereby enhancing chemoresistance in malignant cells. Finally, we propose a shift toward next-generation domain-specific therapeutics, including Loop 3-selective aptamers and acid-responsive nanosystems, to uncouple skeletal regeneration from systemic risks and advance precision targeted therapy in bone oncology.",
-      "journal": "Journal of bone oncology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "43031814",
-      "doi": "10.3389/fphar.2026.1935865",
-      "title": "Bictegravir/emtricitabine/tenofovir alafenamide for HIV: a meta-analysis of efficacy across treatment-na\u00efve and experienced populations and comparative effectiveness versus dolutegravir/lamivudine.",
-      "abstract": "Bictegravir/emtricitabine/tenofovir alafenamide (BIC/FTC/TAF) is a preferred single-tablet regimen for HIV treatment, but head-to-head meta-analytic comparisons between treatment-experienced (TE) and treatment-na\u00efve (TN) individuals are lacking. Additionally, the comparative effectiveness of BIC/FTC/TAF versus dolutegravir/lamivudine (DTG/3TC) remains to be systematically synthesized. We aimed to systematically compare the efficacy of BIC/FTC/TAF between TE and TN people with HIV, and evaluate the comparative effectiveness of BIC/FTC/TAF versus DTG/3TC. We searched PubMed, Cochrane Library, Web of Science, and Embase up to September 2026. Observational studies and randomized controlled trials (RCTs) reporting virologic suppression or treatment discontinuation rates in both TE and TN populations receiving BIC/FTC/TAF, or BIC/FTC/TAF versus DTG/3TC were included. Pooled odds ratios (ORs) with 95% confidence intervals (CIs) were calculated. Single-group proportion meta-analyses used a random-effects model, whereas comparative meta-analyses used the prespecified fixed-effect model. Thirty-one studies were included. For TE participants, the pooled virologic suppression rate was 95% (95% CI: 92%-97%) at 12 months, and for TN participants, the rate was 90% (95% CI: 85%-94%). In design-stratified comparative analyses between BIC/FTC/TAF and DTG/3TC, no statistically significant difference was detected in RCT (OR = 1.46, 95% CI: 0.80-2.66) or cohort studies (OR = 0.98, 95% CI: 0.70-1.39) among TN populations, nor in TE populations (RCT: OR = 1.04, 95% CI: 0.34-3.16; cohort: OR = 0.92, 95% CI: 0.42-2.02). No statistically significant differences were detected for treatment discontinuation (all-cause: OR = 1.02, 95% CI: 0.70-1.49; adverse events: OR = 1.11, 95% CI: 0.55-2.22). BIC/FTC/TAF achieves high virologic suppression rates and low discontinuation rates in both TE and TN populations, supporting its use as a first-line and switch option. BIC/FTC/TAF and DTG/3TC showed no statistically significant differences in virologic suppression or treatment discontinuation, suggesting both are viable guideline-preferred options. The choice between them should be individualized based on patient characteristics, including prior treatment history, adherence potential, comorbidity profile, and metabolic risk considerations.",
-      "journal": "Frontiers in pharmacology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Systematic Review"
-      ]
-    },
-    {
-      "pmid": "43031816",
-      "doi": "10.3389/froh.2026.1986995",
-      "title": "Bringing oral healthcare to where people are: an implementation evaluation of an oral health education program on an inpatient mental health unit.",
-      "abstract": "In Canada, where access to healthcare does not ordinarily depend on ability to pay, oral healthcare has been the persistent exception. People living with serious mental illness are among those least likely to access oral healthcare. Oral health services have been integrated into existing healthcare settings, mostly as clinical treatment; however, the upstream work of education, prevention and promotion is less well documented. The Windsor Family Health Team's Oral Health Education Program (OHEP) brings upstream oral health services to people where they already receive care. Developed for primary care, it was subsequently delivered by a registered dental hygienist on an inpatient mental health unit at Windsor Regional Hospital. We conducted a multi-source implementation evaluation, drawing on the RE-AIM framework, Proctor's implementation outcomes and the updated Consolidated Framework for Implementation Research to examine reach, adoption, acceptability, appropriateness and feasibility. Data came from patient questionnaires, a unit staff survey, and an interview with the program's Oral Health Educator. The study was originally designed as a prospective cohort evaluation, but too few participants completed follow-up questionnaires to support conclusions about change over time. Eighty-seven patients enrolled and three withdrew, leaving 84; 35 responded at 7 days, 38 at 30 days and 15 at 90 days. Participants included people adversely impacted by determinants of health: 9.5% identified as Indigenous, 52.4% reported an income below CAD $20,000, and 29.8% had been unhoused in the past year. Of 61unit staff surveyed, 88.5% had referred a patient to the program, 88.5% considered it well or very well integrated into the unit workflow, and 93.4% were satisfied or very satisfied with its implementation. Almost all responding patients said they would recommend it. The program was delivered two half-days each week, which limited how many patients could be seen. Upstream oral health services were integrated into this inpatient mental health setting and reached people who face barriers to accessing oral healthcare. Study participant attrition is itself a finding, and points to compounding gaps in policy, practice, and what counts as evidence. This is an equity problem as much as a methodological one.",
-      "journal": "Frontiers in oral health",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
       "pmid": "43028316",
       "doi": "10.3390/diagnostics16213443",
       "title": "Clinical Presentation and Targeted Genetic Evaluation of Familial Isolated Pituitary Adenomas: A Single-Center Case Series.",
@@ -437,39 +327,27 @@
       ]
     },
     {
-      "pmid": "43018224",
-      "doi": "10.1016/j.jaccas.2026.110757",
-      "title": "Hemodynamic Challenges After Paraganglioma Resection in Fontan-Palliated Adult With Fontan-Associated Liver Disease.",
-      "abstract": "Chronic hypoxemia in cyanotic congenital heart disease is associated with increased risk of pheochromocytoma and paraganglioma (PPGL), particularly among patients with single-ventricle physiology. A 26-year-old man with unbalanced atrioventricular septal defect and extracardiac Fontan palliation, and Fontan-associated liver disease presented with hypertensive crisis, with imaging evidence of PPGL. The patient underwent robotic right adrenalectomy and nodule resection complicated by high-volume chylous ascites for several weeks. Chronic hypoxemia in cyanotic congenital heart disease, particularly univentricular physiology, is a well-established driver of PPGL. Existing guidelines mandate preoperative \u03b1-blockade and volume expansion for functional PPGL, but this approach is not tailored to Fontan physiology. We present a rare case of operative disruption of retroperitoneal lymphatics superimposed on Fontan-associated systemic venous and lymphatic congestion. Right heart catheterization, cautious \u03b1-blockade with volume expansion, and multidisciplinary perioperative management are essential to balance catecholamine blockade against the risks of venous congestion, lymphatic failure, bleeding, and thrombosis.",
-      "journal": "JACC. Case reports",
+      "pmid": "43025737",
+      "doi": "10.1016/j.athoracsur.2026.10.039",
+      "title": "Fight or Flight: A Multidisciplinary Approach to Diagnosis and Management of Mediastinal Paragangliomas.",
+      "abstract": "Mediastinal paragangliomas are rare neuroendocrine tumors, leading to potentially invasive clinical investigation and inadequate staging. Functional secretory activity, high germline mutation rates, multifocal disease burden, and proximity to the great vessels demand a multidisciplinary approach. We describe our longitudinal multidisciplinary experience building a center of excellence model. We performed a retrospective single-center cohort study of 19 patients with mediastinal paraganglioma managed at a quaternary referral center, capturing demographics, imaging, preoperative testing, operative details, and perioperative outcomes. There were 14 (73.7%) females with a median age of 46.3 years (IQR 38.5-57.6 years). Sixteen (84%) of 19 patients were referred from outside centers; 9 (47.3%) underwent biopsy before referral, with three (15.8%) experiencing catecholamine crisis, pneumothorax, or hemorrhage. Nine (47.4%) tumors were adjacent to the aorta, and seven (42.1%) adjacent to the pulmonary artery, with vascular involvement in 17(89.5%) of the 19 patients. Thirteen (68%) were functional and five (26.3%) had multifocal disease. Succinate dehydrogenase mutations were found in 63.6% of patients tested. Cardiopulmonary bypass was required in 63.2%, with zero 30-day mortality. Postoperative complications occurred in 47.4%, predominantly atrial arrhythmia. Median hospital stay was four days. Four patients developed local recurrence at a median recurrence-free survival of 16.9 months, all with positive margins or multifocal disease. Mediastinal paragangliomas can be safely resected within a multidisciplinary center of excellence. Early recognition, avoidance of uninformed biopsy, functional staging, preoperative alpha blockade, and tumor profiling and genetic evaluation with genetic counseling are essential components.",
+      "journal": "The Annals of thoracic surgery",
       "year": "2026",
       "publication_types": [
-        "Case Reports",
         "Journal Article"
       ]
     },
     {
-      "pmid": "43028345",
-      "doi": "10.3390/diagnostics16213471",
-      "title": "Germline AIP Testing in Pituitary Neuroendocrine Tumors: Diagnostic Yield, Variant Interpretation, and a Phenotype-Driven Clinical Approach-A Narrative Review.",
-      "abstract": "Germline pathogenic variants in the aryl hydrocarbon receptor-interacting protein (AIP) gene are the most common identifiable genetic cause of familial isolated pituitary adenomas (FIPA) and are particularly associated with young-onset growth hormone-secreting pituitary neuroendocrine tumors (PitNETs). This review critically evaluates current evidence on patient selection for germline AIP testing, variant interpretation, and emerging multigene approaches. A narrative PubMed/MEDLINE search identified English-language studies published between January 2006 and April 2025, including original clinical studies, international cohorts, systematic reviews, consensus statements, and relevant guidelines. Evidence was synthesized with emphasis on diagnostic yield, genotype-phenotype correlations, clinical indications for testing, and contemporary American College of Medical Genetics and Genomics/Association for Molecular Pathology (ACMG/AMP) variant classification. The highest diagnostic yield is consistently observed in FIPA, pituitary gigantism, childhood- or young-onset growth hormone (GH)-secreting macroadenomas, and selected patients with aggressive or otherwise high-risk phenotypes. Contemporary ACMG/AMP classification has lowered and refined estimates of clinically actionable AIP variants compared with historical studies. Targeted AIP testing remains appropriate for characteristic phenotypes, whereas multigene panels may be useful when syndromic features, atypical presentations, or persistent suspicion of hereditary disease remain after negative AIP testing. Current evidence supports phenotype-driven rather than universal germline AIP testing in PitNETs. Integrating age at onset, family history, tumor subtype, tumor characteristics, and standardized variant interpretation may maximize diagnostic yield while limiting unnecessary testing.",
-      "journal": "Diagnostics (Basel, Switzerland)",
+      "pmid": "43013145",
+      "doi": "10.1007/s10143-026-04573-7",
+      "title": "The unseen risk: a systematic review of the incidence, management, and outcomes of the trigeminocardiac reflex in skull-base surgery.",
+      "abstract": "This study synthesizes contemporary evidence on the trigeminocardiac reflex (TCR) during skull-base and adjacent neurosurgical procedures, with emphasis on operative corridors, triggers, hemodynamic phenotypes, management, and the limits of current outcome evidence. Following PRISMA guidelines, we systematically searched PubMed, Scopus, Web of Science, and Embase through September 15, 2024. Eligible reports described intraoperative TCR or closely related trigeminal autonomic responses during skull-base surgery or adjacent procedures and reported event features, management, or outcomes. Twenty-eight studies including 329 patients met inclusion criteria. Reported TCR events clustered in microvascular decompression for trigeminal neuralgia (n=168; 51.1%), CPA/posterior fossa or anterior skull-base tumor surgery (n=71; 21.6%), transsphenoidal pituitary procedures (n=47; 14.3%), and percutaneous trigeminal procedures (n=35; 10.6%). Immediate cessation of the provoking maneuver was the cornerstone of management, with anticholinergics, vasoactive agents, or temporary pacing required only in selected severe or recurrent cases. No TCR-attributable mortality was reported. However, evidence regarding long-term functional outcomes remains limited, inconsistently reported, and largely dependent on historical vestibular schwannoma and pituitary cohorts. A procedure-specific synthesis identifies high-risk maneuvers, preventive considerations, and escalation options for each operative corridor. TCR should be anticipated during trigeminal manipulation across skull-base surgical corridors and managed initially by immediate cessation or modification of the provoking stimulus, with pharmacologic or resuscitative escalation reserved for persistent or severe events. Although the available evidence supports a procedure-specific approach to prevention and preparedness, heterogeneous definitions, retrospective designs, and incomplete denominators preclude reliable incidence estimates or validated management recommendations.",
+      "journal": "Neurosurgical review",
       "year": "2026",
       "publication_types": [
         "Journal Article",
+        "Systematic Review",
         "Review"
-      ]
-    },
-    {
-      "pmid": "43017263",
-      "doi": "10.7759/cureus.117817",
-      "title": "Iatrogenic Cushing Syndrome With Hypothalamic-Pituitary-Adrenal Axis Suppression in a Two-Month-Old Infant Following Unsupervised Topical Corticosteroid Use: A Case Report.",
-      "abstract": "Topical corticosteroids are commonly prescribed in pediatric dermatology; however, systemic adverse effects may occur rapidly in infants due to increased percutaneous absorption, the occlusive effect of diapers, and the immaturity of the hypothalamic-pituitary-adrenal (HPA) axis. We report the case of a two-month-old, 6 kg male infant who developed iatrogenic Cushing syndrome following approximately seven weeks of daily and repeated unsupervised application of a betamethasone valerate 0.1% topical corticosteroid to the diaper area for the treatment of diaper rash. Clinical examination revealed moon facies, a buffalo hump, and facio-truncal obesity. Laboratory evaluation showed suppressed morning cortisol at 5 \u00b5g/L (reference: 50-230 \u00b5g/L) and undetectable adrenocorticotropic hormone (ACTH) at 2.47 pg/mL (reference: 7-63 pg/mL), consistent with secondary adrenal insufficiency due to HPA axis suppression; brain CT showed no structural abnormality of clinical relevance. Management consisted of gradual withdrawal of the topical corticosteroid over four weeks, physiologic hydrocortisone replacement therapy at 8-10 mg/m\u00b2/day in three divided doses, and close clinical and biochemical follow-up. Biochemical recovery was suggested by normalization of morning cortisol to 272 \u00b5g/L, allowing progressive tapering and the discontinuation of hydrocortisone over six weeks without any episode of acute adrenal insufficiency. The family received structured education regarding the risks of unsupervised corticosteroid use and the warning signs of adrenal crisis. This case underscores that even moderate-to-potent topical corticosteroids applied to occluded skin areas can cause significant systemic toxicity in this vulnerable population and highlights the critical importance of parental education, appropriate prescribing guidance, and vigilant monitoring to prevent this avoidable complication.",
-      "journal": "Cureus",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
       ]
     },
     {
@@ -478,6 +356,18 @@
       "title": "Diagnostic challenge of delayed immune-related hepatitis during zongertinib treatment after nivolumab plus ipilimumab in a 52-year-old man with HER2-mutant non-small cell lung cancer: a case report.",
       "abstract": "Delayed immune-related hepatitis after discontinuation of immune checkpoint inhibitors (ICIs) is increasingly recognized, but attribution is difficult when liver injury develops during subsequent tyrosine kinase inhibitor (TKI) therapy. This diagnostic dilemma has not been well described during human epidermal growth factor receptor 2 (HER2)-selective TKI treatment after dual ICI therapy. A 52-year-old Japanese man with HER2 exon 20 insertion-positive stage IVB non-small cell lung cancer received nivolumab plus ipilimumab from February 28 to November 13, 2025, and developed grade 2 oral mucositis, grade 2 adrenal insufficiency, and grade 1-2 skin toxicity. Zongertinib was initiated on November 26. Routine testing on January 6, 2026 showed grade 3 hepatocellular injury, and zongertinib was withheld. Despite drug withdrawal, liver injury progressed, and he was admitted with mild fatigue on January 20, when aspartate aminotransferase, alanine aminotransferase, alkaline phosphatase, and \u03b3-glutamyl transpeptidase levels were 774, 1,386, 156, and 160 U/L, respectively. Total bilirubin remained approximately 1.0 mg/dL. Viral and autoimmune testing and imaging disclosed no alternative cause. Liver biopsy showed active hepatitis with lymphocyte-predominant portal and lobular inflammation and interface activity, findings compatible with an immune-mediated hepatitis pattern but not specific for the causative agent. Prednisolone 40 mg/day (approximately 0.5 mg/kg/day) produced rapid biochemical improvement with resolution of fatigue. Zongertinib was resumed on February 11 and continued without recurrent hepatitis through June 2026. The progression of liver injury despite zongertinib withdrawal, multiple prior immune-related adverse events, exclusion of competing causes, compatible histology, corticosteroid responsiveness, and absence of recurrence after zongertinib rechallenge collectively favored delayed immune-related hepatitis, although zongertinib-associated drug-induced liver injury could not be completely excluded. In similar cases, a structured etiological assessment, including liver biopsy when the result may alter cancer treatment, can help guide management.",
       "journal": "Translational lung cancer research",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43018224",
+      "doi": "10.1016/j.jaccas.2026.110757",
+      "title": "Hemodynamic Challenges After Paraganglioma Resection in Fontan-Palliated Adult With Fontan-Associated Liver Disease.",
+      "abstract": "Chronic hypoxemia in cyanotic congenital heart disease is associated with increased risk of pheochromocytoma and paraganglioma (PPGL), particularly among patients with single-ventricle physiology. A 26-year-old man with unbalanced atrioventricular septal defect and extracardiac Fontan palliation, and Fontan-associated liver disease presented with hypertensive crisis, with imaging evidence of PPGL. The patient underwent robotic right adrenalectomy and nodule resection complicated by high-volume chylous ascites for several weeks. Chronic hypoxemia in cyanotic congenital heart disease, particularly univentricular physiology, is a well-established driver of PPGL. Existing guidelines mandate preoperative \u03b1-blockade and volume expansion for functional PPGL, but this approach is not tailored to Fontan physiology. We present a rare case of operative disruption of retroperitoneal lymphatics superimposed on Fontan-associated systemic venous and lymphatic congestion. Right heart catheterization, cautious \u03b1-blockade with volume expansion, and multidisciplinary perioperative management are essential to balance catecholamine blockade against the risks of venous congestion, lymphatic failure, bleeding, and thrombosis.",
+      "journal": "JACC. Case reports",
       "year": "2026",
       "publication_types": [
         "Case Reports",
@@ -497,40 +387,6 @@
       ]
     },
     {
-      "pmid": "42994909",
-      "doi": "10.1097/MD.0000000000051533",
-      "title": "Adrenal ganglioneuroma in an adolescent presenting as an incidentaloma: Imaging-pathology correlation and diagnostic challenges: A case report.",
-      "abstract": "Adrenal ganglioneuroma (AGN) is a rare, benign, and usually nonfunctioning tumor arising from neural crest-derived sympathetic ganglion cells. Preoperative diagnosis is difficult because the clinical presentation is often nonspecific, and imaging findings overlap with those of other adrenal neoplasms. We describe an adolescent adrenal incidentaloma with detailed imaging-pathology correlation, adding to the small number of reported adolescent cases. A previously healthy 16-year-old male underwent contrast-enhanced computed tomography (CT) after a bicycle accident. No traumatic injury was identified, but imaging incidentally revealed a well-circumscribed right adrenal mass measuring approximately 6.1 cm\u2005\u00d7\u20053.6 cm\u2005\u00d7\u20055.0 cm. CT and magnetic resonance imaging showed progressive, persistent enhancement across the arterial, venous, and delayed phases without demonstrable washout (attenuation increased from 20 Hounsfield units unenhanced to 55 Hounsfield units in the venous phase, with further qualitative enhancement on 15-minute delayed images) and no intralesional fat, suggesting a non-adenomatous lesion and raising suspicion for a neurogenic tumor. Biochemical evaluation showed no evidence of hormonal hypersecretion. Histopathological examination after resection established the diagnosis of AGN. The patient underwent right adrenalectomy because of the size and radiologically indeterminate nature of the mass. The postoperative course was uneventful. Transient elevation of blood pressure noted during follow-up prompted biochemical reevaluation, which showed no evidence of excess catecholamine. Follow-up CT at 9 months showed no recurrence. Progressive delayed enhancement without washout and absence of signal loss on opposed-phase magnetic resonance imaging, a pattern previously described in ganglioneuroma, may suggest the diagnosis preoperatively, although definitive diagnosis requires histopathological confirmation. Complete surgical excision established the diagnosis and achieved a favorable short-term outcome; the excellent long-term prognosis of AGN is supported by the published literature, and our patient remains recurrence-free at 9 months.",
-      "journal": "Medicine",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Case Reports"
-      ]
-    },
-    {
-      "pmid": "43031813",
-      "doi": "10.1007/s12298-026-01832-1",
-      "title": "Engineered nickel oxide nanoparticles impede mitochondrial function and compromise TCA cycle in Allium cepa L.",
-      "abstract": "Mitochondria are central regulators of plant cellular homeostasis, and their disruption represents an early trigger of stress-induced dysfunction. Although nickel oxide nanoparticles (NiO-NP) induce plant-specific oxidative stress, their mitochondrial impacts remain unclear. This study identifies mitochondria as a primary target of NiO-NP toxicity in Allium cepa, driving downstream cellular collapse. To elucidate how NiO-NP can impact the mitochondrion, this study investigated changes in mitochondrial structure and function, focusing on ATP-synthesis and inner mitochondrial membrane stability, assessing the TCA cycle function in the model plant Allium cepa L. Initial signs of cellular damage were evident when the relative water content was depleted and electrolyte leakage was detected in exposed cells. Staining with Rhodamine-123 indirectly confirmed compromised mitochondrial membrane potential. A NiO-NP dose-dependent increase in cytosolic Cytochrome c oxidase (75% increase over negative control at 500\u00a0mg\u00a0L-1 NiO-NP treatment) and leakage of Ca2+ ions into the cytoplasm also confirmed damage to the inner mitochondrial membrane of exposed cells. While all substrates of the TCA cycle showed significant decrease (most significantly at 250\u00a0mg\u00a0L-1 NiO-NP), so did the enzymes. Decrease in fumarase activity was 10% and malate dehydrogenase activity decreased by 47.5% below the negative control levels. Consequently, ATP production dropped drastically (~\u200985% reduction in seedlings exposed to 500\u00a0mg\u00a0L\u207b1 NiO-NP), correlating with structural and functional mitochondrial impairment in a NiO-NP dose-dependent manner. Overall, the study demonstrated that escalating NiO-NP exposure compromised mitochondrial integrity, crippled the TCA cycle, and suppressed ATP generation, serving as a precursor to programmed cell death of the exposed cells.",
-      "journal": "Physiology and molecular biology of plants : an international journal of functional plant biology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43031820",
-      "doi": "10.3389/fneur.2026.1970459",
-      "title": "Comparative performance of nine large language models on professional Parkinson's disease tasks: a multidimensional benchmark study.",
-      "abstract": "Parkinson's disease (PD) requires both disease-specific knowledge and contextual clinical reasoning. However, most evaluations of medical large language models (LLMs) emphasize closed-ended questions and factual accuracy, providing limited insight into broader dimensions of performance on professional PD tasks. Nine contemporary LLMs were evaluated using a 200-item English-language professional PD benchmark spanning five clinical domains, four difficulty levels, and multiple question formats. Responses were assessed for expert-rated factual accuracy, clinical reasoning, Global Quality Scale (GQS), and Flesch-Kincaid Grade Level (FKGL). The nine models generated 1,800 responses. Between-model separation was minimal for expert-rated factual accuracy (Kendall' s W\u202f=\u202f0.031) but greater for FKGL (W\u202f=\u202f0.235), Clinical Reasoning (W\u202f=\u202f0.256), and GQS (W\u202f=\u202f0.301). Between-model separation in expert-rated factual accuracy was small for closed-ended questions (W\u202f=\u202f0.020, p\u202f=\u202f0.001) but greater for open-ended questions (W\u202f=\u202f0.121, p\u202f<\u202f0.001). Expert-rated factual accuracy remained weakly discriminative across PD domains and difficulty levels, while GQS showed the greatest domain-specific separation in Safety & Ethics (W\u202f=\u202f0.431). Flagship variants consistently showed higher Clinical Reasoning and GQS, but not uniformly higher factual accuracy. Contemporary LLMs showed limited between-model separation in expert-rated factual accuracy within this benchmark and scoring framework, whereas greater differentiation emerged in open-ended tasks, clinical reasoning, overall response quality, and readability. Multidimensional evaluation may therefore provide a more informative characterization of model performance and help inform task-specific model selection and oversight in medical applications.",
-      "journal": "Frontiers in neurology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
       "pmid": "43024315",
       "doi": "10.1097/MD.0000000000051565",
       "title": "When hypertensive crisis mimics septic shock: A case report of pheochromocytoma-induced severe lactic acidosis following GLP-1 receptor agonist administration.",
@@ -540,6 +396,30 @@
       "publication_types": [
         "Journal Article",
         "Case Reports"
+      ]
+    },
+    {
+      "pmid": "43034916",
+      "doi": "10.1002/jbt.71155",
+      "title": "Sildenafil as an Emerging Analgesic: Mechanistic Insights and Therapeutic Potential in Pain Management.",
+      "abstract": "Neuropathic pain is pain resulting from damage or disease affecting the peripheral or central nervous system. Chronic neuropathic pain is a major clinical concern and is frequently unresponsive to standard analgesics, so multimodal treatments have been suggested. There is substantial evidence supporting a role for the nitric oxide (NO)/cyclic guanosine monophosphate (cGMP) signaling pathway in nociceptive processing. It is unclear what the specific function of phosphodiesterase-5 (PDE-5) in the NO/cGMP pathway is in response to pain. In the present review, we aimed to evaluate potential peripheral interactions of sildenafil, a PDE-5 inhibitor. Sildenafil is a specific and strong inhibitor of phosphodiesterase type 5 (PDE-5). The enzyme PDE-5 primarily degrades cGMP, an intracellular second messenger. Inhibition of cGMP breakdown results in higher intracellular cGMP concentrations, which are considered largely responsible for its therapeutic effect. This is a lacuna in the present literature, and this study seeks to provide an overall overview of the therapeutic potential of sildenafil in pain management. This realization of sildenafil's broader potential may lead to new therapeutic opportunities, the optimization of current strategies, and the expansion of its clinical use.",
+      "journal": "Journal of biochemical and molecular toxicology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42979531",
+      "doi": "10.17925/EE.2026.22.2.2",
+      "title": "Non-diabetic endocrine neuropathies: A practical approach to diagnosis and clinical evaluation.",
+      "abstract": "Peripheral neuropathy has diverse etiologies, with endocrine disorders beyond diabetes representing significant, yet frequently underrecognized causes. While diabetic neuropathy is well established, this article specifically excludes a detailed discussion of diabetic neuropathy to focus on less-recognized endocrine causes and presents a practical diagnostic algorithm for their earlier and more accurate identification. A focused narrative review was conducted using PubMed, Scopus and ScienceDirect (2015-2025). From 2,318 screened records, 154 studies were included after full-text review of 298 articles. Evidence was synthesized by etiology, mechanism, clinical presentation and diagnostic relevance. Disorders such as hypothyroidism, acromegaly, adrenal dysfunction and deficiencies of vitamins B12 and D produce distinct neuropathic profiles via metabolic, hormonal, inflammatory or compressive mechanisms. Subclinical nerve involvement is common, with electrophysiological abnormalities detectable in up to 60% of asymptomatic individuals. Characteristic clinical patterns - such as delayed reflexes in hypothyroidism, bilateral carpal tunnel syndrome (CTS) in acromegaly and sensory ataxia in B12 deficiency - provide diagnostic clues. Based on synthesized evidence, a stepwise diagnostic algorithm was developed to guide clinical evaluation. Endocrine disorders are important and often reversible causes of peripheral neuropathy. Early recognition requires a systematic approach. The proposed evidence-based algorithm offers clinicians a practical tool to improve diagnostic efficiency, facilitate timely treatment of the underlying endocrine condition and reduce the risk of irreversible nerve damage.",
+      "journal": "TouchREVIEWS in endocrinology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
       ]
     },
     {
@@ -554,15 +434,27 @@
       ]
     },
     {
-      "pmid": "43026363",
-      "doi": "10.1007/s11102-026-01772-9",
-      "title": "Neuronavigation-assisted versus conventional endoscopic endonasal transsphenoidal surgery for pituitary adenomas: a pilot randomized controlled trial.",
-      "abstract": "Evidence on the benefit of intraoperative neuronavigation in endoscopic endonasal transsphenoidal (EET) pituitary surgery remains mixed. We conducted a pilot randomized controlled trial comparing navigation-assisted and conventional EET surgery for pituitary adenomas, to estimate the effect size for a definitive multicentre trial. At Ain Shams University (April 2025-February 2026), 57 patients with pituitary adenomas were assessed for eligibility; 7 were excluded for prior Gamma Knife radiosurgery. The remaining 50 were randomized 1:1 within strata of tumor size, functional status, and surgery status, with concealed computer-generated allocation. Recruitment continued until the planned 25 patients per arm were enrolled. The primary outcome was extent of resection; secondary outcomes included operative time, blood loss, visual and hormonal outcomes, and complications. All 50 patients (25 per arm) were analyzed by intention-to-treat. Gross total resection was numerically higher with navigation (28.0% vs. 16.0%; p\u2009=\u20090.496); adjusted for Knosp grade, the odds ratio was 2.66 (95% CI 0.41-17.06) versus a crude 2.04. Extent of resection was strongly associated with tumor size, functioning status, and Knosp grade; no giant adenoma achieved gross total resection. Blood loss was lower with navigation (median 250 vs. 350 mL; p\u2009=\u20090.016), with no difference in operative time, which included navigation setup (p\u2009=\u20090.788). Neuronavigation did not significantly improve extent of resection, though resection completeness trended favorably with navigation across most subgroups. The associated blood-loss reduction remains hypothesis-generating. A definitive, adequately powered multicentre trial is warranted. Pan African Clinical Trial Registry, PACTR202608562462156, registered retrospectively on 17 August 2026.",
-      "journal": "Pituitary",
+      "pmid": "43034911",
+      "doi": "10.1155/bmri/9681542",
+      "title": "Geometry-Driven Biomechanical Optimization of Double-J Ureteral Stents.",
+      "abstract": "Ureteric stents are widely used to maintain ureteric patency; however, complications such as stent migration, ureteric irritation, and patient discomfort remain common. Although several geometric parameters of double-J stents have been investigated in relation to urinary flow, stenosis, reflux, encrustation, stent length, and coil characteristics, the specific biomechanical role of terminal coil orientation relative to physiological loading remains insufficiently characterized. This study proposes a geometry-based biomechanical framework that considers terminal coil-plane orientation as a specific and mechanistically insufficiently characterized geometric variable in double-J ureteral stent stability. The framework integrates biomechanical principles, engineering concepts, and clinical considerations to provide a simplified mechanistic interpretation of how coil geometry may interact with multidirectional physiological loading generated by ureteral peristalsis and intravesical pressure. Changes in coil-plane orientation may alter the transmission and decomposition of physiological forces, potentially influencing axial loading, transverse forces, bending response, stent-wall contact, and resistance to longitudinal displacement. An alternative terminal coil-plane orientation is proposed as a testable geometric modification that may alter these mechanical relationships without changing the overall dimensions or material composition of the device. The proposed relationships are conceptual and do not represent validated stress distributions, experimentally demonstrated retention benefits, or evidence that any particular coil orientation is superior. This framework provides a structured basis for future finite element analysis, computational fluid dynamics, and fluid-structure interaction studies, followed by experimental and clinical validation, to quantitatively evaluate coil orientation as a complementary geometric variable in double-J ureteral stent design and development.",
+      "journal": "BioMed research international",
       "year": "2026",
       "publication_types": [
         "Journal Article",
-        "Randomized Controlled Trial"
+        "Review"
+      ]
+    },
+    {
+      "pmid": "43033903",
+      "doi": "10.1016/j.metabol.2026.156845",
+      "title": "Endogenous hypercortisolism and cardio-liver-metabolic dysfunctions: from pathogenesis to the effects of therapeutic strategies targeting hypercortisolism.",
+      "abstract": "Endogenous hypercortisolism, namely Cushing's syndrome (CS) is a rare but severe endocrine disorder caused by chronic exposure to excess glucocorticoids and characterized by substantial morbidity and increased mortality. Persistent hypercortisolism profoundly affects multiple cardiovascular and metabolic pathways, leading to a broad spectrum of cardio-liver-metabolic complications including arterial hypertension, cardiac and vascular remodelling, thrombotic diathesis, hepatic steatosis, visceral obesity, impaired glucose metabolism, and dyslipidemia. These alterations arise from complex interactions between direct glucocorticoid effects on target tissues and indirect mechanisms, mainly involving insulin resistance, endothelial dysfunction, chronic inflammation, and altered lipid metabolism. The primary therapeutic objective in CS is the normalization of cortisol excess through surgery, radiotherapy, or medical therapy, namely pharmacological treatment. In recent years, the availability of medical drugs targeting pituitary ACTH secretion, adrenal steroidogenesis, or glucocorticoid receptor signalling has expanded therapeutic options for patients with CS, especially with persistent or recurrent disease. Beyond biochemical control of hypercortisolism, namely normalization of urinary free cortisol (UFC) (UFC\u202f\u2264\u202fupper limit of normal), accumulating evidence suggests that these treatments may improve several cardiometabolic manifestations associated with cortisol excess. However, although remission of hypercortisolism leads to significant clinical improvement, complete normalization of cardio-liver-metabolic alterations is not consistently achieved. Many patients continue to exhibit persistent cardiovascular and metabolic abnormalities even after long-term biochemical remission, highlighting the need for active long-term monitoring and multidisciplinary management to prevent disease progression and optimize long-term outcomes. This mini-review briefly outlines the pathogenesis of cardio-liver-metabolic dysfunctions and discusses the potential effects of currently available therapeutic strategies targeting hypercortisolism on these comorbidities.",
+      "journal": "Metabolism: clinical and experimental",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
       ]
     },
     {
@@ -579,15 +471,94 @@
       ]
     },
     {
-      "pmid": "42979531",
-      "doi": "10.17925/EE.2026.22.2.2",
-      "title": "Non-diabetic endocrine neuropathies: A practical approach to diagnosis and clinical evaluation.",
-      "abstract": "Peripheral neuropathy has diverse etiologies, with endocrine disorders beyond diabetes representing significant, yet frequently underrecognized causes. While diabetic neuropathy is well established, this article specifically excludes a detailed discussion of diabetic neuropathy to focus on less-recognized endocrine causes and presents a practical diagnostic algorithm for their earlier and more accurate identification. A focused narrative review was conducted using PubMed, Scopus and ScienceDirect (2015-2025). From 2,318 screened records, 154 studies were included after full-text review of 298 articles. Evidence was synthesized by etiology, mechanism, clinical presentation and diagnostic relevance. Disorders such as hypothyroidism, acromegaly, adrenal dysfunction and deficiencies of vitamins B12 and D produce distinct neuropathic profiles via metabolic, hormonal, inflammatory or compressive mechanisms. Subclinical nerve involvement is common, with electrophysiological abnormalities detectable in up to 60% of asymptomatic individuals. Characteristic clinical patterns - such as delayed reflexes in hypothyroidism, bilateral carpal tunnel syndrome (CTS) in acromegaly and sensory ataxia in B12 deficiency - provide diagnostic clues. Based on synthesized evidence, a stepwise diagnostic algorithm was developed to guide clinical evaluation. Endocrine disorders are important and often reversible causes of peripheral neuropathy. Early recognition requires a systematic approach. The proposed evidence-based algorithm offers clinicians a practical tool to improve diagnostic efficiency, facilitate timely treatment of the underlying endocrine condition and reduce the risk of irreversible nerve damage.",
-      "journal": "TouchREVIEWS in endocrinology",
+      "pmid": "43034915",
+      "doi": "10.1002/jbt.71167",
+      "title": "Anoikis in Gastric Cancer: Mechanistic Insights Into Metastatic Survival and Therapeutic Targeting.",
+      "abstract": "Gastric cancer (GC) remains a major cause of cancer-related mortality worldwide, largely because many patients present with advanced or metastatic disease. Anoikis, a specialized form of detachment-induced apoptosis, is a critical safeguard that eliminates epithelial cells after loss of appropriate extracellular matrix (ECM) and cell-cell adhesion; therefore, its disruption allows malignant cells to survive outside their native niche and acquire metastatic competence. In GC, anoikis resistance is central to tumor progression and peritoneal dissemination, enabling detached tumor cells to survive anchorage loss, mechanical stress, metabolic adaptation, and immune pressure before colonization. This review synthesizes current evidence on how anoikis is initiated, executed, and evaded in GC. Mechanistically, anoikis initiation begins with disruption of integrin-ECM and cadherin-mediated adhesion, followed by focal adhesion remodeling, cytoskeletal reorganization, and suppression or rewiring of adhesion-dependent survival signaling. Anoikis execution converges on mitochondrial and death-receptor apoptotic pathways, including Bcl-2 family regulation, caspase-8/caspase-9 activation, and executioner caspase cleavage. In contrast, anoikis evasion is driven by interconnected survival hubs, including integrin/FAK/Src, PI3K-AKT, MEK-ERK, NF-\u03baB, Wnt/\u03b2-catenin, YAP/TEAD, BDNF/TrkB, and protective autophagy. GC-specific mediators such as TCF7L2/PLAUR, MYH9/CTNNB1, ITGBL1/AKT/FBLN2, CAV1/epidermal growth factor receptor (EGFR)/ITGB1, GRP94/YAP-TEAD1, GDF15/autophagy, and TRIM69/PRKCD/BDNF further illustrate how detached GC cells acquire metastatic survival capacity. Translationally, these pathways provide a rationale for biomarker-guided therapeutic strategies aimed at restoring anoikis sensitivity or disabling compensatory survival programs. Targeting anoikis resistance may therefore complement existing chemotherapy, targeted therapy, and immunotherapy approaches, particularly in GC subtypes characterized by peritoneal dissemination, EMT, YAP/TEAD activation, or integrin/PI3K-AKT pathway dependence.",
+      "journal": "Journal of biochemical and molecular toxicology",
       "year": "2026",
       "publication_types": [
         "Journal Article",
         "Review"
+      ]
+    },
+    {
+      "pmid": "43024765",
+      "doi": "10.20945/2359-4292-2026-0135",
+      "title": "Adherence to hormone replacement and associated factors in patients with hypopituitarism.",
+      "abstract": "To evaluate adherence to hormone replacement therapy and identify factors associated with nonadherence in patients with hypopituitarism. This cross-sectional study included 126 adults with hypopituitarism followed at a tertiary neuroendocrinology center in Brazil. Adherence was assessed using the Morisky-Green Test (MGT), which was translated, culturally adapted, and validated for the Brazilian context in patients with hypopituitarism, and by the modified Brief Medication Questionnaire (BMQ). Association between clinical, socioeconomic, and treatment-related variables were analyzed. Good adherence was observed in only 28% and 27% of patients according to the MGT and BMQ, respectively, with moderate or low adherence predominating. Polypharmacy was common (61.1%) and was associated with lower adherence. In multivariate analysis, female sex (odds ratio [OR] = 2.78,95% confidence interval [CI] = 1.14-6.82), use of psychotropic medications (OR = 3.23, 95% CI = 1.08-9.63), a higher number of medications (OR = 1.26 per additional drug, 95% CI = 1.03-1.55), and absence of glucocorticoid replacement (OR = 3.31, 95% CI = 1.16-9.44) were independently associated with nonadherence. No associations were found for age, education level, income, duration of hypopituitarism, etiology, metabolic syndrome, or healthcare access variables. Adherence to hormone replacement therapy in hypopituitarism remains suboptimal and is negatively associated with female sex, polypharmacy, and psychotropic medication use. These findings suggest the need for further evaluation of patient-centered strategies, education, and regimen simplification to improve long-term adherence.",
+      "journal": "Archives of endocrinology and metabolism",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43024870",
+      "doi": "10.3171/2026.8.JNS261221",
+      "title": "Long-term disease control in Knosp grade 4 Cushing's disease using maximal safe resection and early adjuvant radiotherapy.",
+      "abstract": "Knosp grade 4 Cushing's disease (CD) represents an anatomically extreme and clinically challenging subtype of pituitary neuroendocrine tumor because a lesion extending deeply lateral to the intracavernous internal carotid artery (ICA) is rarely amenable to complete and safe resection via transsphenoidal surgery. Persistent hypercortisolism in CD directly compromises long-term survival, while aggressive lateral cavernous sinus (CS) dissection carries substantial neurovascular risk. Dedicated outcome studies focusing exclusively on Knosp grade 4 CD remain scarce. Therefore, the authors evaluated the long-term outcomes of a treatment strategy combining maximal safe resection with early adjuvant radiotherapy (RT) for residual CS disease while intentionally avoiding excessively aggressive lateral CS dissection beyond the ICA. The authors retrospectively reviewed the records of consecutive patients with biochemically confirmed CD and Knosp grade 4 CS invasion treated between 2009 and 2025. The surgical strategy prioritized maximal safe tumor resection while avoiding excessively aggressive dissection lateral to the ICA. Early adjuvant stereotactic RT was administered for residual lateral CS disease. Clinical, endocrinological, and radiological outcomes were analyzed during long-term follow-up, and factors potentially associated with poor disease control were explored. Thirty patients were included in the analysis. Endocrinological and radiological disease control was achieved in 26 (87%) of them during a mean follow-up of 70.5 months. Tumor progression occurred in 4 patients, all of whom demonstrated persistent hypercortisolism, and 3 subsequently died of disease-related causes. Prior RT exposure and an elevated Ki-67 labeling index were associated with poorer disease control despite multimodal treatment including temozolomide. In contrast, durable endocrine control was achieved in all Crooke cell adenoma cases under the described treatment strategy. No patient experienced ICA injury or disabling cranial neuropathy attributable to aggressive lateral CS dissection. For Knosp grade 4 CD, durable endocrine control must be balanced against the risks of radical CS surgery. Maximal safe resection combined with early adjuvant RT for residual CS disease provided favorable long-term disease control while avoiding major surgical morbidity. These findings support planned early adjuvant RT as a reasonable strategy for residual lateral CS disease in this rare and anatomically extreme subtype.",
+      "journal": "Journal of neurosurgery",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43012026",
+      "doi": "10.12890/2026_007424",
+      "title": "Beware of Tall Stature: Growth Hormone Excess Associated with a Rare Parasellar Extra-Axial Tumour-Diagnostic and Management Challenges in a Resource-Limited Setting.",
+      "abstract": "Tall stature can be the sole indicator of growth hormone (GH) excess, which causes pituitary gigantism before epiphyseal fusion. In developing regions like Indonesia, a lack of systematic screening often delays diagnosis. While classic presentations involve accelerated linear growth, atypical cases may be dominated by neurological signs, such as seizures secondary to tumour mass effect. A 14-year-old boy presented with a 2-year history of rapidly accelerating growth velocity, increasing shoe size, and a 6-month history of severe morning headaches accompanied by drug-resistant focal seizures. Endocrine evaluations revealed significantly elevated basal GH (4.27 ng/ml) and insulin-like growth factor 1 (IGF-1) levels (536 ng/ml). Brain magnetic resonance imaging identified a large parasellar extra-axial tumour with suprasellar extension. The patient underwent a craniotomy and tumour excision; histopathology subsequently confirmed a rare, aggressive malignant mesenchymal tumour. Postoperatively, the patient achieved seizure resolution and normalization of GH and IGF-1 levels. However, he developed evolving pituitary dysfunction consistent with multiple pituitary hormone deficiency (MPHD), specifically central hypothyroidism, necessitating targeted hormonal replacement therapy and continuous clinical follow-up. GH excess and gigantism can arise secondary to parasellar pathology rather than intrinsic pituitary disease, with neurological features like refractory epilepsy occasionally preceding classic endocrine manifestations. Rapid adolescent growth paired with neurological signs warrants urgent structural neuroimaging. Meticulous perioperative pituitary monitoring and early multidisciplinary involvement are essential to optimize long-term patient outcomes. Pituitary gigantism can be driven by extra-axial parasellar masses rather than intrinsic pituitary adenomas, operating via mass-effect compression that disrupts hypothalamic somatostatin inhibition.Drug-resistant epilepsy and severe headaches caused by local tumour infiltration can dominate the clinical picture, meaning rapid adolescent growth paired with neurological symptoms mandates urgent magnetic resonance imaging of the brain.Postoperative multiple pituitary hormone deficiency often evolves silently over weeks or months, requiring lifelong, multidisciplinary surveillance to detect late-stage deficiencies like secondary adrenal insufficiency.",
+      "journal": "European journal of case reports in internal medicine",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43010074",
+      "doi": "10.1186/s13256-026-06500-2",
+      "title": "Pituitary stalk interruption syndrome: a case report.",
+      "abstract": "Pituitary stalk interruption syndrome (PSIS) is a rare congenital disorder characterized by an interrupted or absent pituitary stalk, ectopic posterior pituitary, and anterior pituitary hypoplasia, resulting in varying degrees of hypopituitarism. An 18-year-old white American male with a history of panhypopituitarism, adrenal insufficiency, and Asperger's syndrome presented with seizures. Examination revealed short stature and absent secondary sexual characteristics. Endocrine evaluation demonstrated multiple pituitary hormone deficiencies. Magnetic resonance imaging showed a hypoplastic anterior pituitary gland, ectopic posterior pituitary, and absent pituitary stalk, confirming the diagnosis of PSIS. Hormone replacement therapy with hydrocortisone, levothyroxine, growth hormone, and testosterone enanthate was initiated. PSIS should be considered in patients with growth failure, delayed puberty, and multiple pituitary hormone deficiencies. Early recognition and timely hormone replacement are critical to optimize growth, pubertal development, and long-term outcomes.",
+      "journal": "Journal of medical case reports",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    },
+    {
+      "pmid": "42994909",
+      "doi": "10.1097/MD.0000000000051533",
+      "title": "Adrenal ganglioneuroma in an adolescent presenting as an incidentaloma: Imaging-pathology correlation and diagnostic challenges: A case report.",
+      "abstract": "Adrenal ganglioneuroma (AGN) is a rare, benign, and usually nonfunctioning tumor arising from neural crest-derived sympathetic ganglion cells. Preoperative diagnosis is difficult because the clinical presentation is often nonspecific, and imaging findings overlap with those of other adrenal neoplasms. We describe an adolescent adrenal incidentaloma with detailed imaging-pathology correlation, adding to the small number of reported adolescent cases. A previously healthy 16-year-old male underwent contrast-enhanced computed tomography (CT) after a bicycle accident. No traumatic injury was identified, but imaging incidentally revealed a well-circumscribed right adrenal mass measuring approximately 6.1 cm\u2005\u00d7\u20053.6 cm\u2005\u00d7\u20055.0 cm. CT and magnetic resonance imaging showed progressive, persistent enhancement across the arterial, venous, and delayed phases without demonstrable washout (attenuation increased from 20 Hounsfield units unenhanced to 55 Hounsfield units in the venous phase, with further qualitative enhancement on 15-minute delayed images) and no intralesional fat, suggesting a non-adenomatous lesion and raising suspicion for a neurogenic tumor. Biochemical evaluation showed no evidence of hormonal hypersecretion. Histopathological examination after resection established the diagnosis of AGN. The patient underwent right adrenalectomy because of the size and radiologically indeterminate nature of the mass. The postoperative course was uneventful. Transient elevation of blood pressure noted during follow-up prompted biochemical reevaluation, which showed no evidence of excess catecholamine. Follow-up CT at 9 months showed no recurrence. Progressive delayed enhancement without washout and absence of signal loss on opposed-phase magnetic resonance imaging, a pattern previously described in ganglioneuroma, may suggest the diagnosis preoperatively, although definitive diagnosis requires histopathological confirmation. Complete surgical excision established the diagnosis and achieved a favorable short-term outcome; the excellent long-term prognosis of AGN is supported by the published literature, and our patient remains recurrence-free at 9 months.",
+      "journal": "Medicine",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    },
+    {
+      "pmid": "43034924",
+      "doi": "10.1002/anie.7418410",
+      "title": "Photocatalytic Disruption of Concurrent Redox Axes Elicits Convergent Redox Collapse.",
+      "abstract": "The interconnected antioxidant systems of cancer cells, centered on the glutathione and thioredoxin axes, constitute a promising therapeutic vulnerability. However, simultaneous disruption of both axes by dual-inhibitor regimens is hampered by pharmacokinetic asynchrony. Herein, we report squaraine-based photocatalysts as a single-agent modality that concurrently disrupts these interconnected antioxidant systems in cancer cells. Upon 635\u00a0nm light irradiation, IITC depletes intracellular NADPH and GSH through photocatalytic oxidation coupled with type I/II photosensitization. NADPH depletion deprives the reductive coenzyme of thioredoxin reductase in the thioredoxin axis, while glutathione oxidation collapses the central antioxidant axis. Consequently, IITC ablates both antioxidant axes concurrently and exerts potent phototherapeutic anticancer activity in vitro and in vivo. Importantly, during phototherapy IITC undergoes self-immolation into nontoxic degraded fragments, thereby avoiding phototoxicity post-treatment. This self-eliminating, metabolism-targeted photocatalytic strategy establishes a new avenue for safe and efficient cancer phototherapy.",
+      "journal": "Angewandte Chemie (International ed. in English)",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43022027",
+      "doi": "10.1016/j.adro.2026.102202",
+      "title": "Reirradiation for Recurrent Craniopharyngioma-Long-Term Follow-up.",
+      "abstract": "To report long-term tumor control, toxicity, and functional outcomes after a second course of fractionated radiation therapy for recurrent craniopharyngioma previously treated with radiation therapy. We identified all patients with craniopharyngioma with recurrent or progressive disease, unsuitable for further medical management or re-resection, who underwent 2 courses of fractionated photon radiation therapy at a single institution between 1998 and 2024. Reirradiation was delivered to 54 Gy in 30 fractions with full overlap of the initial target; dose constraints to optic nerves, chiasm, and brainstem were Dmax/D0.03cc (Maximum Dose or Dose to 0.03 cubic centimetres) \u226454 Gy. Outcomes were summarized descriptively. Six patients received reirradiation a mean of 9.8 years (range, 5.6-20.5) after initial radiation therapy (50-54 Gy in 25-30 fractions). Median follow-up after reirradiation was 4.1 years (range, 0.4-8.8). At the last follow-up, 4 patients were alive, all with local disease control (2 with radiological regression, 2 with stable disease). Two deaths occurred (1 due to progressive disease and 1 due to functional decline with stable imaging). Visual outcomes were heterogeneous: 1 patient maintained intact vision; others had intermittent diplopia, bitemporal hemianopsia, or unilateral blindness with contralateral impairment. Endocrinopathy was frequent: 3 of 4 survivors had pan-hypopituitarism; 1 had partial deficits (hypothyroidism/amenorrhea). Functional status was impaired in survivors, with the inability to work or study due to fatigue, visual loss, or cognitive issues. Additional toxicities included posttreatment seizures requiring hospitalization (n\u202f=\u202f1) and transient dexamethasone for headache (n\u202f=\u202f1). In carefully selected patients lacking other curative options, modern highly conformal reirradiation can achieve meaningful local control after prior high-dose radiation therapy, but carries an additive risk of visual, endocrine, and functional morbidity. Decisions should be individualized within a multidisciplinary team to identify appropriate cases for reirradiation and to ensure thorough long-term follow-up to manage delayed toxicity.",
+      "journal": "Advances in radiation oncology",
+      "year": "2027",
+      "publication_types": [
+        "Journal Article"
       ]
     }
   ]
