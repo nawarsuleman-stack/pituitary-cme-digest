@@ -225,9 +225,12 @@
     "43024123",
     "43024765",
     "43024870",
+    "43025737",
     "43025976",
+    "43028316",
     "43028345",
-    "43033903"
+    "43033903",
+    "43036565"
   ],
   "sessions": [
     {
@@ -3492,6 +3495,49 @@
           "quiz_question": "You are following a 52-year-old woman with panhypopituitarism on hydrocortisone, fludrocortisone, levothyroxine, testosterone, and two psychotropic medications. She reports occasional missed doses. Based on this study's multivariate findings, which patient characteristics place her at highest risk for nonadherence, and what intervention directions do the authors suggest?",
           "quiz_answer": "Female sex, polypharmacy (number of medications independently predicted nonadherence per additional drug), and concurrent psychotropic medication use were independently associated with nonadherence on multivariate analysis. The authors suggest patient-centered education, regimen simplification where feasible, and targeted counseling strategies \u2014 particularly for patients with these identifiable risk factors \u2014 to reduce the risk of adrenal crisis from missed glucocorticoid doses.",
           "journal": "Archives of endocrinology and metabolism",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-08-05",
+      "items": [
+        {
+          "pmid": "43025737",
+          "doi": "10.1016/j.athoracsur.2026.10.039",
+          "title": "Fight or Flight: A Multidisciplinary Approach to Diagnosis and Management of Mediastinal Paragangliomas.",
+          "category": "notable",
+          "summary": "This single-center retrospective cohort of 19 patients with mediastinal paraganglioma highlights several clinically important patterns: 84% were referred from outside centers, nearly half underwent biopsy before referral\u2014with 15.8% experiencing catecholamine crisis, pneumothorax, or hemorrhage as a direct consequence. SDH mutations were identified in 63.6% of tested patients, 68% had functional tumors, and vascular involvement was present in nearly 90%; cardiopulmonary bypass was required in 63% with zero 30-day mortality, underscoring the need for expert center management. Local recurrence occurred in 4 patients, all with positive margins or multifocal disease, reinforcing the primacy of complete resection.",
+          "caveat": "Single-center retrospective cohort of only 19 patients at a quaternary referral center; selection bias toward complex cases is likely, limiting generalizability to community practice.",
+          "quiz_question": "A 44-year-old woman is referred after biopsy of a mediastinal mass at an outside center; she developed a hypertensive crisis during the procedure. Biochemical workup confirms elevated plasma metanephrines. What critical management error occurred, and what should have been done first?",
+          "quiz_answer": "Biopsy of a suspected paraganglioma without prior functional biochemical evaluation and alpha-blockade is dangerous and can precipitate catecholamine crisis. Per the findings in this series, biopsy before referral to an expert center caused serious complications in 15.8% of patients. The correct approach is to perform functional staging (biochemical testing for catecholamine excess) before any invasive tissue sampling, and to establish alpha-blockade if functionally active disease is confirmed.",
+          "journal": "The Annals of thoracic surgery",
+          "year": "2026"
+        },
+        {
+          "pmid": "43036565",
+          "doi": "10.1155/anrp/8487117",
+          "title": "Postoperative Delirium After Pheochromocytoma Resection: An Exploratory Retrospective Single-Center Cohort Study.",
+          "category": "preliminary",
+          "summary": "In this retrospective cohort of 30 patients undergoing adrenalectomy for pheochromocytoma, probable postoperative delirium (POD) occurred in 33.3%\u2014a strikingly high rate compared to general surgical populations. In unadjusted analyses, POD was associated with open laparotomy, older age, larger tumor size, higher ASA classification, and deeper postresection diastolic hypotension, and was accompanied by significantly longer ICU stays. These findings suggest that postresection hemodynamic instability may be a modifiable driver of acute neurocognitive injury in this population.",
+          "caveat": "Extremely small sample (n=30), single-center, retrospective design with no multivariate adjustment; POD was identified by chart review rather than prospective validated screening. Results are hypothesis-generating only and should not change practice without confirmatory prospective data.",
+          "quiz_question": "You are planning adrenalectomy for a 58-year-old patient with a large pheochromocytoma. Beyond standard cardiovascular preparation, what postoperative risk\u2014highlighted by this study\u2014should prompt you to consider minimally invasive approach and targeted hemodynamic monitoring protocols?",
+          "quiz_answer": "Postoperative delirium occurred in one-third of patients in this series and was significantly associated with open laparotomy and postresection diastolic hypotension. Preferring a minimally invasive (laparoscopic/robotic) approach when feasible and implementing vigilant postresection hemodynamic support to avoid diastolic hypotension may reduce POD risk, though prospective validation is needed.",
+          "journal": "Anesthesiology research and practice",
+          "year": "2026"
+        },
+        {
+          "pmid": "43028316",
+          "doi": "10.3390/diagnostics16213443",
+          "title": "Clinical Presentation and Targeted Genetic Evaluation of Familial Isolated Pituitary Adenomas: A Single-Center Case Series.",
+          "category": "notable",
+          "summary": "This single-center retrospective series identified 7 FIPA families (20 affected individuals) among 1,068 patients with pituitary neuroendocrine tumors (0.66%), with somatotroph tumors predominating in index cases but nonfunctioning PitNETs being more common in affected relatives\u2014a clinically important phenotypic discordance within families. Notably, targeted Sanger sequencing and MLPA for AIP, MEN1, and CDKN1B identified no pathogenic or likely pathogenic variants in any family, reinforcing the substantial proportion of FIPA that remains genetically unexplained with standard targeted panels. These findings argue for expanded genomic approaches (e.g., broader panel or whole-exome sequencing) in FIPA families without an identified mutation.",
+          "caveat": "Very small series (n=7 families) from a single tertiary center with potential referral bias; only targeted gene testing was performed, so broader panel or whole-genome approaches may have yielded additional findings. The 0.66% prevalence figure reflects referral center case-finding, not population prevalence.",
+          "quiz_question": "A 32-year-old man with acromegaly due to a pituitary macroadenoma reports that his father had a nonfunctioning pituitary adenoma resected at age 55. No MEN1 features are present clinically. Targeted Sanger sequencing of AIP and MEN1 returns negative. How should you counsel this patient regarding the genetic workup?",
+          "quiz_answer": "This family meets FIPA criteria. As illustrated by this series, the majority of FIPA families have no pathogenic variant identified on standard targeted testing of AIP, MEN1, and CDKN1B. The patient should be counseled that a negative targeted panel does not exclude a heritable predisposition, and referral for broader genomic evaluation (expanded panel or research-based sequencing) is appropriate. First-degree relatives should still be surveilled clinically given the established familial clustering.",
+          "journal": "Diagnostics (Basel, Switzerland)",
           "year": "2026"
         }
       ],
