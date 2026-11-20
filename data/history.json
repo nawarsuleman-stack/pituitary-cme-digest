@@ -237,9 +237,12 @@
     "43043502",
     "43046039",
     "43047711",
+    "43050034",
     "43051712",
     "43053005",
-    "43054743"
+    "43054743",
+    "43056364",
+    "43061069"
   ],
   "sessions": [
     {
@@ -3676,6 +3679,49 @@
           "quiz_question": "A 58-year-old woman is found to have a 4.2 cm unenhanced CT attenuation of 22 HU adrenal mass discovered incidentally during abdominal imaging for a GI complaint. She is otherwise well and normotensive. Per these updated 2026 guidelines, what are the two essential initial workup steps?",
           "quiz_answer": "Per the CCAFU 2026 guideline, all adrenal incidentalomas require (1) full biochemical/hormonal assessment to evaluate for subclinical hormone secretion (including screening for MACS, pheochromocytoma, and primary aldosteronism if hypertensive), and (2) morphological characterization (CT attenuation, washout characteristics, size) to assess malignancy risk \u2014 with subsequent management (surveillance vs. surgery) guided by the integrated findings of this initial assessment.",
           "journal": "The French journal of urology",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-16",
+      "items": [
+        {
+          "pmid": "43056364",
+          "doi": "10.1371/journal.pone.0363328",
+          "title": "Long-term complication profiles following transsphenoidal and transcranial resection of adult craniopharyngioma: A retrospective cohort study.",
+          "category": "notable",
+          "summary": "In this large multi-institutional propensity-score-matched cohort (1,199 pairs), transsphenoidal resection (TSR) of adult craniopharyngioma was associated with lower 1-year mortality, less hydrocephalus, lower blindness rates, and less diabetes insipidus at 10 years compared to transcranial resection (TCR), but carried persistently higher rates of CSF leak and\u2014critically\u2014greater hypopituitarism and composite endocrine morbidity at all time points out to 15 years. These divergent profiles were concordant across the 5- and 15-year analyses, providing the longest population-level comparison published to date. The findings reinforce that TSR's visual and neurological advantages come with a real, durable endocrine cost that should be explicitly incorporated into preoperative counseling and lifelong surveillance planning.",
+          "caveat": "Retrospective TriNetX network study; approach selection was not randomized and propensity matching cannot fully account for tumor size, histological subtype (adamantinomatous vs. papillary), or surgeon experience. Hypopituitarism ascertainment relied on diagnostic codes, which may be inconsistently applied across institutions.",
+          "quiz_question": "A 42-year-old woman undergoes transsphenoidal resection of a craniopharyngioma. At her 1-year follow-up she has no visual deficits and no diabetes insipidus. At 10 years, compared to a matched patient who had transcranial resection, what endocrine outcome is she at higher risk for, and what endocrine outcome is she at lower risk for?",
+          "quiz_answer": "She is at higher risk for hypopituitarism (HR ~1.24 at 10 years) and higher composite endocrine morbidity after TSR, but at lower risk for diabetes insipidus (HR ~0.69) compared to the transcranial resection cohort\u2014an important counterintuitive finding given TSR's generally favorable neurological profile.",
+          "journal": "PloS one",
+          "year": "2026"
+        },
+        {
+          "pmid": "43061069",
+          "doi": "10.3389/fendo.2026.1964012",
+          "title": "Quality of life burden in Cushing's syndrome: baseline results from the PROMPT study.",
+          "category": "notable",
+          "summary": "In 49 adults with confirmed endogenous Cushing's syndrome enrolled in the PROMPT metyrapone study, mean CushingQoL scores were markedly impaired (41.2/100), with physical burden exceeding psychosocial burden. Notably, QoL impairment was profound and largely independent of biochemical severity\u2014patients with moderate vs. severe UFC elevations showed no meaningful difference in overall scores\u2014suggesting that biochemical thresholds alone are poor proxies for patient-experienced disease burden. Women reported clinically meaningful worse psychosocial outcomes than men (12-point difference on CushingQoL psychosocial subscale) despite similar degrees of hypercortisolism, underscoring the need for sex-stratified QoL assessment in clinical practice.",
+          "caveat": "Cross-sectional baseline analysis of only 49 patients, predominantly female (69%); causal inference about sex differences is not possible. The PROMPT study itself investigated metyrapone, so this population may not be fully representative of the broader Cushing's spectrum (e.g., post-surgical patients or those on other therapies).",
+          "quiz_question": "You are counseling a 35-year-old woman with active Cushing's disease whose 24-hour UFC is moderately elevated (3\u00d7 ULN). She asks whether her quality of life will be substantially better than a patient whose UFC is severely elevated (10\u00d7 ULN). Based on the PROMPT study baseline data, how should you respond?",
+          "quiz_answer": "You should explain that QoL impairment in active Cushing's syndrome is profound regardless of UFC severity\u2014the PROMPT study found no meaningful difference in overall CushingQoL or CD-25 scores between patients with moderate vs. severe biochemical hypercortisolism, meaning the degree of UFC elevation is a poor predictor of her subjective disease burden.",
+          "journal": "Frontiers in endocrinology",
+          "year": "2026"
+        },
+        {
+          "pmid": "43050034",
+          "doi": "10.1007/s11102-026-01794-3",
+          "title": "A patient-clinician call for global harmonization of access to second-line medical therapies for acromegaly in the era of personalized medicine.",
+          "category": "notable",
+          "summary": "This narrative review highlights a regulatory disparity between the EU/UK and the US for pegvisomant and pasireotide LAR in acromegaly: European and UK labeling requires documented inadequate control on first-generation somatostatin receptor ligands (fgSRLs) before access, whereas US labeling does not carry this restriction. The authors argue that validated predictive biomarkers\u2014including granulation pattern, SSTR2 expression, and emerging functional/pathological markers\u2014now support earlier individualized therapy selection rather than a mandated trial-and-error approach with fgSRLs, and that label harmonization would reduce inequitable access. The piece integrates current consensus guideline recommendations alongside a patient perspective, calling for regulatory reconsideration particularly for patients with identifiable low-probability-of-fgSRL-response features.",
+          "caveat": "This is a narrative review with an explicitly advocacy-oriented framing (patient-clinician co-authorship); it is not a systematic review or clinical trial. The authors acknowledge that response predictors for fgSRLs vary in accuracy, and predictors for pasireotide LAR specifically remain unconfirmed. Industry relationships of authors are not disclosed in the abstract.",
+          "quiz_question": "A newly diagnosed acromegaly patient has a densely granulated somatotroph macroadenoma with high SSTR2 expression on immunohistochemistry. Under current EU regulatory labeling, what is required before prescribing pegvisomant, and how does this differ from US practice?",
+          "quiz_answer": "Under EU/UK labeling, pegvisomant requires documented inadequate control (or intolerance) on prior somatostatin analogue therapy, so this patient would need a fgSRL trial first regardless of predicted response. In the US, no such mandatory prior fgSRL failure is required by the label\u2014though notably, this patient's high SSTR2 expression would actually predict a favorable fgSRL response, making a fgSRL trial clinically reasonable in either jurisdiction.",
+          "journal": "Pituitary",
           "year": "2026"
         }
       ],
