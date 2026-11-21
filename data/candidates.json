@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-11-20",
+  "fetched_at": "2026-11-21",
   "date_window": {
-    "from": "2016/11/22",
-    "to": "2026/11/20"
+    "from": "2016/11/23",
+    "to": "2026/11/21"
   },
   "already_covered_pmids": [
     "41730814",
@@ -242,21 +242,46 @@
     "43043502",
     "43046039",
     "43047711",
+    "43050034",
     "43051712",
     "43053005",
-    "43054743"
+    "43054743",
+    "43056364",
+    "43061069"
   ],
   "candidates": [
     {
-      "pmid": "43039606",
-      "doi": "10.1016/j.nec.2026.09.003",
-      "title": "Role of Endocrine Testing and Preoperative Hormonal Assessment.",
-      "abstract": "This article outlines a structured approach to managing patients with pituitary masses across preoperative, perioperative, and postoperative phases. It emphasizes accurate baseline hormonal assessment, appropriate correction of deficiencies before surgery, and individualized treatment strategies based on tumor type. Early postoperative care focuses on targeted hormonal monitoring to promptly identify adrenal insufficiency and arginine vasopressin deficiency, allowing timely intervention. Long-term management involves periodic reassessment of pituitary function, adjustment of hormone therapy, and ongoing surveillance for recurrence or complications, especially in hormonally active tumors.",
-      "journal": "Neurosurgery clinics of North America",
-      "year": "2027",
+      "pmid": "43041228",
+      "doi": "10.7759/cureus.118039",
+      "title": "Pediatric Pituitary Neuroendocrine Tumor With Extensive Necrosis: A Case Report.",
+      "abstract": "We describe an unusual presentation of a pediatric pituitary neuroendocrine tumor (PitNET). A 17-year-old previously healthy male presented to the emergency department with altered mental status, lethargy, nausea, vomiting, fever, and tachycardia. Head imaging incidentally demonstrated a large expansile sellar/suprasellar cystic and solid mass displacing the optic chiasm, invading bilaterally into the cavernous sinuses, and encasing the internal carotid arteries. He developed decreased vision of the left eye on hospital day two and underwent urgent endoscopic endonasal transsphenoidal resection of the mass. Pathology demonstrated a PitNET with extensive necrosis, lactotroph differentiation, and changes suggestive of superimposed tumoral infection. His postoperative course was complicated by panhypopituitarism, chronic diabetes insipidus, and a cerebrospinal fluid leak managed with lumbar drainage. His presenting symptoms resolved completely, with no tumor recurrence at two-month follow-up. The initial clinical manifestation in this case was suggestive of adrenal crisis secondary to pituitary hypofunction and secondary adrenal insufficiency, attributed to significant tumor compression and pituitary necrosis, and surgical decompression was performed for new visual loss.",
+      "journal": "Cureus",
+      "year": "2026",
       "publication_types": [
-        "Journal Article",
-        "Review"
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43037754",
+      "doi": "10.1007/s11060-026-05879-8",
+      "title": "Acute diencephalic syndrome after transventricular resection of giant pituitary adenomas with third ventricular extension: clinical course and association with extent of resection.",
+      "abstract": "To describe acute diencephalic syndrome (ADS) after superior transventricular surgery for giant pituitary adenomas with true third-ventricular extension, and to explore the association of ADS with extent of resection in a selected cohort. We retrospectively analyzed 40 adults operated on in 2015-2025 (23 total, 17 subtotal resections; 22 anterior transcallosal and 18 transcortical transventricular approaches). Postoperative AVP-D was distinguished from multidomain ADS, graded retrospectively according to the previously published four-stage framework. Final-stage agreement was reassessed independently in all 40 patients. Postoperative AVP-D occurred in all 40 patients; four had isolated AVP-D without ADS. ADS occurred in 36/40 (90.0%): 23/23 after total and 13/17 after subtotal resection (risk difference 23.5 percentage points; 95% Newcombe CI 3.5-47.3; two-sided Fisher exact p\u2009=\u20090.026). Stage III-IV ADS occurred in 9/23 versus 3/17 (p\u2009=\u20090.179). Independent final-stage agreement was 36/40 (90.0%; linear-weighted \u03ba\u2009=\u20090.926). Five patients required mechanical ventilation, and two died. ADS was frequent in this anatomically selected transventricular cohort, but the operational definition is not specific for hypothalamic injury and the observational comparison is vulnerable to confounding by indication. The observed lower ADS frequency after subtotal resection is hypothesis-generating. Prospective multicenter validation is necessary.",
+      "journal": "Journal of neuro-oncology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43043775",
+      "doi": "10.4103/aam.aam_1233_26",
+      "title": "Pituitary Stalk Interruption Syndrome Presenting as Primary Amenorrhea: Magnetic Resonance Imaging Demonstration of the Characteristic Diagnostic Triad.",
+      "abstract": "Pituitary stalk interruption syndrome (PSIS) is a rare congenital pituitary malformation characterized by the triad of anterior pituitary hypoplasia, an absent or interrupted pituitary stalk, and an ectopic posterior pituitary. We report the case of a 21-year-old woman who presented with primary amenorrhea and poorly developed secondary sexual characteristics. Hormonal evaluation revealed central hypothyroidism, markedly reduced morning serum cortisol, and suppressed gonadotropin levels, indicating hypopituitarism with hypogonadotropic hypogonadism. Pelvic ultrasonography demonstrated a markedly hypoplastic uterus and bilaterally small ovaries. Magnetic resonance imaging of the sellar region revealed a hypoplastic anterior pituitary gland, nonvisualization of the pituitary stalk, and an ectopic posterior pituitary bright spot at the median eminence beneath the optic chiasm. These characteristic imaging findings established the diagnosis of PSIS. This case highlights the importance of considering PSIS in women presenting with primary amenorrhea and delayed pubertal development. Recognition of the characteristic magnetic resonance imaging triad facilitates timely endocrine evaluation, hormone replacement therapy, and long-term follow-up. R\u00e9sum\u00e9Le syndrome d\u2019interruption de la tige pituitaire (SITP) est une malformation cong\u00e9nitale rare de l\u2019hypophyse, caract\u00e9ris\u00e9e par une triade associant une hypoplasie de l\u2019ant\u00e9hypophyse, une absence ou une interruption de la tige pituitaire et une neurohypophyse ectopique. Nous rapportons le cas d\u2019une femme de 21 ans consultant pour une am\u00e9norrh\u00e9e primaire et un d\u00e9veloppement insuffisant des caract\u00e8res sexuels secondaires. Le bilan hormonal a r\u00e9v\u00e9l\u00e9 une hypothyro\u00efdie centrale, une diminution marqu\u00e9e du cortisol s\u00e9rique matinal et une suppression des taux de gonadotrophines, en faveur d\u2019un hypopituitarisme associ\u00e9 \u00e0 un hypogonadisme hypogonadotrope. L\u2019\u00e9chographie pelvienne a montr\u00e9 un ut\u00e9rus tr\u00e8s hypoplasique et des ovaires bilat\u00e9ralement de petite taille. L\u2019imagerie par r\u00e9sonance magn\u00e9tique (IRM) de la r\u00e9gion sellaire a mis en \u00e9vidence une hypoplasie de l\u2019ant\u00e9hypophyse, une absence de visualisation de la tige pituitaire et un hypersignal spontan\u00e9 T1 ectopique de la neurohypophyse au niveau de l\u2019\u00e9minence m\u00e9diane, sous le chiasma optique. Ces signes radiologiques caract\u00e9ristiques ont permis d\u2019\u00e9tablir le diagnostic de SITP. Ce cas souligne l\u2019importance d\u2019\u00e9voquer le SITP chez les femmes pr\u00e9sentant une am\u00e9norrh\u00e9e primaire et un retard du d\u00e9veloppement pubertaire. La reconnaissance de la triade caract\u00e9ristique \u00e0 l\u2019IRM permet une \u00e9valuation endocrinienne pr\u00e9coce, l\u2019instauration d\u2019un traitement hormonal substitutif et un suivi \u00e0 long terme.",
+      "journal": "Annals of African medicine",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
       ]
     },
     {
@@ -272,15 +297,271 @@
       ]
     },
     {
-      "pmid": "43062432",
-      "doi": "10.15586/aei.v54i6.1735",
-      "title": "Rapid oral desensitization to semaglutide following anaphylaxis with positive intradermal testing.",
-      "abstract": ": Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are widely used for the treatment of type 2 diabetes mellitus (T2DM) and obesity due to their glycemic and metabolic benefits. Although hypersensitivity reactions have been described, anaphylaxis to oral semaglutide remains rare. To date, no standardized desensitization protocol for oral semaglutide has been established. : A 60-year-old woman developed immediate anaphylaxis within minutes of ingesting oral semaglutide (3 mg/day). Symptoms included generalized urticaria, facial angioedema, laryngospasm, and dyspnea, requiring intramuscular epinephrine. Serum tryptase was not obtained due to resource limitations. Skin testing was performed using concentrations previously reported as nonirritating.3 Intradermal testing was positive at 1:10 dilution, supporting an IgE-mediated mechanism. Due to significant metabolic benefit and lack of effective alternatives, a rapid 13-step oral desensitization protocol was performed with premedication. The patient has remained asymptomatic under continuous daily therapy since September 2025. : Rapid oral desensitization may allow safe continuation of semaglutide in selected patients with confirmed immediate hypersensitivity when no suitable alternatives exist.",
-      "journal": "Allergologia et immunopathologia",
+      "pmid": "43047456",
+      "doi": "10.3389/fsurg.2026.1986503",
+      "title": "Papillary craniopharyngioma mistaken for recurrent Rathke's cleft cyst: a case report of a seven-year diagnostic pitfall involving BRAF V600E testing.",
+      "abstract": "Rathke's cleft cysts (RCC) and craniopharyngiomas are clinically, radiologically and histopathologically similar lesions that are difficult to distinguish and require different surgical treatments. Many authors support the hypothesis that these represent two spectra of the same pathology. We present the case of a 53-year-old man who, because of general malaise, was examined by an endocrinologist and found to have partial hypopituitarism and indirect hyperprolactinemia. Consequently, he underwent a head MRI, which revealed an intra-suprasellar cystic lesion. Surgical fenestration of the cyst was performed, and tissue samples were collected for histopathological examination, which confirmed a diagnosis of RCC. Over the years, follow-up imaging revealed a recurrent, enlarging cyst; therefore, the patient underwent reoperation 7.5 years later. This time, histology revealed a papillary craniopharyngioma (PC). Re-examination of the specimen from the first surgery also confirmed presence of PC on the same specimen section as RCC, with the initial false-negative result attributed to suboptimal staining. Apparent progression from RCC to craniopharyngioma should prompt re-examination of the original pathology before it is interpreted as true transformation. In our patient, conservative fenestration was followed by recovery of corticotroph function that lasted seven years, whereas subsequent radical surgery resulted in new corticotroph and thyrotroph deficiency without complete resection, highlighting the need for caution with early aggressive surgery in cystic sellar lesions of uncertain histology.",
+      "journal": "Frontiers in surgery",
       "year": "2026",
       "publication_types": [
         "Case Reports",
         "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43054719",
+      "doi": "10.7759/cureus.118148",
+      "title": "Pituicytoma Presenting With Hypogonadotropic Hypogonadism in a Highly Vascular Sellar and Suprasellar Mass: A Case Report.",
+      "abstract": "Pituicytoma is a rare low-grade tumor arising from the pituicyte lineage of the posterior pituitary and infundibular region. Because its clinical and magnetic resonance imaging (MRI) features overlap with those of more common sellar tumors and because it is often highly vascular, preoperative diagnosis and surgical management can be challenging. We presented a 45-year-old man who presented with four years of fatigue, reduced libido, erectile dysfunction, and intermittent frontal headache. Early-morning biochemical testing showed low total testosterone (8.9 nmol/L), with inappropriately normal luteinizing hormone (LH) and follicle-stimulating hormone (FSH), consistent with secondary hypogonadism. Pituitary magnetic resonance imaging showed a 25 \u00d7 28 \u00d7 27 mm sellar and suprasellar mass with cavernous sinus extension and superior displacement of the optic chiasm; radiologically, the lesion was initially interpreted\u00a0as a pituitary macroadenoma. Because of concern regarding vascularity, computed tomography (CT) cerebral angiography was performed and demonstrated a hypertrophied right meningo-hypophyseal trunk supplying the tumor. Due to the anticipated risk of major intraoperative hemorrhage, partial surgical debulking was performed. Histopathology and immunohistochemistry supported the diagnosis of pituicytoma. Testosterone replacement increased serum testosterone. Six weeks after surgery, the patient developed secondary adrenal insufficiency and was commenced on hydrocortisone replacement. Radiotherapy was planned for the substantial residual tumor. This case highlights the importance of considering pituicytoma in the differential diagnosis of an enhancing sellar or suprasellar mass with pituitary dysfunction, particularly when marked vascularity is suspected. Preoperative vascular assessment and multidisciplinary management are important when complete resection may carry substantial hemorrhagic risk.",
+      "journal": "Cureus",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43026405",
+      "doi": "10.1007/s11102-026-01785-4",
+      "title": "Trigeminal autonomic cephalgia due to pituitary adenomas: scoping review of the literature.",
+      "abstract": "Trigeminal autonomic cephalalgias (TAC) are a debilitating subtype of headaches and have been associated with pituitary adenomas. Treatment of associated pituitary adenomas has been reported to result in resolution of the secondary TACs, although this association is poorly understood. We conducted a scoping review of the literature in accordance with PRISMA guidelines using Medline, Embase, Scopus, and Web of Science databases. We identified all relevant cases to detail the epidemiology, clinical phenotype of TACs, characteristics of the associated pituitary lesion including its hormonal profile, type of clinical intervention, and outcomes. 57 cases were included in the final review. Most patients had secreting adenomas (91%). Short-lasting Unilateral Neuralgiform headache attacks with Conjunctival injection and Tearing (SUNCT) and Probable SUNCT were the most common TAC phenotype diagnosed (47%), followed closely by cluster headaches/ and cluster-like headaches (46%). Medical intervention was attempted in every patient with an average of 4.8 trials of medications attempted before headache relief. 98% of patients had either complete resolution or improvement of headaches associated with treatment (medical or surgical). 26 patients underwent surgery, of which 18 (69%) had either improvement or complete resolution of headaches. Patients with TACs secondary to pituitary adenomas are likely to be diagnosed with SUNCT, have associated secreting adenomas, and to underwent multiple trials of medications before reaching headache relief. In the included cases, TACs secondary to prolactinomas had improvement associated with medical management with dopamine agonist therapy. Surgical resection of pituitary adenomas in patients with medically refractory TACs and growth-secreting adenomas was also associated with significant improvement in headache severity. Further work is required to understand the exact pathophysiological mechanism for this rare disease in order to better treat this rare condition moving forward.",
+      "journal": "Pituitary",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Scoping Review",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "43042746",
+      "doi": "10.5546/aap.2026-11060.eng",
+      "title": "Septo-optic dysplasia and congenital panhypopituitarism associated with complicated gastroschisis.",
+      "abstract": "Gastroschisis is a rare defect of the abdominal wall, rarely associated with other malformations. Septo-optic dysplasia (SOD) is a midline abnormality characterized by hypothalamic-pituitary dysfunction and cerebral parenchymal abnormalities, both of unknown causes. I present the case of a preterm newborn with a weight appropriate for her gestational age and a prenatal diagnosis of gastroschisis. Surgical repair was performed 8 hours after birth. Subsequently, she developed fluid and electrolyte imbalances and polyuria; central diabetes insipidus was diagnosed based on a positive desmopressin test. A brain MRI was performed, showing findings consistent with SOD, and hormonal studies confirmed congenital panhypopituitarism. Hormone replacement therapy was initiated, and the patient's clinical course has been favorable. SOD and congenital panhypopituitarism are difficult to diagnose due to their variable and nonspecific presentation. Hypoglycemia is the predominant finding in newborns. Early detection allows for treatment and prevents irreversible complications. La gastrosquisis es un defecto infrecuente de la pared abdominal, rara vez asociado a otras malformaciones. La displasia septo-\u00f3ptica (DSO) es una alteraci\u00f3n de la l\u00ednea media con disfunci\u00f3n hipot\u00e1lamo-hipofisaria y anomal\u00edas del par\u00e9nquima cerebral, ambas de causa desconocida. Se presenta el caso de una reci\u00e9n nacida pret\u00e9rmino, con peso adecuado para la edad gestacional y diagn\u00f3stico prenatal de gastrosquisis. El cierre quir\u00fargico se realiz\u00f3 a las 8 horas de vida. Posteriormente, present\u00f3 alteraciones hidroelectrol\u00edticas y poliuria; se diagnostic\u00f3 diabetes ins\u00edpida central mediante prueba de desmopresina positiva. Se efectu\u00f3 resonancia magn\u00e9tica cerebral compatible con DSO y estudios hormonales que confirmaron panhipopituitarismo cong\u00e9nito. Se inici\u00f3 tratamiento de reemplazo hormonal con buena evoluci\u00f3n cl\u00ednica. La DSO y el panhipopituitarismo cong\u00e9nito son de diagn\u00f3stico complejo por su presentaci\u00f3n variable e inespec\u00edfica. En neonatos predominan las hipoglucemias. El reconocimiento temprano permite su tratamiento y previene secuelas irreversibles.",
+      "journal": "Archivos argentinos de pediatria",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43037703",
+      "doi": "10.1007/s10143-026-04566-6",
+      "title": "Deep learning MGMT promoter methylation status prediction in IDH-wildtype glioblastoma using multiparametric MRI: Benchmark vs. real\u2011world performance.",
+      "abstract": "Preoperative determination of O6-methylguanine-DNA methyltransferase (MGMT) promoter methylation status is of major prognostic and predictive relevance in IDH-wildtype glioblastoma, yet currently depends on invasive tissue sampling. This study investigates deep learning-based strategies for MGMT prediction from multiparametric MRIs, with particular emphasis on robustness and generalizability under heterogeneous, multicenter conditions. A total of 949 glioblastoma cases were analyzed, integrating public benchmark data from the Brain Tumor Segmentation Challenge (BraTS) with multi-institutional private cohorts acquired across diverse scanners and imaging protocols. Four complementary experimental settings were designed to compare reproduced literature baselines, private-only training, whole-brain end-to-end models, and segmentation-guided region-of-interest (ROI) pipelines. Tumor delineation was performed using an nnU-Net framework with expert quality control, and multiple three-dimensional convolutional neural network architectures were evaluated. Model performance was highest on the homogeneous BraTS benchmark, where a whole-brain DenseNet121 achieved an area under the receiver operating characteristic curve of 0.80. However, marked performance deterioration was observed when models were evaluated on independent held-out multicenter test set. In contrast, segmentation-guided ROI-based approaches showed a more stable performance profile in this preliminary independent held-out multicenter test. Explicit lesion localization was associated with reduction in false-positive classifications, suggesting a potential benefit for performance stability across heterogeneous datasets, although validation in external cohorts from institutions not represented during training is required. Collectively, these results demonstrate that upstream methodological choices, especially tumor segmentation and ROI definition, remain critical determinants of performance in MRI-based radiogenomic modeling. Future studies should emphasize prospective multicenter validation, domain-shift harmonization, multimodal data integration, and uncertainty-aware deep learning to enhance robustness and interpretability.",
+      "journal": "Neurosurgical review",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43045240",
+      "doi": "10.1016/j.cger.2026.08.013",
+      "title": "Endocrine Disorders in Older Adults: Adrenal Disorders.",
+      "abstract": "Aging leads to structural and functional changes in the adrenal glands, including cortical remodeling, zonal redistribution, and reduced androgen production. These changes are accompanied by dysregulation of the hypothalamic-pituitary-adrenal axis, altered cortisol patterns, and decline in aldosterone and catecholamine activity, contributing to reduced physiologic reserve. Adrenal disorders such as adrenal insufficiency, hypercortisolism, primary aldosteronism, and incidentalomas become more prevalent with age, often presenting atypically and complicated by comorbidities and polypharmacy, which contribute to diagnostic challenges. Management requires an individualized approach that considers comorbidities, frailty, and treatment-related risks to optimize clinical outcomes.",
+      "journal": "Clinics in geriatric medicine",
+      "year": "2027",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "43051899",
+      "doi": "10.2169/internalmedicine.8222-26",
+      "title": "Autoantibodies in Immune Checkpoint Inhibitor-Related Endocrinopathies.",
+      "abstract": "Immune checkpoint inhibitors (ICIs) have been established as a standard treatment for many types of cancer; however, they present a clinical challenge due to unique side effects known as immune-related adverse events (irAEs). Endocrine irAEs include the more frequently reported thyroid and pituitary dysfunctions, as well as less frequent, but potentially severe conditions, such as ICI-related type 1 diabetes and primary adrenal insufficiency. These can lead to life-threatening complications, thus requiring careful management. Their pathogenesis is thought to be an autoimmune response. Recent reports have identified various autoantibodies in patients with endocrine irAEs, drawing attention to their clinical significance. This review describes the clinical features and presumed pathogenic mechanisms of endocrine irAEs. Furthermore, it comprehensively summarizes the autoantibodies reported for each endocrine irAE and discusses their significance based on the latest findings, focusing on their utility as predictive biomarkers for irAE onset, their diagnostic value, and their potential involvement in the pathogenesis.",
+      "journal": "Internal medicine (Tokyo, Japan)",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43054202",
+      "doi": "10.3389/fimmu.2026.1860159",
+      "title": "Identification and monitoring of immune-related adverse reactions of PD-1/PD-L1 inhibitors based on symptom network analysis.",
+      "abstract": "PD-1/PD-L1 inhibitors have become first-line cancer therapies by disrupting immune checkpoint downregulation, thereby potentiating antitumor immunity. However, this enhanced immune activation may also target normal tissues, triggering multisystemic immune-related adverse events (irAE) that complicate clinical management. Conventional pharmacovigilance analyses typically assess individual adverse events in isolation, limiting the ability to capture inter-symptom relationships. Symptom network analysis, an emerging computational approach, constructs co-occurrence networks to identify core symptoms, key associations, and bridge nodes across organ systems, thus enabling a systematic understanding of complex suspected irAE profiles. Adverse event records for six PD-1/PD-L1 inhibitors were extracted from two spontaneous reporting databases: FAERS (Q1 2005-Q3 2024) and JADER (Q1 2004-Q1 2025). Potential signals were screened using reporting odds ratio(ROR), proportional reporting ratio(PRR), and multivariate gamma-Poisson shrinkage (MGPS) methods. Symptom co-occurrence networks were subsequently constructed using EBIC-GLASSO based on Tetrachoric correlation matrices, which are specifically designed for binary adverse event data and correct for attenuation due to dichotomization. Four centrality metrics-Strength, Closeness, Betweenness, and Expected Influence-were calculated via the qgraph package. The bootnet package performed 1,000 bootstrap iterations to evaluate 95% confidence intervals for edge weights and centrality stability coefficients. In FAERS, nivolumab (48,330) and pembrolizumab (37,224) generated the highest report volumes. PD-1 inhibitor networks consistently centered on a systemic-gastrointestinal symptom cluster comprising decreased appetite, fatigue, diarrhea, and nausea, whereas PD-L1 inhibitor networks additionally featured prominent hematologic abnormalities. In JADER, interstitial lung disease and adrenal insufficiency emerged as central nodes, reflecting cross-database differences in reporting patterns and physician-initiated reporting practices. Strength and Expected Influence centrality metrics showed good to excellent stability (CS \u2265 0.672 in most networks), supporting the robustness of the core symptom clusters. Symptom network analysis effectively delineates core suspected irAE symptoms and inter-system associations for PD-1/PD-L1 inhibitors. FAERS-derived networks emphasize systemic-gastrointestinal syndromes, while JADER reveals pulmonary-endocrine predominance in Japanese populations. These findings demonstrate the utility of symptom network analysis as a complementary approach to traditional pharmacovigilance for characterizing complex suspected irAE patterns across different data sources and populations.",
+      "journal": "Frontiers in immunology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43065606",
+      "doi": "10.3389/ffunb.2026.1944191",
+      "title": "Clinical and microbiological characterization of Starmerella magnoliae in the female genital tract: case report and diagnostic challenges.",
+      "abstract": "Starmerella magnoliae (formerly Candida magnoliae) is a rare yeast in clinical practice, sporadically associated with neonatal bloodstream infections, tenosynovitis in immunocompetent individuals, and infections in oncology patients. Its role in female genital tract infections is exceptionally uncommon. We describe a 42-year-old Brazilian woman presenting with genital pruritus and burning. Serological tests for HIV, hepatitis B and C, syphilis, and HPV RT-PCR were negative. Vaginal samples were cultured, identified using the Vitek 2 system (bioM\u00e9rieux, France), and confirmed by MALDI-TOF MS. Antifungal resistance-associated genes were investigated by polymerase chain reaction.Culture identified S. magnoliae. Metabolic profiling demonstrated assimilation of raffinose, proline, mannose, sorbitol, nitrate, gluconate, and gentiobiose. Molecular analysis detected ERG11 and CDR2 genes associated with antifungal resistance. Empirical oral fluconazole therapy failed to achieve clinical improvement. However, intravaginal nystatin administered for 21 days resulted in complete symptom resolution and negative direct microscopy. This case underscores S. magnoliae as a rare cause of vulvovaginal infection, associated with azole resistance markers and poor response to fluconazole. Accurate identification using advanced microbiological and molecular methods is essential to guide appropriate therapy in uncommon infections.",
+      "journal": "Frontiers in fungal biology",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43046768",
+      "doi": "10.1111/vco.70130",
+      "title": "Diagnostic and Translational Challenges in Canine Endocrine and Neuroendocrine Neoplasms: A Comparative Pathology Perspective.",
+      "abstract": "The recognition and detection of endocrine and neuroendocrine neoplasms (NENs) in dogs and humans is challenging. This is, in part, because some are non-functional, and where hormone hypersecretion occurs, it can lead to a great variety of clinical syndromes. Additionally, metastatic patterns vary according to the primary anatomical site, and the typically slow growth of many endocrine tumours/NENs may lead to underestimation of biological aggressiveness and misclassification as benign disease. In human medicine, diagnostic evaluation relies on a comprehensive, anatomical site-specific histopathologic framework, incorporating immunohistochemistry as formalised in the 2025 World Health Organisation classification of endocrine tumours/NENs. In contrast, veterinary diagnostic frameworks for canine endocrine tumours/NENs remain comparatively underdeveloped, with limited standardisation of terminology, grading systems, and validated cut-off values. This review aims to raise awareness of key diagnostic challenges associated with the most clinically prevalent canine endocrine tumours/NENs: insulinoma, phaeochromocytoma and cortisol-producing adrenocortical tumours. Emphasis is placed on histopathological characterisation using immunohistochemistry, drawing parallels with established human diagnostic algorithms where appropriate. By synthesising current knowledge from human and canine pathology, this review highlights critical gaps in veterinary diagnostic practice and identifies opportunities for harmonisation of classification strategies. The development of standardised diagnostic guidelines has the potential not only to improve clinical management of affected dogs but also to strengthen the translational value of spontaneous canine endocrine tumours/NENs within the field of comparative oncology and One Medicine.",
+      "journal": "Veterinary and comparative oncology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "43039606",
+      "doi": "10.1016/j.nec.2026.09.003",
+      "title": "Role of Endocrine Testing and Preoperative Hormonal Assessment.",
+      "abstract": "This article outlines a structured approach to managing patients with pituitary masses across preoperative, perioperative, and postoperative phases. It emphasizes accurate baseline hormonal assessment, appropriate correction of deficiencies before surgery, and individualized treatment strategies based on tumor type. Early postoperative care focuses on targeted hormonal monitoring to promptly identify adrenal insufficiency and arginine vasopressin deficiency, allowing timely intervention. Long-term management involves periodic reassessment of pituitary function, adjustment of hormone therapy, and ongoing surveillance for recurrence or complications, especially in hormonally active tumors.",
+      "journal": "Neurosurgery clinics of North America",
+      "year": "2027",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "43037755",
+      "doi": "10.1007/s11102-026-01761-y",
+      "title": "Oral and maxillofacial manifestations of acromegaly and their association with disease activity: a chart review.",
+      "abstract": "Acromegaly is a rare endocrine disorder characterized by excessive growth hormone (GH) secretion. Facial feature modifications are the patients' most frequently reported complaint. The\u00a0aim was to review the oral and maxillofacial features of acromegalic patients in a population evaluated by an oral and maxillofacial surgeon and, as a secondary. objective, to compare these manifestations according to disease activity. A chart review was conducted in two tertiary referral hospitals, including all acromegalic patients referred to the oral and maxillofacial surgery department between July 2019 and December 2024. Demographic, clinical and radiographical assessments data were collected. A total of 64 patients were included. Macroglossia was the most frequently found feature since 51 (79.6%) patients were affected. More than half the population showed a class III malocclusion, which was linked to a prognathism. The most frequent transversal malocclusion was mandibular transversal excess, which affected 25 (39%) patients. Twelve patients (18.7%) suffered from temporomandibular joint disorders (TMD). The average number of missing teeth was 4.70. Twenty-five patients (39%) exhibited periodontal disease. A total of 30 (46.8%) patients showed an interdental diastema. Fourteen (22.2%) patients exhibited oral tori. Acromegalic patients may exhibit various oral and maxillofacial manifestations beyond the stereotypical mandibular prognathism, mandibular diastemata, and macroglossia. Mandibular expansion occurs not only in the sagittal but also in the transverse dimension, making management more challenging. Although a low prevalence of TMD was observed in this population despite the presence of several potential risk factors, the present findings do not support a protective effect of GH secretion on the periodontium or temporomandibular joints, and such an effect remains speculative. Jaw and occlusal modifications may be managed with orthodontic treatment combined with orthognathic surgery.",
+      "journal": "Pituitary",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43065611",
+      "doi": "10.1002/oto2.70324",
+      "title": "Pediatric Head and Neck Abscesses: Trends in Bacteriology and Susceptibility.",
+      "abstract": "To investigate changes in bacterial organisms and susceptibility patterns in head and neck abscesses in pediatric patients at the University of Chicago. Cross-sectional retrospective chart review from January 2016 to December 2024. Chart review conducted among patients in a single, urban, academic institution. 153 pediatric patients under the age of 18 who underwent incision and drainage of head and neck abscesses at the University of Chicago were identified. The following demographic information was collected from each chart: age, sex, race, location of abscess, antimicrobial treatment prior to surgery, as well as the organisms that grew from each culture. We compared the data obtained from our current review to that published in a prior study from our institution in 2006. A chi-square test was used, and significance for the confidence intervals was set at P\u2009<\u2009.05. There were no significant changes in the number of abscesses in which organisms were detected or in the patterns of growth, including the proportions of Staphylococcus aureus and non-S. aureus growth. Our study shows a similar proportion of MRSA organisms isolated from pediatric head and neck abscesses compared to our earlier study from 2006. Ninety-one percent of MRSA cases at our institution were still susceptible to clindamycin, reaffirming the fact that this antibiotic is still a dependable choice for empiric treatment. However, the results suggest a tendency towards increasing clindamycin resistance in both MRSA and MSSA organisms which should be monitored carefully.",
+      "journal": "OTO open",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43036727",
+      "doi": "10.7759/cureus.118034",
+      "title": "Refractory Cushing's Disease Complicated by Severe Thrombocytopenia and Pituitary Apoplexy Culminating in a Fatal Outcome: A Case Report.",
+      "abstract": "Hypercortisolemia associated with Cushing's disease is classically recognized as a hypercoagulable state. Conversely, severe thrombocytopenia and hemorrhagic complications are exceptionally rare presentations. We report a case of a 59-year-old woman who presented with headache, proximal weakness, and Cushingoid features. Examination revealed severe Cushingoid features. Laboratory findings showed metabolic alkalosis, severe hypokalemia, and mild thrombocytopenia. Biochemical evaluation confirmed adrenocorticotropic hormone (ACTH)-dependent hypercortisolism (cortisol 157 \u00b5g/dL, ACTH 212 pg/mL), and a magnetic resonance imaging (MRI) scan revealed a 28-mm invasive pituitary macroadenoma extending into the sphenoid sinus and left cavernous sinus. The patient was admitted to the intensive care unit for electrolyte replacement and blood pressure control. Thrombocytopenia worsened progressively alongside mucocutaneous bleeding. Diagnostic workup showed preserved megakaryopoiesis, normal ADAMTS-13 activity, absent schistocytes, and elevated factor VIII and von Willebrand factor levels, pointing toward platelet consumption driven by severe endothelial stress. Given severe tissue fragility and progressive thrombocytopenia, transsphenoidal surgery was deferred, and medical therapy with cabergoline, mifepristone, and metyrapone was initiated. However, dose escalation was halted by worsening hypokalemia and refractory symptoms. The patient developed central diabetes insipidus (DI), necessitating desmopressin. On day 29, acute neurological deterioration with a left third cranial nerve palsy occurred; repeat neuroimaging confirmed acute pituitary apoplexy. Emergency transsphenoidal decompression was deferred due to profound thrombocytopenia and carotid artery encasement. Facing refractory disease, salvage bilateral laparoscopic adrenalectomy was performed on day 31. Postoperatively, the patient developed refractory shock, ischemic hepatitis, and anuric acute kidney failure. Despite multimodal medical therapy, she succumbed to multiorgan failure on day 35. This case illustrates a rare and life-threatening presentation of Cushing's disease complicated by suspected secondary consumptive thrombocytopenia and sellar apoplexy, highlighting the critical challenges of managing fulminant hypercortisolemia when emergency neurosurgical intervention carries prohibitive operative risks. This case underscores the locally invasive behavior of some pituitary tumors and the need for multidisciplinary management of severe Cushing's disease complications.",
+      "journal": "Cureus",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43065623",
+      "doi": "10.1002/oto2.70319",
+      "title": "A Look at Laryngeal Cancer Through the Lens of the Social Vulnerability Index.",
+      "abstract": "To provide updated epidemiologic analysis of laryngeal cancer (LC) incidence across US counties and examine associations with Centers for Disease Control and Prevention (CDC)/Agency for Toxic Substances and Disease Registry (ATSDR) Social Vulnerability Index (SVI). Retrospective cohort. Surveillance, Epidemiology, and End Results (SEER) database and CDC/ATSDR SVI. Age-adjusted incidence rates of LC (2004-2020) were extracted for 1085 US counties within SEER catchment areas. Counties were ranked by overall SVI and four themes: socioeconomic status (SES), household characteristics, minority status, and housing/transportation. Incidence rate ratios (IRRs) and 95% confidence intervals were calculated across SVI quartiles using quasi-Poisson regression. Spatial autocorrelation was assessed using Global Moran's I, and geographically weighted regression (GWR) evaluated spatial heterogeneity. Overall SVI quartile was not significantly associated with LC incidence (IRR: 1.06, 95% CI: 0.97-1.15). Counties with the highest SES vulnerability had an IRR of 1.32 (95% CI: 1.21-1.43) for overall LC and 1.60 times greater distant-stage incidence (95% CI: 1.40-1.81) compared to the lowest quartile. High household vulnerability quartile had 1.46 times higher distant-stage incidence (95% CI: 1.31-1.63). Conversely, the lowest minority status vulnerability quartile had the highest LC incidence (3.95 vs 2.40 per 100,000). Both models demonstrated significant spatial autocorrelation, and GWR revealed regional variation across SEER counties. SES and household vulnerability are associated with overall and distant-stage LC incidence at the county level. These findings identify geographic inequities in LC burden and support targeted prevention strategies in socially vulnerable communities.",
+      "journal": "OTO open",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43065621",
+      "doi": "10.1089/aut.2024.0230",
+      "title": "Examining Adverse and Benevolent Childhood Experiences and Associated Psychosocial Outcomes Among Autistic Adults.",
+      "abstract": "Autistic youth experience high rates of adverse childhood experiences (ACEs), although it is critical to extend this work by further identifying the ACEs most commonly reported by Autistic adults. We know less about rates of benevolent childhood experiences (BCEs) among Autistic adults and how they are associated with ACEs and psychosocial outcomes. The current study aimed to (1) identify rates of ACEs and BCEs, (2) evaluate how they are related for Autistic and non-autistic adults, and (3) evaluate how ACEs and BCEs are associated with psychosocial outcomes (i.e., trauma symptoms, resilience, treatment utilization, vulnerable life experiences [VLE]) across Autistic and non-autistic adults. A total of 276 Autistic adults (M age = 29 years, M income = 34,935 U.S. dollars, 46.4% cisgender men, 74.3% White) and 361 non-autistic adults (M age = 45.69 years, M income = 56,753 U.S. dollars, 49.9% cisgender women, 66.2% White) completed an online survey. Participants provided information about demographic and treatment history characteristics (age, income, gender, race/ethnicity, treatment use), and completed checklist measures of ACEs and BCEs and self-report scales assessing posttraumatic stress disorder (PTSD) symptoms (Posttraumatic Symptom Checklist for DSM-5, PCL-5), resilience (Brief Resilience Scale), and broader trauma-related and service experiences (VLE scale). Autistic adults reported more ACEs and fewer BCEs than non-autistic adults, even when accounting for demographic differences. ACEs and BCEs were weakly to moderately associated to a similar degree across groups. ACEs and BCEs differentially associated with psychosocial outcomes among Autistic and non-autistic adults. Child maltreatment ACEs related to higher PTSD symptoms, VLEs, and use of services. BCEs related to lower VLEs and use of services. Autistic adults differentially experience ACEs and BCEs, and trauma-focused supports should seek to facilitate and improve positive experiences among Autistic youth. Future research should identify potential protective factors for Autistic individuals. Why is this an important issue?: Autistic people experience more stressful experiences, such as adverse childhood experiences, than non-autistic people. Less information is known about positive childhood experiences among Autistic adults and how they relate to mental health and life experiences.What was the purpose of the study?: This study aimed to identify rates of stressful and positive experiences and examine how they are related for Autistic and non-autistic adults. This study also examined how stressful and positive experiences relate to mental health (trauma symptoms, resilience) and life experiences (using mental health care, negative life experiences).What did the researchers do?: Researchers collected data from an online survey platform. A total of 276 Autistic and 361 non-autistic adults gave information about their demographic backgrounds, mental health care backgrounds, stressful and positive experiences from childhood, mental health (trauma symptoms, resilience), and other negative life experiences (such as encounters with police or emergency room visits).What were the results of the study?: Autistic adults experienced more stressful events (e.g., emotional abuse, suicide in the home, emotional neglect, parent divorce, substance use in the home) and fewer positive events (e.g., liking themselves, liking school, having one supportive adult, having good neighbors, having beliefs that give comfort) during childhood than non-autistic adults. Stressful and positive events were weakly to moderately related, which may mean that experiencing lots of stressful childhood events does not mean an individual only experiences few positive experiences (i.e., a person can experience lots of stressful and positive experiences, or few positive and stressful experiences). Experiencing stressful events was related to more trauma symptoms, more negative life experiences, and more use of mental health care. Positive events were related to fewer negative life experiences and less use of mental health care, including less use of mental health therapy for trauma among non-autistic adults, but not Autistic adults. This means that Autistic adults may need more supports for trauma and stress, even when they have experienced positive childhood events.What do these findings add to what was already known?: These findings support that Autistic adults experience more stressful and fewer positive experiences in childhood than non-autistic adults. Both stressful and positive childhood experiences relate to mental health and other life experiences.What are potential weaknesses in the study?: This study used a short measure of stressful experiences, which did not ask about broader types of stress such as racial or community stressors, nor autism-specific stressors such as sensory trauma. The measure of positive childhood experiences also has not been used before with Autistic people, so it may not include a wide enough range of positive experiences that Autistic people experience.How will these findings help Autistic adults now or in the future?: These results emphasize the need for more support in creating positive childhood experiences for Autistic adults and helping Autistic adults heal from stressful or traumatic childhood experiences.",
+      "journal": "Autism in adulthood",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43039600",
+      "doi": "10.1016/j.nec.2026.09.014",
+      "title": "Multidisciplinary Approach to Functioning Pituitary Neuroendocrine Tumors.",
+      "abstract": "Functioning pituitary neuroendocrine tumors require individualized multidisciplinary management because of both tumor mass effects and hormone hypersecretion. Evaluation includes biochemical assessment of hormone excess, pituitary imaging, visual and cranial nerve examination, and assessment of comorbidities. Surgical resection, most commonly via an endoscopic endonasal transsphenoidal approach, is the primary treatment for most functioning tumors. However, prolactinomas are generally treated with dopamine agonists, whereas surgery is typically first-line for growth hormone-, adrenocorticotropic hormone-, and thyroid-stimulating hormone-secreting tumors. Persistent or recurrent disease may require repeat surgery, medical therapy, or radiation.",
+      "journal": "Neurosurgery clinics of North America",
+      "year": "2027",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "43024763",
+      "doi": "10.20945/2359-4292-2026-0133",
+      "title": "Two cases of gigantism with divergent long-term outcomes: the impact of genetics and treatment adherence.",
+      "abstract": "Gigantism is a rare disorder caused by growth hormone excess before epiphyseal closure. Long-term follow-up data are limited, particularly regarding the influence of genetic background and treatment adherence on disease outcomes. We report two adolescents diagnosed with gigantism during puberty who were followed at a tertiary endocrinology center for 12 and 21 years, respectively. Diagnosis was established based on elevated insulin-like growth factor 1 levels, failure of growth hormone suppression during oral glucose tolerance testing, and pituitary magnetic resonance imaging findings. Case l,a 14-year-old female, presented with accelerated linear growth, whereas Case 2, a 14-year-old male, was diagnosed following an orthopedic complication. Both patients had pituitary macroadenomas and underwent transsphenoidal surgery followed by treatment with somatostatin analogs. Germline genetic analysis of the AIP and MEN1 genes was performed using Sanger sequencing of coding exons and flanking regions from DNA extracted from peripheral blood leukocytes. One patient achieved sustained biochemical and structural remission after surgery and long-term somatostatin analog therapy, leading to treatment discontinuation. The other patient exhibited poor treatment adherence, persistent hormonal hypersecretion, residual tumor, and progressive systemic complications. Genetic analysis identified a pathogenic germline AIP nonsense variant (c.804C>A; p.Tyr268*) in the patient with unfavorable clinical evolution, whereas no pathogenic variants were detected in the other case. These findings illustrate divergent clinical trajectories in gigantism and highlight the combined impact of genetic background and treatment adherence on long-term outcomes, supporting the importance of genetic evaluation and sustained follow-up in early-onset disease.",
+      "journal": "Archives of endocrinology and metabolism",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43058541",
+      "doi": "10.1186/s12884-026-09872-x",
+      "title": "Giant adrenal teratoma mimicking renal angiomyolipoma during pregnancy with coexisting fetal pulmonary sequestration: a case report.",
+      "abstract": "Adrenal tumors during pregnancy are rare, but their detection is increasing due to prenatal imaging. Retroperitoneal fat-containing tumors, such as mature teratomas, can easily mimic renal angiomyolipoma (RAML), especially when the gravid uterus displaces anatomical landmarks. Excluding functional tumors (e.g., pheochromocytoma) is critical to prevent lethal hypertensive crises and guide multidisciplinary team (MDT) management. A 31-year-old primigravida (12 weeks' gestation) presented with a 9.8\u2009\u00d7\u200913.3\u2009\u00d7\u200910.9\u00a0cm fat-containing right retroperitoneal mass on MRI, mimicking renal angiomyolipoma or teratoma. Concurrently, fetal ultrasound at 22\u2009+\u20094 weeks identified an incidental left-sided fetal pulmonary sequestration. Normal catecholamine and cortisol levels confirmed a non-functional tumor, warranting a multidisciplinary team (MDT) strategy of watchful waiting. The patient successfully delivered a live infant via elective cesarean section at 37\u2009+\u20091 weeks. Postpartum, she underwent elective laparoscopic resection of the retroperitoneal tumor. Intraoperatively, the massive tumor encased the inferior vena cava (IVC) and right renal vein with dense adhesions. A laceration occurred on the posterior wall of the IVC during dissection, which was successfully repaired using vascular sutures without significant blood loss (200 mL). Postoperative pathology confirmed a mature adrenal teratoma. Both mother and neonate showed excellent outcomes during follow-up. This case highlights the diagnostic challenge of differentiating giant fat-containing retroperitoneal tumors during pregnancy. For non-functional retroperitoneal tumors without signs of malignancy, delaying surgery until the postpartum period is a safe strategy. In cases involving major vascular encasement, the surgical team must be fully prepared to manage unexpected vascular injuries. A multidisciplinary approach is highly recommended to optimize outcomes for rare maternal tumors and incidental fetal anomalies.",
+      "journal": "BMC pregnancy and childbirth",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    },
+    {
+      "pmid": "43065616",
+      "doi": "10.3389/fimmu.2026.1967143",
+      "title": "A high-throughput functional 3D droplet microfluidic platform for function-to-transcriptome profiling identifies candidate lncRNAs associated with engineered NK cell function.",
+      "abstract": "Natural killer (NK) cell-based immunotherapies show considerable promise for cancer treatment; however, their efficacy against solid tumors remains limited by functional heterogeneity and the restrictive tumor microenvironment. Engineered NK cells, including mesothelin-directed chimeric antigen receptor cytokine-induced memory-like (MSLN-CAR CIML) NK cells, exhibit enhanced cytotoxic potential, yet the transcriptional programs underlying effective tumor killing remain poorly defined. Although protein-coding regulators of NK cell function have been extensively studied, the contribution of long non-coding RNAs (lncRNAs) to cytotoxic NK cell states remains largely unexplored, particularly in engineered NK cell therapies. To address this gap, we developed and applied a three-dimensional (3D) Matrigel-based droplet microfluidic screening platform that enables single-cell resolution analysis of NK-tumor interactions. Unlike conventional bulk transcriptomic approaches, this function-to-transcriptome workflow enables functional isolation of killer and non-killer NK cell populations prior to transcriptomic profiling enabling the direct comparison of transcriptional programs associated with cytotoxic function while minimizing confounding effects of bulk population analyses. Using this approach, we profiled donor-matched MSLN-CAR CIML NK cells and CIML NK controls from three independent donors. Comparative transcriptomic analysis revealed widespread differences in lncRNA expression between killer and non-killer NK cell populations, characterized predominantly by broad lncRNA downregulation that was consistently observed across donors and more pronounced in MSLN-CAR CIML NK cells than in CIML controls. Integrated lncRNA-mRNA analyses prioritized candidate lncRNA-gene pairs based on genomic proximity and coordinated co-expression patterns, identifying several lncRNAs associated with cytotoxic gene programs. These transcriptional signatures were further associated with enrichment of cytotoxic and inflammatory pathways characteristic of highly functional NK cell states. Together, these findings demonstrate the utility of our functional droplet microfluidic screening platform in prioritizing candidate lncRNAs associated with cytotoxic NK cell states within matrix-restricted tumor environments. By integrating functional phenotyping with transcriptomic profiling, this platform provides a framework for identifying candidate lncRNA and other potential biomarkers associated with cytotoxic NK states for future mechanistic validation and the rational optimization of NK cell-based immunotherapies for solid tumors.",
+      "journal": "Frontiers in immunology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43030676",
+      "doi": "10.3390/jcm15218533",
+      "title": "When Thyrotropin Meets Growth Hormone: The Clinical Challenges of a Mixed GH/TSH-Secreting PIT1-Lineage Pituitary Neuroendocrine Tumour.",
+      "abstract": "Background: Acromegaly is most commonly caused by a growth hormone (GH)-secreting pituitary neuroendocrine tumour (PitNET). Plurihormonal PIT1-lineage PitNETs are uncommon, and combined GH and thyroid-stimulating hormone (TSH) secretion poses distinctive diagnostic and therapeutic challenges. We report a mixed GH/TSH-secreting PIT1-lineage PitNET in which the biochemical response to preoperative lanreotide supported the clinical suspicion of a functionally relevant thyrotroph component before targeted pathological reassessment. Case Presentation: A 39-year-old woman presented with a two-year history of progressive acral enlargement, headaches, hyperhidrosis, snoring, and voice deepening. Biochemical evaluation showed IGF-1 1128 ng/mL (reference range 93.1-281), GH 61 \u00b5g/L, TSH 1.5 \u00b5IU/mL (0.35-4.94), FT4 1.66 ng/dL (0.7-1.5), and FT3 7.0 pg/mL (1.8-4.2). Pituitary MRI demonstrated a 15 \u00d7 14 \u00d7 10.5 mm macroadenoma. Lanreotide 120 mg every four weeks reduced IGF-1 to 846 ng/mL and GH to 14 \u00b5g/L while normalizing FT4 (1.04 ng/dL) and FT3 (3.9 pg/mL), reinforcing the suspicion of mixed GH/TSH secretion. Transsphenoidal surgery was performed in October 2024. The tumour was initially classified as a densely granulated somatotroph PitNET; prompted by the preoperative biochemical phenotype, additional \u03b2-TSH immunostaining demonstrated positivity in numerous tumour cells, leading to reclassification as a mature plurihormonal PIT1-lineage PitNET (Ki-67 approximately 1%). Postoperative biochemical remission was not achieved, and MRI demonstrated a 7 mm residual lesion. Lanreotide was resumed, with the sustained control of the thyrotroph component but persistent GH/IGF-1 excess. Because residual disease persisted with slight cavernous sinus extension, Gamma Knife radiosurgery was performed in July 2026. Conclusions: Mixed GH/TSH-secreting PIT1-lineage PitNETs may be overlooked when TSH is inappropriately normal rather than frankly elevated. This case illustrates the value of integrating biochemical findings, treatment response, and targeted histopathological reassessment. Persistent disease despite surgery and somatostatin receptor ligand therapy further highlights the frequent need for multimodal, long-term management.",
+      "journal": "Journal of clinical medicine",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43014358",
+      "doi": "10.5811/cpcem.64485",
+      "title": "Subarachnoid Pneumocephalus Following Endoscopic Transsphenoidal Surgery.",
+      "abstract": "A 26-year-old man with past medical history of prolactinoma presented two weeks status post endoscopic transsphenoid prolactinoma excision with a positional headache and cerebrospinal fluid rhinorrhea; he was found to have diffuse subarachnoid air. There are few reports of subarachnoid pneumocephalus in the emergency medicine literature. Pneumocephalus, particularly tension pneumocephalus, typically occurs in the setting of traumatic skull fractures. However, emergency physicians should be aware of subarachnoid pneumocephalus in the setting of endoscopic skull base surgeries.",
+      "journal": "Clinical practice and cases in emergency medicine",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43065609",
+      "doi": "10.3389/fphar.2026.1970939",
+      "title": "The next frontier of peptide therapeutics: from targeted conjugates (PDC/ODC) to AI-driven safety-by-design.",
+      "abstract": "The pharmaceutical landscape is witnessing a profound \"Peptide Renaissance,\" driven primarily by the clinical success of GLP-1 receptor agonists and reinforced by engineering advanced drug delivery platforms. This review provides a comprehensive analysis of current trends in peptide-based drug development, using a target-localization framework that distinguishes molecular recognition from pharmacological action. We delineate the functional divergence between extracellular, cell-surface, and intracellular targeting, highlighting how peptides bridge the gap between small molecules and monoclonal antibodies. Central to this discussion is a comparative evaluation of next-generation conjugation technologies-Peptide-Drug Conjugates (PDCs) and Oligonucleotide-Drug Conjugates (ODCs)-against the backdrop of conventional Antibody-Drug Conjugates (ADCs). Rather than a simple performance comparison, this analysis focuses on how the distinct structural architectures of these modalities dictate their pharmacological profiles. We examine the inherent trade-offs between the long systemic half-life of bulky, antibody-based scaffolds and the construct-dependent tissue distribution and immunogenicity of peptide and oligonucleotide delivery systems, thereby elucidating their respective strengths and limitations in targeting complex disease environments. PDCs can use peptide-mediated recognition or uptake to deliver therapeutic payloads, whereas ODCs deliver oligonucleotides that act intracellularly through mechanisms such as RNA interference or splice modulation. Furthermore, we explore the transformative role of generative Artificial Intelligence and structural algorithms, such as AlphaFold 3, in shifting the development paradigm toward a \"Safety-by-Design\" philosophy. By integrating predictive toxicology (e.g., pepADMET) into the nascent design phase, researchers may prioritize candidates for experimental testing. Importantly, the pharmacoeconomic case for this approach remains provisional rather than established. A retrospective analysis of AI-derived candidates reported Phase I success rates of approximately 80%-90% and a Phase II success rate of approximately 40%, comparable to historical Phase II averages. The limited sample and historical comparison do not establish a causal effect of AI or a peptide-specific economic benefit. We therefore present AI-guided safety-by-design as a proposed strategy for candidate prioritization, and set out explicitly the comparative evidence that would be required before claims of reduced development cost, shortened timelines, or improved affordability can be regarded as demonstrated.",
+      "journal": "Frontiers in pharmacology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
       ]
     },
     {
@@ -296,15 +577,26 @@
       ]
     },
     {
-      "pmid": "43050034",
-      "doi": "10.1007/s11102-026-01794-3",
-      "title": "A patient-clinician call for global harmonization of access to second-line medical therapies for acromegaly in the era of personalized medicine.",
-      "abstract": "In the European Union (EU) and the United Kingdom (UK), the Summaries of Product Characteristics (SmPC) of pegvisomant (PEGV) and pasireotide LAR (PAS-LAR) require inadequate control on prior somatostatin analogue treatment (or intolerance for PEGV), unlike US labelling. These regulatory differences should be distinguished from inequalities in actual treatment access. To assess whether these regulatory differences remain justified in light of predictive evidence, current consensus recommendations and patient needs. Narrative review of EU and UK regulatory documents, pivotal trials, consensus statements and biomarker-guided trials, integrated with the patient perspective. Validated clinical, imaging, functional and pathological predictors identify patients with a low probability of fgSRL response. Updated consensus guidelines increasingly recognize the importance to use biomarker-guided treatment rather than trial-error strategy choice and recommended as the best care modality allowing aalthough response predictors for first-generation somatostatin receptor ligands (fgSRLs) differ in accuracy and clinical readiness and for PAS-LAR they still remain to be confirmed . Patients and clinicians propose reconsidering labels to enable earlier individualized treatment in selected patients, subject to drug-specific evidence and safety monitoring. This proposal extends beyond current recommendations for PAS-LAR; label harmonization would allow equitable access.",
+      "pmid": "43049956",
+      "doi": "10.1007/s11102-026-01781-8",
+      "title": "Page turnover technique for resection of the medial wall of the cavernous sinus during endoscopic endonasal surgery for acromegaly.",
+      "abstract": "Growth hormone (GH)-secreting pituitary adenomas frequently invade the medial wall of the cavernous sinus (MWCS), limiting surgical success. Conventional approaches are restricted when the internal carotid artery (ICA) adheres to the anterior cavernous sinus (CS) wall or is tortuous. We describe the \"page turnover\" technique for MWCS resection and evaluate its preliminary safety and efficacy. We retrospectively reviewed 12 consecutive patients who underwent endoscopic endonasal surgery for acromegaly using the page turnover technique between March 2018 and June 2025. The technique enters the CS anterior wall lateral to the ICA and reflects the anterior and inferior wall dural flaps medially, like turning a page, to expose the tethering ligaments and resect the MWCS. The cohort comprised 8 macro- and 4 giant pituitary adenomas (mean diameter 3.3\u00a0cm); 91.7% were Knosp grade \u22653\u00a0A. Gross total and near-total resection were achieved in 16.7% and 58.3%, respectively, and endocrine remission occurred in 33.3%. Intraoperative cerebrospinal fluid (CSF) leakage occurred in 66.7% (mostly Kelly grade 1), with no postoperative fistula, ICA trunk injury, or cranial nerve deficit. Pathology confirmed MWCS invasion in 90% of specimens. The page turnover technique is feasible for MWCS resection in anatomically challenging scenarios, with acceptable morbidity in experienced hands.",
       "journal": "Pituitary",
       "year": "2026",
       "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42994909",
+      "doi": "10.1097/MD.0000000000051533",
+      "title": "Adrenal ganglioneuroma in an adolescent presenting as an incidentaloma: Imaging-pathology correlation and diagnostic challenges: A case report.",
+      "abstract": "Adrenal ganglioneuroma (AGN) is a rare, benign, and usually nonfunctioning tumor arising from neural crest-derived sympathetic ganglion cells. Preoperative diagnosis is difficult because the clinical presentation is often nonspecific, and imaging findings overlap with those of other adrenal neoplasms. We describe an adolescent adrenal incidentaloma with detailed imaging-pathology correlation, adding to the small number of reported adolescent cases. A previously healthy 16-year-old male underwent contrast-enhanced computed tomography (CT) after a bicycle accident. No traumatic injury was identified, but imaging incidentally revealed a well-circumscribed right adrenal mass measuring approximately 6.1 cm\u2005\u00d7\u20053.6 cm\u2005\u00d7\u20055.0 cm. CT and magnetic resonance imaging showed progressive, persistent enhancement across the arterial, venous, and delayed phases without demonstrable washout (attenuation increased from 20 Hounsfield units unenhanced to 55 Hounsfield units in the venous phase, with further qualitative enhancement on 15-minute delayed images) and no intralesional fat, suggesting a non-adenomatous lesion and raising suspicion for a neurogenic tumor. Biochemical evaluation showed no evidence of hormonal hypersecretion. Histopathological examination after resection established the diagnosis of AGN. The patient underwent right adrenalectomy because of the size and radiologically indeterminate nature of the mass. The postoperative course was uneventful. Transient elevation of blood pressure noted during follow-up prompted biochemical reevaluation, which showed no evidence of excess catecholamine. Follow-up CT at 9 months showed no recurrence. Progressive delayed enhancement without washout and absence of signal loss on opposed-phase magnetic resonance imaging, a pattern previously described in ganglioneuroma, may suggest the diagnosis preoperatively, although definitive diagnosis requires histopathological confirmation. Complete surgical excision established the diagnosis and achieved a favorable short-term outcome; the excellent long-term prognosis of AGN is supported by the published literature, and our patient remains recurrence-free at 9 months.",
+      "journal": "Medicine",
+      "year": "2026",
+      "publication_types": [
         "Journal Article",
-        "Review"
+        "Case Reports"
       ]
     },
     {
@@ -332,49 +624,26 @@
       ]
     },
     {
-      "pmid": "43047456",
-      "doi": "10.3389/fsurg.2026.1986503",
-      "title": "Papillary craniopharyngioma mistaken for recurrent Rathke's cleft cyst: a case report of a seven-year diagnostic pitfall involving BRAF V600E testing.",
-      "abstract": "Rathke's cleft cysts (RCC) and craniopharyngiomas are clinically, radiologically and histopathologically similar lesions that are difficult to distinguish and require different surgical treatments. Many authors support the hypothesis that these represent two spectra of the same pathology. We present the case of a 53-year-old man who, because of general malaise, was examined by an endocrinologist and found to have partial hypopituitarism and indirect hyperprolactinemia. Consequently, he underwent a head MRI, which revealed an intra-suprasellar cystic lesion. Surgical fenestration of the cyst was performed, and tissue samples were collected for histopathological examination, which confirmed a diagnosis of RCC. Over the years, follow-up imaging revealed a recurrent, enlarging cyst; therefore, the patient underwent reoperation 7.5 years later. This time, histology revealed a papillary craniopharyngioma (PC). Re-examination of the specimen from the first surgery also confirmed presence of PC on the same specimen section as RCC, with the initial false-negative result attributed to suboptimal staining. Apparent progression from RCC to craniopharyngioma should prompt re-examination of the original pathology before it is interpreted as true transformation. In our patient, conservative fenestration was followed by recovery of corticotroph function that lasted seven years, whereas subsequent radical surgery resulted in new corticotroph and thyrotroph deficiency without complete resection, highlighting the need for caution with early aggressive surgery in cystic sellar lesions of uncertain histology.",
-      "journal": "Frontiers in surgery",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43062430",
-      "doi": "10.15586/aei.v54i6.1737",
-      "title": "Clinical characteristics and treatment response of Eosinophilic Esophagitis in pediatric patients: A descriptive study in a tertiary care institution in Cali, Colombia.",
-      "abstract": "Eosinophilic esophagitis (EoE) is a chronic immune-mediated esophageal disease with increasing incidence worldwide, although pediatric data from Latin America remain limited. We conducted a retrospective longitudinal descriptive study including patients aged 0-18 years diagnosed with EoE between 2013 and 2023 at a tertiary referral center in Colombia. Diagnosis was based on compatible clinical manifestations and histologic confirmation on esophageal biopsy. Demographic, clinical, histologic, and allergen sensitization profiles, as well as treatment response and endoscopic follow-up, were analyzed descriptively. Seventy-five patients were included, with a median age of 10 years, and 65% were male. The most frequent symptoms were persistent gastroesophageal reflux (53%), recurrent abdominal pain (51%), and vomiting (32%). Allergic comorbidities were frequent, predominantly allergic rhinitis and asthma. Among patients who underwent follow-up endoscopy (68%), clinical and histologic remission were observed in 59% and 39%, respectively. This pediatric cohort demonstrated a substantial atopic burden and a heterogeneous therapeutic response. The discordance between clinical and histologic remission underscores the importance of structured endoscopic follow-up. These findings provide region-specific data that may inform multidisciplinary management strategies in pediatric EoE.",
-      "journal": "Allergologia et immunopathologia",
+      "pmid": "43065619",
+      "doi": "10.1016/j.mtbio.2026.103798",
+      "title": "Neutrophil-hitchhiking and microglia-homing liposomes co-delivering artemisinin and edaravone for cerebral ischemia-reperfusion injury treatment.",
+      "abstract": "Clinical outcomes of cerebral ischemia-reperfusion injury (CIRI) remain unsatisfactory, largely because the blood-brain barrier (BBB) restricts the delivery of most neuroprotective agents to the brain parenchyma. Although artemisinin (ART) and edaravone (EDV) have shown promising therapeutic potential for CIRI, their clinical application is hindered by their short in vivo half-lives and poor aqueous solubility. Neutrophil infiltration triggered by CIRI provides a unique opportunity for drug delivery across the BBB, whereas targeted modulation of microglia represents a key strategy for mitigating reperfusion-induced injury. However, existing neutrophil hitchhiking delivery systems primarily focus on BBB traversal and generally lack a secondary targeting mechanism to promote preferential drug accumulation within the inflammatory core of the ischemic brain. Here, we developed a dual-modified liposomal system functionalized with sialic acid (SA) and phosphatidylserine (PS) (ART/EDV-PS/SAL) for the co-delivery of ART and EDV. This system enables sequential two-step targeting through SA-mediated neutrophil hitchhiking for BBB traversal, followed by PS-mediated microglial homing within ischemic brain tissue. In a mouse model of CIRI, ART/EDV-PS/SAL markedly reduced cerebral infarct volume, preserved BBB integrity, and significantly improved neurological and behavioral outcomes. Mechanistically, ART/EDV-PS/SAL exerted neuroprotective effects by suppressing NLRP3 inflammasome activation, attenuating pyroptosis, and promoting microglial polarization toward the anti-inflammatory M2 phenotype. By harnessing endogenous immune cells to achieve efficient and sequential drug targeting, this study establishes a promising nanodelivery platform for the treatment of ischemic stroke and other neuroinflammatory disorders.",
+      "journal": "Materials today. Bio",
       "year": "2026",
       "publication_types": [
         "Journal Article"
       ]
     },
     {
-      "pmid": "43037754",
-      "doi": "10.1007/s11060-026-05879-8",
-      "title": "Acute diencephalic syndrome after transventricular resection of giant pituitary adenomas with third ventricular extension: clinical course and association with extent of resection.",
-      "abstract": "To describe acute diencephalic syndrome (ADS) after superior transventricular surgery for giant pituitary adenomas with true third-ventricular extension, and to explore the association of ADS with extent of resection in a selected cohort. We retrospectively analyzed 40 adults operated on in 2015-2025 (23 total, 17 subtotal resections; 22 anterior transcallosal and 18 transcortical transventricular approaches). Postoperative AVP-D was distinguished from multidomain ADS, graded retrospectively according to the previously published four-stage framework. Final-stage agreement was reassessed independently in all 40 patients. Postoperative AVP-D occurred in all 40 patients; four had isolated AVP-D without ADS. ADS occurred in 36/40 (90.0%): 23/23 after total and 13/17 after subtotal resection (risk difference 23.5 percentage points; 95% Newcombe CI 3.5-47.3; two-sided Fisher exact p\u2009=\u20090.026). Stage III-IV ADS occurred in 9/23 versus 3/17 (p\u2009=\u20090.179). Independent final-stage agreement was 36/40 (90.0%; linear-weighted \u03ba\u2009=\u20090.926). Five patients required mechanical ventilation, and two died. ADS was frequent in this anatomically selected transventricular cohort, but the operational definition is not specific for hypothalamic injury and the observational comparison is vulnerable to confounding by indication. The observed lower ADS frequency after subtotal resection is hypothesis-generating. Prospective multicenter validation is necessary.",
-      "journal": "Journal of neuro-oncology",
-      "year": "2026",
+      "pmid": "43039602",
+      "doi": "10.1016/j.nec.2026.09.010",
+      "title": "Pituitary Apoplexy: Urgent Diagnosis and Surgical Intervention.",
+      "abstract": "Pituitary apoplexy is an acute hemorrhagic and ischemic event, most often within a pituitary neuroendocrine tumor, that can cause sudden headache, vision loss, ophthalmoplegia, and adrenal insufficiency. Early recognition, prompt glucocorticoid replacement for unstable patients, urgent MRI for characterization, and rapid multidisciplinary coordination are critical. Urgent endoscopic endonasal transsphenoidal decompression is indicated for severe or progressive vision loss, declining consciousness, or worsening cranial neuropathies. Conservative management with close observation is selected for patients with mild symptoms who are hemodynamically and neurologically stable. Modern endoscopic techniques enable excellent hematoma evacuation, optic apparatus decompression and restoration of vision and cranial nerve function. Endocrine deficits frequently persist, and require long\u2011term pituitary hormone replacement with multidisciplinary clinical follow\u2011up.",
+      "journal": "Neurosurgery clinics of North America",
+      "year": "2027",
       "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43062434",
-      "doi": "10.15586/aei.v54i6.1534",
-      "title": "Anaphylaxis due to ceftriaxone: case series and reflection on its indiscriminate use.",
-      "abstract": "Ceftriaxone, a third-generation cephalosporin, is widely prescribed for severe infections. Although generally considered safe, it may cause immediate hypersensitivity reactions (HSR), including anaphylaxis, representing a significant clinical concern. To describe a case series of ceftriaxone-induced hypersensitivity reactions, highlighting clinical presentation, management patterns, and implications for rational antibiotic use. We retrospectively analyzed eight patients evaluated in our allergy department between 2023 and 2025 for immediate HSR to ceftriaxone. Demographic characteristics, clinical manifestations, reaction severity according to Brown's classification, management, prior exposure, and skin test results were recorded. All patients underwent skin prick testing, which if negative, was followed by intradermal testing. Patients (aged 10-44 years; with five females) presented reactions ranging from urticaria to grade III anaphylaxis. Most reactions occurred outside hospital settings, increasing the risk of delayed recognition and treatment. Despite several reactions fulfilling criteria for anaphylaxis, intramuscular epinephrine was not administered systematically, with management frequently limited to antihistamines and corticosteroids. Four patients reacted after the first reported dose; previous exposure was documented or suspected in most cases. Skin testing supported an immunoglobulin E-mediated mechanism in the majority of patients, and one patient developed anaphylaxis during intradermal testing. A progressive increase in patients was observed over the study period (1 patient in 2023, 2 in 2024, and 5 patients in 2025). One patient successfully completed treatment through a standardized 12-step desensitization protocol. Ceftriaxone-induced HSR could be severe and occur frequently outside controlled medical settings. Under-recognition of anaphylaxis and underuse of epinephrine remain significant concerns. Rational antibiotic prescribing, improved adherence to anaphylaxis management guidelines, and structured allergy evaluation-including desensitization if necessary-are essential to optimize patient safety.",
-      "journal": "Allergologia et immunopathologia",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
+        "Journal Article",
+        "Review"
       ]
     },
     {
@@ -389,177 +658,13 @@
       ]
     },
     {
-      "pmid": "43058541",
-      "doi": "10.1186/s12884-026-09872-x",
-      "title": "Giant adrenal teratoma mimicking renal angiomyolipoma during pregnancy with coexisting fetal pulmonary sequestration: a case report.",
-      "abstract": "Adrenal tumors during pregnancy are rare, but their detection is increasing due to prenatal imaging. Retroperitoneal fat-containing tumors, such as mature teratomas, can easily mimic renal angiomyolipoma (RAML), especially when the gravid uterus displaces anatomical landmarks. Excluding functional tumors (e.g., pheochromocytoma) is critical to prevent lethal hypertensive crises and guide multidisciplinary team (MDT) management. A 31-year-old primigravida (12 weeks' gestation) presented with a 9.8\u2009\u00d7\u200913.3\u2009\u00d7\u200910.9\u00a0cm fat-containing right retroperitoneal mass on MRI, mimicking renal angiomyolipoma or teratoma. Concurrently, fetal ultrasound at 22\u2009+\u20094 weeks identified an incidental left-sided fetal pulmonary sequestration. Normal catecholamine and cortisol levels confirmed a non-functional tumor, warranting a multidisciplinary team (MDT) strategy of watchful waiting. The patient successfully delivered a live infant via elective cesarean section at 37\u2009+\u20091 weeks. Postpartum, she underwent elective laparoscopic resection of the retroperitoneal tumor. Intraoperatively, the massive tumor encased the inferior vena cava (IVC) and right renal vein with dense adhesions. A laceration occurred on the posterior wall of the IVC during dissection, which was successfully repaired using vascular sutures without significant blood loss (200 mL). Postoperative pathology confirmed a mature adrenal teratoma. Both mother and neonate showed excellent outcomes during follow-up. This case highlights the diagnostic challenge of differentiating giant fat-containing retroperitoneal tumors during pregnancy. For non-functional retroperitoneal tumors without signs of malignancy, delaying surgery until the postpartum period is a safe strategy. In cases involving major vascular encasement, the surgical team must be fully prepared to manage unexpected vascular injuries. A multidisciplinary approach is highly recommended to optimize outcomes for rare maternal tumors and incidental fetal anomalies.",
-      "journal": "BMC pregnancy and childbirth",
+      "pmid": "43065620",
+      "doi": "10.1177/00185787261502964",
+      "title": "Incidence of and Factors Associated with Hypokalemia During Sulbactam/Ampicillin Therapy: A Retrospective Observational Study.",
+      "abstract": "The antimicrobial agent sulbactam/ampicillin (SBT/ABPC) is used to treat a wide range of infections; however, hypokalemia has recently attracted attention as an adverse event of SBT/ABPC. Risk factors for this condition have not been fully characterized, and preventive strategies remain unclear. To investigate the incidence of hypokalemia and identify factors associated with its occurrence during sulbactam/ampicillin therapy. This single-center retrospective observational study used routinely collected electronic medical record data from hospitalized patients aged\u2009\u2265\u200920\u2009years without hypokalemia at the initiation of SBT/ABPC therapy who received SBT/ABPC for >2 consecutive days at a hospital in Japan between January 1, 2022, and December 31, 2024. Patients undergoing hemodialysis, those with hypokalemia at the initiation of SBT/ABPC therapy, and those lacking the required laboratory or body weight data were excluded. The primary endpoint was the identification of factors associated with hypokalemia during SBT/ABPC therapy. Of the 269 patients who received SBT/ABPC during the study period, 182 were included in the analysis. Hypokalemia occurred in 39 patients (21.4%), of whom 6 had a nadir serum potassium concentration\u2009\u2264\u20093.0\u2009mEq/L. The median time to onset was 4\u2009days (range, 2-13\u2009days). Survival classification and regression tree analysis identified a baseline serum potassium level of \u22643.9\u2009mEq/L (P\u2009<\u2009.001) and age >75\u2009years (P\u2009=\u2009.008) as factors associated with the occurrence of hypokalemia. Close monitoring for hypokalemia may be warranted in patients aged\u2009>\u200975\u2009years with a baseline serum potassium level of \u22643.9\u2009mEq/L. In such patients, serum potassium measurement within the first several days after initiation of SBT/ABPC therapy, particularly around days 4 to 5, should be considered.",
+      "journal": "Hospital pharmacy",
       "year": "2026",
       "publication_types": [
-        "Journal Article",
-        "Case Reports"
-      ]
-    },
-    {
-      "pmid": "43039610",
-      "doi": "10.1016/j.nec.2026.09.006",
-      "title": "Pituitary Neuroendocrine Tumors in the Pediatric Population.",
-      "abstract": "Pediatric pituitary neuroendocrine tumors (PPitNETs) are rare but present significant clinical challenges in children. Their diverse presentations necessitate comprehensive endocrinologic and radiographic evaluation. They are most commonly prolactin-secreting or adrenocorticotropic hormone-secreting. A genetic mutation can be present, particularly in young patients with aggressive disease. Management is multidisciplinary. Medical therapy is first-line treatment of prolactinomas, and surgery is first-line treatment of most other PPitNETs, with reasonable remission rates when performed in experienced centers. Long-term outcomes are favorable, although hypopituitarism and lifelong hormone replacement remain important concerns. Ongoing surveillance is essential to ensure detect recurrence, and monitor treatment-related complications.",
-      "journal": "Neurosurgery clinics of North America",
-      "year": "2027",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "43026405",
-      "doi": "10.1007/s11102-026-01785-4",
-      "title": "Trigeminal autonomic cephalgia due to pituitary adenomas: scoping review of the literature.",
-      "abstract": "Trigeminal autonomic cephalalgias (TAC) are a debilitating subtype of headaches and have been associated with pituitary adenomas. Treatment of associated pituitary adenomas has been reported to result in resolution of the secondary TACs, although this association is poorly understood. We conducted a scoping review of the literature in accordance with PRISMA guidelines using Medline, Embase, Scopus, and Web of Science databases. We identified all relevant cases to detail the epidemiology, clinical phenotype of TACs, characteristics of the associated pituitary lesion including its hormonal profile, type of clinical intervention, and outcomes. 57 cases were included in the final review. Most patients had secreting adenomas (91%). Short-lasting Unilateral Neuralgiform headache attacks with Conjunctival injection and Tearing (SUNCT) and Probable SUNCT were the most common TAC phenotype diagnosed (47%), followed closely by cluster headaches/ and cluster-like headaches (46%). Medical intervention was attempted in every patient with an average of 4.8 trials of medications attempted before headache relief. 98% of patients had either complete resolution or improvement of headaches associated with treatment (medical or surgical). 26 patients underwent surgery, of which 18 (69%) had either improvement or complete resolution of headaches. Patients with TACs secondary to pituitary adenomas are likely to be diagnosed with SUNCT, have associated secreting adenomas, and to underwent multiple trials of medications before reaching headache relief. In the included cases, TACs secondary to prolactinomas had improvement associated with medical management with dopamine agonist therapy. Surgical resection of pituitary adenomas in patients with medically refractory TACs and growth-secreting adenomas was also associated with significant improvement in headache severity. Further work is required to understand the exact pathophysiological mechanism for this rare disease in order to better treat this rare condition moving forward.",
-      "journal": "Pituitary",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Scoping Review",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "43014358",
-      "doi": "10.5811/cpcem.64485",
-      "title": "Subarachnoid Pneumocephalus Following Endoscopic Transsphenoidal Surgery.",
-      "abstract": "A 26-year-old man with past medical history of prolactinoma presented two weeks status post endoscopic transsphenoid prolactinoma excision with a positional headache and cerebrospinal fluid rhinorrhea; he was found to have diffuse subarachnoid air. There are few reports of subarachnoid pneumocephalus in the emergency medicine literature. Pneumocephalus, particularly tension pneumocephalus, typically occurs in the setting of traumatic skull fractures. However, emergency physicians should be aware of subarachnoid pneumocephalus in the setting of endoscopic skull base surgeries.",
-      "journal": "Clinical practice and cases in emergency medicine",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43043775",
-      "doi": "10.4103/aam.aam_1233_26",
-      "title": "Pituitary Stalk Interruption Syndrome Presenting as Primary Amenorrhea: Magnetic Resonance Imaging Demonstration of the Characteristic Diagnostic Triad.",
-      "abstract": "Pituitary stalk interruption syndrome (PSIS) is a rare congenital pituitary malformation characterized by the triad of anterior pituitary hypoplasia, an absent or interrupted pituitary stalk, and an ectopic posterior pituitary. We report the case of a 21-year-old woman who presented with primary amenorrhea and poorly developed secondary sexual characteristics. Hormonal evaluation revealed central hypothyroidism, markedly reduced morning serum cortisol, and suppressed gonadotropin levels, indicating hypopituitarism with hypogonadotropic hypogonadism. Pelvic ultrasonography demonstrated a markedly hypoplastic uterus and bilaterally small ovaries. Magnetic resonance imaging of the sellar region revealed a hypoplastic anterior pituitary gland, nonvisualization of the pituitary stalk, and an ectopic posterior pituitary bright spot at the median eminence beneath the optic chiasm. These characteristic imaging findings established the diagnosis of PSIS. This case highlights the importance of considering PSIS in women presenting with primary amenorrhea and delayed pubertal development. Recognition of the characteristic magnetic resonance imaging triad facilitates timely endocrine evaluation, hormone replacement therapy, and long-term follow-up. R\u00e9sum\u00e9Le syndrome d\u2019interruption de la tige pituitaire (SITP) est une malformation cong\u00e9nitale rare de l\u2019hypophyse, caract\u00e9ris\u00e9e par une triade associant une hypoplasie de l\u2019ant\u00e9hypophyse, une absence ou une interruption de la tige pituitaire et une neurohypophyse ectopique. Nous rapportons le cas d\u2019une femme de 21 ans consultant pour une am\u00e9norrh\u00e9e primaire et un d\u00e9veloppement insuffisant des caract\u00e8res sexuels secondaires. Le bilan hormonal a r\u00e9v\u00e9l\u00e9 une hypothyro\u00efdie centrale, une diminution marqu\u00e9e du cortisol s\u00e9rique matinal et une suppression des taux de gonadotrophines, en faveur d\u2019un hypopituitarisme associ\u00e9 \u00e0 un hypogonadisme hypogonadotrope. L\u2019\u00e9chographie pelvienne a montr\u00e9 un ut\u00e9rus tr\u00e8s hypoplasique et des ovaires bilat\u00e9ralement de petite taille. L\u2019imagerie par r\u00e9sonance magn\u00e9tique (IRM) de la r\u00e9gion sellaire a mis en \u00e9vidence une hypoplasie de l\u2019ant\u00e9hypophyse, une absence de visualisation de la tige pituitaire et un hypersignal spontan\u00e9 T1 ectopique de la neurohypophyse au niveau de l\u2019\u00e9minence m\u00e9diane, sous le chiasma optique. Ces signes radiologiques caract\u00e9ristiques ont permis d\u2019\u00e9tablir le diagnostic de SITP. Ce cas souligne l\u2019importance d\u2019\u00e9voquer le SITP chez les femmes pr\u00e9sentant une am\u00e9norrh\u00e9e primaire et un retard du d\u00e9veloppement pubertaire. La reconnaissance de la triade caract\u00e9ristique \u00e0 l\u2019IRM permet une \u00e9valuation endocrinienne pr\u00e9coce, l\u2019instauration d\u2019un traitement hormonal substitutif et un suivi \u00e0 long terme.",
-      "journal": "Annals of African medicine",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43061069",
-      "doi": "10.3389/fendo.2026.1964012",
-      "title": "Quality of life burden in Cushing's syndrome: baseline results from the PROMPT study.",
-      "abstract": "Cushing's syndrome (CS) is associated with marked impairment in quality of life (QoL). This analysis aimed to comprehensively describe QoL impairment in participants of the PROMPT study using two validated instruments: the CushingQoL and the T\u00fcbingen Cushing's Disease Quality of Life Inventory (CD-25). Cross-sectional analysis used baseline questionnaires from PROMPT (NCT02297945), a prospective study of metyrapone in 49 adults with confirmed endogenous CS. Item- and domain-level analyses were conducted for the CushingQoL (0-100; higher = better QoL) and CD-25 (0-100; higher = worse QoL). Subgroups: sex (15 males, 34 females) and biochemical UFC severity (31 moderate and 16 severe). Patients reported substantial impairment in QoL. The mean CushingQoL score was 41.2 (95%CI 35.6-46.7), with greater physical (36.8) than psychosocial (45.5) burden. The CD-25 score was 39.8 (95%CI 32.7-46.9), with bodily restrictions (48.6) and eating behaviour (44.7) most severely affected. Worry about future health (75.5%) and physical appearance (73.5%) were the most prevalent individual concerns. The two instruments were strongly inversely correlated (r= -0.81, p<0.001). Females reported clinically worse psychosocial QoL compared with males (CushingQoL psychosocial: 41.7 vs 54.2, -12.2 points; CD-25 depression: 39.5 vs 26.9,\u00a0+\u00a012.6 points), despite similar biochemical severity. No meaningful differences in overall QoL scores were observed between patients with moderate versus severe hypercortisolism. Uncontrolled CS is associated with profound multidomain QoL impairment dominated by psychological distress, largely independent of biochemical disease severity. Women reported clinically meaningful worse psychosocial outcomes than men. Disease-specific, item-level QoL assessment may add information not captured by biochemical parameters in patients with active CS.",
-      "journal": "Frontiers in endocrinology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43045240",
-      "doi": "10.1016/j.cger.2026.08.013",
-      "title": "Endocrine Disorders in Older Adults: Adrenal Disorders.",
-      "abstract": "Aging leads to structural and functional changes in the adrenal glands, including cortical remodeling, zonal redistribution, and reduced androgen production. These changes are accompanied by dysregulation of the hypothalamic-pituitary-adrenal axis, altered cortisol patterns, and decline in aldosterone and catecholamine activity, contributing to reduced physiologic reserve. Adrenal disorders such as adrenal insufficiency, hypercortisolism, primary aldosteronism, and incidentalomas become more prevalent with age, often presenting atypically and complicated by comorbidities and polypharmacy, which contribute to diagnostic challenges. Management requires an individualized approach that considers comorbidities, frailty, and treatment-related risks to optimize clinical outcomes.",
-      "journal": "Clinics in geriatric medicine",
-      "year": "2027",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "43054202",
-      "doi": "10.3389/fimmu.2026.1860159",
-      "title": "Identification and monitoring of immune-related adverse reactions of PD-1/PD-L1 inhibitors based on symptom network analysis.",
-      "abstract": "PD-1/PD-L1 inhibitors have become first-line cancer therapies by disrupting immune checkpoint downregulation, thereby potentiating antitumor immunity. However, this enhanced immune activation may also target normal tissues, triggering multisystemic immune-related adverse events (irAE) that complicate clinical management. Conventional pharmacovigilance analyses typically assess individual adverse events in isolation, limiting the ability to capture inter-symptom relationships. Symptom network analysis, an emerging computational approach, constructs co-occurrence networks to identify core symptoms, key associations, and bridge nodes across organ systems, thus enabling a systematic understanding of complex suspected irAE profiles. Adverse event records for six PD-1/PD-L1 inhibitors were extracted from two spontaneous reporting databases: FAERS (Q1 2005-Q3 2024) and JADER (Q1 2004-Q1 2025). Potential signals were screened using reporting odds ratio(ROR), proportional reporting ratio(PRR), and multivariate gamma-Poisson shrinkage (MGPS) methods. Symptom co-occurrence networks were subsequently constructed using EBIC-GLASSO based on Tetrachoric correlation matrices, which are specifically designed for binary adverse event data and correct for attenuation due to dichotomization. Four centrality metrics-Strength, Closeness, Betweenness, and Expected Influence-were calculated via the qgraph package. The bootnet package performed 1,000 bootstrap iterations to evaluate 95% confidence intervals for edge weights and centrality stability coefficients. In FAERS, nivolumab (48,330) and pembrolizumab (37,224) generated the highest report volumes. PD-1 inhibitor networks consistently centered on a systemic-gastrointestinal symptom cluster comprising decreased appetite, fatigue, diarrhea, and nausea, whereas PD-L1 inhibitor networks additionally featured prominent hematologic abnormalities. In JADER, interstitial lung disease and adrenal insufficiency emerged as central nodes, reflecting cross-database differences in reporting patterns and physician-initiated reporting practices. Strength and Expected Influence centrality metrics showed good to excellent stability (CS \u2265 0.672 in most networks), supporting the robustness of the core symptom clusters. Symptom network analysis effectively delineates core suspected irAE symptoms and inter-system associations for PD-1/PD-L1 inhibitors. FAERS-derived networks emphasize systemic-gastrointestinal syndromes, while JADER reveals pulmonary-endocrine predominance in Japanese populations. These findings demonstrate the utility of symptom network analysis as a complementary approach to traditional pharmacovigilance for characterizing complex suspected irAE patterns across different data sources and populations.",
-      "journal": "Frontiers in immunology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43046768",
-      "doi": "10.1111/vco.70130",
-      "title": "Diagnostic and Translational Challenges in Canine Endocrine and Neuroendocrine Neoplasms: A Comparative Pathology Perspective.",
-      "abstract": "The recognition and detection of endocrine and neuroendocrine neoplasms (NENs) in dogs and humans is challenging. This is, in part, because some are non-functional, and where hormone hypersecretion occurs, it can lead to a great variety of clinical syndromes. Additionally, metastatic patterns vary according to the primary anatomical site, and the typically slow growth of many endocrine tumours/NENs may lead to underestimation of biological aggressiveness and misclassification as benign disease. In human medicine, diagnostic evaluation relies on a comprehensive, anatomical site-specific histopathologic framework, incorporating immunohistochemistry as formalised in the 2025 World Health Organisation classification of endocrine tumours/NENs. In contrast, veterinary diagnostic frameworks for canine endocrine tumours/NENs remain comparatively underdeveloped, with limited standardisation of terminology, grading systems, and validated cut-off values. This review aims to raise awareness of key diagnostic challenges associated with the most clinically prevalent canine endocrine tumours/NENs: insulinoma, phaeochromocytoma and cortisol-producing adrenocortical tumours. Emphasis is placed on histopathological characterisation using immunohistochemistry, drawing parallels with established human diagnostic algorithms where appropriate. By synthesising current knowledge from human and canine pathology, this review highlights critical gaps in veterinary diagnostic practice and identifies opportunities for harmonisation of classification strategies. The development of standardised diagnostic guidelines has the potential not only to improve clinical management of affected dogs but also to strengthen the translational value of spontaneous canine endocrine tumours/NENs within the field of comparative oncology and One Medicine.",
-      "journal": "Veterinary and comparative oncology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "43062438",
-      "doi": "10.15586/aei.v54i6.1727",
-      "title": "Allergic sensitization to airborne pollens in Brazil: A narrative review.",
-      "abstract": "Pollen-induced respiratory diseases represent a growing health burden in Brazil, influenced by environmental exposures and climate change. Despite their clinical relevance, pollinosis and pollen sensitization remain underdiagnosed and poorly characterized across the country's diverse ecosystems. To review the epidemiology, clinical relevance, and diagnostic challenges of allergic sensitization to airborne pollen in Brazil, with an emphasis on regional perspectives to support personalized treatment. The ASBAI Committee on Allergens conducted a narrative review of studies published through February 2026 using the PUBMED, LILACS, and SCIELO databases. Studies addressing aerobiology, pollen sensitization, the prevalence of pollinosis, molecular diagnosis, and allergen immunotherapy in Brazilian populations were evaluated. Thirty-eight studies met the inclusion criteria. Reported sensitization rates ranged from 12 to 45%, depending on the geographic region and population studied. The most relevant allergenic source was Lolium multiflorum (L. multiflorum) pollen, particularly in southern Brazil, where well-defined pollen seasonality has been associated with respiratory symptoms and may be influenced by climate change and agricultural practices. Evidence from other regions remains limited, although sensitization to tropical grasses and cashew tree pollen has been documented. Advances in component-resolved diagnosis have improved the identification of genuine sensitization patterns and may help guide indications for allergen immunotherapy. However, the characterization of relevant Brazilian pollens and the standardization of allergen extracts remain insufficient. Allergic sensitization to airborne pollen in Brazil is heterogeneous and strongly influenced by regional flora and environmental conditions. Addressing current knowledge gaps requires establishing a national aerobiological monitoring network and modernizing allergen immunotherapy through molecular standardization, thereby aligning clinical practice with advances in precision medicine.",
-      "journal": "Allergologia et immunopathologia",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "43054719",
-      "doi": "10.7759/cureus.118148",
-      "title": "Pituicytoma Presenting With Hypogonadotropic Hypogonadism in a Highly Vascular Sellar and Suprasellar Mass: A Case Report.",
-      "abstract": "Pituicytoma is a rare low-grade tumor arising from the pituicyte lineage of the posterior pituitary and infundibular region. Because its clinical and magnetic resonance imaging (MRI) features overlap with those of more common sellar tumors and because it is often highly vascular, preoperative diagnosis and surgical management can be challenging. We presented a 45-year-old man who presented with four years of fatigue, reduced libido, erectile dysfunction, and intermittent frontal headache. Early-morning biochemical testing showed low total testosterone (8.9 nmol/L), with inappropriately normal luteinizing hormone (LH) and follicle-stimulating hormone (FSH), consistent with secondary hypogonadism. Pituitary magnetic resonance imaging showed a 25 \u00d7 28 \u00d7 27 mm sellar and suprasellar mass with cavernous sinus extension and superior displacement of the optic chiasm; radiologically, the lesion was initially interpreted\u00a0as a pituitary macroadenoma. Because of concern regarding vascularity, computed tomography (CT) cerebral angiography was performed and demonstrated a hypertrophied right meningo-hypophyseal trunk supplying the tumor. Due to the anticipated risk of major intraoperative hemorrhage, partial surgical debulking was performed. Histopathology and immunohistochemistry supported the diagnosis of pituicytoma. Testosterone replacement increased serum testosterone. Six weeks after surgery, the patient developed secondary adrenal insufficiency and was commenced on hydrocortisone replacement. Radiotherapy was planned for the substantial residual tumor. This case highlights the importance of considering pituicytoma in the differential diagnosis of an enhancing sellar or suprasellar mass with pituitary dysfunction, particularly when marked vascularity is suspected. Preoperative vascular assessment and multidisciplinary management are important when complete resection may carry substantial hemorrhagic risk.",
-      "journal": "Cureus",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43058876",
-      "doi": "10.1186/s13256-026-06429-6",
-      "title": "Bilateral adrenal diffuse large B-cell lymphoma masquerading as bilateral adrenal metastases: a rare presentation diagnosed by endoscopic ultrasound-guided fine-needle biopsy.",
-      "abstract": "Bilateral adrenal diffuse large B-cell lymphoma (DLBCL) is an exceedingly rare entity. Presentation as bilateral adrenal masses without an identifiable extra-adrenal primary poses a formidable diagnostic challenge, frequently mimicking adrenal metastases or primary adrenal malignancy. A 70-year-old normotensive, non-diabetic male presented with a one-month history of weight loss, generalized dull abdominal pain, and anorexia. Contrast-enhanced computed tomography (CECT) revealed bilateral adrenal masses (right 56\u2009\u00d7\u200928\u2009\u00d7\u200955\u00a0mm; left 61\u2009\u00d7\u200930\u2009\u00d7\u200954\u00a0mm) with imaging characteristics indistinguishable from metastatic disease. Extensive workup-including CT of the neck and chest, colonoscopy, and biochemical adrenal profiling-failed to identify a primary extra-adrenal malignancy or hormonal excess. Endoscopic ultrasound-guided fine-needle biopsy (EUS-FNB) using a 22-gauge needle provided tissue confirming diffuse large B-cell lymphoma (DLBCL) with CD20 and PAX-5 positivity. The patient was referred to oncology and commenced on rituximab-based chemotherapy. This case underscores the indispensable role of EUS-guided tissue sampling in the evaluation of bilateral adrenal masses when non-invasive workup is inconclusive. Early tissue diagnosis of adrenal DLBCL is critical, as it is a potentially curable disease amenable to immunochemotherapy rather than surgery.",
-      "journal": "Journal of medical case reports",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Case Reports"
-      ]
-    },
-    {
-      "pmid": "43062431",
-      "doi": "10.15586/aei.v54i6.1788",
-      "title": "Association of sleep disturbances with poor asthma control in children: Unveiling a hidden burden.",
-      "abstract": "Asthma is a prevalent chronic condition in children and has been associated with sleep disturbances. The aim of this study was to determine the prevalence of sleep disturbances in children with asthma and to identify the clinical predictors of impaired sleep quality. The study included children aged 6-16 years with asthma who were followed at the Pediatric Allergy and Immunology Department of Ankara Bilkent City Hospital. A control group of participants with comparable age and demographic characteristics and without any history of chronic, allergic, or psychiatric conditions was also recruited. Sleep disturbances were assessed using the Sleep Disturbance Scale for Children (SDSC), while asthma control was evaluated using the Childhood Asthma Control Test (C-ACT) or ACT. Asthma severity and treatment steps were categorized according to the Global Initiative for Asthma (GINA). A total of 210 children diagnosed with asthma (mean age: 11.2 \u00b1 3.4 years; 54.3% male) were included in the study. According to the SDSC, 45.2% of children with asthma had clinically significant sleep disturbances. Compared to healthy controls (n = 199), asthmatic children had significantly higher total SDSC scores [63 (IQR: 50-74) vs. 53 (46-61); p < 0.001] and all subscale scores (p < 0.001). Among asthmatic children, poor asthma control, GINA Step \u22653 treatment, and asthma exacerbations within the last six months were significantly associated with sleep disturbances. In multivariate logistic regression analysis, ACT/C-ACT scores were identified as independent predictors of sleep disturbance, with higher scores associated with lower odds of sleep disturbance (OR: 0.20; 95% CI: 0.11-0.35; p < 0.001). Poor asthma control was strongly associated with sleep impairment. Routine assessment of sleep quality could support asthma management in pediatric populations.",
-      "journal": "Allergologia et immunopathologia",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43037755",
-      "doi": "10.1007/s11102-026-01761-y",
-      "title": "Oral and maxillofacial manifestations of acromegaly and their association with disease activity: a chart review.",
-      "abstract": "Acromegaly is a rare endocrine disorder characterized by excessive growth hormone (GH) secretion. Facial feature modifications are the patients' most frequently reported complaint. The\u00a0aim was to review the oral and maxillofacial features of acromegalic patients in a population evaluated by an oral and maxillofacial surgeon and, as a secondary. objective, to compare these manifestations according to disease activity. A chart review was conducted in two tertiary referral hospitals, including all acromegalic patients referred to the oral and maxillofacial surgery department between July 2019 and December 2024. Demographic, clinical and radiographical assessments data were collected. A total of 64 patients were included. Macroglossia was the most frequently found feature since 51 (79.6%) patients were affected. More than half the population showed a class III malocclusion, which was linked to a prognathism. The most frequent transversal malocclusion was mandibular transversal excess, which affected 25 (39%) patients. Twelve patients (18.7%) suffered from temporomandibular joint disorders (TMD). The average number of missing teeth was 4.70. Twenty-five patients (39%) exhibited periodontal disease. A total of 30 (46.8%) patients showed an interdental diastema. Fourteen (22.2%) patients exhibited oral tori. Acromegalic patients may exhibit various oral and maxillofacial manifestations beyond the stereotypical mandibular prognathism, mandibular diastemata, and macroglossia. Mandibular expansion occurs not only in the sagittal but also in the transverse dimension, making management more challenging. Although a low prevalence of TMD was observed in this population despite the presence of several potential risk factors, the present findings do not support a protective effect of GH secretion on the periodontium or temporomandibular joints, and such an effect remains speculative. Jaw and occlusal modifications may be managed with orthodontic treatment combined with orthognathic surgery.",
-      "journal": "Pituitary",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43024763",
-      "doi": "10.20945/2359-4292-2026-0133",
-      "title": "Two cases of gigantism with divergent long-term outcomes: the impact of genetics and treatment adherence.",
-      "abstract": "Gigantism is a rare disorder caused by growth hormone excess before epiphyseal closure. Long-term follow-up data are limited, particularly regarding the influence of genetic background and treatment adherence on disease outcomes. We report two adolescents diagnosed with gigantism during puberty who were followed at a tertiary endocrinology center for 12 and 21 years, respectively. Diagnosis was established based on elevated insulin-like growth factor 1 levels, failure of growth hormone suppression during oral glucose tolerance testing, and pituitary magnetic resonance imaging findings. Case l,a 14-year-old female, presented with accelerated linear growth, whereas Case 2, a 14-year-old male, was diagnosed following an orthopedic complication. Both patients had pituitary macroadenomas and underwent transsphenoidal surgery followed by treatment with somatostatin analogs. Germline genetic analysis of the AIP and MEN1 genes was performed using Sanger sequencing of coding exons and flanking regions from DNA extracted from peripheral blood leukocytes. One patient achieved sustained biochemical and structural remission after surgery and long-term somatostatin analog therapy, leading to treatment discontinuation. The other patient exhibited poor treatment adherence, persistent hormonal hypersecretion, residual tumor, and progressive systemic complications. Genetic analysis identified a pathogenic germline AIP nonsense variant (c.804C>A; p.Tyr268*) in the patient with unfavorable clinical evolution, whereas no pathogenic variants were detected in the other case. These findings illustrate divergent clinical trajectories in gigantism and highlight the combined impact of genetic background and treatment adherence on long-term outcomes, supporting the importance of genetic evaluation and sustained follow-up in early-onset disease.",
-      "journal": "Archives of endocrinology and metabolism",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
         "Journal Article"
       ]
     },
@@ -576,79 +681,11 @@
       ]
     },
     {
-      "pmid": "43049956",
-      "doi": "10.1007/s11102-026-01781-8",
-      "title": "Page turnover technique for resection of the medial wall of the cavernous sinus during endoscopic endonasal surgery for acromegaly.",
-      "abstract": "Growth hormone (GH)-secreting pituitary adenomas frequently invade the medial wall of the cavernous sinus (MWCS), limiting surgical success. Conventional approaches are restricted when the internal carotid artery (ICA) adheres to the anterior cavernous sinus (CS) wall or is tortuous. We describe the \"page turnover\" technique for MWCS resection and evaluate its preliminary safety and efficacy. We retrospectively reviewed 12 consecutive patients who underwent endoscopic endonasal surgery for acromegaly using the page turnover technique between March 2018 and June 2025. The technique enters the CS anterior wall lateral to the ICA and reflects the anterior and inferior wall dural flaps medially, like turning a page, to expose the tethering ligaments and resect the MWCS. The cohort comprised 8 macro- and 4 giant pituitary adenomas (mean diameter 3.3\u00a0cm); 91.7% were Knosp grade \u22653\u00a0A. Gross total and near-total resection were achieved in 16.7% and 58.3%, respectively, and endocrine remission occurred in 33.3%. Intraoperative cerebrospinal fluid (CSF) leakage occurred in 66.7% (mostly Kelly grade 1), with no postoperative fistula, ICA trunk injury, or cranial nerve deficit. Pathology confirmed MWCS invasion in 90% of specimens. The page turnover technique is feasible for MWCS resection in anatomically challenging scenarios, with acceptable morbidity in experienced hands.",
-      "journal": "Pituitary",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43056364",
-      "doi": "10.1371/journal.pone.0363328",
-      "title": "Long-term complication profiles following transsphenoidal and transcranial resection of adult craniopharyngioma: A retrospective cohort study.",
-      "abstract": "Craniopharyngiomas arise in the sellar/suprasellar region and are managed with maximal safe resection via transsphenoidal (TSR) or transcranial (TCR) approaches. The optimal approach remains contested, as treatment must balance tumor control against long-term visual, endocrine, neurologic, and cerebrospinal fluid (CSF) leak-related morbidity. Longitudinal complication and morbidity profiles of craniopharyngioma resection in adults remain limited. We evaluated approach-specific long-term outcomes in a large multi-institutional adult cohort. In a retrospective cohort study using the TriNetX network, adult craniopharyngioma patients undergoing TSR or TCR were compared using unmatched analyses and propensity score matching (PSM). Matching characteristics included demographics, comorbidities, presenting features, and prior radiation. Cox models estimated hazard ratios (HR) at 1, 5, 10, and 15 years from surgery. We identified 2,558 (41.0%) patients who underwent TSR and 1,452 (23.3%) who underwent TCR. Patients selected for TCR had more preoperative hydrocephalus and diabetes insipidus (DI), whereas TSR patients had more hypopituitarism. After PSM (1,199 pairs), TSR carried higher early CSF-leak risk (1-year HR:1.65, 95% confidence interval [CI]: 1.25-2.19, p\u2009<\u20090.001) but lower rates of 1-year mortality (HR:0.54, 95%CI:0.33-0.91, p\u2009=\u20090.02), hydrocephalus (HR:0.35, 95%CI:0.18-0.71, p\u2009=\u20090.002), blindness (HR:0.54, 95%CI:0.33-0.86, p\u2009=\u20090.009), and adjuvant radiation (HR:0.70, 95%CI:0.52-0.94, p\u2009=\u20090.02). At 10 years, TSR was associated with lower hydrocephalus (HR:0.57, 95%CI:0.35-0.93, p\u2009=\u20090.02), DI (HR:0.69, 95%CI:0.52-0.91, p\u2009=\u20090.01), and blindness (HR:0.61, 95%CI:0.43-0.86, p\u2009=\u20090.01), but higher hypopituitarism (HR:1.24, 95%CI:1.06-1.46, p\u2009=\u20090.01), higher composite endocrine morbidity (HR:1.23, 95%CI:1.03-1.46, p\u2009=\u20090.02), and persistently elevated CSF leak (HR:1.32, 95%CI:1.02-1.72, p\u2009=\u20090.04). Findings at 5 and 15 years were concordant. Adults with craniopharyngioma experience substantial long-term visual, endocrine, hydrocephalus-related, and treatment-related morbidity. TSR and TCR were associated with distinct long-term complication profiles, with TSR generally associated with lower rates of hydrocephalus, blindness, epilepsy, and DI but higher rates of CSF leak and hypopituitarism. These findings provide long-term population-level estimates that may inform surgical counseling and postoperative surveillance.",
-      "journal": "PloS one",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Multicenter Study"
-      ]
-    },
-    {
-      "pmid": "43062442",
-      "doi": "10.15586/aei.v54i6.1736",
-      "title": "Laryngeal involvement in chronic spontaneous urticaria-associated angioedema: Is there a genuine risk?",
-      "abstract": "Chronic spontaneous urticaria (CSU) affects up to 1% of the population, and 40% of patients develop concomitant angioedema (CSU-AE). While clinically significant laryngeal involvement in mast cell-mediated CSU-AE is considered rare, and large cohorts report no fatal airway compromise, patients frequently present to emergency departments with symptoms perceived as potentially airway affecting. To describe retrospective clinical observations of CSU-AE patients presenting with symptoms suggestive of upper airway involvement and to contextualize these findings within the existing literature. We performed a retrospective descriptive review of consecutive CSU patients evaluated between October 2017 and July 2018 at two tertiary referral centers (Milan, Italy and Sofia, Bulgaria). Medical records were screened for angioedema localization, history of physician-documented laryngeal involvement during emergency evaluations, history of airway interventions, medication exposure, and acute treatment response. Among 1,098 patients, 530 (48%) experienced angioedema and wheals in the context of CSU-AE. Thirteen patients (2%) had objectively documented laryngeal involvement prompting emergency assessment; three patients (all female) underwent endotracheal intubation. No fatalities or loss of consciousness occurred. None had concurrent wheals during the reported laryngeal episodes. History of NSAID exposure preceded some laryngeal exacerbations, though not in intubated cases. None of the patients was receiving ACE inhibitor treatment, all had normal C1 inhibitor (antigen and function) and normal C4. Laryngeal symptoms resolved within hours following standard acute therapy with corticosteroids and/or antihistamines (AHs). Due to the retrospective design, diagnostic work-up for alternative angioedema mechanisms (genetic testing) was incomplete. These observations do not indicate an increased intrinsic airway risk in CSU-AE. Rather, they illustrate diagnostic and management challenges in emergency settings and highlight the importance of mechanism-aware clinical assessment to avoid unnecessary invasive airway interventions. Laryngeal angioedema in CSU-AE is rare and presents with a mild clinical phenotype that does not typically require airway intervention.",
-      "journal": "Allergologia et immunopathologia",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43039600",
-      "doi": "10.1016/j.nec.2026.09.014",
-      "title": "Multidisciplinary Approach to Functioning Pituitary Neuroendocrine Tumors.",
-      "abstract": "Functioning pituitary neuroendocrine tumors require individualized multidisciplinary management because of both tumor mass effects and hormone hypersecretion. Evaluation includes biochemical assessment of hormone excess, pituitary imaging, visual and cranial nerve examination, and assessment of comorbidities. Surgical resection, most commonly via an endoscopic endonasal transsphenoidal approach, is the primary treatment for most functioning tumors. However, prolactinomas are generally treated with dopamine agonists, whereas surgery is typically first-line for growth hormone-, adrenocorticotropic hormone-, and thyroid-stimulating hormone-secreting tumors. Persistent or recurrent disease may require repeat surgery, medical therapy, or radiation.",
-      "journal": "Neurosurgery clinics of North America",
-      "year": "2027",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "43037703",
-      "doi": "10.1007/s10143-026-04566-6",
-      "title": "Deep learning MGMT promoter methylation status prediction in IDH-wildtype glioblastoma using multiparametric MRI: Benchmark vs. real\u2011world performance.",
-      "abstract": "Preoperative determination of O6-methylguanine-DNA methyltransferase (MGMT) promoter methylation status is of major prognostic and predictive relevance in IDH-wildtype glioblastoma, yet currently depends on invasive tissue sampling. This study investigates deep learning-based strategies for MGMT prediction from multiparametric MRIs, with particular emphasis on robustness and generalizability under heterogeneous, multicenter conditions. A total of 949 glioblastoma cases were analyzed, integrating public benchmark data from the Brain Tumor Segmentation Challenge (BraTS) with multi-institutional private cohorts acquired across diverse scanners and imaging protocols. Four complementary experimental settings were designed to compare reproduced literature baselines, private-only training, whole-brain end-to-end models, and segmentation-guided region-of-interest (ROI) pipelines. Tumor delineation was performed using an nnU-Net framework with expert quality control, and multiple three-dimensional convolutional neural network architectures were evaluated. Model performance was highest on the homogeneous BraTS benchmark, where a whole-brain DenseNet121 achieved an area under the receiver operating characteristic curve of 0.80. However, marked performance deterioration was observed when models were evaluated on independent held-out multicenter test set. In contrast, segmentation-guided ROI-based approaches showed a more stable performance profile in this preliminary independent held-out multicenter test. Explicit lesion localization was associated with reduction in false-positive classifications, suggesting a potential benefit for performance stability across heterogeneous datasets, although validation in external cohorts from institutions not represented during training is required. Collectively, these results demonstrate that upstream methodological choices, especially tumor segmentation and ROI definition, remain critical determinants of performance in MRI-based radiogenomic modeling. Future studies should emphasize prospective multicenter validation, domain-shift harmonization, multimodal data integration, and uncertainty-aware deep learning to enhance robustness and interpretability.",
-      "journal": "Neurosurgical review",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43051899",
-      "doi": "10.2169/internalmedicine.8222-26",
-      "title": "Autoantibodies in Immune Checkpoint Inhibitor-Related Endocrinopathies.",
-      "abstract": "Immune checkpoint inhibitors (ICIs) have been established as a standard treatment for many types of cancer; however, they present a clinical challenge due to unique side effects known as immune-related adverse events (irAEs). Endocrine irAEs include the more frequently reported thyroid and pituitary dysfunctions, as well as less frequent, but potentially severe conditions, such as ICI-related type 1 diabetes and primary adrenal insufficiency. These can lead to life-threatening complications, thus requiring careful management. Their pathogenesis is thought to be an autoimmune response. Recent reports have identified various autoantibodies in patients with endocrine irAEs, drawing attention to their clinical significance. This review describes the clinical features and presumed pathogenic mechanisms of endocrine irAEs. Furthermore, it comprehensively summarizes the autoantibodies reported for each endocrine irAE and discusses their significance based on the latest findings, focusing on their utility as predictive biomarkers for irAE onset, their diagnostic value, and their potential involvement in the pathogenesis.",
-      "journal": "Internal medicine (Tokyo, Japan)",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42994909",
-      "doi": "10.1097/MD.0000000000051533",
-      "title": "Adrenal ganglioneuroma in an adolescent presenting as an incidentaloma: Imaging-pathology correlation and diagnostic challenges: A case report.",
-      "abstract": "Adrenal ganglioneuroma (AGN) is a rare, benign, and usually nonfunctioning tumor arising from neural crest-derived sympathetic ganglion cells. Preoperative diagnosis is difficult because the clinical presentation is often nonspecific, and imaging findings overlap with those of other adrenal neoplasms. We describe an adolescent adrenal incidentaloma with detailed imaging-pathology correlation, adding to the small number of reported adolescent cases. A previously healthy 16-year-old male underwent contrast-enhanced computed tomography (CT) after a bicycle accident. No traumatic injury was identified, but imaging incidentally revealed a well-circumscribed right adrenal mass measuring approximately 6.1 cm\u2005\u00d7\u20053.6 cm\u2005\u00d7\u20055.0 cm. CT and magnetic resonance imaging showed progressive, persistent enhancement across the arterial, venous, and delayed phases without demonstrable washout (attenuation increased from 20 Hounsfield units unenhanced to 55 Hounsfield units in the venous phase, with further qualitative enhancement on 15-minute delayed images) and no intralesional fat, suggesting a non-adenomatous lesion and raising suspicion for a neurogenic tumor. Biochemical evaluation showed no evidence of hormonal hypersecretion. Histopathological examination after resection established the diagnosis of AGN. The patient underwent right adrenalectomy because of the size and radiologically indeterminate nature of the mass. The postoperative course was uneventful. Transient elevation of blood pressure noted during follow-up prompted biochemical reevaluation, which showed no evidence of excess catecholamine. Follow-up CT at 9 months showed no recurrence. Progressive delayed enhancement without washout and absence of signal loss on opposed-phase magnetic resonance imaging, a pattern previously described in ganglioneuroma, may suggest the diagnosis preoperatively, although definitive diagnosis requires histopathological confirmation. Complete surgical excision established the diagnosis and achieved a favorable short-term outcome; the excellent long-term prognosis of AGN is supported by the published literature, and our patient remains recurrence-free at 9 months.",
-      "journal": "Medicine",
+      "pmid": "43058876",
+      "doi": "10.1186/s13256-026-06429-6",
+      "title": "Bilateral adrenal diffuse large B-cell lymphoma masquerading as bilateral adrenal metastases: a rare presentation diagnosed by endoscopic ultrasound-guided fine-needle biopsy.",
+      "abstract": "Bilateral adrenal diffuse large B-cell lymphoma (DLBCL) is an exceedingly rare entity. Presentation as bilateral adrenal masses without an identifiable extra-adrenal primary poses a formidable diagnostic challenge, frequently mimicking adrenal metastases or primary adrenal malignancy. A 70-year-old normotensive, non-diabetic male presented with a one-month history of weight loss, generalized dull abdominal pain, and anorexia. Contrast-enhanced computed tomography (CECT) revealed bilateral adrenal masses (right 56\u2009\u00d7\u200928\u2009\u00d7\u200955\u00a0mm; left 61\u2009\u00d7\u200930\u2009\u00d7\u200954\u00a0mm) with imaging characteristics indistinguishable from metastatic disease. Extensive workup-including CT of the neck and chest, colonoscopy, and biochemical adrenal profiling-failed to identify a primary extra-adrenal malignancy or hormonal excess. Endoscopic ultrasound-guided fine-needle biopsy (EUS-FNB) using a 22-gauge needle provided tissue confirming diffuse large B-cell lymphoma (DLBCL) with CD20 and PAX-5 positivity. The patient was referred to oncology and commenced on rituximab-based chemotherapy. This case underscores the indispensable role of EUS-guided tissue sampling in the evaluation of bilateral adrenal masses when non-invasive workup is inconclusive. Early tissue diagnosis of adrenal DLBCL is critical, as it is a potentially curable disease amenable to immunochemotherapy rather than surgery.",
+      "journal": "Journal of medical case reports",
       "year": "2026",
       "publication_types": [
         "Journal Article",
@@ -656,82 +693,10 @@
       ]
     },
     {
-      "pmid": "43062437",
-      "doi": "10.15586/aei.v54i6.1790",
-      "title": "Latest guidelines on asthma exacerbation management.",
-      "abstract": "Asthma exacerbations are a major cause of urgent healthcare use and preventable morbidity. International guidance is broadly consistent, but differences in severity classification, oxygen targets, bronchodilator delivery, escalation, and disposition can complicate practice. This targeted narrative comparative review examined the Global Initiative for Asthma (GINA) 2026 strategy, GEMA 5.5, the Australian Asthma Handbook version 3.0, the US National Asthma Education and Prevention Program Expert Panel Report 3 (EPR-3), and United Kingdom acute asthma recommendations retained in SIGN 158 and signposted through NICE pathway NG244. Official guidance was reviewed through July 2026; the 2020 NAEPP Focused Updates were also examined to contextualize continued use of EPR-3 for acute-care dosing. Recommendations were compared across severity assessment, oxygen therapy, inhaled bronchodilation, systemic corticosteroids, adjunctive treatment, reassessment, escalation, and disposition. All sources support immediate clinical assessment, prompt inhaled short-acting \u03b22-agonist treatment, oxygen titrated for hypoxemia, early systemic corticosteroids for more than mild disease or inadequate initial response, and frequent reassessment. Ipratropium bromide is used early in moderate-to-severe or severe presentations, whereas intravenous magnesium sulfate is reserved for persistent severe or life-threatening exacerbations. Intravenous \u03b22-agonists and aminophylline are not routine treatments, although SIGN retains narrowly defined specialist options in refractory or near-fatal disease. GINA 2026 reports limited emergency department evidence for high-dose budesonide-formoterol but calls for further study. Biologic therapy remains a long-term severe-asthma strategy rather than standard acute rescue treatment. The strongest international consensus concerns initial stabilization; meaningful variation is concentrated in oxygen targets, objective thresholds, refractory treatment, and disposition.",
-      "journal": "Allergologia et immunopathologia",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "43030676",
-      "doi": "10.3390/jcm15218533",
-      "title": "When Thyrotropin Meets Growth Hormone: The Clinical Challenges of a Mixed GH/TSH-Secreting PIT1-Lineage Pituitary Neuroendocrine Tumour.",
-      "abstract": "Background: Acromegaly is most commonly caused by a growth hormone (GH)-secreting pituitary neuroendocrine tumour (PitNET). Plurihormonal PIT1-lineage PitNETs are uncommon, and combined GH and thyroid-stimulating hormone (TSH) secretion poses distinctive diagnostic and therapeutic challenges. We report a mixed GH/TSH-secreting PIT1-lineage PitNET in which the biochemical response to preoperative lanreotide supported the clinical suspicion of a functionally relevant thyrotroph component before targeted pathological reassessment. Case Presentation: A 39-year-old woman presented with a two-year history of progressive acral enlargement, headaches, hyperhidrosis, snoring, and voice deepening. Biochemical evaluation showed IGF-1 1128 ng/mL (reference range 93.1-281), GH 61 \u00b5g/L, TSH 1.5 \u00b5IU/mL (0.35-4.94), FT4 1.66 ng/dL (0.7-1.5), and FT3 7.0 pg/mL (1.8-4.2). Pituitary MRI demonstrated a 15 \u00d7 14 \u00d7 10.5 mm macroadenoma. Lanreotide 120 mg every four weeks reduced IGF-1 to 846 ng/mL and GH to 14 \u00b5g/L while normalizing FT4 (1.04 ng/dL) and FT3 (3.9 pg/mL), reinforcing the suspicion of mixed GH/TSH secretion. Transsphenoidal surgery was performed in October 2024. The tumour was initially classified as a densely granulated somatotroph PitNET; prompted by the preoperative biochemical phenotype, additional \u03b2-TSH immunostaining demonstrated positivity in numerous tumour cells, leading to reclassification as a mature plurihormonal PIT1-lineage PitNET (Ki-67 approximately 1%). Postoperative biochemical remission was not achieved, and MRI demonstrated a 7 mm residual lesion. Lanreotide was resumed, with the sustained control of the thyrotroph component but persistent GH/IGF-1 excess. Because residual disease persisted with slight cavernous sinus extension, Gamma Knife radiosurgery was performed in July 2026. Conclusions: Mixed GH/TSH-secreting PIT1-lineage PitNETs may be overlooked when TSH is inappropriately normal rather than frankly elevated. This case illustrates the value of integrating biochemical findings, treatment response, and targeted histopathological reassessment. Persistent disease despite surgery and somatostatin receptor ligand therapy further highlights the frequent need for multimodal, long-term management.",
-      "journal": "Journal of clinical medicine",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43036727",
-      "doi": "10.7759/cureus.118034",
-      "title": "Refractory Cushing's Disease Complicated by Severe Thrombocytopenia and Pituitary Apoplexy Culminating in a Fatal Outcome: A Case Report.",
-      "abstract": "Hypercortisolemia associated with Cushing's disease is classically recognized as a hypercoagulable state. Conversely, severe thrombocytopenia and hemorrhagic complications are exceptionally rare presentations. We report a case of a 59-year-old woman who presented with headache, proximal weakness, and Cushingoid features. Examination revealed severe Cushingoid features. Laboratory findings showed metabolic alkalosis, severe hypokalemia, and mild thrombocytopenia. Biochemical evaluation confirmed adrenocorticotropic hormone (ACTH)-dependent hypercortisolism (cortisol 157 \u00b5g/dL, ACTH 212 pg/mL), and a magnetic resonance imaging (MRI) scan revealed a 28-mm invasive pituitary macroadenoma extending into the sphenoid sinus and left cavernous sinus. The patient was admitted to the intensive care unit for electrolyte replacement and blood pressure control. Thrombocytopenia worsened progressively alongside mucocutaneous bleeding. Diagnostic workup showed preserved megakaryopoiesis, normal ADAMTS-13 activity, absent schistocytes, and elevated factor VIII and von Willebrand factor levels, pointing toward platelet consumption driven by severe endothelial stress. Given severe tissue fragility and progressive thrombocytopenia, transsphenoidal surgery was deferred, and medical therapy with cabergoline, mifepristone, and metyrapone was initiated. However, dose escalation was halted by worsening hypokalemia and refractory symptoms. The patient developed central diabetes insipidus (DI), necessitating desmopressin. On day 29, acute neurological deterioration with a left third cranial nerve palsy occurred; repeat neuroimaging confirmed acute pituitary apoplexy. Emergency transsphenoidal decompression was deferred due to profound thrombocytopenia and carotid artery encasement. Facing refractory disease, salvage bilateral laparoscopic adrenalectomy was performed on day 31. Postoperatively, the patient developed refractory shock, ischemic hepatitis, and anuric acute kidney failure. Despite multimodal medical therapy, she succumbed to multiorgan failure on day 35. This case illustrates a rare and life-threatening presentation of Cushing's disease complicated by suspected secondary consumptive thrombocytopenia and sellar apoplexy, highlighting the critical challenges of managing fulminant hypercortisolemia when emergency neurosurgical intervention carries prohibitive operative risks. This case underscores the locally invasive behavior of some pituitary tumors and the need for multidisciplinary management of severe Cushing's disease complications.",
-      "journal": "Cureus",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43062436",
-      "doi": "10.15586/aei.v54i6.1691",
-      "title": "Successful obinutuzumab desensitization following immediate hypersensitivity reaction in a patient with marginal zone lymphoma.",
-      "abstract": "Obinutuzumab is a humanized anti-CD20 monoclonal antibody widely used in the treatment of B-cell lymphomas. Infusion-related reactions may limit its use and compromise optimal oncologic management. Drug desensitization represents an effective strategy to allow continuation of first-line therapy in selected patients. We report a patient with marginal zone lymphoma who developed an immediate hypersensitivity reaction during the first infusion of obinutuzumab, characterized by generalized erythematous rash, pruritus, urticaria, dyspnea, nausea, and oxygen desaturation. At the time of the reaction, vital signs were as follows: blood pressure 105/67 mmHg, heart rate 92 beats/min, and oxygen saturation 87% on room air. According to the Brown severity classification, the reaction was classified as moderate anaphylaxis (Grade 2) because there was respiratory involvement without persistent hypotension, collapse, or neurological compromise despite transient oxygen desaturation. Skin prick and intradermal tests were conducted using dilutions of 1/1 (25 mg/mL), 1/10 (2.5 mg/mL), 1/100 (0.25 mg/mL), and 1/1000 (0.025 mg/mL) prepared similarly to other biologic agents. Skin tests performed with dilutions prepared 4 weeks after the reaction were found to be negative. Given the clinical necessity of continuing treatment, a modified desensitization protocol was performed under close monitoring. Mild breakthrough reactions occurred during the initial desensitization steps but were successfully managed. Subsequent infusions were completed without further adverse reactions. This case highlights the feasibility and safety of obinutuzumab desensitization in patients with immediate hypersensitivity reactions. Given the limited number of reported cases in the literature, this report provides valuable clinical evidence supporting individualized desensitization strategies.",
-      "journal": "Allergologia et immunopathologia",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43041228",
-      "doi": "10.7759/cureus.118039",
-      "title": "Pediatric Pituitary Neuroendocrine Tumor With Extensive Necrosis: A Case Report.",
-      "abstract": "We describe an unusual presentation of a pediatric pituitary neuroendocrine tumor (PitNET). A 17-year-old previously healthy male presented to the emergency department with altered mental status, lethargy, nausea, vomiting, fever, and tachycardia. Head imaging incidentally demonstrated a large expansile sellar/suprasellar cystic and solid mass displacing the optic chiasm, invading bilaterally into the cavernous sinuses, and encasing the internal carotid arteries. He developed decreased vision of the left eye on hospital day two and underwent urgent endoscopic endonasal transsphenoidal resection of the mass. Pathology demonstrated a PitNET with extensive necrosis, lactotroph differentiation, and changes suggestive of superimposed tumoral infection. His postoperative course was complicated by panhypopituitarism, chronic diabetes insipidus, and a cerebrospinal fluid leak managed with lumbar drainage. His presenting symptoms resolved completely, with no tumor recurrence at two-month follow-up. The initial clinical manifestation in this case was suggestive of adrenal crisis secondary to pituitary hypofunction and secondary adrenal insufficiency, attributed to significant tumor compression and pituitary necrosis, and surgical decompression was performed for new visual loss.",
-      "journal": "Cureus",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43042746",
-      "doi": "10.5546/aap.2026-11060.eng",
-      "title": "Septo-optic dysplasia and congenital panhypopituitarism associated with complicated gastroschisis.",
-      "abstract": "Gastroschisis is a rare defect of the abdominal wall, rarely associated with other malformations. Septo-optic dysplasia (SOD) is a midline abnormality characterized by hypothalamic-pituitary dysfunction and cerebral parenchymal abnormalities, both of unknown causes. I present the case of a preterm newborn with a weight appropriate for her gestational age and a prenatal diagnosis of gastroschisis. Surgical repair was performed 8 hours after birth. Subsequently, she developed fluid and electrolyte imbalances and polyuria; central diabetes insipidus was diagnosed based on a positive desmopressin test. A brain MRI was performed, showing findings consistent with SOD, and hormonal studies confirmed congenital panhypopituitarism. Hormone replacement therapy was initiated, and the patient's clinical course has been favorable. SOD and congenital panhypopituitarism are difficult to diagnose due to their variable and nonspecific presentation. Hypoglycemia is the predominant finding in newborns. Early detection allows for treatment and prevents irreversible complications. La gastrosquisis es un defecto infrecuente de la pared abdominal, rara vez asociado a otras malformaciones. La displasia septo-\u00f3ptica (DSO) es una alteraci\u00f3n de la l\u00ednea media con disfunci\u00f3n hipot\u00e1lamo-hipofisaria y anomal\u00edas del par\u00e9nquima cerebral, ambas de causa desconocida. Se presenta el caso de una reci\u00e9n nacida pret\u00e9rmino, con peso adecuado para la edad gestacional y diagn\u00f3stico prenatal de gastrosquisis. El cierre quir\u00fargico se realiz\u00f3 a las 8 horas de vida. Posteriormente, present\u00f3 alteraciones hidroelectrol\u00edticas y poliuria; se diagnostic\u00f3 diabetes ins\u00edpida central mediante prueba de desmopresina positiva. Se efectu\u00f3 resonancia magn\u00e9tica cerebral compatible con DSO y estudios hormonales que confirmaron panhipopituitarismo cong\u00e9nito. Se inici\u00f3 tratamiento de reemplazo hormonal con buena evoluci\u00f3n cl\u00ednica. La DSO y el panhipopituitarismo cong\u00e9nito son de diagn\u00f3stico complejo por su presentaci\u00f3n variable e inespec\u00edfica. En neonatos predominan las hipoglucemias. El reconocimiento temprano permite su tratamiento y previene secuelas irreversibles.",
-      "journal": "Archivos argentinos de pediatria",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43039602",
-      "doi": "10.1016/j.nec.2026.09.010",
-      "title": "Pituitary Apoplexy: Urgent Diagnosis and Surgical Intervention.",
-      "abstract": "Pituitary apoplexy is an acute hemorrhagic and ischemic event, most often within a pituitary neuroendocrine tumor, that can cause sudden headache, vision loss, ophthalmoplegia, and adrenal insufficiency. Early recognition, prompt glucocorticoid replacement for unstable patients, urgent MRI for characterization, and rapid multidisciplinary coordination are critical. Urgent endoscopic endonasal transsphenoidal decompression is indicated for severe or progressive vision loss, declining consciousness, or worsening cranial neuropathies. Conservative management with close observation is selected for patients with mild symptoms who are hemodynamically and neurologically stable. Modern endoscopic techniques enable excellent hematoma evacuation, optic apparatus decompression and restoration of vision and cranial nerve function. Endocrine deficits frequently persist, and require long\u2011term pituitary hormone replacement with multidisciplinary clinical follow\u2011up.",
+      "pmid": "43039610",
+      "doi": "10.1016/j.nec.2026.09.006",
+      "title": "Pituitary Neuroendocrine Tumors in the Pediatric Population.",
+      "abstract": "Pediatric pituitary neuroendocrine tumors (PPitNETs) are rare but present significant clinical challenges in children. Their diverse presentations necessitate comprehensive endocrinologic and radiographic evaluation. They are most commonly prolactin-secreting or adrenocorticotropic hormone-secreting. A genetic mutation can be present, particularly in young patients with aggressive disease. Management is multidisciplinary. Medical therapy is first-line treatment of prolactinomas, and surgery is first-line treatment of most other PPitNETs, with reasonable remission rates when performed in experienced centers. Long-term outcomes are favorable, although hypopituitarism and lifelong hormone replacement remain important concerns. Ongoing surveillance is essential to ensure detect recurrence, and monitor treatment-related complications.",
       "journal": "Neurosurgery clinics of North America",
       "year": "2027",
       "publication_types": [

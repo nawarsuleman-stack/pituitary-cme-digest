@@ -228,6 +228,7 @@
     "43025737",
     "43025976",
     "43026363",
+    "43026405",
     "43028316",
     "43028345",
     "43033903",
@@ -235,8 +236,10 @@
     "43037715",
     "43041208",
     "43043502",
+    "43045240",
     "43046039",
     "43047711",
+    "43049956",
     "43050034",
     "43051712",
     "43053005",
@@ -3721,6 +3724,49 @@
           "caveat": "This is a narrative review with an explicitly advocacy-oriented framing (patient-clinician co-authorship); it is not a systematic review or clinical trial. The authors acknowledge that response predictors for fgSRLs vary in accuracy, and predictors for pasireotide LAR specifically remain unconfirmed. Industry relationships of authors are not disclosed in the abstract.",
           "quiz_question": "A newly diagnosed acromegaly patient has a densely granulated somatotroph macroadenoma with high SSTR2 expression on immunohistochemistry. Under current EU regulatory labeling, what is required before prescribing pegvisomant, and how does this differ from US practice?",
           "quiz_answer": "Under EU/UK labeling, pegvisomant requires documented inadequate control (or intolerance) on prior somatostatin analogue therapy, so this patient would need a fgSRL trial first regardless of predicted response. In the US, no such mandatory prior fgSRL failure is required by the label\u2014though notably, this patient's high SSTR2 expression would actually predict a favorable fgSRL response, making a fgSRL trial clinically reasonable in either jurisdiction.",
+          "journal": "Pituitary",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-16",
+      "items": [
+        {
+          "pmid": "43026405",
+          "doi": "10.1007/s11102-026-01785-4",
+          "title": "Trigeminal autonomic cephalgia due to pituitary adenomas: scoping review of the literature.",
+          "category": "notable",
+          "summary": "This PRISMA-guided scoping review of 57 cases found that TACs associated with pituitary adenomas most commonly manifest as SUNCT/probable SUNCT (~47%) or cluster-type headaches (~46%), and that ~91% of the associated adenomas were secreting tumors. Notably, 98% of patients had complete or partial headache resolution with treatment; TACs secondary to prolactinomas specifically improved with dopamine agonist therapy, while medically refractory TACs with GH-secreting adenomas responded well to surgical resection. Patients required a mean of 4.8 medication trials before achieving relief, underscoring the importance of identifying the underlying pituitary lesion rather than treating the headache syndrome alone.",
+          "caveat": "Only 57 cases were identified across the entire literature, limiting statistical power. This is a scoping review of mostly small reports; publication bias toward positive outcomes is likely, and causal mechanisms between pituitary tumor and TAC pathophysiology remain speculative.",
+          "quiz_question": "A 44-year-old man presents with recurrent brief, severe unilateral orbital pain episodes with ipsilateral lacrimation and conjunctival injection, occurring up to 20 times/day. Multiple preventive headache medications have failed. What diagnostic step should be prioritized, and what is the most common associated pituitary finding if a secondary cause is identified?",
+          "quiz_answer": "Pituitary MRI and hormonal evaluation should be performed to exclude a secreting pituitary adenoma as a secondary cause. Per this review, SUNCT is the most common TAC phenotype associated with pituitary adenomas, and the majority of implicated tumors (~91%) are hormonally active\u2014most often prolactinomas or GH-secreting adenomas. Identifying and treating the underlying pituitary tumor often resolves the TAC.",
+          "journal": "Pituitary",
+          "year": "2026"
+        },
+        {
+          "pmid": "43045240",
+          "doi": "10.1016/j.cger.2026.08.013",
+          "title": "Endocrine Disorders in Older Adults: Adrenal Disorders.",
+          "category": "notable",
+          "summary": "This review synthesizes age-related changes in adrenal physiology relevant to clinical practice: cortical remodeling with zonal redistribution, declining adrenal androgens, dysregulated HPA axis with altered cortisol patterning, and reduced aldosterone and catecholamine reserve. Adrenal insufficiency, hypercortisolism, primary aldosteronism, and incidentalomas all increase in prevalence with age but frequently present atypically in older adults\u2014complicated further by comorbidities and polypharmacy that confound diagnosis and management. The authors emphasize individualized management accounting for frailty and treatment-related risks, particularly the heightened vulnerability of older patients to glucocorticoid side effects and the challenges of interpreting biochemical thresholds in this population.",
+          "caveat": "This is a narrative review without a formal systematic methodology; specific evidence grades for management recommendations are not provided. Recommendations for older adults are largely extrapolated from trials conducted in younger populations.",
+          "quiz_question": "A 78-year-old woman with hypertension, fatigue, and mild hypokalemia is found to have an aldosterone-to-renin ratio of 38 (ng/dL per ng/mL/hr). Her creatinine is mildly elevated and she takes a thiazide diuretic. What age-specific factors should temper your diagnostic and therapeutic approach to possible primary aldosteronism in this patient?",
+          "quiz_answer": "In older adults, aldosterone and renin both decline with age, potentially affecting the aldosterone-to-renin ratio cutoffs used for screening. Polypharmacy (e.g., diuretics) can confound renin levels. Comorbidities and frailty increase the risk of adrenalectomy and require careful consideration. Medical management with mineralocorticoid receptor antagonists\u2014with vigilance for hyperkalemia given reduced renal reserve\u2014is often preferred over surgery, and an individualized approach weighing frailty and treatment-related risks is essential.",
+          "journal": "Clinics in geriatric medicine",
+          "year": "2027"
+        },
+        {
+          "pmid": "43049956",
+          "doi": "10.1007/s11102-026-01781-8",
+          "title": "Page turnover technique for resection of the medial wall of the cavernous sinus during endoscopic endonasal surgery for acromegaly.",
+          "category": "preliminary",
+          "summary": "This retrospective series of 12 patients describes the 'page turnover' technique for endoscopic endonasal resection of the medial cavernous sinus wall in acromegaly when standard lateral approaches are anatomically restricted by ICA tortuosity or adhesion. The approach enters the anterior CS wall lateral to the ICA and reflects dural flaps medially like a page, exposing tethering ligaments for MWCS resection. Gross/near-total resection was achieved in ~75% and endocrine remission in 33.3%, with no ICA injury or cranial nerve deficit, though CSF leak occurred intraoperatively in two-thirds of cases.",
+          "caveat": "Only 12 patients; this is a retrospective single-center series with short follow-up and no comparator group. The 33.3% endocrine remission rate reflects the challenging nature of Knosp \u22653A disease but cannot be benchmarked against alternative techniques from this data alone. Results should be considered hypothesis-generating for experienced pituitary centers only.",
+          "quiz_question": "A 38-year-old woman with active acromegaly (IGF-1 2.5\u00d7 ULN despite lanreotide) has a residual pituitary adenoma with Knosp grade 3A cavernous sinus invasion and a tortuous ipsilateral ICA on preoperative imaging. Standard transsphenoidal medial wall resection is felt to be anatomically restricted. What surgical approach is described in this study as a potential alternative, and what is its key reported safety concern?",
+          "quiz_answer": "The 'page turnover' technique enters the anterior cavernous sinus wall lateral to the ICA and reflects the anterior and inferior dural flaps medially, exposing tethering ligaments and allowing medial wall resection without requiring direct lateral ICA retraction. The key safety concern reported in this series was a high rate of intraoperative CSF leak (66.7%), though no postoperative CSF fistula, ICA trunk injury, or cranial nerve deficit occurred in this small cohort.",
           "journal": "Pituitary",
           "year": "2026"
         }
