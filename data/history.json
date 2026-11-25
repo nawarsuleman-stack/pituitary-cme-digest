@@ -251,7 +251,11 @@
     "43061069",
     "43069611",
     "43069892",
-    "43070125"
+    "43070125",
+    "43072764",
+    "43077345",
+    "43077482",
+    "43079417"
   ],
   "sessions": [
     {
@@ -3860,6 +3864,61 @@
           "quiz_question": "You are following a 38-year-old woman with primary adrenal insufficiency on hydrocortisone and fludrocortisone. Her husband accompanies her and mentions he is frequently waking at night to check on her and feels anxious about what to do if she becomes unwell. Based on this qualitative study, what does the evidence suggest about the unmet needs of partners of AI patients, and what practical action should this prompt at today's visit?",
           "quiz_answer": "This study found that loved ones of AI patients routinely fill care gaps \u2014 including crisis recognition and sick-day management \u2014 without formal training, and live with persistent fear of adrenal crisis. This should prompt the clinician to directly address the husband's education needs: providing structured sick-day rule instruction, emergency hydrocortisone injection training, and clear crisis action plans directed at him as well as the patient. The study suggests that targeting LO education and support, not just the patient, may improve outcomes and reduce caregiver burden.",
           "journal": "Clinical medicine insights. Endocrinology and diabetes",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-10",
+      "items": [
+        {
+          "pmid": "43072764",
+          "doi": "10.1507/endocrj.EJ26-0388",
+          "title": "2026 consensus on the management of Cushing's disease: a collaborative statement from the Korean Endocrine Society and Japan Endocrine Society.",
+          "category": "notable",
+          "summary": "This joint KES-JES expert consensus on Cushing's disease management affirms transsphenoidal surgery as first-line treatment and recommends individualized multimodal therapy for persistent or recurrent disease, including pituitary-directed agents, adrenal steroidogenesis inhibitors, radiation, and bilateral adrenalectomy for refractory cases. The statement explicitly highlights that available medications and reimbursement differ between Korea and Japan, so regional therapeutic algorithms must account for local access. Bridging medical therapy is endorsed for severe hypercortisolism requiring urgent control prior to definitive intervention. The consensus also acknowledges existing evidence gaps and calls for further East Asian collaborative research.",
+          "caveat": "This is an expert consensus rather than a systematic evidence review; grading of recommendations is not transparently stratified by evidence quality, and many conclusions reflect regional practice norms and regulatory environments that may not translate directly to other health systems.",
+          "quiz_question": "A 38-year-old woman with confirmed Cushing's disease has persistent hypercortisolism six months after transsphenoidal surgery. She is not a candidate for immediate repeat surgery. According to the 2026 KES-JES consensus, what treatment categories should be considered next, and what is reserved for truly refractory cases?",
+          "quiz_answer": "Per the consensus, persistent or recurrent post-surgical disease should be managed with pituitary tumor-directed agents (e.g., pasireotide) or adrenal steroidogenesis inhibitors (e.g., metyrapone, osilodrostat) as key pharmacologic options, with radiation therapy when surgery is not feasible or insufficient. Bilateral adrenalectomy is reserved for highly selected refractory cases where other modalities have failed.",
+          "journal": "Endocrine journal",
+          "year": "2026"
+        },
+        {
+          "pmid": "43079417",
+          "doi": "10.1186/s12902-026-02447-z",
+          "title": "Clinical characteristics and management of nivolumab-induced hypophysitis: retrospective analysis based on case reports.",
+          "category": "notable",
+          "summary": "This systematic case-based synthesis of 40 patients with nivolumab-induced hypophysitis found that the corticotropic axis is most commonly affected, with median cortisol of 2.9 \u00b5g/dL and ACTH of 38 pg/mL at presentation; MRI pituitary abnormalities were present in only 46% of cases, underscoring that a normal MRI does not exclude the diagnosis. Fatigue (83%), anorexia/nausea (65%), and hyponatremia (43%) were the dominant symptoms, with onset at a median of 20 weeks post-nivolumab initiation. All patients received corticosteroids, full hormonal recovery was uncommon, and among 16 patients rechallenged with nivolumab, relapse of hypophysitis occurred in 19%. The findings emphasize that early biochemical testing\u2014not imaging alone\u2014is essential for diagnosis, and that long-term hormone replacement should be anticipated.",
+          "caveat": "The analysis is based on published case reports and series (n=40), which are subject to selection and publication bias; the rarity of reported cases likely underestimates true incidence, and heterogeneity in reporting makes firm management conclusions difficult.",
+          "quiz_question": "A 65-year-old man with metastatic renal cell carcinoma on nivolumab presents at week 22 with profound fatigue, nausea, and serum sodium of 128 mEq/L. His pituitary MRI is read as normal. What is the most important next step, and what hormonal axis should be prioritized?",
+          "quiz_answer": "Nivolumab-induced hypophysitis must be suspected despite a normal MRI. Early biochemical evaluation is essential\u2014prioritizing assessment of the corticotropic axis (morning serum cortisol and ACTH), as central adrenal insufficiency is the most common and life-threatening endocrinopathy. Corticosteroid replacement should be initiated promptly if cortisol is low or the clinical picture is consistent, without waiting for MRI confirmation.",
+          "journal": "BMC endocrine disorders",
+          "year": "2026"
+        },
+        {
+          "pmid": "43077345",
+          "doi": "10.1093/ejendo/lvag228",
+          "title": "Secondary adrenal insufficiency prevalence in patients with euvolaemic hyponatraemia - analysis of a randomized controlled, parallel-group trial (standard care versus guideline based).",
+          "category": "notable",
+          "summary": "In a large multicenter hyponatraemia RCT (n=1,074 euvolaemic patients), secondary adrenal insufficiency (SAI) accounted for 2.9% of cases\u2014substantially less common than SIAD (79.8%) but clinically important given its rapid treatability. SAI patients presented with significantly lower plasma sodium (121 vs. 127 mmol/L) and lower systolic blood pressure (118 vs. 130 mmHg) compared to SIAD patients. Hypopituitarism was the leading cause (39%), followed by exogenous glucocorticoids (19%) and immune checkpoint inhibitor therapy (16%). Critically, cortisol was measured in only 29% of patients in the standard-of-care arm with suspected SIAD, yet when SAI was identified and treated with hydrocortisone, sodium normalized in 71% within 2.5 days\u2014outperforming SIAD correction rates.",
+          "caveat": "SAI patients were a small subgroup (n=31), limiting statistical power for subgroup comparisons. This is a secondary analysis of a trial not primarily designed to study SAI; the standard-of-care arm's low cortisol-testing rate reflects real-world practice gaps but may not be generalizable across all clinical settings.",
+          "quiz_question": "You evaluate a 72-year-old man admitted for euvolaemic hyponatraemia (Na 119 mEq/L) with a systolic BP of 112 mmHg. The team is about to diagnose SIAD. What clinical features should prompt you to test for secondary adrenal insufficiency first, and what is the expected sodium response if SAI is confirmed and treated?",
+          "quiz_answer": "Lower-than-expected plasma sodium (here <125 mEq/L) combined with low systolic blood pressure (<120 mmHg) in a euvolaemic hyponatraemia presentation should raise suspicion for SAI before defaulting to a SIAD diagnosis. Per this study, when SAI is identified and treated with hydrocortisone, plasma sodium normalizes in approximately 71% of patients within 2.5 days\u2014a faster and more complete response than seen with SIAD management. Cortisol measurement should not be omitted in this workup.",
+          "journal": "European journal of endocrinology",
+          "year": "2026"
+        },
+        {
+          "pmid": "43077482",
+          "doi": "10.1530/EC-26-0610",
+          "title": "Radiosurgery facilitates pharmacotherapy withdrawal in acromegaly: long-term outcomes.",
+          "category": "notable",
+          "summary": "In this single-centre retrospective cohort of 136 acromegaly patients followed for up to 24 years, Gamma Knife radiosurgery (LGK) in the setting of persistent post-surgical disease enabled discontinuation of medical therapy in 80.6% of treated patients, with a median time to withdrawal of 50.5 months. Final IGF-1 normalization was achieved in 97.8% of all patients, with 85.3% controlled without ongoing IGF-1-lowering pharmacotherapy. Notably, 38% of patients requiring postoperative pharmacotherapy were managed successfully with dopamine agonist monotherapy alone, highlighting this as an underutilized option for mild residual disease. Clinically relevant hypopituitarism from LGK was observed in 12.1%.",
+          "caveat": "Single-centre retrospective design with inherent selection bias; patients who received LGK were a selected subgroup with persistent disease, so outcomes may not reflect a general acromegaly population. Long follow-up periods (median 70 months to last visit overall) introduce heterogeneity in management eras and pharmacologic options.",
+          "quiz_question": "A 54-year-old with persistent acromegaly after transsphenoidal surgery has been on octreotide LAR for 3 years with partial biochemical control. He undergoes Gamma Knife radiosurgery. Based on this study's findings, what is the realistic expectation for pharmacotherapy withdrawal, and how long should he expect to wait?",
+          "quiz_answer": "Among acromegaly patients treated with LGK for persistent post-surgical disease who were on concomitant pharmacotherapy, approximately 80% were able to discontinue medical therapy, but the median time to withdrawal was 50.5 months (IQR 17\u201379.5 months). He should be counseled that drug de-escalation is a realistic long-term goal but typically takes several years, and ongoing IGF-1 monitoring is essential throughout.",
+          "journal": "Endocrine connections",
           "year": "2026"
         }
       ],
