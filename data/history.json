@@ -255,7 +255,10 @@
     "43072764",
     "43077345",
     "43077482",
-    "43079417"
+    "43079139",
+    "43079417",
+    "43094482",
+    "43095004"
   ],
   "sessions": [
     {
@@ -3919,6 +3922,49 @@
           "quiz_question": "A 54-year-old with persistent acromegaly after transsphenoidal surgery has been on octreotide LAR for 3 years with partial biochemical control. He undergoes Gamma Knife radiosurgery. Based on this study's findings, what is the realistic expectation for pharmacotherapy withdrawal, and how long should he expect to wait?",
           "quiz_answer": "Among acromegaly patients treated with LGK for persistent post-surgical disease who were on concomitant pharmacotherapy, approximately 80% were able to discontinue medical therapy, but the median time to withdrawal was 50.5 months (IQR 17\u201379.5 months). He should be counseled that drug de-escalation is a realistic long-term goal but typically takes several years, and ongoing IGF-1 monitoring is essential throughout.",
           "journal": "Endocrine connections",
+          "year": "2026"
+        }
+      ],
+      "refresher_needed": false,
+      "refresher_topic": ""
+    },
+    {
+      "date": "2026-07-24",
+      "items": [
+        {
+          "pmid": "43095004",
+          "doi": "10.1210/jendso/bvag209",
+          "title": "Efficacy of radionuclide therapy in the treatment of inoperable or metastatic pheochromocytoma and paraganglioma.",
+          "category": "notable",
+          "summary": "This retrospective audit of 16 treatment-na\u00efve patients with progressive inoperable or metastatic pheochromocytoma/paraganglioma compared I-131 MIBG and Lu-177 DOTATATE, finding disease control rates of 92% (clinical), 100% (hormonal), and 100% (radiological) at first post-treatment review. Median radiological progression-free survival was an impressive 53 months (95% CI 27\u201362), and overall survival was not reached. Both agents reduced catecholamine excess, improved blood pressure control, and stabilized tumor growth, supporting their role as first-line systemic options in this setting.",
+          "caveat": "Very small cohort (n=16) with heterogeneous disease and no randomized comparison between the two agents; retrospective single-center design limits generalizability. The high disease control rates should be interpreted cautiously given the small numbers.",
+          "quiz_question": "A 58-year-old man with SDHB-mutated paraganglioma develops progressive hepatic and osseous metastases despite prior surgery. SSTR scintigraphy shows avid uptake. Which radionuclide therapy would be appropriate, and what disease control rates does current evidence support in this setting?",
+          "quiz_answer": "Lu-177 DOTATATE (PRRT) is appropriate given avid somatostatin receptor expression. This retrospective series reported radiological disease control in 100% of patients at first assessment and a median radiological PFS of 53 months, with meaningful improvement in blood pressure and hormonal markers, supporting PRRT as a viable systemic option in progressive metastatic PC/PGL.",
+          "journal": "Journal of the Endocrine Society",
+          "year": "2026"
+        },
+        {
+          "pmid": "43094482",
+          "doi": "10.3389/fendo.2026.2007985",
+          "title": "Pituitary residual tumor detection: incremental value of multimodal assessment.",
+          "category": "notable",
+          "summary": "In a retrospective cohort of 120 consecutive patients undergoing transsphenoidal surgery, sequential endoscopic inspection and 3.0-T intraoperative MRI (iMRI) each provided information beyond microsurgical assessment alone. Critically, among 95 patients deemed surgically complete by endoscopy, iMRI still identified suspected residual tumor in 22%, and the odds of iMRI-detected residual roughly doubled with each doubling of preoperative tumor volume. Recurrent adenomas were far more likely to require multimodal escalation than primary cases (85.7% vs. 32.1%).",
+          "caveat": "Single-center retrospective design; iMRI findings of 'suspected' residual tumor were not uniformly confirmed histologically, so the true positive rate for iMRI is not fully established. Access to iMRI remains limited to specialized centers.",
+          "quiz_question": "During transsphenoidal resection of a large recurrent pituitary macroadenoma, the endoscopic view appears clear and the surgeon judges resection complete. What does this study suggest about the value of proceeding to intraoperative MRI in this scenario?",
+          "quiz_answer": "The study found that in recurrent adenomas, 85.7% required further assessment beyond endoscopy alone, and iMRI identified suspected residual tumor in 22% of cases judged complete on endoscopic inspection. This supports using iMRI routinely in recurrent macroadenomas, particularly larger tumors, as endoscopic assessment alone is insufficient to confirm extent of resection.",
+          "journal": "Frontiers in endocrinology",
+          "year": "2026"
+        },
+        {
+          "pmid": "43079139",
+          "doi": "10.1007/s12020-026-04849-4",
+          "title": "Long-term metabolic and biochemical outcomes of pasireotide LAR in resistant acromegaly.",
+          "category": "notable",
+          "summary": "In this real-world Romanian cohort of 30 acromegaly patients switched to pasireotide LAR (median follow-up 36.5 months), strict biochemical control (IGF-1 \u22641.0\u00d7ULN) was achieved in 60% and acceptable control (<1.3\u00d7ULN) in 76.7%. However, new-onset diabetes occurred in 37.5% of patients without prior diabetes, and HbA1c \u22657.0% was present in 20% at last evaluation. Exploratory analyses suggested that higher baseline IGF-1 at diagnosis correlated with greater glycemic deterioration, though this requires prospective confirmation.",
+          "caveat": "Single-center retrospective observational study from one tertiary center (Romania, n=30); short of a controlled trial. The correlation between diagnostic IGF-1 and glycemic worsening is exploratory and may reflect residual confounding. Industry funding not explicitly disclosed but warrants consideration given pasireotide's known metabolic profile.",
+          "quiz_question": "You are considering switching a 48-year-old acromegaly patient with pre-diabetes from first-generation octreotide LAR (inadequate IGF-1 control) to pasireotide LAR. Based on this real-world cohort, what metabolic risk should you counsel the patient about and what monitoring is indicated?",
+          "quiz_answer": "New-onset diabetes occurred in 37.5% of previously non-diabetic patients on pasireotide LAR in this cohort, with HbA1c \u22657% in 20% at last follow-up. Patients should be counseled about a substantial risk of clinically significant hyperglycemia. Fasting glucose and HbA1c should be monitored before initiation and at least every 3 months thereafter, with early antidiabetic therapy initiated as needed.",
+          "journal": "Endocrine",
           "year": "2026"
         }
       ],

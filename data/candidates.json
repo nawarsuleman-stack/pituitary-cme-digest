@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-11-25",
+  "fetched_at": "2026-11-26",
   "date_window": {
-    "from": "2016/11/27",
-    "to": "2026/11/25"
+    "from": "2016/11/28",
+    "to": "2026/11/26"
   },
   "already_covered_pmids": [
     "41730814",
@@ -256,47 +256,29 @@
     "43061069",
     "43069611",
     "43069892",
-    "43070125"
+    "43070125",
+    "43072764",
+    "43077345",
+    "43077482",
+    "43079417"
   ],
   "candidates": [
     {
-      "pmid": "43077345",
-      "doi": "10.1093/ejendo/lvag228",
-      "title": "Secondary adrenal insufficiency prevalence in patients with euvolaemic hyponatraemia - analysis of a randomized controlled, parallel-group trial (standard care versus guideline based).",
-      "abstract": "In patients with euvolaemic hyponatraemia, secondary adrenal insufficiency (SAI) is a rare but important differential diagnosis of the syndrome of inappropriate antidiuresis (SIAD). This study aimed to characterise the clinical presentation and management of SAI. Secondary analysis of a randomized, controlled, multicentre hyponatraemia trial (plasma sodium <130 mmol/L). Patients were randomised either to a guideline-based targeted plasma sodium correction arm (intervention) managed by the study team, or a standard-of-care arm (control) where diagnosis, including cortisol measurements, and treatment were up to the treating physician. Patients diagnosed with euvolaemic hyponatraemia due to SAI or SIAD were included. Among 1074 euvolaemic patients, SIAD was present in 79.8% (n= 859) and SAI in 2.9% (n= 31), including 19 newly diagnosed and 12 pre-existing cases. Other common causes were primary polydipsia (14.5%, n= 156), thiazide-induced euvolaemic hyponatraemia (0.5%, n= 5) and hypothyroidism (0.3%, n= 3). SAI patients had significantly lower plasma sodium levels (121 vs. 127 mmol/L) and lower systolic blood pressure (118 vs. 130 mmHg) than SIAD patients. Hypopituitarism was the leading cause of SAI (38.7%), followed by exogenous glucocorticoid use (19.4%) and immune checkpoint inhibitor therapy (16.1%). In the standard-of-care arm, cortisol was measured in only 28.9% of patients with suspected SIAD. In newly diagnosed SAI patients, time to diagnosis and treatment was one day. In the entire SAI group, hydrocortisone increased plasma sodium from 121 to 136 mmol/L and normalised hyponatraemia in 71% after 2.5 days of admission. In SIAD, plasma sodium increased from 127 to 134 mmol/L and normalised in 45% after 4 days. SAI is a rare but clinically relevant cause of euvolaemic hyponatraemia, yet diagnostic evaluation is often insufficient. Lower plasma sodium and blood pressure should prompt consideration of SAI. When identified, treatment was rapid and associated with more frequent plasma sodium normalisation than in SIAD.",
-      "journal": "European journal of endocrinology",
+      "pmid": "43097005",
+      "doi": "10.1080/09593985.2026.2755413",
+      "title": "Rethinking functional mobility within contemporary physical activity guidelines: a commentary.",
+      "abstract": "Regular physical activity promotes health, prevents chronic disease, and supports healthy aging, yet current physical activity recommendations primarily emphasize movement behavior rather than the capacities that enable safe and effective participation. In this Commentary, we propose functional mobility as a proposed movement-capacity construct that complements the behavioral focus of physical activity by integrating joint mobility, muscular strength and power, balance and postural control, coordination, motor control, cardiorespiratory endurance, and movement adaptability. We distinguish functional mobility from physical activity, physical fitness, physical function, functional performance, and intrinsic capacity while recognizing their reciprocal relationships. Building on the World Health Organization's International Classification of Functioning, Disability and Health and Healthy Ageing frameworks, we present a noncausal, heuristic model in which functional mobility connects movement behavior with functional performance and healthy aging. We discuss implications for clinical practice, rehabilitation, and public health without proposing that this framework replace current physical activity recommendations. Research priorities include reaching consensus on the construct's definition, developing multidimensional assessment approaches, validating the construct across diverse populations, and evaluating interventions. Considering both how much individuals move and their capacity to meet everyday movement demands may broaden the study of movement health and inform efforts to preserve participation, independence, and quality of life across the lifespan.",
+      "journal": "Physiotherapy theory and practice",
       "year": "2026",
       "publication_types": [
         "Journal Article"
       ]
     },
     {
-      "pmid": "43037754",
-      "doi": "10.1007/s11060-026-05879-8",
-      "title": "Acute diencephalic syndrome after transventricular resection of giant pituitary adenomas with third ventricular extension: clinical course and association with extent of resection.",
-      "abstract": "To describe acute diencephalic syndrome (ADS) after superior transventricular surgery for giant pituitary adenomas with true third-ventricular extension, and to explore the association of ADS with extent of resection in a selected cohort. We retrospectively analyzed 40 adults operated on in 2015-2025 (23 total, 17 subtotal resections; 22 anterior transcallosal and 18 transcortical transventricular approaches). Postoperative AVP-D was distinguished from multidomain ADS, graded retrospectively according to the previously published four-stage framework. Final-stage agreement was reassessed independently in all 40 patients. Postoperative AVP-D occurred in all 40 patients; four had isolated AVP-D without ADS. ADS occurred in 36/40 (90.0%): 23/23 after total and 13/17 after subtotal resection (risk difference 23.5 percentage points; 95% Newcombe CI 3.5-47.3; two-sided Fisher exact p\u2009=\u20090.026). Stage III-IV ADS occurred in 9/23 versus 3/17 (p\u2009=\u20090.179). Independent final-stage agreement was 36/40 (90.0%; linear-weighted \u03ba\u2009=\u20090.926). Five patients required mechanical ventilation, and two died. ADS was frequent in this anatomically selected transventricular cohort, but the operational definition is not specific for hypothalamic injury and the observational comparison is vulnerable to confounding by indication. The observed lower ADS frequency after subtotal resection is hypothesis-generating. Prospective multicenter validation is necessary.",
-      "journal": "Journal of neuro-oncology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43078239",
-      "doi": "10.1016/j.jtha.2026.11.010",
-      "title": "Adrenal vein thrombosis during pregnancy or the postpartum period: a systematic review.",
-      "abstract": "Adrenal vein thrombosis (AVT) is a rare but potentially life-threatening condition that may present as nonspecific abdominal or lower back pain during pregnancy and may be overlooked because of overlapping obstetric or gastrointestinal symptoms. AVT remains poorly characterized epidemiologically, and its management is not supported by robust evidence or consensus-based recommendations. To improve diagnosis and management, we searched the MEDLINE/PubMed, Embase, ScienceDirect and Cochrane Library databases up until October 2025 for publications on AVT in pregnancy and postpartum. Thirty-eight articles reporting 73 AVT episodes in 71 patients (three retrospective studies, five case series and thirty case reports) were reviewed. Presentation was consistent but nonspecific: mainly acute abdominal (74.4%) or lower back pain (49.3%), often associated with nausea (23.3%) and vomiting (31.5%). Events occurred predominantly in the third trimester (79.6%), at a mean \u00b1 standard deviation gestational age of 31\u00b15.7 weeks. Most cases were unilateral (63/72, 87.5%) and right-sided (48/72, 66.7%). Diagnosis relied mainly on contrast-enhanced abdominal computed tomography (56/73, 76.7%). Imaging evidenced adrenal necrosis and hemorrhage in 88.9% and 8.3% of cases, respectively. Adrenal insufficiency requiring hydrocortisone occurred in 17.1% of cases and was mainly associated with bilateral AVT. Low-molecular-weight heparin was the preferred anticoagulant during the acute phase (81.8%), followed by a switch to an oral anticoagulant postpartum (25.7%). The median treatment duration was of 24 weeks. Opioids analgesics were required in 54.8% of cases. This review summarizes the clinical presentation, diagnostic findings, management, and outcomes of AVT during pregnancy and postpartum.",
-      "journal": "Journal of thrombosis and haemostasis : JTH",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43054719",
-      "doi": "10.7759/cureus.118148",
-      "title": "Pituicytoma Presenting With Hypogonadotropic Hypogonadism in a Highly Vascular Sellar and Suprasellar Mass: A Case Report.",
-      "abstract": "Pituicytoma is a rare low-grade tumor arising from the pituicyte lineage of the posterior pituitary and infundibular region. Because its clinical and magnetic resonance imaging (MRI) features overlap with those of more common sellar tumors and because it is often highly vascular, preoperative diagnosis and surgical management can be challenging. We presented a 45-year-old man who presented with four years of fatigue, reduced libido, erectile dysfunction, and intermittent frontal headache. Early-morning biochemical testing showed low total testosterone (8.9 nmol/L), with inappropriately normal luteinizing hormone (LH) and follicle-stimulating hormone (FSH), consistent with secondary hypogonadism. Pituitary magnetic resonance imaging showed a 25 \u00d7 28 \u00d7 27 mm sellar and suprasellar mass with cavernous sinus extension and superior displacement of the optic chiasm; radiologically, the lesion was initially interpreted\u00a0as a pituitary macroadenoma. Because of concern regarding vascularity, computed tomography (CT) cerebral angiography was performed and demonstrated a hypertrophied right meningo-hypophyseal trunk supplying the tumor. Due to the anticipated risk of major intraoperative hemorrhage, partial surgical debulking was performed. Histopathology and immunohistochemistry supported the diagnosis of pituicytoma. Testosterone replacement increased serum testosterone. Six weeks after surgery, the patient developed secondary adrenal insufficiency and was commenced on hydrocortisone replacement. Radiotherapy was planned for the substantial residual tumor. This case highlights the importance of considering pituicytoma in the differential diagnosis of an enhancing sellar or suprasellar mass with pituitary dysfunction, particularly when marked vascularity is suspected. Preoperative vascular assessment and multidisciplinary management are important when complete resection may carry substantial hemorrhagic risk.",
+      "pmid": "43095644",
+      "doi": "10.7759/cureus.118632",
+      "title": "Hypercalcemia-Associated Renal Salt Wasting Presenting With Hypovolemic Hyponatremia: A Case Report.",
+      "abstract": "Hyponatremia is a common electrolyte disorder defined as a serum sodium level below 135 mmol/L. However, its occurrence in association with hypercalcemia and renal sodium wasting remains a rare clinical phenomenon. We present the case of a 56-year-old male with a history of laryngeal cancer who developed moderate, persistent hypovolemic hyponatremia following extensive neck surgery, including a total thyroidectomy. Despite receiving standard enteral nutrition and free water flushes, the patient exhibited distinct clinical signs of extracellular volume depletion, including poor skin turgor, polyuria, hypotension, tachycardia, and a low serum osmolality of 263 mOsm/kg. Common causes of hyponatremia, such as the syndrome of inappropriate antidiuretic hormone secretion (SIADH), pseudohyponatremia, and adrenal insufficiency, were systematically excluded. A normal saline challenge elicited an increase in serum sodium alongside a notable decrease in both urine sodium and urine osmolality. This response supported a volume-responsive component but was not considered independently diagnostic of renal salt wasting or sufficient to exclude SIADH. Other common causes of hyponatremia were evaluated, and the overall clinical picture suggested renal sodium loss in the setting of concurrent hypercalcemia as a potential contributing mechanism. Hypercalcemia may alter renal sodium and water handling through calcium-sensing receptor-mediated effects on tubular transport and impairment of urinary concentrating ability. In this patient, these effects, together with extracellular volume depletion and ongoing enteral free-water administration, may have contributed to the development and persistence of hypotonic hyponatremia. Volume repletion was followed by resolution of polyuria and normalization of serum sodium and calcium. This case highlights hypercalcemia-associated renal tubular dysfunction as a potential and underrecognized contributor to hypovolemic hyponatremia. Recognition of the patient's volume status and the multifactorial nature of the disorder is important to avoid inappropriate fluid restriction.",
       "journal": "Cureus",
       "year": "2026",
       "publication_types": [
@@ -305,47 +287,58 @@
       ]
     },
     {
-      "pmid": "43054202",
-      "doi": "10.3389/fimmu.2026.1860159",
-      "title": "Identification and monitoring of immune-related adverse reactions of PD-1/PD-L1 inhibitors based on symptom network analysis.",
-      "abstract": "PD-1/PD-L1 inhibitors have become first-line cancer therapies by disrupting immune checkpoint downregulation, thereby potentiating antitumor immunity. However, this enhanced immune activation may also target normal tissues, triggering multisystemic immune-related adverse events (irAE) that complicate clinical management. Conventional pharmacovigilance analyses typically assess individual adverse events in isolation, limiting the ability to capture inter-symptom relationships. Symptom network analysis, an emerging computational approach, constructs co-occurrence networks to identify core symptoms, key associations, and bridge nodes across organ systems, thus enabling a systematic understanding of complex suspected irAE profiles. Adverse event records for six PD-1/PD-L1 inhibitors were extracted from two spontaneous reporting databases: FAERS (Q1 2005-Q3 2024) and JADER (Q1 2004-Q1 2025). Potential signals were screened using reporting odds ratio(ROR), proportional reporting ratio(PRR), and multivariate gamma-Poisson shrinkage (MGPS) methods. Symptom co-occurrence networks were subsequently constructed using EBIC-GLASSO based on Tetrachoric correlation matrices, which are specifically designed for binary adverse event data and correct for attenuation due to dichotomization. Four centrality metrics-Strength, Closeness, Betweenness, and Expected Influence-were calculated via the qgraph package. The bootnet package performed 1,000 bootstrap iterations to evaluate 95% confidence intervals for edge weights and centrality stability coefficients. In FAERS, nivolumab (48,330) and pembrolizumab (37,224) generated the highest report volumes. PD-1 inhibitor networks consistently centered on a systemic-gastrointestinal symptom cluster comprising decreased appetite, fatigue, diarrhea, and nausea, whereas PD-L1 inhibitor networks additionally featured prominent hematologic abnormalities. In JADER, interstitial lung disease and adrenal insufficiency emerged as central nodes, reflecting cross-database differences in reporting patterns and physician-initiated reporting practices. Strength and Expected Influence centrality metrics showed good to excellent stability (CS \u2265 0.672 in most networks), supporting the robustness of the core symptom clusters. Symptom network analysis effectively delineates core suspected irAE symptoms and inter-system associations for PD-1/PD-L1 inhibitors. FAERS-derived networks emphasize systemic-gastrointestinal syndromes, while JADER reveals pulmonary-endocrine predominance in Japanese populations. These findings demonstrate the utility of symptom network analysis as a complementary approach to traditional pharmacovigilance for characterizing complex suspected irAE patterns across different data sources and populations.",
-      "journal": "Frontiers in immunology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Research Support, Non-U.S. Gov't"
-      ]
-    },
-    {
-      "pmid": "43079139",
-      "doi": "10.1007/s12020-026-04849-4",
-      "title": "Long-term metabolic and biochemical outcomes of pasireotide LAR in resistant acromegaly.",
-      "abstract": "Pasireotide long\u2011acting release (PAS\u2011LAR) is a second\u2011generation somatostatin receptor ligand approved for patients with acromegaly resistant/intolerant to first\u2011generation analogues or combination medical therapy. Real\u2011world evidence on its metabolic impact and tumour response remains limited. To evaluate the long\u2011term efficacy, metabolic safety, and tumour effects of PAS\u2011LAR in a real\u2011life cohort of acromegalic patients. This was a single-centre, retrospective observational study conducted at a tertiary endocrine centre in Romania. Thirty acromegalic patients previously treated with first-generation somatostatin receptor ligands (fg-SRLs) \u00b1 pegvisomant\u2009\u00b1\u2009cabergoline were switched to PAS-LAR\u2009\u00b1\u2009cabergoline. Data were collected at baseline, after 3- and 6-months of PAS-LAR treatment, and at the last available visit (median 36.5 months). Thirty patients (66.7% female; mean age 44.4\u2009\u00b1\u200912.0 years) were treated with PAS-LAR for a mean duration of 44.4\u2009\u00b1\u200931.2 months. IGF-1 xULN decreased from 1.64\u2009\u00b1\u20090.79 at baseline to 0.99\u2009\u00b1\u20090.44 at the last visit (p\u2009<\u20090.0001), with strict disease control (IGF-1 xULN\u2009\u2264\u20091.0) achieved in 60.0% of patients. Acceptable biochemical control (IGF-1\u2009<\u20091.3 xULN) increased from 26.7% to 76.7% (p\u2009<\u20090.001). Random GH decreased from 4.26\u2009\u00b1\u20095.38 to 1.58\u2009\u00b1\u20091.43 ng/mL (p\u2009<\u20090.001). Median HbA1c increased from 5.65% (IQR 5.50-5.90) to 6.20% (IQR 6.03-6.88; p\u2009<\u20090.001). New-onset diabetes occurred in 9/24 (37.5%) patients without diabetes at baseline. At the last evaluation, HbA1c was \u2265\u20097.0% in 6 patients (20.0%). In exploratory analyses, higher diagnostic IGF-1 xULN correlated with greater increases in FPG (rho\u2009=\u20090.562, p\u2009=\u20090.001) and HbA1c (rho\u2009=\u20090.555, p\u2009=\u20090.001). Exploratory analyses suggested that higher IGF-1 levels at diagnosis may be associated with greater glycemic deterioration during follow-up. This potential association requires confirmation in larger cohorts. Hyperglycemic events are frequent but largely manageable with standard antidiabetic therapy. Lipid parameters remain stable or improve slightly. Early glucose monitoring should be standard during PAS\u2011LAR therapy.",
-      "journal": "Endocrine",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Observational Study"
-      ]
-    },
-    {
-      "pmid": "43039610",
-      "doi": "10.1016/j.nec.2026.09.006",
-      "title": "Pituitary Neuroendocrine Tumors in the Pediatric Population.",
-      "abstract": "Pediatric pituitary neuroendocrine tumors (PPitNETs) are rare but present significant clinical challenges in children. Their diverse presentations necessitate comprehensive endocrinologic and radiographic evaluation. They are most commonly prolactin-secreting or adrenocorticotropic hormone-secreting. A genetic mutation can be present, particularly in young patients with aggressive disease. Management is multidisciplinary. Medical therapy is first-line treatment of prolactinomas, and surgery is first-line treatment of most other PPitNETs, with reasonable remission rates when performed in experienced centers. Long-term outcomes are favorable, although hypopituitarism and lifelong hormone replacement remain important concerns. Ongoing surveillance is essential to ensure detect recurrence, and monitor treatment-related complications.",
-      "journal": "Neurosurgery clinics of North America",
+      "pmid": "43080889",
+      "doi": "10.1210/jcemcr/luag385",
+      "title": "Vertebral fractures unmasking Cushing disease: an unexpected argument for secondary osteoporosis screening.",
+      "abstract": "Osteoporosis poses a substantial health and financial burden. Although secondary causes are more common in men, they are screened less for osteoporosis than their female counterparts. We present the case of a 70-year-old man with a history of an adrenal incidentaloma with a recent diagnosis of 2 vertebral fractures. Initial workup revealed adrenocorticotropic hormone-dependent hypercortisolism. Imaging confirmed a pituitary macroadenoma, suggestive of Cushing disease (CD). Lifestyle modifications, calcium and vitamin D supplementation, and intravenous zoledronic acid were initiated to treat the severe osteoporosis. Pituitary surgery was carried out, with pathology revealing a Crooke cell adenoma. This case illustrates the importance of screening for osteoporosis in men, including thorough evaluation to rule out secondary causes. Moreover, a critical evaluation of the current approach to bone health in CD is provided.",
+      "journal": "JCEM case reports",
       "year": "2027",
       "publication_types": [
-        "Journal Article",
-        "Review"
+        "Case Reports",
+        "Journal Article"
       ]
     },
     {
-      "pmid": "43072764",
-      "doi": "10.1507/endocrj.EJ26-0388",
-      "title": "2026 consensus on the management of Cushing's disease: a collaborative statement from the Korean Endocrine Society and Japan Endocrine Society.",
-      "abstract": "The primary treatment goal of Cushing's disease (CD) is sustained normalization of hypercortisolism as well as relief of tumor mass effects, to reduce morbidity and mortality and improve long-term quality of life. Korea and Japan share broadly similar therapeutic principles for CD; however, real-world management differs because of country-specific healthcare systems, regulatory environments, and medication availability. Building on the previously published Korean Endocrine Society (KES)-Japan Endocrine Society (JES) diagnostic consensus, a joint multidisciplinary working group developed an expert consensus focused on the treatment and management of CD. Surgical intervention for pituitary tumors, primarily via a transsphenoidal approach, remains the first-line treatment when feasible. Subsequent treatment should be individualized according to disease and tumor characteristics, severity of hypercortisolism, associated comorbidities, and regional availability of therapeutic options. Medical treatment is recommended for patients with persistent or recurrent disease after surgery, for those who are not candidates for surgery or who decline surgical intervention, and as bridging therapy in severe cases requiring urgent control of hypercortisolemia or when definitive treatment is delayed. Pituitary tumor-directed agents and adrenal steroidogenesis inhibitors constitute key pharmacologic options, but the available agents and reimbursement status differ between Korea and Japan. Radiation therapy is considered when surgery is not feasible or when control is not achieved with surgery and/or medical therapy, and bilateral adrenalectomy may be reserved for highly selected refractory cases. This consensus statement provides harmonized, practice-oriented recommendations while acknowledging current evidence gaps and the need for further collaborative research to inform CD management in East Asian populations.",
-      "journal": "Endocrine journal",
+      "pmid": "43043775",
+      "doi": "10.4103/aam.aam_1233_26",
+      "title": "Pituitary Stalk Interruption Syndrome Presenting as Primary Amenorrhea: Magnetic Resonance Imaging Demonstration of the Characteristic Diagnostic Triad.",
+      "abstract": "Pituitary stalk interruption syndrome (PSIS) is a rare congenital pituitary malformation characterized by the triad of anterior pituitary hypoplasia, an absent or interrupted pituitary stalk, and an ectopic posterior pituitary. We report the case of a 21-year-old woman who presented with primary amenorrhea and poorly developed secondary sexual characteristics. Hormonal evaluation revealed central hypothyroidism, markedly reduced morning serum cortisol, and suppressed gonadotropin levels, indicating hypopituitarism with hypogonadotropic hypogonadism. Pelvic ultrasonography demonstrated a markedly hypoplastic uterus and bilaterally small ovaries. Magnetic resonance imaging of the sellar region revealed a hypoplastic anterior pituitary gland, nonvisualization of the pituitary stalk, and an ectopic posterior pituitary bright spot at the median eminence beneath the optic chiasm. These characteristic imaging findings established the diagnosis of PSIS. This case highlights the importance of considering PSIS in women presenting with primary amenorrhea and delayed pubertal development. Recognition of the characteristic magnetic resonance imaging triad facilitates timely endocrine evaluation, hormone replacement therapy, and long-term follow-up. R\u00e9sum\u00e9Le syndrome d\u2019interruption de la tige pituitaire (SITP) est une malformation cong\u00e9nitale rare de l\u2019hypophyse, caract\u00e9ris\u00e9e par une triade associant une hypoplasie de l\u2019ant\u00e9hypophyse, une absence ou une interruption de la tige pituitaire et une neurohypophyse ectopique. Nous rapportons le cas d\u2019une femme de 21 ans consultant pour une am\u00e9norrh\u00e9e primaire et un d\u00e9veloppement insuffisant des caract\u00e8res sexuels secondaires. Le bilan hormonal a r\u00e9v\u00e9l\u00e9 une hypothyro\u00efdie centrale, une diminution marqu\u00e9e du cortisol s\u00e9rique matinal et une suppression des taux de gonadotrophines, en faveur d\u2019un hypopituitarisme associ\u00e9 \u00e0 un hypogonadisme hypogonadotrope. L\u2019\u00e9chographie pelvienne a montr\u00e9 un ut\u00e9rus tr\u00e8s hypoplasique et des ovaires bilat\u00e9ralement de petite taille. L\u2019imagerie par r\u00e9sonance magn\u00e9tique (IRM) de la r\u00e9gion sellaire a mis en \u00e9vidence une hypoplasie de l\u2019ant\u00e9hypophyse, une absence de visualisation de la tige pituitaire et un hypersignal spontan\u00e9 T1 ectopique de la neurohypophyse au niveau de l\u2019\u00e9minence m\u00e9diane, sous le chiasma optique. Ces signes radiologiques caract\u00e9ristiques ont permis d\u2019\u00e9tablir le diagnostic de SITP. Ce cas souligne l\u2019importance d\u2019\u00e9voquer le SITP chez les femmes pr\u00e9sentant une am\u00e9norrh\u00e9e primaire et un retard du d\u00e9veloppement pubertaire. La reconnaissance de la triade caract\u00e9ristique \u00e0 l\u2019IRM permet une \u00e9valuation endocrinienne pr\u00e9coce, l\u2019instauration d\u2019un traitement hormonal substitutif et un suivi \u00e0 long terme.",
+      "journal": "Annals of African medicine",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43095322",
+      "doi": "10.1210/jcemcr/luag366",
+      "title": "Successful treatment of symptomatic locally recurrent unresectable pheochromocytoma with percutaneous ablations.",
+      "abstract": "Metastatic or locally recurrent pheochromocytomas (PCCs) present significant therapeutic challenges, particularly in patients with symptomatic or progressive disease. Current treatment options, apart from surgery, are predominantly palliative. Minimally invasive percutaneous ablative techniques have emerged as promising treatment modalities for selected patients with unresectable or metastatic PCCs. We report a case of a woman with neurofibromatosis type 1 with a symptomatic, progressive unresectable 3.3\u2005cm PCC recurrence in the adrenal bed following 2 prior surgical resections. Three consecutive percutaneous ablations-2 cryoablations followed by irreversible electroporation led to clinical, biochemical, and radiographic resolution of the disease. Preprocedural medical management with terazosin, metyrosine, and atenolol was essential in ensuring the safety of the interventions. The patient demonstrated sustained local and biochemical disease control at 4 years of follow-up. This case illustrates the effectiveness of repeated ablative therapies in achieving sustained remission in unresectable recurrent PCC and emphasizes the importance of multidisciplinary care.",
+      "journal": "JCEM case reports",
+      "year": "2027",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43058541",
+      "doi": "10.1186/s12884-026-09872-x",
+      "title": "Giant adrenal teratoma mimicking renal angiomyolipoma during pregnancy with coexisting fetal pulmonary sequestration: a case report.",
+      "abstract": "Adrenal tumors during pregnancy are rare, but their detection is increasing due to prenatal imaging. Retroperitoneal fat-containing tumors, such as mature teratomas, can easily mimic renal angiomyolipoma (RAML), especially when the gravid uterus displaces anatomical landmarks. Excluding functional tumors (e.g., pheochromocytoma) is critical to prevent lethal hypertensive crises and guide multidisciplinary team (MDT) management. A 31-year-old primigravida (12 weeks' gestation) presented with a 9.8\u2009\u00d7\u200913.3\u2009\u00d7\u200910.9\u00a0cm fat-containing right retroperitoneal mass on MRI, mimicking renal angiomyolipoma or teratoma. Concurrently, fetal ultrasound at 22\u2009+\u20094 weeks identified an incidental left-sided fetal pulmonary sequestration. Normal catecholamine and cortisol levels confirmed a non-functional tumor, warranting a multidisciplinary team (MDT) strategy of watchful waiting. The patient successfully delivered a live infant via elective cesarean section at 37\u2009+\u20091 weeks. Postpartum, she underwent elective laparoscopic resection of the retroperitoneal tumor. Intraoperatively, the massive tumor encased the inferior vena cava (IVC) and right renal vein with dense adhesions. A laceration occurred on the posterior wall of the IVC during dissection, which was successfully repaired using vascular sutures without significant blood loss (200 mL). Postoperative pathology confirmed a mature adrenal teratoma. Both mother and neonate showed excellent outcomes during follow-up. This case highlights the diagnostic challenge of differentiating giant fat-containing retroperitoneal tumors during pregnancy. For non-functional retroperitoneal tumors without signs of malignancy, delaying surgery until the postpartum period is a safe strategy. In cases involving major vascular encasement, the surgical team must be fully prepared to manage unexpected vascular injuries. A multidisciplinary approach is highly recommended to optimize outcomes for rare maternal tumors and incidental fetal anomalies.",
+      "journal": "BMC pregnancy and childbirth",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    },
+    {
+      "pmid": "43096993",
+      "doi": "10.1080/02813432.2026.2731977",
+      "title": "Hand and finger symptoms in older adults: a clinical audit of detection and management gaps in Danish general practice.",
+      "abstract": "Hand osteoarthritis (OA) is common among older adults. Recommendations support a combination of non-pharmacological and pharmacological treatments. However, real-world data on prevalence and treatment patterns in primary care are lacking. To investigate the prevalence and characteristics of hand and finger pain/swelling among elderly patients presenting to general practice, and to audit the quality and comprehensiveness of their clinical management against evidence-based recommendations. We conducted a four-week clinical audit of all consecutive patients \u226570\u2009years of age attending general practices in Denmark with recording of current symptoms and signs characteristic of hand OA as well as prior related diagnostic investigations and treatments. The study included 348 patients from 16 general practices, with 42% (n\u2009=\u2009147) experiencing hand/or finger pain/swelling. Pain during usage (64%, n\u2009=\u200995) and stiffness (39%, n\u2009=\u200957) were the most common symptoms. Clinical findings suggestive of hand OA were present in 61% (n\u2009=\u200990) of symptomatic patients, with 41% (n\u2009=\u200960) reporting reduced activities of daily living. Only 50% (n\u2009=\u200973) of symptomatic patients had previously consulted their GP about these symptoms, and referral rates to specialists and allied health professionals were low. Management strategies were limited, with 33% (n\u2009=\u200949) using analgesics and 7.5% (n\u2009=\u200911) using assistive devices. Hand and finger symptoms are prevalent among older adults in general practice, with significant functional impact. Management patterns displayed low referral rates to allied healthcare professionals and limited use of non-pharmacological interventions. Further research is needed to understand patient preferences and barriers to accessing recommended care.",
+      "journal": "Scandinavian journal of primary health care",
       "year": "2026",
       "publication_types": [
         "Journal Article"
@@ -364,15 +357,25 @@
       ]
     },
     {
-      "pmid": "43083857",
-      "doi": "10.1177/00494755261511118",
-      "title": "Oropouche fever in a changing tropical world: emergence, diagnostics and surveillance preparedness for India.",
-      "abstract": "Oropouche virus (OROV) is an emerging arthropod-borne virus causing Oropouche fever. OROV is transmitted predominantly by the biting midge Culicoides paraensis. Although historically confined to South America, imported cases have been reported, highlighting its expanding geographic range and global public health relevance. Currently, there are no commercially available diagnostic assays for laboratory confirmation of OROV infection. In addition, no specific antiviral therapy or licensed vaccine is available. The recent emergence of cases outside traditional endemic areas further emphasizes the urgent need to address critical knowledge gaps. This review critically synthesizes current evidence on OROV virology, transmission dynamics, clinical spectrum and diagnostic challenges. We further contextualize OROV within the Indian setting, where competent Culicoides vectors are present, and discuss the importance of incorporating OROV into targeted surveillance and travel-related screening frameworks to facilitate early detection, reduce diagnostic misclassification and strengthen one-health preparedness in regions currently considered non-endemic.",
-      "journal": "Tropical doctor",
+      "pmid": "43097004",
+      "doi": "10.1080/09593985.2026.2767014",
+      "title": "Examining the relationship between objective and patient-reported physical function in adults with cancer.",
+      "abstract": "Cancer and its therapies negatively impact physical function (PF), which is commonly captured using patient-reported PF measures. Though important, patient-report PF tools may fail to capture important aspects of objectively measured PF, limiting their ability to provide a comprehensive assessment of PF. This study aimed to compare patient-reported (PROMIS-Physical Function Computer Adaptive Test, PROMIS PF) and objective (Bellarmine Norton Assessment Tool, BNAT) measures of PF in adults with a history of cancer. This cross-sectional study included a referred and volunteer sample of 94 adults with a history of cancer (91.5% women, 60.1\u2009\u00b1\u200910.8\u2009years) who completed the BNAT and the PROMIS PF. The BNAT includes the 2-minute step test (MST), 30-second sit-to-stand (STS), 30-second arm curl, and timed-up-and-go (TUG), with total scores calculated from the sum of subscale scores. Pearson's correlations, variance (r2), and descriptive statistics were used to evaluate the relationships between BNAT and PROMIS scores. Weak correlations were observed between PROMIS PF total scores and BNAT total scores (r\u2009=\u20090.313, p\u2009=\u20090.002) and between the PROMIS PF and BNAT raw scores, including STS (r\u2009=\u20090.362, p\u2009=\u20090.001), arm curl (r\u2009=\u20090.320, p\u2009=\u20090.002), and TUG (r\u2009= -0.319, p\u2009=\u20090.002). Variance explained ranged from 3.3%-13.1%, suggesting limited overlap between subjective and objective measures. Our findings suggest that patient-reported and performance-based assessments of PF are generally weakly associated in adults with a history of cancer. These findings highlight the potential value of incorporating both approaches to provide a more comprehensive understanding of PF in clinical and research settings. NCT06039488.",
+      "journal": "Physiotherapy theory and practice",
       "year": "2026",
       "publication_types": [
-        "Journal Article",
-        "Review"
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43094482",
+      "doi": "10.3389/fendo.2026.2007985",
+      "title": "Pituitary residual tumor detection: incremental value of multimodal assessment.",
+      "abstract": "Postoperative residual tumor is associated with regrowth and recurrence in pituitary adenomas, making maximal safe resection an important therapeutic goal. We evaluated the incremental contribution of microscopy, endoscopic inspection, and 3.0-T intraoperative magnetic resonance imaging (iMRI) to residual tumor detection and assessment of the planned extent of resection. In this retrospective single-center cohort study, 120 consecutive eligible patients undergoing transsphenoidal surgery for pituitary adenoma underwent sequential microsurgical resection, endoscopic inspection, and iMRI. Initial endoscopic inspection confirmed the planned extent of resection in 95/120 patients (79.2%) and indicated further resection in 25/120 (20.8%). After any indicated further resection, repeat endoscopic inspection confirmed planned extent of resection achievement before iMRI in all 120 patients. At iMRI, planned extent of resection was judged achieved in 85/120 patients (70.8%), whereas residual tumor was suspected in 35/120 (29.2%) before any iMRI-triggered resection. Among 95 patients considered complete at initial endoscopic inspection, iMRI identified suspected residual tumor in 21 (22.1%). Escalation beyond microscopy was more frequent in recurrent than primary adenomas (12/14, 85.7% vs 34/106, 32.1%; p < 0.001). Each doubling of preoperative tumor volume was associated with higher odds of iMRI-suspected residual tumor (OR 1.79, 95% CI 1.32-2.44; p < 0.001). Sequential endoscopic inspection and iMRI provided complementary information beyond microsurgical assessment. Additional assessment was more frequently required in recurrent adenomas, while increasing preoperative tumor volume was associated with iMRI-suspected residual tumor. These findings support prospective evaluation of risk-adapted multimodal intraoperative assessment.",
+      "journal": "Frontiers in endocrinology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
       ]
     },
     {
@@ -387,59 +390,132 @@
       ]
     },
     {
-      "pmid": "43037703",
-      "doi": "10.1007/s10143-026-04566-6",
-      "title": "Deep learning MGMT promoter methylation status prediction in IDH-wildtype glioblastoma using multiparametric MRI: Benchmark vs. real\u2011world performance.",
-      "abstract": "Preoperative determination of O6-methylguanine-DNA methyltransferase (MGMT) promoter methylation status is of major prognostic and predictive relevance in IDH-wildtype glioblastoma, yet currently depends on invasive tissue sampling. This study investigates deep learning-based strategies for MGMT prediction from multiparametric MRIs, with particular emphasis on robustness and generalizability under heterogeneous, multicenter conditions. A total of 949 glioblastoma cases were analyzed, integrating public benchmark data from the Brain Tumor Segmentation Challenge (BraTS) with multi-institutional private cohorts acquired across diverse scanners and imaging protocols. Four complementary experimental settings were designed to compare reproduced literature baselines, private-only training, whole-brain end-to-end models, and segmentation-guided region-of-interest (ROI) pipelines. Tumor delineation was performed using an nnU-Net framework with expert quality control, and multiple three-dimensional convolutional neural network architectures were evaluated. Model performance was highest on the homogeneous BraTS benchmark, where a whole-brain DenseNet121 achieved an area under the receiver operating characteristic curve of 0.80. However, marked performance deterioration was observed when models were evaluated on independent held-out multicenter test set. In contrast, segmentation-guided ROI-based approaches showed a more stable performance profile in this preliminary independent held-out multicenter test. Explicit lesion localization was associated with reduction in false-positive classifications, suggesting a potential benefit for performance stability across heterogeneous datasets, although validation in external cohorts from institutions not represented during training is required. Collectively, these results demonstrate that upstream methodological choices, especially tumor segmentation and ROI definition, remain critical determinants of performance in MRI-based radiogenomic modeling. Future studies should emphasize prospective multicenter validation, domain-shift harmonization, multimodal data integration, and uncertainty-aware deep learning to enhance robustness and interpretability.",
-      "journal": "Neurosurgical review",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43083841",
-      "doi": "10.1177/0272989X261504825",
-      "title": "A Value-Based Approach to Designing Inclusive Clinical Trials.",
-      "abstract": "The underrepresentation of marginalized populations in clinical trials remains a critical issue, limiting the generalizability of findings and exacerbating health disparities. Despite policy efforts to improve diversity, a key challenge remains: how much representation is sufficient? This study addresses this question using a decision-analytic framework that considers both the value of evidence and equity when allocating trial participants across population subgroups. We developed equity-weighted extensions of expected value of sample information (wEVSI) and expected net benefit of sampling (wENBS) to optimize the allocation of trial participants across population subgroups. The framework incorporates subgroup-specific uncertainty, equity weights, common or subgroup-specific treatment decisions, and cross-group information borrowing through Bayesian hierarchical models. wENBS further accounts for the consequences of randomization for trial participants, participation burdens, and trial costs. We illustrated the framework using a stylized 2-subgroup case study that varied the evidence configuration, degree of borrowing, equity weights, recruitment costs, and decision structure. In the main scenario, evidence was more uncertain for the historically marginalized subgroup. Under moderate and near-no borrowing, wENBS was maximized by enrolling this subgroup above its population share. Greater equity weights generally shifted the preferred allocation further toward the marginalized subgroup, whereas higher recruitment costs shifted it modestly toward the other subgroup. Under moderate borrowing, allowing subgroup-specific decisions also supported greater enrollment of the historically marginalized subgroup. Under near-complete borrowing, trial composition had little effect, and no allocation was clearly preferred. Alternative evidence profiles resulted in below-proportional or approximately proportional enrollment or no additional trial when the current evidence was already sufficiently precise. This framework provides a value-based approach to balancing efficiency, equity, and cost in inclusive trial design.",
-      "journal": "Medical decision making : an international journal of the Society for Medical Decision Making",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43070713",
-      "doi": "10.1227/ons.0000000000002246",
-      "title": "Benefits of Intracystic Bleomycin for Symptomatic Recurrent Rathke Cleft Cyst: An Institutional Update.",
-      "abstract": "The management of recurrent Rathke cleft cysts (RCC) poses a unique clinical challenge. The mainstay of treatment is reoperation with cyst drainage; however, there is limited evidence evaluating adjuvant pharmaceutical therapy in this patient population. Several studies, including a 2019 study by Ung et al at our institution, suggest a potential benefit of the use of intracystic bleomycin in recurrent RCC. The intracystic application of bleomycin is known to be beneficial in the treatment of cystic craniopharyngioma, however, its role in the treatment of recurrent Rathke cleft cyst remains unclear. To evaluate long-term outcomes of recurrent RCC treated with intracystic bleomycin, building on a 2019 study by our institution which reported no short-term follow-up recurrence. We conducted a retrospective chart review of patients with RCC who underwent surgical resection with intracystic bleomycin between January 2011 and December 2023 by a single surgeon. This study updates our 2019 study which reported no recurrence in 6 patients who received intracystic bleomycin for recurrent RCC. Patient symptom ratings were collected preoperatively and postoperatively. Of 125 patients with a history of surgery for RCC, 29 (23%) experienced radiographic recurrence. Subsequently, 24 of these patients underwent reresection with 20 of these patients receiving intracystic bleomycin at the time of secondary resection. To date, only 2 bleomycin-treated patients experienced recurrence (10%) with a median follow-up of 28.4 [4.0-54.4] months. Compared with historical data which show a 26.2% recurrence rate after secondary resection without adjuvant therapy, our bleomycin-treated cohort demonstrated a lower recurrence rate. The use of intracystic bleomycin seems to be a safe and potentially effective treatment option in patients with recurrent RCC.",
-      "journal": "Operative neurosurgery (Hagerstown, Md.)",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43080746",
-      "doi": "10.15586/jkc.v13i4.501",
-      "title": "Variable Expressivity of von Hippel-Lindau (VHL) Disease Associated with c.499C>T Variant in a Multigenerational Family.",
-      "abstract": "von Hippel-Lindau (VHL) disease is an autosomal dominant cancer syndrome caused by germline pathogenic variants in the VHL tumor suppressor gene manifesting as a spectrum of neoplasms, including the central nervous system (CNS) and retinal hemangioblastomas, pheochromocytoma, renal cell carcinoma (RCC), pancreatic neuroendocrine tumors (PNETs), and paraganglioma. This study systematically evaluates the clinical, radiological, and molecular genetic profiles of a large multigeneration family harboring the pathogenic variant c.499C>T (p.Arg167Trp). Affected individuals and at-risk family members underwent clinical exome sequencing and targeted cascade molecular testing. Variants were classified according to the 2015 guidelines of the American College of Medical Genetics and Genomics-Association for Molecular Pathology. Multidisciplinary follow-up encompassed neurological, endocrinological, ophthalmological, and radiological evaluations, including optical coherence tomography and magnetic resonance imaging (MRI) surveillance. Among 47 individuals tested across five generations, 23 were confirmed to carry the heterozygous pathogenic variant c.499C>T (p.Arg167Trp) in the VHL gene (NM_000551.4). Among the 23 molecularly confirmed carriers (which included several young carriers still under surveillance), pheochromocytoma was the most prevalent manifestation (5/23), followed by CNS hemangioblastoma (3/23), retinal angioma (2/23), PNET (2/23), and pancreatic cysts (2/23). No RCC was identified among molecularly confirmed carriers. Clinical presentations were consistent with multiple VHL disease subtypes, reflecting broad intrafamilial phenotypic heterogeneity. The c.499C>T (p.Arg167Trp) variant demonstrates remarkable phenotypic variability, ranging from multiple concurrent VHL-associated neoplasms to asymptomatic carrier status within the same family. These findings underscore the necessity of lifelong multidisciplinary surveillance and comprehensive cascade genetic testing in the clinical management of VHL disease.",
-      "journal": "Journal of kidney cancer and VHL",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43058876",
-      "doi": "10.1186/s13256-026-06429-6",
-      "title": "Bilateral adrenal diffuse large B-cell lymphoma masquerading as bilateral adrenal metastases: a rare presentation diagnosed by endoscopic ultrasound-guided fine-needle biopsy.",
-      "abstract": "Bilateral adrenal diffuse large B-cell lymphoma (DLBCL) is an exceedingly rare entity. Presentation as bilateral adrenal masses without an identifiable extra-adrenal primary poses a formidable diagnostic challenge, frequently mimicking adrenal metastases or primary adrenal malignancy. A 70-year-old normotensive, non-diabetic male presented with a one-month history of weight loss, generalized dull abdominal pain, and anorexia. Contrast-enhanced computed tomography (CECT) revealed bilateral adrenal masses (right 56\u2009\u00d7\u200928\u2009\u00d7\u200955\u00a0mm; left 61\u2009\u00d7\u200930\u2009\u00d7\u200954\u00a0mm) with imaging characteristics indistinguishable from metastatic disease. Extensive workup-including CT of the neck and chest, colonoscopy, and biochemical adrenal profiling-failed to identify a primary extra-adrenal malignancy or hormonal excess. Endoscopic ultrasound-guided fine-needle biopsy (EUS-FNB) using a 22-gauge needle provided tissue confirming diffuse large B-cell lymphoma (DLBCL) with CD20 and PAX-5 positivity. The patient was referred to oncology and commenced on rituximab-based chemotherapy. This case underscores the indispensable role of EUS-guided tissue sampling in the evaluation of bilateral adrenal masses when non-invasive workup is inconclusive. Early tissue diagnosis of adrenal DLBCL is critical, as it is a potentially curable disease amenable to immunochemotherapy rather than surgery.",
-      "journal": "Journal of medical case reports",
+      "pmid": "43088239",
+      "doi": "10.3390/cancers18223707",
+      "title": "Contemporary Management of Adrenal Tumors.",
+      "abstract": "Background/Objectives: Widespread use of high-resolution cross-sectional imaging has made the incidentally discovered adrenal mass a common clinical problem. Although most adrenal incidentalomas are non-functioning benign adenomas, clinicians must distinguish them from actionable pathology such as functional adenomas, adrenocortical carcinoma, and pheochromocytoma. This review outlines the contemporary diagnostic algorithm for adrenal incidentalomas and the main indications for surgical and medical intervention. Methods: We performed a narrative review of current society guidelines and of the primary literature underlying their recommendations on anatomic, biochemical, and surgical evaluation, comparing recommendations and evidence grades where guidelines differ. Results: Management is driven primarily by imaging phenotype, lesion size, and hormonal function. Unenhanced computed tomography attenuation \u2264 10 Hounsfield units is highly specific for a benign lipid-rich adenoma. Hormonal evaluation should exclude hypercortisolism in all patients and pheochromocytoma in all but asymptomatic patients with homogeneous, lipid-rich lesions, with testing for primary aldosteronism and androgen excess when clinically indicated. Minimally invasive adrenalectomy is standard for hormonally active benign adenomas and most pheochromocytomas, whereas open adrenalectomy remains preferred for suspected adrenocortical carcinoma that is large or locally invasive, to avoid tumor capsule rupture. Novel therapies, including peptide receptor radionuclide therapy, show efficacy in advanced disease. Conclusions: Society guidelines agree on most of the diagnostic pathway but diverge on surveillance of large benign lesions, interpretation of cortisol testing, and the surgical approach to suspected carcinoma. A standardized, multidisciplinary approach that recognizes these differences and the strength of the underlying evidence optimizes outcomes while preventing unnecessary procedures.",
+      "journal": "Cancers",
       "year": "2026",
       "publication_types": [
         "Journal Article",
-        "Case Reports"
+        "Review"
+      ]
+    },
+    {
+      "pmid": "43096984",
+      "doi": "10.1016/j.jaccas.2026.111557",
+      "title": "Atrial Leadless Pacing in Combination with Existing ICD Systems in Long QT Syndrome.",
+      "abstract": "Long QT syndrome is an inherited or acquired condition characterized by prolonged ventricular repolarization and is characterized by a propensity for life-threatening ventricular arrhythmias. Management often incorporates beta blockers, which have the greatest effect on reducing arrhythmic risk, and implantable cardiac defibrillator (ICD) implantation. Subcutaneous ICDs provide effective defibrillation therapy while avoiding intravascular leads and are an attractive option for patients at high risk of infection or thrombosis, or for younger patients to reduce intravascular lead dwell time. Subcutaneous ICDs provide defibrillation therapy but do not offer pacing and antitachycardia pacing. Leadless pacemakers are often favored for similar reasons, and combined use with ICDs introduces challenges, including device interaction. We report 2 cases of interaction between ICD sensing and atrial leadless pacemakers in long QT syndrome, including a case of S-ICD oversensing, not yet described in the literature, and a comparative case in a transvenous system.",
+      "journal": "JACC. Case reports",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43037754",
+      "doi": "10.1007/s11060-026-05879-8",
+      "title": "Acute diencephalic syndrome after transventricular resection of giant pituitary adenomas with third ventricular extension: clinical course and association with extent of resection.",
+      "abstract": "To describe acute diencephalic syndrome (ADS) after superior transventricular surgery for giant pituitary adenomas with true third-ventricular extension, and to explore the association of ADS with extent of resection in a selected cohort. We retrospectively analyzed 40 adults operated on in 2015-2025 (23 total, 17 subtotal resections; 22 anterior transcallosal and 18 transcortical transventricular approaches). Postoperative AVP-D was distinguished from multidomain ADS, graded retrospectively according to the previously published four-stage framework. Final-stage agreement was reassessed independently in all 40 patients. Postoperative AVP-D occurred in all 40 patients; four had isolated AVP-D without ADS. ADS occurred in 36/40 (90.0%): 23/23 after total and 13/17 after subtotal resection (risk difference 23.5 percentage points; 95% Newcombe CI 3.5-47.3; two-sided Fisher exact p\u2009=\u20090.026). Stage III-IV ADS occurred in 9/23 versus 3/17 (p\u2009=\u20090.179). Independent final-stage agreement was 36/40 (90.0%; linear-weighted \u03ba\u2009=\u20090.926). Five patients required mechanical ventilation, and two died. ADS was frequent in this anatomically selected transventricular cohort, but the operational definition is not specific for hypothalamic injury and the observational comparison is vulnerable to confounding by indication. The observed lower ADS frequency after subtotal resection is hypothesis-generating. Prospective multicenter validation is necessary.",
+      "journal": "Journal of neuro-oncology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43039610",
+      "doi": "10.1016/j.nec.2026.09.006",
+      "title": "Pituitary Neuroendocrine Tumors in the Pediatric Population.",
+      "abstract": "Pediatric pituitary neuroendocrine tumors (PPitNETs) are rare but present significant clinical challenges in children. Their diverse presentations necessitate comprehensive endocrinologic and radiographic evaluation. They are most commonly prolactin-secreting or adrenocorticotropic hormone-secreting. A genetic mutation can be present, particularly in young patients with aggressive disease. Management is multidisciplinary. Medical therapy is first-line treatment of prolactinomas, and surgery is first-line treatment of most other PPitNETs, with reasonable remission rates when performed in experienced centers. Long-term outcomes are favorable, although hypopituitarism and lifelong hormone replacement remain important concerns. Ongoing surveillance is essential to ensure detect recurrence, and monitor treatment-related complications.",
+      "journal": "Neurosurgery clinics of North America",
+      "year": "2027",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "43088272",
+      "doi": "10.3390/brainsci16111157",
+      "title": "An Anatomy-Based Clinical Decision Framework for Precision Radiation Therapy of Peri-Optic Sellar and Parasellar Tumors.",
+      "abstract": "In peri-optic sellar and parasellar tumors, visual preservation requires protection from both radiation injury and progression of inadequately controlled disease. This structured narrative review synthesizes guidelines, systematic reviews, and clinical cohorts identified through targeted PubMed/MEDLINE searches updated through 22 August 2026, covering pituitary neuroendocrine tumors, craniopharyngiomas, and meningiomas. Predominantly retrospective evidence and inconsistent functional reporting limit comparisons between radiation modalities. We propose an anatomy-based framework integrating therapeutic intent, tumor-optic geometry, achievable target coverage, anatomical stability, prior treatment, and baseline visual and endocrine function. Minimum tumor-optic distance alone is insufficient for modality selection. Single-fraction stereotactic radiosurgery is suited to compact, stable targets when disease-specific coverage is achievable within organ-at-risk limits. Hypofractionated stereotactic radiotherapy in three to five fractions may address focal peri-optic dose conflicts, whereas conventionally fractionated precision radiotherapy may accommodate broad contact, complex geometry, or dynamic cystic disease. Automated perimetry, optical coherence tomography, and axis-specific endocrine assessment support longitudinal surveillance; isolated retinal thinning does not establish radiation-induced optic neuropathy. New functional deficits require assessment of tumor status, treatment chronology, spatial dose, and competing causes. The proposed framework requires prospective validation and provides a practical basis for multidisciplinary decisions that jointly evaluate durable tumor control and long-term functional preservation.",
+      "journal": "Brain sciences",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "43090903",
+      "doi": "10.3390/jcm15228870",
+      "title": "Endocrinopathies in Inherited Leukodystrophies: A Scoping Review of Reported Frequencies, Diagnostic Strategies, and Treatment.",
+      "abstract": "Leukodystrophies are a diverse group of inherited disorders affecting central nervous system white matter, with onset from infancy to adulthood. Although neurological symptoms dominate, endocrine dysfunctions are increasingly recognized as significant contributors to disease course. These can arise directly from genetic mutations or secondarily due to hypothalamic-pituitary or peripheral gland involvement. This scoping review focuses on leukodystrophies associated with hormonal abnormalities, summarizing current diagnostic approaches, preventive strategies, and treatment options. Literature from PubMed/MEDLINE and Embase (1991-May 2026) was analysed, including original research, reviews, meta-analyses, and case reports. Endocrinopathies commonly observed include adrenal insufficiency, hypogonadism, growth hormone deficiency, hypothyroidism, and diabetes mellitus. Disorders such as X-linked adrenoleukodystrophy, POLR3-related leukodystrophy, vanishing white matter disease, and Aicardi-Gouti\u00e8res syndrome show distinct hormonal involvement patterns. Early detection and timely hormone replacement can improve growth, development, metabolic stability, and quality of life, while preventing severe complications. Diagnosis integrates clinical evaluation, hormonal testing, neuroimaging, and advanced molecular analyses, including whole-exome or whole-genome sequencing. Effective management requires a multidisciplinary approach combining supportive care, endocrine replacement, and selected disease-modifying therapies. Understanding the interplay between neurological and endocrine features is crucial for optimizing care and improving long-term outcomes.",
+      "journal": "Journal of clinical medicine",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "43079139",
+      "doi": "10.1007/s12020-026-04849-4",
+      "title": "Long-term metabolic and biochemical outcomes of pasireotide LAR in resistant acromegaly.",
+      "abstract": "Pasireotide long\u2011acting release (PAS\u2011LAR) is a second\u2011generation somatostatin receptor ligand approved for patients with acromegaly resistant/intolerant to first\u2011generation analogues or combination medical therapy. Real\u2011world evidence on its metabolic impact and tumour response remains limited. To evaluate the long\u2011term efficacy, metabolic safety, and tumour effects of PAS\u2011LAR in a real\u2011life cohort of acromegalic patients. This was a single-centre, retrospective observational study conducted at a tertiary endocrine centre in Romania. Thirty acromegalic patients previously treated with first-generation somatostatin receptor ligands (fg-SRLs) \u00b1 pegvisomant\u2009\u00b1\u2009cabergoline were switched to PAS-LAR\u2009\u00b1\u2009cabergoline. Data were collected at baseline, after 3- and 6-months of PAS-LAR treatment, and at the last available visit (median 36.5 months). Thirty patients (66.7% female; mean age 44.4\u2009\u00b1\u200912.0 years) were treated with PAS-LAR for a mean duration of 44.4\u2009\u00b1\u200931.2 months. IGF-1 xULN decreased from 1.64\u2009\u00b1\u20090.79 at baseline to 0.99\u2009\u00b1\u20090.44 at the last visit (p\u2009<\u20090.0001), with strict disease control (IGF-1 xULN\u2009\u2264\u20091.0) achieved in 60.0% of patients. Acceptable biochemical control (IGF-1\u2009<\u20091.3 xULN) increased from 26.7% to 76.7% (p\u2009<\u20090.001). Random GH decreased from 4.26\u2009\u00b1\u20095.38 to 1.58\u2009\u00b1\u20091.43 ng/mL (p\u2009<\u20090.001). Median HbA1c increased from 5.65% (IQR 5.50-5.90) to 6.20% (IQR 6.03-6.88; p\u2009<\u20090.001). New-onset diabetes occurred in 9/24 (37.5%) patients without diabetes at baseline. At the last evaluation, HbA1c was \u2265\u20097.0% in 6 patients (20.0%). In exploratory analyses, higher diagnostic IGF-1 xULN correlated with greater increases in FPG (rho\u2009=\u20090.562, p\u2009=\u20090.001) and HbA1c (rho\u2009=\u20090.555, p\u2009=\u20090.001). Exploratory analyses suggested that higher IGF-1 levels at diagnosis may be associated with greater glycemic deterioration during follow-up. This potential association requires confirmation in larger cohorts. Hyperglycemic events are frequent but largely manageable with standard antidiabetic therapy. Lipid parameters remain stable or improve slightly. Early glucose monitoring should be standard during PAS\u2011LAR therapy.",
+      "journal": "Endocrine",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Observational Study"
+      ]
+    },
+    {
+      "pmid": "43090396",
+      "doi": "10.3390/metabo16110859",
+      "title": "Clinical and Pathological Features of Patients with Multiple Endocrine Neoplasia Type 1: A Long-Term Comparative Analysis Between Exon 2 and Other Mutations in the MEN1 Gene.",
+      "abstract": "Background: Multiple endocrine neoplasia type 1 (MEN1) is a rare inherited syndrome characterized by primary hyperparathyroidism (PHPT), duodenopancreatic neuroendocrine tumors (DP-NET), pituitary NET (Pit-NET) and other endocrine neoplasms. Reliable genotype-phenotype correlations remain limited, and the clinical relevance of MEN1 exon 2 variants is still uncertain. Methods and aim: This monocentric retrospective cohort included genetically confirmed MEN1 patients followed at the University of Naples Federico II from January 1992 to April 2025. Eligible patients carried a pathogenic MEN-1 variant involving a single exon and had at least 36 months of follow-up. Clinical, biochemical, radiological, histopathological, genetic, and treatment data were reviewed to compare patients carrying exon 2 variants (Ex2) with those carrying variants in other exons (OtherEx) in order to evaluate mean age at diagnosis (TD) and aggressiveness of MEN-1 manifestations in these two groups. Results: Sixty patients were included: 21 Ex2 and 39 OtherEx. Follow-up was comparable between groups (133 +/- 47.7 vs. 128 +/- 50.0 months). PHPT, Pit-NET, and DP-NET had similar prevalence. DP-NET metastases were more frequent in Ex2 than OtherEx patients (4/21, 19.0% vs. 1/39, 2.6%; OR 8.94, 95% CI 0.93-86.09; p = 0.0465). When the analysis was restricted to patients who developed DP-NET, metastatic disease occurred in 4/16 Ex2 patients (25.0%) and 1/30 OtherEx patients (3.3%; OR 9.67, 95% CI 0.98-95.68; p = 0.0430). Mean DP-NET progression-free survival was numerically shorter in Ex2 patients, without statistical significance (99.6 vs. 121.6 months; p = 0.27), and DP-NET-related deaths occurred only in the Ex2 group. Additional exploratory signals included male-specific adrenal adenomas among Ex2 patients and exon 7-related bone impairment. Conclusions: This long-term MEN1 cohort suggests that exon 2 variants may identify patients with similar DP-NET prevalence but greater metastatic propensity. Because of the number of metastatic events, these findings require validation in larger multicenter cohorts.",
+      "journal": "Metabolites",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43078239",
+      "doi": "10.1016/j.jtha.2026.11.010",
+      "title": "Adrenal vein thrombosis during pregnancy or the postpartum period: a systematic review.",
+      "abstract": "Adrenal vein thrombosis (AVT) is a rare but potentially life-threatening condition that may present as nonspecific abdominal or lower back pain during pregnancy and may be overlooked because of overlapping obstetric or gastrointestinal symptoms. AVT remains poorly characterized epidemiologically, and its management is not supported by robust evidence or consensus-based recommendations. To improve diagnosis and management, we searched the MEDLINE/PubMed, Embase, ScienceDirect and Cochrane Library databases up until October 2025 for publications on AVT in pregnancy and postpartum. Thirty-eight articles reporting 73 AVT episodes in 71 patients (three retrospective studies, five case series and thirty case reports) were reviewed. Presentation was consistent but nonspecific: mainly acute abdominal (74.4%) or lower back pain (49.3%), often associated with nausea (23.3%) and vomiting (31.5%). Events occurred predominantly in the third trimester (79.6%), at a mean \u00b1 standard deviation gestational age of 31\u00b15.7 weeks. Most cases were unilateral (63/72, 87.5%) and right-sided (48/72, 66.7%). Diagnosis relied mainly on contrast-enhanced abdominal computed tomography (56/73, 76.7%). Imaging evidenced adrenal necrosis and hemorrhage in 88.9% and 8.3% of cases, respectively. Adrenal insufficiency requiring hydrocortisone occurred in 17.1% of cases and was mainly associated with bilateral AVT. Low-molecular-weight heparin was the preferred anticoagulant during the acute phase (81.8%), followed by a switch to an oral anticoagulant postpartum (25.7%). The median treatment duration was of 24 weeks. Opioids analgesics were required in 54.8% of cases. This review summarizes the clinical presentation, diagnostic findings, management, and outcomes of AVT during pregnancy and postpartum.",
+      "journal": "Journal of thrombosis and haemostasis : JTH",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43091369",
+      "doi": "10.3390/medsci14070729",
+      "title": "Adrenal Tumors in a Tertiary Referral Center: Clinical Insights from a Six-Year Retrospective Cohort.",
+      "abstract": "Background/Objectives: Detection of adrenal tumors is increasing, mainly due to the widespread use and improved availability of radiological imaging. Their occurrence increases with age, and recent studies have reported a substantial increase in detection rates over the past few decades. This study aimed to describe the clinical spectrum and management of adrenal tumors in a real-world tertiary referral setting. Methods: This retrospective observational study was conducted to characterize the clinical presentation, diagnostic evaluation, management, and pathological spectrum of adrenal tumors treated at the University Clinical Center of Vojvodina between January 2020 and December 2025. This study included 862 patients with adrenal tumors from the outpatient clinic, day hospital, and hospital ward of the Clinic for Endocrinology, Diabetes, and Metabolic Disorders, University Clinical Center of Vojvodina, from January 2020 to December 2025. Results: Mean age was 60.73 \u00b1 11.51 (range 19-90) years. Peak prevalence was observed in the seventh decade of life. Accordingly, 86.5% of tumors were smaller than 4 cm, 50.3% of tumors were detected in the left adrenal gland, and 14.4% were bilateral. Non-functioning tumors accounted for 85.3% of cases, while tumors showing biochemical cortisol autonomy, aldosterone-secreting tumors, and catecholamine-secreting tumors accounted for 5.7%, 4.4%, and 4.6%, respectively. CT-based assessment of tumors showed that 88.6% were adenomas, while 3.2% were cases of pheochromocytoma, 2.6% metastasis, 2.1% carcinoma, and, in smaller percentages, cysts, myelolipoma, macro- and micronodular hyperplasia, and other types. Tumor histopathology (n = 121) showed adenoma, pheochromocytoma, and metastasis as the most common (45.5%, 24%, and 10.7%, respectively). Patients with malignant lesions were significantly older than those with benign lesions (p < 0.01) and pheochromocytoma (p < 0.01). In the subgroup with histopathological diagnosis (n = 121), histopathology was significantly associated with tumor size (\u03c72(4) = 19.80, p < 0.001), which may reflect selection for surgery or biopsy. The mean age of patients with benign tumors, pheochromocytoma, and malignant tumors was 52.34 \u00b1 13.86, 51.07 \u00b1 12.35, and 63.73 \u00b1 12.38, respectively. In the tissue-diagnosed subgroup, right-sided localization was more frequent among malignant tumors (p = 0.035), although the small number of cases warrants cautious interpretation. Conclusions: In our cohort, most adrenal tumors were benign and non-functioning, while hormonally active and malignant lesions represented a smaller but clinically important proportion requiring specialized evaluation and management. These findings provide real-world insights into adrenal tumor care in a tertiary referral setting and support the need for standardized data collection and prospective multicenter studies.",
+      "journal": "Medical sciences (Basel, Switzerland)",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Observational Study"
+      ]
+    },
+    {
+      "pmid": "43097002",
+      "doi": "10.1080/17581869.2026.2767026",
+      "title": "Meloxicam injection for the management of moderate-to-severe pain in adults.",
+      "abstract": "Post-operative pain remains a significant clinical challenge, with approximately 75% of surgical patients experiencing moderate-to-severe pain. Multimodal analgesia, which combines agents targeting different pain pathways, has become the standard of care to optimize pain control while minimizing opioid-related side effects. Nonsteroidal anti-inflammatory drugs (NSAIDs) are central to this approach; however, effective intravenous options have been limited. Intravenous (IV) meloxicam, a nanocrystal formulation of the preferential COX-2 inhibitor meloxicam, has been approved by the FDA as a 30\u2009mg, once-daily injection for moderate-to-severe pain in adults. This narrative review examines the pharmacology, pharmacokinetics, clinical efficacy, and safety of IV meloxicam in phase II and III trials across dental, gynecologic, and orthopedic surgical models. IV meloxicam may represent a promising addition to multimodal post-operative analgesia, offering rapid onset, once-daily dosing, and opioid sparing benefits. As a preferential COX-2 inhibitor, IV meloxicam may offer a more favorable safety profile compared to other nonselective NSAIDs. Additionally, IV meloxicam may possibly find a role within opioid-minimizing and enhanced recovery strategies. However, any such role will need to be confirmed by head-to-head trials against established injectable analgesics and by dedicated studies in patients with renal and hepatic impairment.",
+      "journal": "Pain management",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Review"
       ]
     },
     {
@@ -455,25 +531,15 @@
       ]
     },
     {
-      "pmid": "43083811",
-      "doi": "10.3390/vaccines14110981",
-      "title": "Laser Force Cytology for In-Process Monitoring of High-Titer Orf Virus Vectors: Process Integration with Optimized Nuclease Treatment and Clarification in Pharmaceutical Manufacturing.",
-      "abstract": "Orf virus (ORFV) is a versatile viral vector platform with applications in vaccine development and oncolytic therapy. Its large poxviral genome allows for the insertion and expression of multiple heterologous transgenes, making ORFV particularly attractive for the development of recombinant vaccines and therapeutic vectors. Efficient manufacturing of ORFV-based products requires high infectious virus yields while maintaining robust downstream processing and product recovery. In this study, we used a high-titer ORFV harvest to investigate nuclease treatment and clarification as key early downstream processing steps. Host cells were monitored during the infection phase using Laser Force Cytology to support the identification of an optimal harvest time. In addition, crude harvest pretreatment was optimized using enhanced NaCl concentrations and endonuclease treatment before clarification filtration. Amplification of ORFV viral vectors in HEK293F derivatives resulted in peak infectious titers of up to 3.3 \u00d7 109 IU mL-1. The addition of NaCl allowed for efficient degradation of DNA impurities by Denarase\u00ae High Salt while stabilizing the ORFV vector. Optimal enzyme performance was observed using 550 mM NaCl and 90 U mL-1 Denarase\u00ae High Salt for 7 h at 21 \u00b0C, resulting in 92% depletion of residual double-stranded DNA (dsDNA). For clarification filtration, a combination of polypropylene-based depth filters with retention rates of 5 and 0.5 \u00b5m recovered 91% of ORFV while depleting 33% dsDNA and 36% protein. This comprehensive data define optimized harvest timing, nuclease treatment and the clarification strategy of high-titer ORFV material, paving the way for pharmaceutical manufacturing of ORFV vectors.",
-      "journal": "Vaccines",
+      "pmid": "43096995",
+      "doi": "10.1080/17425255.2026.2771262",
+      "title": "The hidden impact of laxatives on drug absorption and efficacy: a clinical perspective.",
+      "abstract": "Laxatives are among the most widely used pharmacological agents worldwide, taken both as prescribed therapy and as unsupervised over-the-counter self-medication. Despite this near-ubiquitous exposure, their capacity to alter the pharmacokinetics and, consequently, the clinical efficacy or safety of concomitantly administered drugs remains under-recognized in routine practice. This article reviews under a clinical perspective the principal mechanisms by which laxatives interfere with drug absorption -accelerated intestinal transit, luminal dilution by osmotic agents, mucosal permeability changes induced by stimulant and anthranoid compounds, and electrolyte-mediated pharmacodynamic amplification- and summarizes the clinical evidence available for narrow-therapeutic-index drugs. Populations at particular risk, including patients with inflammatory bowel disease, older adults on polypharmacy, and individuals with chronic or covert laxative use, are discussed. Practical recommendations are proposed for clinicians, and priority areas for future pharmacokinetic research are outlined. The literature was identified through a search of Medline and Science Citation Index databases, supplemented by screening of relevant reference lists and clinical-trial information. The use of laxatives may interfere with the absorption of several drugs, but the literature data on this issue are still relatively scarce. The simultaneous prescription of laxatives when other drugs are used must be always carefully evaluated, especially in older subjects.",
+      "journal": "Expert opinion on drug metabolism & toxicology",
       "year": "2026",
       "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43083827",
-      "doi": "10.3390/vaccines14110997",
-      "title": "A Pooled Analysis of Streptococcus pneumoniae Serotype Distribution Reveals an Increasing Proportion of Non-Vaccine Serotypes Among Chinese Children with Invasive Pneumococcal Disease, 2009-2024.",
-      "abstract": "Objective: To describe the distribution of non-vaccine serotypes (NVTs) causing pediatric IPD in China, we conducted a retrospective multi-center pooled analysis of non-PCV13 Streptococcus pneumoniae isolates from 2009 to 2024. Methods: We pooled individual-level data from 863 pediatric IPD cases across the Chinese mainland (2009-2024). After deduplication and laboratory re-verification, 103 unique non-PCV13 isolates from 15 cities were included for serotyping, genotyping, and antimicrobial susceptibility testing. Data from the late-PCV13 period (2020-2024) were compared with pre- (2009-2016) and early-PCV13 periods (2017-2019). Results: Among 863 IPD strains, 121 (14.0%) were non-PCV13; 103 unique isolates were analyzed. The proportion of non-PCV13 isolates increased from 7.5% (2009-2016) to 11.0% (2017-2019) and 17.8% (2020-2024) (p < 0.01) among characterised isolates. These isolates comprised 36 serotypes, dominated by 15A (13.6%), 15B (8.7%), 15C (7.8%), and 23A (7.8%). PCV20-extended serotypes accounted for only 19.4%. Twenty-two serotypes emerged post-PCV13 introduction. Sixty-six sequence types (STs) were identified, led by ST11972 (8.7%), ST8589 (7.8%), and ST9396 (4.9%). Erythromycin and clindamycin resistance rates were 94.2% and 90.3%, respectively. Conclusions: Among available pediatric IPD isolates in mainland China, the relative proportion of non-PCV13 serotypes increased over time, although this trend cannot currently be accurately quantified or confirmed as being related to changes in population-level IPD incidence or to vaccine-driven serotype replacement. The considerable serotype and genotype diversity poses substantial challenges for expanded vaccine formulations and future surveillance.",
-      "journal": "Vaccines",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Review"
       ]
     },
     {
@@ -501,23 +567,101 @@
       ]
     },
     {
-      "pmid": "43083809",
-      "doi": "10.3390/vaccines14110979",
-      "title": "Herpes Zoster Vaccination and Dementia Risk: A Systematic Review of Natural Experiments and Cohort Evidence.",
-      "abstract": "Background/Objectives: More than 55 million people live with dementia, and no treatment halts its progression, which makes prevention the priority. Herpes zoster (HZ) results from reactivation of varicella-zoster virus (VZV) and has been linked to a higher dementia risk. Vaccination is already recommended for HZ and postherpetic neuralgia; whether it also protects cognition remains unclear. We critically appraise the evidence linking HZ vaccination to dementia risk across study designs. Methods: Following the PRISMA 2020 statement, we searched PubMed/MEDLINE and Europe PMC from 1 January 2015 to 29 October 2026 with forward citation searching and identified 36 eligible reports: 25 primary investigations (four natural experiments using date-of-birth eligibility cutoffs, one quasi-experimental analysis of a vaccine transition, 17 cohort studies, two nested case-control analyses, one cross-sectional survey; 20 with vaccination as the exposure; and five with infection as the exposure) and 11 secondary syntheses (10 systematic reviews or meta-analyses and one secondary quantification). Six narrative reviews served only as contextual references and were not counted. Results: Natural experiments report a consistent reduction in incident dementia, 8.5% (95% CI 1.9-15.1) on an eligibility basis and about 20% when scaled to vaccine receipt. Cohort analyses show larger, more variable reductions (24% to 51%), part of which reflects healthy vaccinee bias; the association persists, attenuated, against negative-control vaccines. Candidate mechanisms include VZV-specific immunity and broader immune modulation. Conclusions: The association between HZ vaccination and lower subsequent dementia risk is consistent in direction, biologically plausible, and modest in size, but every dementia outcome was graded very low certainty, so causality and magnitude both remain uncertain, and the evidence does not support a dementia-prevention indication. Randomized trials, mechanistic studies, and designs separating an effect on onset from an effect on the timing of diagnosis are needed. Retrospective registration: OSF Registries (10.17605/OSF.IO/MBXWE).",
-      "journal": "Vaccines",
+      "pmid": "43074863",
+      "doi": "10.3389/fonc.2026.1956884",
+      "title": "Reconstruction with a novel pedicled mucoperiosteal hinge flap and dura suturing: a new minimally invasive concept and closure technique for endoscopic endonasal surgery.",
+      "abstract": "The authors aimed to evaluate their experience with the minimally invasive reconstruction technique using pedicled mucoperiostea hinge flap (PMHF) with dura suturing after EES. Outcomes were compared with those of the traditional reconstruction using the NSF. The authors conducted a retrospective cohort study involving 33 consecutive patients who underwent EES for pituitary adenoma resection. All these 33 patients were reconstructed with pedicled mucoperiosteal hinge flap with dura suturing and were compared with 32 consecutive patients treated previously using NSF technique. Surgical videos and electronic medical records were reviewed to assess operative times and postoperative outcomes, which were compared between the groups, with a particular focus on nasal function, assessed using the Endoscopic Endonasal Sinus and Skull Base Surgery Questionnaire (EES-Q). Demographics of the two groups were broadly similar. Among the 33 patients using PMHF with dura suturing, the average operative time decreased with experience, showing a trend of improved efficiency. No significant difference was observed between two groups in terms of total operative time. One postoperative CSF leak (3%) was observed in PMHF group, while 2 postoperative CSF leak (6%) occurred in group using NSF (P\u00a0=\u00a00.61). Importantly, patients who underwent reconstruction with pedicled mucoperiosteal hinge flap with dura suturing reported significantly lower EES-Q scores overall (p < 0.01), with better outcomes in all domains (p < 0.01). This technique provides a reliable method for preventing postoperative CSF leak and a less invasive option, ultimately contributing to the preservation of the patient's quality of life (QOL).",
+      "journal": "Frontiers in oncology",
       "year": "2026",
       "publication_types": [
-        "Journal Article",
-        "Review"
+        "Journal Article"
       ]
     },
     {
-      "pmid": "43083843",
-      "doi": "10.1158/1055-9965.EPI-26-0415",
-      "title": "Prognostic Significance of Tertiary Lymphoid Structures in Invasive Breast Cancer.",
-      "abstract": "Tertiary lymphoid structures (TLS) are organized immune aggregates associated with improved outcomes in several solid tumors. Their significance in invasive breast cancer remains poorly characterized. TLS were evaluated in 1,703 breast tumors from the Carolina Breast Cancer Study (CBCS) using H&E whole-slide image annotation (training set, n=842) and bulk RNA profiling to develop an RNA-based TLS classifier tested in a holdout set (n=861). Associations with clinicopathologic features and progression-free survival (PFS) were assessed using multinomial logistic and Cox models. In the I-SPY2 neoadjuvant trial cohort (N=985), associations with pathologic complete response (pCR) were assessed by logistic regression, adjusted for treatment arm. TLS were associated with younger age, Black race, high tumor grade, hormone receptor (HR)-negativity, and stromal tumor-infiltrating lymphocytes (TILs). In HR-negative disease, histologic mTLS presence was associated with improved PFS (HR=0.41, 95% CI: 0.17-0.96). RNA-based mTLS classification (n=1,703) was associated with improved PFS overall and in HER2-positive and triple negative disease (HRs 0.32-0.51). In I-SPY2, RNA-based mTLS class was associated with increased odds of pCR in HR-negative (OR=1.59, 95% CI: 1.05-2.41) and HER2-positive (OR=2.02, 95% CI: 1.14-3.62) tumors; after adjustment for treatment arm, this association remained significant in HER2-positive disease (OR=2.07, 95% CI: 1.14-3.80). mTLS demonstrate prognostic value in HR-negative breast cancer and association with neoadjuvant treatment response in HER2-positive disease. These findings support mature TLS as prognostically informative in breast cancer and suggest that transcriptomic TLS classification warrants prospective evaluation as a predictive biomarker in HER2-positive disease.",
-      "journal": "Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology",
+      "pmid": "43058876",
+      "doi": "10.1186/s13256-026-06429-6",
+      "title": "Bilateral adrenal diffuse large B-cell lymphoma masquerading as bilateral adrenal metastases: a rare presentation diagnosed by endoscopic ultrasound-guided fine-needle biopsy.",
+      "abstract": "Bilateral adrenal diffuse large B-cell lymphoma (DLBCL) is an exceedingly rare entity. Presentation as bilateral adrenal masses without an identifiable extra-adrenal primary poses a formidable diagnostic challenge, frequently mimicking adrenal metastases or primary adrenal malignancy. A 70-year-old normotensive, non-diabetic male presented with a one-month history of weight loss, generalized dull abdominal pain, and anorexia. Contrast-enhanced computed tomography (CECT) revealed bilateral adrenal masses (right 56\u2009\u00d7\u200928\u2009\u00d7\u200955\u00a0mm; left 61\u2009\u00d7\u200930\u2009\u00d7\u200954\u00a0mm) with imaging characteristics indistinguishable from metastatic disease. Extensive workup-including CT of the neck and chest, colonoscopy, and biochemical adrenal profiling-failed to identify a primary extra-adrenal malignancy or hormonal excess. Endoscopic ultrasound-guided fine-needle biopsy (EUS-FNB) using a 22-gauge needle provided tissue confirming diffuse large B-cell lymphoma (DLBCL) with CD20 and PAX-5 positivity. The patient was referred to oncology and commenced on rituximab-based chemotherapy. This case underscores the indispensable role of EUS-guided tissue sampling in the evaluation of bilateral adrenal masses when non-invasive workup is inconclusive. Early tissue diagnosis of adrenal DLBCL is critical, as it is a potentially curable disease amenable to immunochemotherapy rather than surgery.",
+      "journal": "Journal of medical case reports",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    },
+    {
+      "pmid": "43097003",
+      "doi": "10.1099/mgen.0.001892",
+      "title": "Detection of Salmonella Typhi, associated microbial communities and AMR genes within wastewater in Harare, Zimbabwe.",
+      "abstract": "Water, sanitation and hygiene (WASH) infrastructure is critical to the control of transmission of bacterial pathogens, such as Salmonella enterica serotype Typhi (S. Typhi). Wastewater harbours a complex microbial community of bacteria that encode antimicrobial resistance genes (ARGs) capable of transfer to bacterial pathogens and protists which have the potential to provide an intracellular niche contributing to pathogen transmission. Here, we report the microbial communities and resistome within wastewater treatment plants in Harare, Zimbabwe, where typhoid fever is endemic. The detection of S. Typhi using metagenome sequence and quantitative PCR (qPCR) was investigated. A total of 3,239 miTag groups of bacteria from 58 classified phyla were detected, with Pseudomonadota as the dominant taxon. Salmonella detection in metagenome sequence lacked sensitivity and specificity. Instead, qPCR using primers that can discriminate between Salmonella serotypes detects these pathogens at high prevalence in wastewater. The protist community was diverse, comprising 576 taxa, including phyla, such as Bigyra and Fornicata. We detected a difference in protist community diversity in influent or effluent samples. A significant reduction in metagenome sequences that mapped to ARGs was observed in effluent compared to influent samples, including a 1,000-fold decrease in ARGs conferring resistance to quinolone antibiotics, a class important as a first-line treatment for typhoid fever. Our data highlight the importance of WASH infrastructure to decrease the opportunity for interaction between protists and bacterial pathogens, the transfer of ARGs and transmission to the public.",
+      "journal": "Microbial genomics",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43070713",
+      "doi": "10.1227/ons.0000000000002246",
+      "title": "Benefits of Intracystic Bleomycin for Symptomatic Recurrent Rathke Cleft Cyst: An Institutional Update.",
+      "abstract": "The management of recurrent Rathke cleft cysts (RCC) poses a unique clinical challenge. The mainstay of treatment is reoperation with cyst drainage; however, there is limited evidence evaluating adjuvant pharmaceutical therapy in this patient population. Several studies, including a 2019 study by Ung et al at our institution, suggest a potential benefit of the use of intracystic bleomycin in recurrent RCC. The intracystic application of bleomycin is known to be beneficial in the treatment of cystic craniopharyngioma, however, its role in the treatment of recurrent Rathke cleft cyst remains unclear. To evaluate long-term outcomes of recurrent RCC treated with intracystic bleomycin, building on a 2019 study by our institution which reported no short-term follow-up recurrence. We conducted a retrospective chart review of patients with RCC who underwent surgical resection with intracystic bleomycin between January 2011 and December 2023 by a single surgeon. This study updates our 2019 study which reported no recurrence in 6 patients who received intracystic bleomycin for recurrent RCC. Patient symptom ratings were collected preoperatively and postoperatively. Of 125 patients with a history of surgery for RCC, 29 (23%) experienced radiographic recurrence. Subsequently, 24 of these patients underwent reresection with 20 of these patients receiving intracystic bleomycin at the time of secondary resection. To date, only 2 bleomycin-treated patients experienced recurrence (10%) with a median follow-up of 28.4 [4.0-54.4] months. Compared with historical data which show a 26.2% recurrence rate after secondary resection without adjuvant therapy, our bleomycin-treated cohort demonstrated a lower recurrence rate. The use of intracystic bleomycin seems to be a safe and potentially effective treatment option in patients with recurrent RCC.",
+      "journal": "Operative neurosurgery (Hagerstown, Md.)",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43076068",
+      "doi": "10.4045/tidsskr.26.0325",
+      "title": "Patients with acromegaly who underwent surgery at Haukeland University Hospital, 2015-2024.",
+      "abstract": "Acromegaly is a rare disease. The aim of this study was to describe the clinical characteristics, course of treatment and outcomes of patients who underwent surgery for acromegaly at Haukeland University Hospital in the period 2015-2024. A retrospective review of medical records of patients who underwent surgery for acromegaly between 1.\u00a0January 2015 and 31\u00a0December 2024. A total of 23 patients were included in the study, 11 of whom were women (48\u00a0%). The median age at diagnosis was 60 years (range 26-81). Macroadenomas were identified in 17 patients (74\u00a0%). Six patients (26\u00a0%) were in remission at the 3-month follow-up after primary surgery. At the last follow-up, after a median of 70 months (range 7-126), nine patients (39\u00a0%) were in remission. Fourteen patients received further treatment in the form of pharmacotherapy, repeat surgery and/or radiotherapy. Acromegaly is a rare disease, and the high proportion of macroadenomas suggests late diagnosis. Many patients do not achieve remission after surgery and require further treatment to control the disease.",
+      "journal": "Tidsskrift for den Norske laegeforening : tidsskrift for praktisk medicin, ny raekke",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43096985",
+      "doi": "10.1016/j.jaccas.2026.111558",
+      "title": "Life-Threatening Retroperitoneal Hematoma After Radial PCI: A Rare Case of Spontaneous Lumbar Artery Bleeding.",
+      "abstract": "Spontaneous retroperitoneal hematoma is a rare, life-threatening complication of antithrombotic therapy, seldom considered after radial percutaneous coronary intervention (PCI). A 71-year-old man underwent radial PCI of the right coronary artery 3 days after streptokinase for inferior myocardial infarction on dual antiplatelet therapy and enoxaparin. Twelve hours later, he developed abdominal pain and hypotension, with hemoglobin falling from 11.6 to 6 g/dL. Computed tomography showed a large left retroperitoneal hematoma with active extravasation, and angiography localized bleeding to the left third lumbar artery, which was successfully embolized. Recovery was complicated by acute renal failure requiring dialysis; the hematoma resolved on follow-up. Layered fibrinolytic, antiplatelet, and anticoagulant exposure can cause spontaneous non-access-site bleeding even after radial access, where retroperitoneal hemorrhage is rarely suspected. Radial access does not eliminate major bleeding risk. Unexplained hypotension after PCI should prompt early imaging to exclude retroperitoneal hemorrhage.",
+      "journal": "JACC. Case reports",
+      "year": "2026",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43095004",
+      "doi": "10.1210/jendso/bvag209",
+      "title": "Efficacy of radionuclide therapy in the treatment of inoperable or metastatic pheochromocytoma and paraganglioma.",
+      "abstract": "Inoperable or metastatic pheochromocytoma and paraganglioma (PC/PGL) present a management challenge with high variability in response to systemic therapies. The aim of this study was to assess the efficacy and toxicity of 2 therapeutic radiopharmaceutical agents: iodine-131 metaiodobenzylguanine and lutetium-177 DOTA-octreotate. This retrospective audit assessed the efficacy of radionuclide therapy in the treatment of progressive inoperable or metastatic PC/PGL utilizing 3 variables to assess response: clinical (symptomatic and antihypertensive medication dose changes); hormonal (catecholamine or plasma metanephrine levels); and radiological (tumor size). Response was assessed at the first clinical review following initial treatment. For patients receiving more than a single dose of radionuclide therapy, longitudinal data on additional therapies, treatment response, and survival analysis was performed. 16 treatment-na\u00efve patients were included in this study: 9 patients were diagnosed with PC and 7 with PGL. Eight patients received iodine-131 metaiodobenzylguanine and 8 lutetium-177 DOTA-octreotate. There was a significant fall in the mean systolic blood pressure following administration of radionuclide therapy: 133\u2005mmHg [IQR 124.5-145.5] to 127\u2005mmHg [IQR 112.5-130.8] (P = .05). Disease control rate was high for all variables (clinical 92%; hormonal 100%; radiological 100%). Overall response rate was greatest clinically (clinical 83%; hormonal 45%; radiological 8%). Median progression-free survival (PFS; defined as progression in clinical, hormonal, or radiological variables) was 17 months (95% CI, 9-27). Specific to radiological progression, that is PC/PGL tumor progression as determined by RECIST 1.1, the PFS was 53 months (95% CI, 27-62). The median overall survival was not reached in this cohort. Patients diagnosed with progressive inoperable or metastatic PC/PGLs have few therapeutic options. We have shown the efficacy of iodine-131 metaiodobenzylguanine and lutetium-177 DOTA-octreotate with improvement of symptoms associated with catecholamine excess, blood pressure control, and hormone secretion, as well as stabilization of tumor growth.",
+      "journal": "Journal of the Endocrine Society",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43087103",
+      "doi": "10.1097/ACO.0000000000001723",
+      "title": "Anesthetic challenges and management strategies in patients with prior chimeric antigen receptor T-cell exposure, immunotherapy and thoracic noncardiac anesthesia.",
+      "abstract": "The increasing use of immunotherapy and targeted cancer therapies has added an additional layer of complexity to the management of thoracic malignancies. This review summarizes contemporary systemic cancer therapies and their treatment-related toxicities relevant to the anesthetic management of patients undergoing thoracic noncardiac surgery. Immune checkpoint inhibitors and chimeric antigen receptor T-cell (CAR-T) therapies cause multi-organ toxicities across pulmonary, cardiovascular, endocrine, neurological, hematological, and renal systems. Checkpoint inhibitor pneumonitis, myocarditis, adrenal insufficiency, and neurological syndromes can persist beyond treatment, impacting perioperative care. CAR T-cell therapies carry risks of cytokine release syndrome, immune effector cell-associated neurotoxicity syndrome, coagulopathies, prolonged cytopenias, and cardiopulmonary complications. Combined with the stress of thoracic surgery and one-lung ventilation, these toxicities require an individualized, multidisciplinary approach. Emerging modalities, including cancer vaccines and oncolytic viruses, present additional novel considerations. Safe perioperative care requires understanding treatment-specific toxicities, comprehensive preoperative assessment, individualized ventilation and hemodynamic strategies, structured postoperative management, and essential multidisciplinary collaboration as therapies evolve.",
+      "journal": "Current opinion in anaesthesiology",
+      "year": "2026",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "43080746",
+      "doi": "10.15586/jkc.v13i4.501",
+      "title": "Variable Expressivity of von Hippel-Lindau (VHL) Disease Associated with c.499C>T Variant in a Multigenerational Family.",
+      "abstract": "von Hippel-Lindau (VHL) disease is an autosomal dominant cancer syndrome caused by germline pathogenic variants in the VHL tumor suppressor gene manifesting as a spectrum of neoplasms, including the central nervous system (CNS) and retinal hemangioblastomas, pheochromocytoma, renal cell carcinoma (RCC), pancreatic neuroendocrine tumors (PNETs), and paraganglioma. This study systematically evaluates the clinical, radiological, and molecular genetic profiles of a large multigeneration family harboring the pathogenic variant c.499C>T (p.Arg167Trp). Affected individuals and at-risk family members underwent clinical exome sequencing and targeted cascade molecular testing. Variants were classified according to the 2015 guidelines of the American College of Medical Genetics and Genomics-Association for Molecular Pathology. Multidisciplinary follow-up encompassed neurological, endocrinological, ophthalmological, and radiological evaluations, including optical coherence tomography and magnetic resonance imaging (MRI) surveillance. Among 47 individuals tested across five generations, 23 were confirmed to carry the heterozygous pathogenic variant c.499C>T (p.Arg167Trp) in the VHL gene (NM_000551.4). Among the 23 molecularly confirmed carriers (which included several young carriers still under surveillance), pheochromocytoma was the most prevalent manifestation (5/23), followed by CNS hemangioblastoma (3/23), retinal angioma (2/23), PNET (2/23), and pancreatic cysts (2/23). No RCC was identified among molecularly confirmed carriers. Clinical presentations were consistent with multiple VHL disease subtypes, reflecting broad intrafamilial phenotypic heterogeneity. The c.499C>T (p.Arg167Trp) variant demonstrates remarkable phenotypic variability, ranging from multiple concurrent VHL-associated neoplasms to asymptomatic carrier status within the same family. These findings underscore the necessity of lifelong multidisciplinary surveillance and comprehensive cascade genetic testing in the clinical management of VHL disease.",
+      "journal": "Journal of kidney cancer and VHL",
       "year": "2026",
       "publication_types": [
         "Journal Article"
@@ -532,121 +676,6 @@
       "year": "2026",
       "publication_types": [
         "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43079417",
-      "doi": "10.1186/s12902-026-02447-z",
-      "title": "Clinical characteristics and management of nivolumab-induced hypophysitis: retrospective analysis based on case reports.",
-      "abstract": "Nivolumab-associated hypophysitis is a rare endocrine immune-related adverse event with incompletely defined clinical characteristics and management. This study aimed to synthesize patient-level evidence to clarify its presentation, treatment, and clinical outcomes, thereby facilitating earlier recognition and evidence-based management. We conducted a retrospective, case-based synthesis of nivolumab-induced hypophysitis. PubMed, EMBASE, Web of Science, WanFang Data, and CNKI were systematically searched for reports published up to Jan 31, 2026, using a combination of MeSH terms: (\"nivolumab\" OR \"PD-1 inhibitor\" OR \"programmed death-1 inhibitor\" OR \"immune checkpoint inhibitor\" OR \"ICI\") AND (\"hypophysitis\" OR \"pituitary inflammation\" OR \"hypopituitarism\") AND (\"immune-related adverse event\" OR \"irAE\" OR \"endocrinopathy\"). Among 2,264 records screened, 38 case reports and case series comprising 40 patients were included in the final analysis. Median age was 62 years (range 26-84), and 72.5% were male. Hypophysitis occurred most often in melanoma (42.5%) and renal cell carcinoma (30.0%), with a median onset of 20 weeks. Fatigue (82.5%), anorexia/nausea (65.0%), and hyponatremia (42.5%) were common; pituitary MRI abnormalities were reported in 46.2%. Endocrine testing mainly showed central adrenal insufficiency with central hypothyroidism; median cortisol and ACTH were 2.9\u00a0\u00b5g/dL and 38.0 pg/mL. All patients received corticosteroids, 35.0% received levothyroxine, and nivolumab was discontinued in 80.0%. Among 16 rechallenged patients, relapse occurred in 18.8%. Clinical improvement was frequent (92.5%), whereas full hormonal recovery was uncommon. Nivolumab-induced hypophysitis primarily involves the corticotropic axis. Early hormonal evaluation and imaging are essential. Corticosteroids remain the mainstay of treatment, and long-term hormone replacement is often necessary. Rechallenge with nivolumab may be considered in selected patients, but requires careful risk-benefit assessment. Not applicable.",
-      "journal": "BMC endocrine disorders",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Systematic Review"
-      ]
-    },
-    {
-      "pmid": "43074863",
-      "doi": "10.3389/fonc.2026.1956884",
-      "title": "Reconstruction with a novel pedicled mucoperiosteal hinge flap and dura suturing: a new minimally invasive concept and closure technique for endoscopic endonasal surgery.",
-      "abstract": "The authors aimed to evaluate their experience with the minimally invasive reconstruction technique using pedicled mucoperiostea hinge flap (PMHF) with dura suturing after EES. Outcomes were compared with those of the traditional reconstruction using the NSF. The authors conducted a retrospective cohort study involving 33 consecutive patients who underwent EES for pituitary adenoma resection. All these 33 patients were reconstructed with pedicled mucoperiosteal hinge flap with dura suturing and were compared with 32 consecutive patients treated previously using NSF technique. Surgical videos and electronic medical records were reviewed to assess operative times and postoperative outcomes, which were compared between the groups, with a particular focus on nasal function, assessed using the Endoscopic Endonasal Sinus and Skull Base Surgery Questionnaire (EES-Q). Demographics of the two groups were broadly similar. Among the 33 patients using PMHF with dura suturing, the average operative time decreased with experience, showing a trend of improved efficiency. No significant difference was observed between two groups in terms of total operative time. One postoperative CSF leak (3%) was observed in PMHF group, while 2 postoperative CSF leak (6%) occurred in group using NSF (P\u00a0=\u00a00.61). Importantly, patients who underwent reconstruction with pedicled mucoperiosteal hinge flap with dura suturing reported significantly lower EES-Q scores overall (p < 0.01), with better outcomes in all domains (p < 0.01). This technique provides a reliable method for preventing postoperative CSF leak and a less invasive option, ultimately contributing to the preservation of the patient's quality of life (QOL).",
-      "journal": "Frontiers in oncology",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43080889",
-      "doi": "10.1210/jcemcr/luag385",
-      "title": "Vertebral fractures unmasking Cushing disease: an unexpected argument for secondary osteoporosis screening.",
-      "abstract": "Osteoporosis poses a substantial health and financial burden. Although secondary causes are more common in men, they are screened less for osteoporosis than their female counterparts. We present the case of a 70-year-old man with a history of an adrenal incidentaloma with a recent diagnosis of 2 vertebral fractures. Initial workup revealed adrenocorticotropic hormone-dependent hypercortisolism. Imaging confirmed a pituitary macroadenoma, suggestive of Cushing disease (CD). Lifestyle modifications, calcium and vitamin D supplementation, and intravenous zoledronic acid were initiated to treat the severe osteoporosis. Pituitary surgery was carried out, with pathology revealing a Crooke cell adenoma. This case illustrates the importance of screening for osteoporosis in men, including thorough evaluation to rule out secondary causes. Moreover, a critical evaluation of the current approach to bone health in CD is provided.",
-      "journal": "JCEM case reports",
-      "year": "2027",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43069073",
-      "doi": "10.1186/s12882-026-05242-z",
-      "title": "Kidney biopsy unveiled: multifactorial damage in immune checkpoint inhibitor therapy, a case report.",
-      "abstract": "Immune checkpoint inhibitors (ICIs) have revolutionized cancer treatment by enhancing anti-tumor immunity, but may cause immune-related adverse events (IRAEs) in up to 40% of patients. Renal involvement occurs in 1-5% of cases and includes a spectrum of immune-mediated injuries, most commonly acute interstitial nephritis (AIN). We report the case of a 79-year-old man with stage G3A chronic kidney disease and biphasic pleural mesothelioma treated with dual ICI therapy. Eleven days after treatment initiation, he developed acute kidney injury (AKI) and severe hypercalcemia with neurological symptoms. A comprehensive diagnostic work-up excluded the most common causes of hypercalcemia, raising suspicion of an immune-mediated mechanism. Because renal dysfunction persisted despite supportive measures, a kidney biopsy was performed and showed granulomatous AIN with tubular calcium deposition and non-necrotizing epithelioid granulomas, findings consistent, although uncommon, with ICI-related nephrotoxicity. Further imaging findings strongly supported central adrenal insufficiency secondary to hypophysitis as the underlying cause of hypercalcemia. Corticosteroid therapy led to marked clinical improvement, with complete recovery of renal function and resolution of hypercalcemia. This case highlights the diagnostic and prognostic value of kidney biopsy in ICI-associated AKI, as histological findings clarified the interplay between immune-mediated nephrotoxicity, hypercalcemia, and pre-existing CKD, thereby guiding tailored nephrological and oncological management. It also emphasizes that, in patients receiving ICIs, hypercalcemia should raise suspicion for central adrenal insufficiency due to hypophysitis.",
-      "journal": "BMC nephrology",
-      "year": "2026",
-      "publication_types": [
-        "Case Reports",
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43058541",
-      "doi": "10.1186/s12884-026-09872-x",
-      "title": "Giant adrenal teratoma mimicking renal angiomyolipoma during pregnancy with coexisting fetal pulmonary sequestration: a case report.",
-      "abstract": "Adrenal tumors during pregnancy are rare, but their detection is increasing due to prenatal imaging. Retroperitoneal fat-containing tumors, such as mature teratomas, can easily mimic renal angiomyolipoma (RAML), especially when the gravid uterus displaces anatomical landmarks. Excluding functional tumors (e.g., pheochromocytoma) is critical to prevent lethal hypertensive crises and guide multidisciplinary team (MDT) management. A 31-year-old primigravida (12 weeks' gestation) presented with a 9.8\u2009\u00d7\u200913.3\u2009\u00d7\u200910.9\u00a0cm fat-containing right retroperitoneal mass on MRI, mimicking renal angiomyolipoma or teratoma. Concurrently, fetal ultrasound at 22\u2009+\u20094 weeks identified an incidental left-sided fetal pulmonary sequestration. Normal catecholamine and cortisol levels confirmed a non-functional tumor, warranting a multidisciplinary team (MDT) strategy of watchful waiting. The patient successfully delivered a live infant via elective cesarean section at 37\u2009+\u20091 weeks. Postpartum, she underwent elective laparoscopic resection of the retroperitoneal tumor. Intraoperatively, the massive tumor encased the inferior vena cava (IVC) and right renal vein with dense adhesions. A laceration occurred on the posterior wall of the IVC during dissection, which was successfully repaired using vascular sutures without significant blood loss (200 mL). Postoperative pathology confirmed a mature adrenal teratoma. Both mother and neonate showed excellent outcomes during follow-up. This case highlights the diagnostic challenge of differentiating giant fat-containing retroperitoneal tumors during pregnancy. For non-functional retroperitoneal tumors without signs of malignancy, delaying surgery until the postpartum period is a safe strategy. In cases involving major vascular encasement, the surgical team must be fully prepared to manage unexpected vascular injuries. A multidisciplinary approach is highly recommended to optimize outcomes for rare maternal tumors and incidental fetal anomalies.",
-      "journal": "BMC pregnancy and childbirth",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Case Reports"
-      ]
-    },
-    {
-      "pmid": "43083823",
-      "doi": "10.3390/vaccines14110993",
-      "title": "A Sequential Benznidazole-Vaccine-Benznidazole Regimen Enhances Therapeutic Efficacy Against Chronic Trypanosoma cruzi Infection in Mice.",
-      "abstract": "Background/Objectives: Chronic Chagas cardiomyopathy (CCC), caused by Trypanosoma cruzi (T. cruzi), remains a major public health challenge and a leading cause of heart failure, with this chronic stage representing the period when most patients are diagnosed and require clinical intervention. However, the efficacy of the available parasiticidal drugs, benznidazole (BZL) and nifurtimox during chronic infection is limited and new therapeutic approaches are needed. In this study, we evaluated a novel sequential chemo-immunotherapeutic strategy (BZL \u2192 Vac \u2192 BZL) designed to shorten benznidazole treatment duration to minimize drug-related adverse effects by leveraging the synergistic potential of both treatments. Methods: BALB/c mice chronically infected with T. cruzi were used as model. A long-term sequential regimen was evaluated and compared 190 days post-infection with uninfected, untreated infected (Tc), monotherapy (BZL or TSNt-ISPA vaccine), and combined (Vac \u2192 BZL) controls. The sequential treatment consisted of an initial short cycle of oral BZL, three subcutaneous immunizations with the TSNt-ISPA vaccine, and a final BZL booster. Cardiac parasite load and cytokine expression (qPCR), inflammation and fibrosis (histopathology), electrocardiograms (ECG), specific antibodies (ELISA), and splenic cellular response (flow cytometry) were analyzed. Results: The BZL-Vac \u2192 BZL scheme significantly reduced cardiac parasite load, achieving undetectability in some animals. Combined therapies (Vac \u2192 BZL and BZL \u2192 Vac \u2192 BZL) significantly attenuated myocardial inflammation and fibrosis, improving P-wave duration and the QTc interval. The sequential treatment induced a robust Th1-associated humoral response (IgG2a) and a balanced cellular profile, uniquely increasing splenic IL-10-producing CD4+ T cells, TNF-\u03b1-producing CD8+ T cells, and cardiac IL-10 and Foxp3 expression. Conclusions: The temporal integration of fractionated benznidazole and TSNt-ISPA immunotherapy protects myocardial integrity and function through an effector immune response under strict regulatory control.",
-      "journal": "Vaccines",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43043775",
-      "doi": "10.4103/aam.aam_1233_26",
-      "title": "Pituitary Stalk Interruption Syndrome Presenting as Primary Amenorrhea: Magnetic Resonance Imaging Demonstration of the Characteristic Diagnostic Triad.",
-      "abstract": "Pituitary stalk interruption syndrome (PSIS) is a rare congenital pituitary malformation characterized by the triad of anterior pituitary hypoplasia, an absent or interrupted pituitary stalk, and an ectopic posterior pituitary. We report the case of a 21-year-old woman who presented with primary amenorrhea and poorly developed secondary sexual characteristics. Hormonal evaluation revealed central hypothyroidism, markedly reduced morning serum cortisol, and suppressed gonadotropin levels, indicating hypopituitarism with hypogonadotropic hypogonadism. Pelvic ultrasonography demonstrated a markedly hypoplastic uterus and bilaterally small ovaries. Magnetic resonance imaging of the sellar region revealed a hypoplastic anterior pituitary gland, nonvisualization of the pituitary stalk, and an ectopic posterior pituitary bright spot at the median eminence beneath the optic chiasm. These characteristic imaging findings established the diagnosis of PSIS. This case highlights the importance of considering PSIS in women presenting with primary amenorrhea and delayed pubertal development. Recognition of the characteristic magnetic resonance imaging triad facilitates timely endocrine evaluation, hormone replacement therapy, and long-term follow-up. R\u00e9sum\u00e9Le syndrome d\u2019interruption de la tige pituitaire (SITP) est une malformation cong\u00e9nitale rare de l\u2019hypophyse, caract\u00e9ris\u00e9e par une triade associant une hypoplasie de l\u2019ant\u00e9hypophyse, une absence ou une interruption de la tige pituitaire et une neurohypophyse ectopique. Nous rapportons le cas d\u2019une femme de 21 ans consultant pour une am\u00e9norrh\u00e9e primaire et un d\u00e9veloppement insuffisant des caract\u00e8res sexuels secondaires. Le bilan hormonal a r\u00e9v\u00e9l\u00e9 une hypothyro\u00efdie centrale, une diminution marqu\u00e9e du cortisol s\u00e9rique matinal et une suppression des taux de gonadotrophines, en faveur d\u2019un hypopituitarisme associ\u00e9 \u00e0 un hypogonadisme hypogonadotrope. L\u2019\u00e9chographie pelvienne a montr\u00e9 un ut\u00e9rus tr\u00e8s hypoplasique et des ovaires bilat\u00e9ralement de petite taille. L\u2019imagerie par r\u00e9sonance magn\u00e9tique (IRM) de la r\u00e9gion sellaire a mis en \u00e9vidence une hypoplasie de l\u2019ant\u00e9hypophyse, une absence de visualisation de la tige pituitaire et un hypersignal spontan\u00e9 T1 ectopique de la neurohypophyse au niveau de l\u2019\u00e9minence m\u00e9diane, sous le chiasma optique. Ces signes radiologiques caract\u00e9ristiques ont permis d\u2019\u00e9tablir le diagnostic de SITP. Ce cas souligne l\u2019importance d\u2019\u00e9voquer le SITP chez les femmes pr\u00e9sentant une am\u00e9norrh\u00e9e primaire et un retard du d\u00e9veloppement pubertaire. La reconnaissance de la triade caract\u00e9ristique \u00e0 l\u2019IRM permet une \u00e9valuation endocrinienne pr\u00e9coce, l\u2019instauration d\u2019un traitement hormonal substitutif et un suivi \u00e0 long terme.",
-      "journal": "Annals of African medicine",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43077482",
-      "doi": "10.1530/EC-26-0610",
-      "title": "Radiosurgery facilitates pharmacotherapy withdrawal in acromegaly: long-term outcomes.",
-      "abstract": "Early and sustained biochemical control is the therapeutic goal in acromegaly. While transsphenoidal surgery is the first-line treatment, many patients require multimodal therapy. The role of stereotactic radiosurgery in facilitating pharmacotherapy withdrawal has not been well characterised. In this retrospective single-centre cohort study, we evaluated 136 patients with acromegaly who underwent transsphenoidal surgery between 2002 and 2021 and were followed through January 2026. Outcomes included IGF-1 normalization, withdrawal of medical therapy after Leksell Gamma Knife radiosurgery (LGK), pituitary function, and treatment-related complications. Postoperative IGF-1 normalization was achieved in 60/136 patients (44.1%). Overall, 66/136 patients (48.5%) underwent LGK. Among patients treated with LGK and concomitant pharmacotherapy, the median time to IGF-1 normalization was 8 months, and 50/62 (80.6%) discontinued medical therapy, with a median time to withdrawal of 50.5 months (IQR 17-79.5). Dopamine agonist monotherapy was sufficient in 27/71 patients (38.0%) requiring postoperative pharmacotherapy. Clinically relevant hypopituitarism developed in 8/66 patients (12.1%) after LGK. At final follow-up, IGF-1 normalization was achieved in 133/136 patients (97.8%), and 116/136 (85.3%) remained controlled without ongoing IGF-1-lowering therapy. Multimodal treatment provides durable long-term control of acromegaly. In patients with persistent disease after surgery, LGK contributes to sustained biochemical disease control and facilitates progressive pharmacotherapy de-escalation, with treatment withdrawal achieved in a substantial proportion of patients. Dopamine agonists represent an effective oral option for selected patients with mild residual disease activity.",
-      "journal": "Endocrine connections",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "43083815",
-      "doi": "10.3390/vaccines14110986",
-      "title": "Metabolic Continuity in Cancer Vaccination.",
-      "abstract": "Cancer vaccines can generate durable, tumor-specific T-cell responses, yet immunogenicity remains an imperfect surrogate for tumor control. An important, incompletely characterized contributor may be the metabolic fitness of the vaccine-induced immune response. Dendritic-cell activation, T-cell clonal expansion, effector differentiation, trafficking, tissue residency, tumor entry, cytotoxicity, and memory formation each impose distinct bioenergetic and biosynthetic requirements. These requirements are progressively challenged in tumors by nutrient competition, hypoxia, lactate and acidosis, adenosine, lipid stress, amino-acid depletion, mitochondrial dysfunction, and metabolically adapted suppressive cells. Here, we use metabolic continuity as a design principle for cancer vaccination: successful therapy requires preservation of metabolic competence from antigen presentation through intratumoral tumor killing and durable memory. We further use the term shared nutrient-dependency paradox to highlight a translational problem: pathways considered attractive tumor targets, including amino-acid transport and mTOR-linked nutrient sensing, may also be required by newly activated antitumor T cells. LAT1/SLC7A5 provides a particularly instructive example because it supports large neutral amino-acid uptake in both malignant cells and activated cytotoxic lymphocytes. We argue that metabolic interventions should therefore be judged by a vaccine-specific metabolic therapeutic index, not by tumor-cell growth inhibition alone. The most rational combinations will exploit differences in metabolic plasticity, cellular selectivity, anatomical compartment, and treatment timing. Incorporating metabolic biomarkers into vaccine trials could shift cancer vaccination from an antigen-centric intervention toward a metabolically engineered immune response.",
-      "journal": "Vaccines",
-      "year": "2026",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ]
-    },
-    {
-      "pmid": "43076068",
-      "doi": "10.4045/tidsskr.26.0325",
-      "title": "Patients with acromegaly who underwent surgery at Haukeland University Hospital, 2015-2024.",
-      "abstract": "Acromegaly is a rare disease. The aim of this study was to describe the clinical characteristics, course of treatment and outcomes of patients who underwent surgery for acromegaly at Haukeland University Hospital in the period 2015-2024. A retrospective review of medical records of patients who underwent surgery for acromegaly between 1.\u00a0January 2015 and 31\u00a0December 2024. A total of 23 patients were included in the study, 11 of whom were women (48\u00a0%). The median age at diagnosis was 60 years (range 26-81). Macroadenomas were identified in 17 patients (74\u00a0%). Six patients (26\u00a0%) were in remission at the 3-month follow-up after primary surgery. At the last follow-up, after a median of 70 months (range 7-126), nine patients (39\u00a0%) were in remission. Fourteen patients received further treatment in the form of pharmacotherapy, repeat surgery and/or radiotherapy. Acromegaly is a rare disease, and the high proportion of macroadenomas suggests late diagnosis. Many patients do not achieve remission after surgery and require further treatment to control the disease.",
-      "journal": "Tidsskrift for den Norske laegeforening : tidsskrift for praktisk medicin, ny raekke",
-      "year": "2026",
-      "publication_types": [
         "Journal Article"
       ]
     }
